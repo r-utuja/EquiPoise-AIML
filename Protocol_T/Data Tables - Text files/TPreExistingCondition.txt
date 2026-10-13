@@ -1,0 +1,4986 @@
+RecID|PtID|MCPrefTerm|PreExistDuration|PreExistMedCurr
+2186|776|Diabetes mellitus|>=20yr|Yes
+2187|776|Hypertension|1yr-<5yr|Yes
+2188|776|Hypercholesterolaemia|5yr-<10yr|Yes
+2189|776|Sleep apnoea syndrome|1yr-<5yr|Yes
+2190|776|Vitamin D deficiency|1yr-<5yr|Yes
+2655|776|Anxiety|5yr-<10yr|Yes
+5328|776|Vitreous detachment|5yr-<10yr|No
+5361|776|Cerumen impaction|10yr-<20yr|No
+2232|391|Diabetes mellitus|5yr-<10yr|Yes
+2233|391|Cardiac failure congestive|5yr-<10yr|Yes
+2234|391|Intervertebral disc degeneration|10yr-<20yr|No
+2235|391|Gout|5yr-<10yr|Yes
+2236|391|Hypothyroidism|>=20yr|Yes
+2237|391|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+2238|391|Osteoporosis|10yr-<20yr|Yes
+2239|391|Muscle spasms|10yr-<20yr|Yes
+2240|391|Hypertension|>=20yr|Yes
+2241|391|Hypokalaemia|>=20yr|No
+2242|391|Hypercholesterolaemia|>=20yr|Yes
+2243|391|Constipation|1yr-<5yr|Yes
+2666|391|Myocardial infarction|10yr-<20yr|No
+4905|391|Renal failure|5yr-<10yr|Yes
+4906|391|Atrial fibrillation|5yr-<10yr|No
+4922|391|Ischaemic cardiomyopathy|10yr-<20yr|No
+5360|391|Obesity|>=20yr|No
+2396|15|Diabetes mellitus|10yr-<20yr|Yes
+2397|15|Hypertension|6m-<12m|Yes
+2398|15|Hypercholesterolaemia|1yr-<5yr|Yes
+2400|15|Diabetic neuropathy|1yr-<5yr|Yes
+4964|15|Sleep apnoea syndrome|10yr-<20yr|No
+4965|15|Arthralgia|1yr-<5yr|No
+5188|15|Back pain|3m-<6m|No
+5247|15|Onychomycosis|1yr-<5yr|No
+5310|15|Microalbuminuria|<=30d|No
+5367|15|Carpal tunnel syndrome|5yr-<10yr|No
+5369|15|Lumbar spinal stenosis|1yr-<5yr|No
+1412|420|Hypertension|1yr-<5yr|Yes
+1413|420|Diabetes mellitus|5yr-<10yr|Yes
+4681|420|Retinal detachment|1yr-<5yr|No
+4790|420|Onychomycosis|1yr-<5yr|Yes
+5499|420|Keratopathy|1yr-<5yr|No
+1416|41|Diabetes mellitus|10yr-<20yr|Yes
+1417|41|Hypercholesterolaemia|6m-<12m|Yes
+5159|41|Seasonal allergy|>=20yr|No
+5305|41|Rhinitis allergic|1yr-<5yr|No
+5404|41|Irritable bowel syndrome|10yr-<20yr|No
+5405|41|Diabetic neuropathy|1yr-<5yr|No
+5406|41|Osteoarthritis|5yr-<10yr|No
+1466|188|Hypertension|6m-<12m|Yes
+1467|188|Diabetes mellitus|10yr-<20yr|Yes
+1480|179|Diabetes mellitus|>=20yr|Yes
+1730|179|Hypercholesterolaemia|1yr-<5yr|Yes
+5409|179|Dyspepsia|6m-<12m|No
+1492|125|Hypertension|10yr-<20yr|Yes
+1493|125|Asthma|10yr-<20yr|Yes
+1494|125|Hypercholesterolaemia|1yr-<5yr|Yes
+1556|125|Hypothyroidism|1yr-<5yr|Yes
+1785|125|Transient ischaemic attack|1yr-<5yr|No
+4829|125|Seasonal allergy|5yr-<10yr|Yes
+1557|112|Hypertension|6m-<12m|Yes
+1685|112|Hypercholesterolaemia|6m-<12m|Yes
+1686|112|Depression|3m-<6m|Yes
+4013|112|Back pain|5yr-<10yr|Yes
+4892|112|Breast cancer|>1m-<3m|Yes
+5485|112|Seasonal allergy|10yr-<20yr|Yes
+1623|505|Osteoporosis|5yr-<10yr|Yes
+1624|505|Hypertension|10yr-<20yr|Yes
+5425|505|Cardiac murmur|10yr-<20yr|No
+5426|505|Arthritis|1yr-<5yr|No
+5492|505|Anaemia|10yr-<20yr|No
+5493|505|Renal failure chronic|10yr-<20yr|No
+1875|559|Hypercholesterolaemia|1yr-<5yr|Yes
+1956|281|Hypertension|5yr-<10yr|Yes
+1957|281|Hypercholesterolaemia|5yr-<10yr|Yes
+5454|281|Renal failure|5yr-<10yr|No
+2023|172|Hypertension|3m-<6m|Yes
+2519|193|Hypertension|>1m-<3m|Yes
+2520|193|Hypercholesterolaemia|>1m-<3m|Yes
+2801|644|Hypercholesterolaemia|1yr-<5yr|Yes
+2802|644|Hypertension|1yr-<5yr|Yes
+2842|644|Gastrooesophageal reflux disease|>1m-<3m|Yes
+5461|644|Hypertensive heart disease|1yr-<5yr|No
+3071|500|Migraine|10yr-<20yr|Yes
+3072|500|Hypertension|10yr-<20yr|Yes
+5130|500|Optic ischaemic neuropathy|<=30d|No
+5414|500|Depression|3m-<6m|No
+5415|500|Hyperlipidaemia|1yr-<5yr|No
+5416|500|Renal failure chronic|1yr-<5yr|No
+5505|500|Proteinuria|1yr-<5yr|No
+5506|500|Anaemia|1yr-<5yr|No
+5507|500|Carpal tunnel syndrome|10yr-<20yr|No
+5508|500|Cyst|>1m-<3m|No
+5509|500|Neoplasm malignant|10yr-<20yr|No
+5510|500|Diabetic neuropathy|1yr-<5yr|No
+3442|132|Hypertension|<=30d|Yes
+5488|132|Hypercholesterolaemia|5yr-<10yr|Yes
+5489|132|Seasonal allergy|5yr-<10yr|No
+3236|494|Hypertension|1yr-<5yr|Yes
+3237|494|Hypercholesterolaemia|1yr-<5yr|No
+3366|173|Hypertension|1yr-<5yr|Yes
+3367|173|Anxiety|1yr-<5yr|Yes
+3368|173|Neuropathy peripheral|1yr-<5yr|Yes
+3712|173|Fall|>1m-<3m|No
+3589|390|Hypertension|1yr-<5yr|Yes
+3591|390|Hypercholesterolaemia|1yr-<5yr|Yes
+4403|111|Diabetic neuropathy|<=30d|Yes
+4404|111|Seasonal allergy|>=20yr|No
+4492|111|Hypertension|1yr-<5yr|Yes
+4493|111|Renal failure chronic|1yr-<5yr|No
+5173|111|Cataract|1yr-<5yr|No
+4521|650|Hypertension|>=20yr|Yes
+4522|650|Asthma|10yr-<20yr|No
+4523|650|Bipolar disorder|10yr-<20yr|Yes
+4524|650|Post-traumatic stress disorder|>=20yr|Yes
+4525|650|Diabetic neuropathy|10yr-<20yr|Yes
+4526|650|Sleep apnoea syndrome|10yr-<20yr|No
+4527|650|Hypercholesterolaemia|5yr-<10yr|Yes
+4529|650|Arthralgia|5yr-<10yr|Yes
+4530|650|Cardiomyopathy|6m-<12m|Yes
+4531|650|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+4532|650|Seasonal allergy|1yr-<5yr|Yes
+4540|650|Cerebrovascular accident|1yr-<5yr|No
+4541|650|Acute coronary syndrome|3m-<6m|No
+5115|650|Gastric ulcer|10yr-<20yr|Yes
+4658|78|Hypertension|6m-<12m|Yes
+4659|78|Diabetic neuropathy|6m-<12m|No
+4660|78|Seasonal allergy|1yr-<5yr|No
+2420|564|Hyperlipidaemia|5yr-<10yr|No
+2421|564|Hypertension|5yr-<10yr|Yes
+2422|564|Diabetic retinopathy|1yr-<5yr|No
+2423|564|Vitreous haemorrhage|5yr-<10yr|No
+2424|564|Obesity|5yr-<10yr|No
+2425|564|Sleep apnoea syndrome|1yr-<5yr|Yes
+2426|564|Skin ulcer|1yr-<5yr|No
+2427|564|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+5520|471|Diabetes mellitus|>=20yr|Yes
+5521|471|Renal atrophy|1yr-<5yr|Yes
+5522|471|Hypertension|1yr-<5yr|Yes
+5536|785|Hypercholesterolaemia|1yr-<5yr|Yes
+5537|785|Diabetes mellitus|5yr-<10yr|Yes
+5538|785|Depression|1yr-<5yr|Yes
+3081|669|Diabetes mellitus|1yr-<5yr|Yes
+3082|669|Hypertension|1yr-<5yr|Yes
+4240|303|Diabetes mellitus|>=20yr|Yes
+4241|303|Hypertension|>=20yr|Yes
+1972|742|Dehydration|5yr-<10yr|No
+1974|742|Asthma|1yr-<5yr|No
+1975|742|Hypertension|1yr-<5yr|Yes
+1976|742|Coronary artery disease|1yr-<5yr|Yes
+1977|742|Diabetic foot|1yr-<5yr|No
+1978|742|Leg amputation|1yr-<5yr|No
+1979|742|Neuropathy peripheral|1yr-<5yr|No
+1980|742|Myocardial infarction|1yr-<5yr|No
+1981|742|Pericarditis|1yr-<5yr|No
+1982|742|Hyperglycaemia|1yr-<5yr|No
+1983|742|Osteomyelitis|1yr-<5yr|No
+1984|742|Diabetes mellitus|1yr-<5yr|Yes
+1985|742|Chronic obstructive pulmonary disease|1yr-<5yr|No
+1986|742|Depression|1yr-<5yr|No
+1987|742|Hypoglycaemia|1yr-<5yr|No
+1988|742|Cellulitis|1yr-<5yr|No
+1989|742|Vitreous detachment|1yr-<5yr|No
+1990|742|Renal failure chronic|1yr-<5yr|Yes
+1991|742|Gastrooesophageal reflux disease|1yr-<5yr|No
+1992|742|Staphylococcal infection|1yr-<5yr|No
+1993|742|Dementia|1yr-<5yr|No
+1998|742|Glaucoma|1yr-<5yr|No
+1999|742|Insomnia|1yr-<5yr|No
+2000|742|Hyperlipidaemia|1yr-<5yr|Yes
+2001|742|Pneumonia|>1m-<3m|No
+2002|742|Anaemia|>1m-<3m|Yes
+2003|742|Pulmonary embolism|>1m-<3m|No
+2570|61|Haemorrhagic stroke|10yr-<20yr|No
+2571|61|Diabetes mellitus|10yr-<20yr|Yes
+2572|61|Depression|10yr-<20yr|No
+2573|61|Hypertension|10yr-<20yr|Yes
+2574|61|Cellulitis|5yr-<10yr|No
+2575|61|Oedema peripheral|5yr-<10yr|Yes
+2576|61|Bursitis|5yr-<10yr|No
+2577|61|Osteoarthritis|5yr-<10yr|No
+2578|61|Intervertebral disc degeneration|5yr-<10yr|No
+2579|61|Obesity|1yr-<5yr|No
+2580|61|Onychomycosis|1yr-<5yr|No
+2581|61|Renal failure chronic|1yr-<5yr|No
+2582|61|Vitamin D deficiency|1yr-<5yr|No
+2583|61|Chest pain|1yr-<5yr|Yes
+2584|61|Seasonal allergy|1yr-<5yr|No
+2585|61|Diabetic neuropathy|3m-<6m|No
+2586|61|Peripheral vascular disorder|3m-<6m|No
+3290|168|Diabetic retinal oedema|10yr-<20yr|Yes
+3291|168|Diabetes mellitus|10yr-<20yr|Yes
+3304|168|Hypertension|>=20yr|Yes
+3305|168|Hyperlipidaemia|10yr-<20yr|Yes
+3306|168|Osteoarthritis|5yr-<10yr|No
+3307|168|Seasonal allergy|5yr-<10yr|Yes
+3308|168|Coronary artery disease|1yr-<5yr|No
+3309|168|Angina pectoris|1yr-<5yr|No
+3310|168|Renal cancer|1yr-<5yr|No
+3311|168|Renal failure chronic|1yr-<5yr|No
+3312|168|Actinic keratosis|1yr-<5yr|No
+3709|168|Skin papilloma|1yr-<5yr|No
+3730|168|Vitreous floaters|10yr-<20yr|No
+4465|168|Vitreous detachment|3m-<6m|No
+2701|134|Diabetes mellitus|10yr-<20yr|Yes
+3025|134|Urinary incontinence|1yr-<5yr|Yes
+3026|134|Hypercholesterolaemia|1yr-<5yr|Yes
+3027|134|Hypertension|1yr-<5yr|Yes
+3028|134|Insomnia|1yr-<5yr|Yes
+4592|134|Rheumatoid arthritis|10yr-<20yr|Yes
+4265|815|Coronary artery disease|10yr-<20yr|No
+4266|815|Diabetes mellitus|10yr-<20yr|Yes
+4968|815|Gout|1yr-<5yr|Yes
+4969|815|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4970|815|Hypercholesterolaemia|10yr-<20yr|Yes
+5160|815|Cholecystitis chronic|1yr-<5yr|No
+933|35|Hypertension|1yr-<5yr|Yes
+934|35|Diabetes mellitus|1yr-<5yr|Yes
+939|35|Cataract|1yr-<5yr|No
+940|35|Diabetic retinopathy|1yr-<5yr|No
+941|35|Macular ischaemia|1yr-<5yr|No
+1361|35|Eye pain|1yr-<5yr|No
+1362|35|Transient ischaemic attack|5yr-<10yr|No
+1363|35|Epistaxis|>=20yr|No
+1735|35|Arthralgia|5yr-<10yr|No
+1736|35|Hypoaesthesia|5yr-<10yr|No
+1737|35|Pain|5yr-<10yr|No
+1738|35|Back pain|5yr-<10yr|No
+1739|35|Hypercholesterolaemia|10yr-<20yr|No
+1740|35|Hemiparesis|5yr-<10yr|No
+1741|35|Diabetic retinal oedema|3m-<6m|No
+1742|35|Paraesthesia|5yr-<10yr|No
+1744|35|Cataract nuclear|1yr-<5yr|No
+5194|35|Chest discomfort|1yr-<5yr|No
+5195|35|Dyspnoea|1yr-<5yr|No
+5269|35|Gout|5yr-<10yr|No
+1089|192|Hypertension|6m-<12m|Yes
+1091|192|Diabetic retinopathy|1yr-<5yr|No
+1108|192|Cardiomyopathy|6m-<12m|No
+1109|192|Renal failure chronic|6m-<12m|Yes
+1110|192|Osteoarthritis|5yr-<10yr|Yes
+1441|192|Diabetes mellitus|5yr-<10yr|Yes
+1475|192|Vitamin D deficiency|6m-<12m|Yes
+1745|192|Hypocalcaemia|6m-<12m|Yes
+1746|192|Diabetic retinal oedema|3m-<6m|No
+2667|192|Dyspnoea|6m-<12m|No
+5268|192|Hyperlipidaemia|1yr-<5yr|No
+1449|636|Hypertension|5yr-<10yr|Yes
+1450|636|Coronary artery disease|5yr-<10yr|Yes
+1548|636|Angina pectoris|1yr-<5yr|Yes
+1549|636|Vitamin D deficiency|5yr-<10yr|Yes
+1550|636|Hypercholesterolaemia|5yr-<10yr|Yes
+1551|636|Coronary artery bypass|5yr-<10yr|No
+1552|636|Hypothyroidism|10yr-<20yr|Yes
+1553|636|Prostatomegaly|1yr-<5yr|Yes
+1554|636|Diabetes mellitus|>=20yr|Yes
+1555|636|Diabetic retinal oedema|5yr-<10yr|Yes
+1830|687|Hypertension|>=20yr|Yes
+1831|687|Diabetes mellitus|>=20yr|Yes
+2005|687|Diabetic retinopathy|>1m-<3m|No
+2006|687|Diabetic retinal oedema|3m-<6m|No
+2008|687|Cataract cortical|3m-<6m|No
+4846|323|Diabetes mellitus|>=20yr|Yes
+4959|323|Hypertension|1yr-<5yr|Yes
+4960|323|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4961|323|Hypercholesterolaemia|1yr-<5yr|Yes
+4962|323|Thrombocytopenia|1yr-<5yr|No
+431|718|Hypertension|1yr-<5yr|Yes
+432|718|Hypercholesterolaemia|5yr-<10yr|Yes
+433|718|Diabetes mellitus|10yr-<20yr|Yes
+434|718|Rheumatoid arthritis|6m-<12m|Yes
+435|718|Rhinitis allergic|10yr-<20yr|Yes
+4947|718|Vitreous detachment|1yr-<5yr|No
+4948|718|Dry eye|5yr-<10yr|Yes
+5174|718|Microalbuminuria|<=30d|No
+5387|718|Retinal detachment|5yr-<10yr|No
+442|222|Hypertension|1yr-<5yr|Yes
+443|222|Diabetes mellitus|1yr-<5yr|Yes
+444|222|Hypercholesterolaemia|1yr-<5yr|Yes
+1546|222|Skin ulcer|6m-<12m|No
+2934|222|Arrhythmia|1yr-<5yr|Yes
+5176|222|Microalbuminuria|<=30d|No
+5388|222|Vitreous detachment|1yr-<5yr|No
+452|662|Diabetes mellitus|10yr-<20yr|Yes
+453|662|Hypercholesterolaemia|>=20yr|Yes
+455|662|Gout|10yr-<20yr|Yes
+531|662|Prostatomegaly|10yr-<20yr|Yes
+532|662|Hypertension|>=20yr|Yes
+533|662|Fluid retention|1yr-<5yr|Yes
+534|662|Obesity|>=20yr|Yes
+535|662|Rhinitis allergic|1yr-<5yr|Yes
+536|662|Conjunctivitis allergic|1yr-<5yr|Yes
+537|662|Erectile dysfunction|1yr-<5yr|Yes
+1117|662|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4949|662|Skin injury|<=30d|No
+5392|662|Osteoarthritis|10yr-<20yr|No
+5393|662|Vitreous detachment|5yr-<10yr|No
+5400|662|Neuropathy peripheral|5yr-<10yr|No
+5401|662|Thrombosis|5yr-<10yr|No
+5402|662|Cardiac failure congestive|5yr-<10yr|Yes
+5403|662|Transfusion|5yr-<10yr|No
+2197|844|Diabetes mellitus|1yr-<5yr|Yes
+2198|844|Osteoarthritis|1yr-<5yr|No
+2199|844|Hypertension|1yr-<5yr|Yes
+2200|844|Deafness|1yr-<5yr|No
+2495|844|Depression|1yr-<5yr|Yes
+2496|844|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+2497|844|Neuropathy peripheral|1yr-<5yr|Yes
+2498|844|Arthralgia|1yr-<5yr|Yes
+4650|844|Dry eye|1yr-<5yr|Yes
+5394|844|Vitreous detachment|1yr-<5yr|No
+5395|844|Hyalosis asteroid|1yr-<5yr|No
+3087|81|Diabetes mellitus|10yr-<20yr|Yes
+3088|81|Coronary artery disease|>=20yr|Yes
+3089|81|Hypercholesterolaemia|1yr-<5yr|Yes
+3212|81|Depression|1yr-<5yr|Yes
+3213|81|Hypertension|1yr-<5yr|Yes
+5063|81|Diabetic retinal oedema|5yr-<10yr|Yes
+5178|81|Microalbuminuria|<=30d|No
+5396|81|Vitreous detachment|1yr-<5yr|No
+3125|137|Diabetes mellitus|10yr-<20yr|Yes
+3131|137|Hypertension|3m-<6m|Yes
+3151|137|Toe amputation|6m-<12m|No
+3172|137|Gastrooesophageal reflux disease|3m-<6m|Yes
+4324|335|Diabetes mellitus|1yr-<5yr|Yes
+4325|335|Hypertension|1yr-<5yr|Yes
+4326|335|Surgery|1yr-<5yr|No
+5264|335|Flat anterior chamber of eye|<=30d|No
+4780|87|Ischaemic stroke|1yr-<5yr|Yes
+4805|87|Diabetes mellitus|10yr-<20yr|Yes
+4806|87|Hypertension|5yr-<10yr|Yes
+4807|87|Hypercholesterolaemia|5yr-<10yr|Yes
+4808|87|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+4809|87|Neoplasm malignant|10yr-<20yr|No
+4810|87|Plantar fasciitis|5yr-<10yr|No
+4811|87|Dupuytren's contracture|5yr-<10yr|No
+4812|87|Gastric ulcer|1yr-<5yr|No
+4942|87|Neuropathy peripheral|10yr-<20yr|Yes
+5064|87|Hypokalaemia|>1m-<3m|No
+5065|87|Pancreatitis|>1m-<3m|No
+5066|87|Peptic ulcer|<=30d|Yes
+5067|87|Obesity|<=30d|No
+5175|87|Microalbuminuria|<=30d|No
+4903|532|Diabetes mellitus|1yr-<5yr|Yes
+4904|532|Hypertension|1yr-<5yr|Yes
+4907|532|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4935|532|Fibromyalgia|>=20yr|No
+4936|532|Cholecystectomy|>=20yr|No
+4937|532|Muscle strain|10yr-<20yr|No
+4938|532|Varicose vein|1yr-<5yr|No
+5192|532|Dry eye|1yr-<5yr|Yes
+281|46|Hypertension|10yr-<20yr|Yes
+282|46|Diabetes mellitus|10yr-<20yr|Yes
+283|46|Hypercholesterolaemia|10yr-<20yr|Yes
+1955|46|Cataract|6m-<12m|No
+1964|46|Corneal disorder|6m-<12m|No
+1965|46|Strabismus|6m-<12m|No
+349|563|Hyperlipidaemia|10yr-<20yr|Yes
+350|563|Hypertension|10yr-<20yr|Yes
+351|563|Diabetes mellitus|10yr-<20yr|Yes
+352|563|Hyperthyroidism|10yr-<20yr|Yes
+788|659|Hypertension|>1m-<3m|Yes
+789|659|Diabetes mellitus|10yr-<20yr|Yes
+1616|462|Diabetes mellitus|>1m-<3m|Yes
+1617|462|Skin cancer|5yr-<10yr|No
+1619|462|Hypertension|6m-<12m|No
+1620|462|Appendicitis|>=20yr|No
+1621|462|Plantar fasciitis|1yr-<5yr|Yes
+1622|462|Seasonal allergy|1yr-<5yr|Yes
+1633|462|Pain in extremity|3m-<6m|No
+1634|462|Toe amputation|3m-<6m|No
+2748|22|Diabetes mellitus|10yr-<20yr|Yes
+2749|22|Hypertension|10yr-<20yr|Yes
+2750|22|Hypercholesterolaemia|10yr-<20yr|Yes
+4094|22|Cataract cortical|6m-<12m|No
+1256|321|Colon cancer|1yr-<5yr|No
+1257|321|Hypertension|5yr-<10yr|Yes
+1258|321|Hypercholesterolaemia|10yr-<20yr|Yes
+1288|321|Diabetes mellitus|>=20yr|Yes
+1289|321|Blood potassium increased|1yr-<5yr|Yes
+1290|321|Neuropathy peripheral|5yr-<10yr|Yes
+1291|321|Atrial fibrillation|1yr-<5yr|Yes
+1292|321|Spinal column stenosis|1yr-<5yr|Yes
+1294|321|Diarrhoea|5yr-<10yr|Yes
+1305|321|Post herpetic neuralgia|1yr-<5yr|Yes
+5331|321|Non-Hodgkin's lymphoma|10yr-<20yr|No
+5502|321|Anaemia|1yr-<5yr|Yes
+1327|312|Diabetes mellitus|10yr-<20yr|Yes
+1345|312|Osteoarthritis|10yr-<20yr|Yes
+1347|312|Atrial fibrillation|1yr-<5yr|Yes
+1348|312|Hypothyroidism|1yr-<5yr|Yes
+1349|312|Hypercholesterolaemia|10yr-<20yr|Yes
+1350|312|Hypertension|10yr-<20yr|Yes
+1351|312|Drug hypersensitivity|10yr-<20yr|No
+1352|312|Myocardial infarction|6m-<12m|No
+1353|312|Microalbuminuria|3m-<6m|No
+1354|312|Coronary arterial stent insertion|6m-<12m|No
+1355|312|Obesity|1yr-<5yr|No
+1357|312|Diabetic neuropathy|1yr-<5yr|No
+1358|312|Diabetic gastroparesis|1yr-<5yr|No
+2320|312|Back pain|6m-<12m|Yes
+2321|312|Oedema peripheral|>1m-<3m|No
+4210|312|Asthma|5yr-<10yr|No
+4211|312|Affective disorder|1yr-<5yr|No
+1481|345|Diabetes mellitus|>=20yr|Yes
+1482|345|Vitamin D deficiency|1yr-<5yr|Yes
+1483|345|Hypothyroidism|6m-<12m|Yes
+1487|345|Hypercholesterolaemia|10yr-<20yr|Yes
+1488|345|Cardiac failure congestive|>=20yr|Yes
+1490|345|Renal failure|1yr-<5yr|No
+1515|345|Hypertension|>=20yr|Yes
+1516|345|Myocardial infarction|>=20yr|No
+1517|345|Coronary artery bypass|>=20yr|No
+1518|345|Atrial fibrillation|>1m-<3m|No
+1519|345|Implantable defibrillator insertion|10yr-<20yr|No
+1520|345|Arteriosclerosis coronary artery|10yr-<20yr|Yes
+1642|745|Diabetes mellitus|10yr-<20yr|Yes
+1643|745|Hypertension|>=20yr|Yes
+1644|745|Localised infection|6m-<12m|No
+1645|745|Hypercholesterolaemia|>=20yr|Yes
+1646|745|Myocardial infarction|5yr-<10yr|No
+1647|745|Coronary arterial stent insertion|5yr-<10yr|No
+1648|745|Neuropathy peripheral|5yr-<10yr|No
+1650|745|Toe amputation|1yr-<5yr|No
+1654|745|Drug hypersensitivity|>=20yr|No
+1684|386|Diabetes mellitus|10yr-<20yr|Yes
+1700|386|Hypercholesterolaemia|10yr-<20yr|Yes
+1701|386|Prostatomegaly|1yr-<5yr|No
+1702|386|Erectile dysfunction|1yr-<5yr|Yes
+1703|386|Obesity|5yr-<10yr|No
+1704|386|Intervertebral disc protrusion|1yr-<5yr|Yes
+2272|386|Proteinuria|1yr-<5yr|No
+1796|129|Hypercholesterolaemia|10yr-<20yr|Yes
+2036|129|Hypertension|10yr-<20yr|Yes
+3539|129|Depression|10yr-<20yr|Yes
+3540|129|Prostatomegaly|5yr-<10yr|No
+3541|129|Sleep apnoea syndrome|5yr-<10yr|No
+3542|129|Deafness|5yr-<10yr|No
+3543|129|Obesity|1yr-<5yr|No
+3544|129|Diabetes mellitus|10yr-<20yr|Yes
+5133|129|Trigger finger|5yr-<10yr|No
+5134|129|Erectile dysfunction|10yr-<20yr|No
+5135|129|Peripheral vascular disorder|5yr-<10yr|No
+5151|129|Vitreous floaters|1yr-<5yr|No
+5348|129|Coronary artery disease|6m-<12m|No
+5463|129|Corneal oedema|<=30d|Yes
+5469|129|Diabetic neuropathy|6m-<12m|No
+2251|110|Diabetes mellitus|>=20yr|Yes
+2253|110|Hypertension|>=20yr|Yes
+2290|110|Dry eye|>=20yr|Yes
+2292|110|Proteinuria|>=20yr|No
+2293|110|Myocardial infarction|5yr-<10yr|No
+2294|110|Coronary artery bypass|5yr-<10yr|No
+2295|110|Anaemia of chronic disease|5yr-<10yr|Yes
+2296|110|Hypercholesterolaemia|10yr-<20yr|Yes
+2297|110|Colitis ischaemic|6m-<12m|Yes
+2298|110|Seasonal allergy|>=20yr|Yes
+2299|110|Vitamin D deficiency|5yr-<10yr|Yes
+2300|110|Spinal column stenosis|10yr-<20yr|No
+2301|110|Surgery|6m-<12m|No
+2302|110|Neuropathy peripheral|>=20yr|No
+2303|110|Prostate cancer|1yr-<5yr|No
+2304|110|Arteriosclerosis coronary artery|5yr-<10yr|Yes
+2305|110|Hyperkalaemia|10yr-<20yr|Yes
+2545|110|Nephropathy|1yr-<5yr|No
+2331|612|Diabetes mellitus|5yr-<10yr|Yes
+2332|612|Haemochromatosis|10yr-<20yr|No
+2333|612|Attention deficit/hyperactivity disorder|>=20yr|Yes
+2334|612|Hypercholesterolaemia|5yr-<10yr|Yes
+2335|612|Neuropathy peripheral|5yr-<10yr|No
+2336|612|Proteinuria|5yr-<10yr|No
+2338|612|Seasonal allergy|10yr-<20yr|Yes
+2339|612|Eye irritation|10yr-<20yr|Yes
+5445|612|Dupuytren's contracture|1yr-<5yr|No
+2632|178|Diabetes mellitus|>=20yr|Yes
+2633|178|Glaucoma|10yr-<20yr|Yes
+2634|178|Carpal tunnel syndrome|1yr-<5yr|No
+2635|178|Hypercholesterolaemia|10yr-<20yr|Yes
+2636|178|Hypertension|>=20yr|Yes
+2935|25|Diabetes mellitus|10yr-<20yr|Yes
+2936|25|Hypertension|1yr-<5yr|Yes
+2945|25|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+2946|25|Neuropathy peripheral|6m-<12m|No
+2947|25|Asthma|10yr-<20yr|Yes
+2948|25|Obesity|10yr-<20yr|No
+2949|25|Hypercholesterolaemia|10yr-<20yr|Yes
+2950|25|Anxiety|10yr-<20yr|Yes
+2951|25|Erectile dysfunction|1yr-<5yr|No
+3440|25|Hyperkeratosis|1yr-<5yr|No
+5211|25|Arthritis|5yr-<10yr|No
+5296|25|Microalbuminuria|1yr-<5yr|No
+3184|690|Diabetes mellitus|10yr-<20yr|Yes
+3185|690|Hypertension|1yr-<5yr|Yes
+3186|690|Hypercholesterolaemia|1yr-<5yr|Yes
+3187|690|Upper limb fracture|1yr-<5yr|No
+3188|690|Trigger finger|>1m-<3m|No
+3189|690|Back pain|>=20yr|Yes
+3190|690|Constipation|5yr-<10yr|Yes
+3191|690|Vitamin D deficiency|>1m-<3m|Yes
+3192|690|Neuropathy peripheral|5yr-<10yr|Yes
+3491|657|Diabetes mellitus|>=20yr|Yes
+3493|657|Hypercholesterolaemia|1yr-<5yr|Yes
+3494|657|Hypertension|1yr-<5yr|Yes
+3495|657|Nephropathy|1yr-<5yr|Yes
+3496|657|Vitamin D deficiency|1yr-<5yr|Yes
+3704|333|Diabetes mellitus|5yr-<10yr|Yes
+3706|333|Arrhythmia|6m-<12m|No
+3707|333|Hypertension|5yr-<10yr|Yes
+3708|333|Neuropathy peripheral|1yr-<5yr|No
+5154|333|Hypercholesterolaemia|5yr-<10yr|No
+5172|333|Borderline glaucoma|>1m-<3m|No
+5224|333|Proteinuria|6m-<12m|No
+5329|333|Seasonal allergy|>=20yr|No
+3729|42|Trigger finger|5yr-<10yr|No
+5125|42|Type 2 diabetes mellitus|5yr-<10yr|Yes
+5126|42|Hypercholesterolaemia|5yr-<10yr|Yes
+5127|42|Benign breast neoplasm|1yr-<5yr|No
+5128|42|Back pain|5yr-<10yr|No
+5129|42|Obesity|5yr-<10yr|No
+5131|42|Asthma|5yr-<10yr|Yes
+5132|42|Pruritus|1yr-<5yr|Yes
+5136|42|Sensation of foreign body|1yr-<5yr|No
+5470|42|Anaemia|6m-<12m|No
+3855|418|Diabetes mellitus|>=20yr|Yes
+3858|418|Hypertension|10yr-<20yr|Yes
+3859|418|Neuropathy peripheral|10yr-<20yr|No
+3860|418|Obesity|>=20yr|No
+3861|418|Drug hypersensitivity|5yr-<10yr|No
+3919|522|Diabetes mellitus|>=20yr|Yes
+3920|522|Hypertension|>=20yr|Yes
+3921|522|Hypercholesterolaemia|>=20yr|Yes
+3923|522|Atrial fibrillation|1yr-<5yr|Yes
+3924|522|Cardiac failure congestive|1yr-<5yr|No
+3925|522|Coronary artery bypass|>=20yr|No
+3926|522|Microalbuminuria|5yr-<10yr|Yes
+3927|522|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+3928|522|Gout|>=20yr|Yes
+3929|522|Anaemia|10yr-<20yr|Yes
+5163|522|Rash|1yr-<5yr|No
+5212|522|Renal failure chronic|10yr-<20yr|No
+4011|705|Diabetes mellitus|10yr-<20yr|Yes
+4045|705|Hypertension|10yr-<20yr|Yes
+4046|705|Hypercholesterolaemia|10yr-<20yr|Yes
+4047|705|Neuropathy peripheral|5yr-<10yr|No
+4048|705|Nephropathy|1yr-<5yr|No
+4077|723|Diabetes mellitus|>=20yr|Yes
+4078|723|Hypercholesterolaemia|1yr-<5yr|No
+4079|723|Neuropathy peripheral|3m-<6m|No
+5171|723|Erectile dysfunction|6m-<12m|No
+4130|824|Diabetes mellitus|>=20yr|Yes
+4135|824|Hypertension|1yr-<5yr|Yes
+4136|824|Hypercholesterolaemia|1yr-<5yr|Yes
+4137|824|Spinal column stenosis|5yr-<10yr|Yes
+4243|107|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+4471|107|Haemorrhagic stroke|6m-<12m|No
+4472|107|Urinary retention|3m-<6m|No
+4473|107|Hypercholesterolaemia|5yr-<10yr|Yes
+4474|107|Hypertension|10yr-<20yr|Yes
+4475|107|Neoplasm malignant|10yr-<20yr|No
+4484|107|Brain malformation|>=20yr|No
+5137|107|Diabetic retinal oedema|5yr-<10yr|No
+5138|107|Cataract|1yr-<5yr|No
+5139|107|Obstructive airways disorder|6m-<12m|No
+4260|95|Diabetes mellitus|10yr-<20yr|Yes
+5116|95|Cataract|1yr-<5yr|No
+5117|95|Glaucoma|1yr-<5yr|Yes
+5118|95|Diabetic retinopathy|1yr-<5yr|No
+5119|95|Diabetic retinal oedema|1yr-<5yr|No
+5120|95|Hypertension|1yr-<5yr|Yes
+5121|95|Hypercholesterolaemia|1yr-<5yr|Yes
+5122|95|Diverticulum|1yr-<5yr|No
+5123|95|Pinguecula|1yr-<5yr|No
+5124|95|Erectile dysfunction|5yr-<10yr|Yes
+5380|95|Vitreous haemorrhage|<=30d|No
+5479|95|Hepatic steatosis|1yr-<5yr|No
+5480|95|Renal failure chronic|>1m-<3m|Yes
+4264|330|Diabetes mellitus|>=20yr|Yes
+4291|330|Hypertension|>=20yr|Yes
+4292|330|Hypercholesterolaemia|10yr-<20yr|Yes
+4293|330|Cardiac failure congestive|5yr-<10yr|No
+4294|330|Cardiomyopathy|10yr-<20yr|No
+4295|330|Obesity|>=20yr|No
+4296|330|Gastrooesophageal reflux disease|>=20yr|No
+4297|330|Constipation|>=20yr|No
+4298|330|Hernia|10yr-<20yr|No
+4299|330|Depression|1yr-<5yr|Yes
+4300|330|Drug hypersensitivity|>=20yr|No
+4321|330|Wheezing|10yr-<20yr|Yes
+4322|330|Osteoarthritis|10yr-<20yr|Yes
+4323|330|Pain in extremity|10yr-<20yr|Yes
+4704|330|Headache|5yr-<10yr|No
+35|220|Diabetes mellitus|10yr-<20yr|Yes
+36|220|Hypertension|5yr-<10yr|Yes
+37|220|Pain|1yr-<5yr|Yes
+1017|220|Osteoarthritis|1yr-<5yr|Yes
+1018|220|Photopsia|5yr-<10yr|No
+1019|220|Vitreous floaters|5yr-<10yr|No
+1020|220|Keratitis|6m-<12m|No
+1021|220|Diabetic retinopathy|6m-<12m|No
+1242|220|Vision blurred|6m-<12m|No
+4290|220|Diabetic retinal oedema|6m-<12m|No
+5319|220|Seasonal allergy|>=20yr|No
+46|65|Glaucoma|10yr-<20yr|Yes
+47|65|Diabetes mellitus|10yr-<20yr|Yes
+48|65|Hypertension|10yr-<20yr|Yes
+49|65|Hyperlipidaemia|10yr-<20yr|Yes
+573|65|Myocardial infarction|5yr-<10yr|No
+574|65|Vascular graft|5yr-<10yr|No
+953|65|Photopsia|1yr-<5yr|No
+954|65|Vitreous floaters|5yr-<10yr|No
+5373|65|Seasonal allergy|10yr-<20yr|No
+394|433|Diabetes mellitus|1yr-<5yr|Yes
+395|433|Hypertension|1yr-<5yr|Yes
+396|433|Ischaemic stroke|1yr-<5yr|No
+5225|433|Paraesthesia|1yr-<5yr|No
+5226|433|Back pain|1yr-<5yr|No
+5227|433|Fatigue|1yr-<5yr|No
+397|671|Diabetes mellitus|10yr-<20yr|Yes
+398|671|Hyperthyroidism|1yr-<5yr|Yes
+3347|671|Cataract subcapsular|6m-<12m|No
+5191|671|Seasonal allergy|5yr-<10yr|Yes
+5292|671|Fluid retention|1yr-<5yr|No
+575|50|Hypertension|10yr-<20yr|Yes
+576|50|Hypercholesterolaemia|10yr-<20yr|Yes
+577|50|Intervertebral disc protrusion|1yr-<5yr|Yes
+578|50|Diabetes mellitus|>=20yr|Yes
+1088|50|Coronary artery disease|1yr-<5yr|No
+2499|50|Vitreous floaters|1yr-<5yr|No
+5223|50|Arthralgia|1yr-<5yr|Yes
+5511|50|Seasonal allergy|10yr-<20yr|No
+1851|490|Diabetes mellitus inadequate control|5yr-<10yr|Yes
+1852|490|Hypertension|5yr-<10yr|Yes
+1853|490|Hypercholesterolaemia|5yr-<10yr|Yes
+5203|490|Heart rate irregular|5yr-<10yr|No
+5204|490|Dyspnoea|5yr-<10yr|No
+5205|490|Paraesthesia|5yr-<10yr|No
+2551|535|Rheumatoid arthritis|10yr-<20yr|No
+2552|535|Hyperthyroidism|10yr-<20yr|Yes
+2553|535|Herpes virus infection|10yr-<20yr|No
+2554|535|Asthma|>=20yr|No
+2555|535|Diabetes mellitus|>=20yr|Yes
+2556|535|Hypertension|10yr-<20yr|No
+2557|535|Cardiac failure congestive|1yr-<5yr|Yes
+2558|535|Vision blurred|6m-<12m|No
+2559|535|Vitreous floaters|1yr-<5yr|No
+2560|535|Eyelid ptosis|1yr-<5yr|No
+2561|535|Foot fracture|6m-<12m|No
+5316|535|Seasonal allergy|10yr-<20yr|Yes
+5535|535|Hyperlipidaemia|5yr-<10yr|Yes
+2678|304|Diabetes mellitus|10yr-<20yr|Yes
+2679|304|Pneumonia|10yr-<20yr|No
+2680|304|Osteoarthritis|10yr-<20yr|No
+2681|304|Gastric ulcer|10yr-<20yr|No
+5048|304|Vision blurred|1yr-<5yr|No
+5222|304|Headache|>1m-<3m|No
+5460|304|Sleep apnoea syndrome|1yr-<5yr|No
+1705|487|Hypertension|1yr-<5yr|Yes
+5114|487|Cataract|3m-<6m|No
+1922|834|Rhinitis allergic|1yr-<5yr|No
+1923|834|Hypertension|1yr-<5yr|No
+1924|834|Pneumothorax|1yr-<5yr|No
+1925|834|Dyspnoea|1yr-<5yr|No
+1926|834|Cough|1yr-<5yr|No
+1927|834|Nephropathy|1yr-<5yr|No
+1928|834|Hydronephrosis|1yr-<5yr|No
+1929|834|Shoulder operation|1yr-<5yr|No
+1930|834|Musculoskeletal pain|1yr-<5yr|Yes
+1931|834|Hypercholesterolaemia|1yr-<5yr|Yes
+1933|834|Diabetes mellitus|1yr-<5yr|Yes
+1934|834|Diabetic retinal oedema|1yr-<5yr|No
+1935|834|Vitamin D deficiency|1yr-<5yr|Yes
+1936|834|Obesity|1yr-<5yr|No
+1937|834|Migraine|>=20yr|Yes
+5108|834|Depression|10yr-<20yr|No
+2028|621|Hypertension|10yr-<20yr|Yes
+2029|621|Depression|10yr-<20yr|Yes
+2030|621|Diabetes mellitus|10yr-<20yr|Yes
+2031|621|Hyperlipidaemia|5yr-<10yr|Yes
+2033|621|Intervertebral disc protrusion|5yr-<10yr|No
+2034|621|Cholecystectomy|10yr-<20yr|No
+3080|621|Restless legs syndrome|6m-<12m|No
+5183|621|Diabetic retinal oedema|6m-<12m|Yes
+5263|621|Anxiety|>=20yr|No
+3214|625|Atrial fibrillation|1yr-<5yr|Yes
+3216|625|Hypertension|5yr-<10yr|Yes
+3217|625|Oedema peripheral|1yr-<5yr|Yes
+3218|625|Renal failure chronic|1yr-<5yr|No
+3219|625|Aortic aneurysm|1yr-<5yr|No
+3222|625|Nasal congestion|1yr-<5yr|Yes
+3227|625|Diabetes mellitus|>=20yr|Yes
+4609|625|Trichiasis|1yr-<5yr|No
+4613|625|Musculoskeletal pain|1yr-<5yr|No
+3587|280|Neuralgia|1yr-<5yr|Yes
+3588|280|Hypertension|1yr-<5yr|Yes
+3590|280|Hypercholesterolaemia|6m-<12m|Yes
+3592|280|Urinary tract infection|3m-<6m|Yes
+3593|280|Diabetes mellitus|1yr-<5yr|Yes
+3667|393|Hypertension|5yr-<10yr|Yes
+3668|393|Sleep apnoea syndrome|1yr-<5yr|Yes
+3669|393|Microalbuminuria|6m-<12m|No
+3670|393|Depression|6m-<12m|Yes
+3671|393|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+3672|393|Hyperlipidaemia|1yr-<5yr|Yes
+5182|393|Diabetic retinal oedema|<=30d|Yes
+5289|393|Cataract|1yr-<5yr|No
+4549|551|Diabetes mellitus inadequate control|5yr-<10yr|Yes
+4550|551|Glaucoma|10yr-<20yr|Yes
+4551|551|Hypercholesterolaemia|>=20yr|No
+4552|551|Hypertension|>=20yr|Yes
+4553|551|Surgery|>=20yr|No
+4773|630|Lymphoma|5yr-<10yr|No
+4774|630|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+4775|630|Hypertension|>=20yr|Yes
+4776|630|Peripheral vascular disorder|5yr-<10yr|Yes
+4861|630|Pancreatitis|>=20yr|Yes
+4862|630|Neurogenic bladder|>=20yr|Yes
+4863|630|Neuropathy peripheral|>=20yr|No
+4864|630|Back pain|>=20yr|No
+4865|630|Seasonal allergy|>=20yr|Yes
+4866|630|Cholecystectomy|>=20yr|No
+4867|630|Surgery|>=20yr|Yes
+4868|630|Hysterectomy|>=20yr|No
+4869|630|Tonsillectomy|>=20yr|No
+4870|630|Coronary angioplasty|>=20yr|No
+4871|630|Arterial bypass operation|>=20yr|No
+4872|630|Cystitis|>=20yr|Yes
+252|20|Diabetes mellitus|1yr-<5yr|Yes
+253|20|Hypertension|1yr-<5yr|Yes
+254|20|Vitreous detachment|1yr-<5yr|No
+255|20|Diabetic retinal oedema|1yr-<5yr|No
+256|20|Cataract nuclear|1yr-<5yr|No
+257|20|Macular fibrosis|1yr-<5yr|No
+111|538|Diabetes mellitus|10yr-<20yr|Yes
+112|538|Hypertension|6m-<12m|Yes
+126|489|Diabetes mellitus|10yr-<20yr|Yes
+127|489|Migraine|5yr-<10yr|No
+128|489|Hypertension|10yr-<20yr|Yes
+129|489|Hypothyroidism|5yr-<10yr|Yes
+130|489|Asthma|5yr-<10yr|Yes
+131|489|Hypercholesterolaemia|5yr-<10yr|Yes
+132|489|Seasonal allergy|>=20yr|Yes
+133|489|Cardiac failure congestive|5yr-<10yr|Yes
+134|489|Rheumatoid arthritis|5yr-<10yr|Yes
+135|489|Fibromyalgia|5yr-<10yr|Yes
+136|489|Insomnia|1yr-<5yr|Yes
+137|489|Autoimmune thyroiditis|>=20yr|No
+138|489|Psoriasis|1yr-<5yr|Yes
+139|489|Osteoarthritis|5yr-<10yr|Yes
+140|489|Transient ischaemic attack|1yr-<5yr|No
+214|254|Diabetes mellitus|5yr-<10yr|Yes
+215|254|Asthma|5yr-<10yr|Yes
+216|254|Hypertension|1yr-<5yr|Yes
+5210|254|Obesity|5yr-<10yr|No
+5265|254|Gastrooesophageal reflux disease|1yr-<5yr|No
+5266|254|Constipation|6m-<12m|No
+5267|254|Seasonal allergy|5yr-<10yr|No
+234|838|Hypertension|1yr-<5yr|Yes
+235|838|Tachycardia|1yr-<5yr|No
+236|838|Fluid overload|1yr-<5yr|No
+237|838|Neuropathy peripheral|6m-<12m|Yes
+238|838|Diabetes mellitus|10yr-<20yr|Yes
+239|838|Hypothyroidism|1yr-<5yr|No
+240|838|Rheumatoid arthritis|1yr-<5yr|No
+270|701|Diabetes mellitus|5yr-<10yr|Yes
+271|701|Hypertension|5yr-<10yr|Yes
+272|701|Hypercholesterolaemia|1yr-<5yr|Yes
+273|701|Diabetic retinopathy|3m-<6m|No
+274|701|Diabetic retinal oedema|6m-<12m|No
+300|653|Diabetes mellitus|>=20yr|Yes
+301|653|Hypertension|10yr-<20yr|Yes
+302|653|Hypercholesterolaemia|5yr-<10yr|Yes
+303|653|Prostate cancer|6m-<12m|No
+304|653|Diabetic retinopathy|5yr-<10yr|No
+305|653|Diabetic retinal oedema|5yr-<10yr|No
+306|653|Cataract|5yr-<10yr|No
+307|653|Retinal exudates|1yr-<5yr|No
+353|762|Diabetes mellitus|10yr-<20yr|Yes
+355|762|Hypertension|5yr-<10yr|Yes
+356|762|Gastrooesophageal reflux disease|1yr-<5yr|No
+357|762|Hypercholesterolaemia|5yr-<10yr|No
+358|762|Retinal exudates|1yr-<5yr|No
+359|762|Cataract nuclear|1yr-<5yr|No
+360|762|Cataract cortical|1yr-<5yr|No
+361|762|Retinal oedema|1yr-<5yr|No
+362|762|Borderline glaucoma|1yr-<5yr|No
+363|762|Cutis laxa|5yr-<10yr|No
+364|762|Dry eye|1yr-<5yr|Yes
+5555|762|Skin papilloma|1yr-<5yr|Yes
+579|506|Diabetes mellitus|>=20yr|Yes
+580|506|Hypertension|10yr-<20yr|Yes
+581|506|Diabetic retinal oedema|5yr-<10yr|No
+582|506|Cataract cortical|10yr-<20yr|No
+583|506|Cataract nuclear|5yr-<10yr|No
+584|506|Macular fibrosis|1yr-<5yr|No
+585|506|Vitreous detachment|1yr-<5yr|No
+586|506|Dry eye|1yr-<5yr|Yes
+604|506|Diabetic neuropathy|1yr-<5yr|Yes
+666|780|Diabetes mellitus|1yr-<5yr|Yes
+667|780|Retinal haemorrhage|6m-<12m|No
+668|780|Diabetic retinopathy|6m-<12m|No
+680|780|Retinal exudates|6m-<12m|No
+681|780|Retinal ischaemia|6m-<12m|No
+682|780|Retinal telangiectasia|6m-<12m|No
+697|16|Diabetes mellitus|>=20yr|Yes
+752|16|Hypertension|1yr-<5yr|Yes
+753|16|Hypercholesterolaemia|1yr-<5yr|Yes
+754|16|Hypothyroidism|1yr-<5yr|Yes
+755|16|Diabetic neuropathy|1yr-<5yr|Yes
+756|16|Cataract cortical|1yr-<5yr|No
+757|16|Cataract nuclear|1yr-<5yr|No
+758|16|Diabetic retinal oedema|1yr-<5yr|No
+759|16|Seasonal allergy|10yr-<20yr|Yes
+760|16|Retinal exudates|6m-<12m|No
+732|511|Diabetes mellitus|10yr-<20yr|Yes
+733|511|Diabetic retinal oedema|1yr-<5yr|No
+734|511|Cataract nuclear|5yr-<10yr|No
+735|511|Cataract cortical|>1m-<3m|No
+736|511|Hypertension|10yr-<20yr|Yes
+737|511|Hypercholesterolaemia|1yr-<5yr|Yes
+738|511|Rheumatoid arthritis|1yr-<5yr|No
+740|511|Seasonal allergy|10yr-<20yr|Yes
+742|511|Vitreous detachment|1yr-<5yr|No
+2273|511|Constipation|1yr-<5yr|Yes
+809|547|Diabetes mellitus|>=20yr|Yes
+823|547|Hypertension|5yr-<10yr|Yes
+824|547|Depression|1yr-<5yr|Yes
+825|547|Hypercholesterolaemia|5yr-<10yr|Yes
+826|547|Osteoarthritis|5yr-<10yr|Yes
+827|547|Corneal dystrophy|1yr-<5yr|No
+828|547|Dry eye|1yr-<5yr|No
+829|547|Glaucoma|1yr-<5yr|Yes
+830|547|Diabetic retinal oedema|1yr-<5yr|No
+831|547|Cataract nuclear|1yr-<5yr|No
+832|547|Cataract subcapsular|1yr-<5yr|No
+833|547|Retinal exudates|1yr-<5yr|No
+834|547|Macular degeneration|1yr-<5yr|No
+835|547|Cystoid macular oedema|1yr-<5yr|No
+836|547|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+986|21|Diabetes mellitus|10yr-<20yr|Yes
+1377|21|Hypertension|5yr-<10yr|Yes
+1378|21|Hypercholesterolaemia|1yr-<5yr|Yes
+1379|21|Hypothyroidism|1yr-<5yr|No
+1380|21|Depression|1yr-<5yr|Yes
+1381|21|Diabetic neuropathy|1yr-<5yr|No
+1382|21|Renal failure|1yr-<5yr|No
+1383|21|Cataract|5yr-<10yr|No
+1384|21|Diabetic retinal oedema|1yr-<5yr|No
+998|360|Diabetes mellitus|10yr-<20yr|Yes
+1002|360|Hypertension|10yr-<20yr|Yes
+1003|360|Diabetic retinal oedema|3m-<6m|No
+1004|360|Retinal exudates|3m-<6m|No
+1005|360|Cataract nuclear|5yr-<10yr|No
+1006|360|Cataract cortical|1yr-<5yr|No
+1007|360|Retinal exudates|3m-<6m|No
+1058|360|Vitamin D deficiency|1yr-<5yr|Yes
+1059|360|Renal failure chronic|1yr-<5yr|Yes
+5372|360|Pulmonary oedema|1yr-<5yr|Yes
+5390|360|Asthma|5yr-<10yr|No
+1396|768|Diabetes mellitus|10yr-<20yr|Yes
+1400|768|Diabetic neuropathy|1yr-<5yr|No
+1401|768|Diabetic foot|3m-<6m|No
+1402|768|Hypertension|6m-<12m|Yes
+1403|768|Renal failure chronic|1yr-<5yr|No
+1404|768|Cataract nuclear|1yr-<5yr|No
+1405|768|Cystoid macular oedema|6m-<12m|No
+1406|768|Diabetic retinal oedema|6m-<12m|No
+1491|3|Diabetes mellitus|10yr-<20yr|Yes
+1694|3|Hypertension|10yr-<20yr|Yes
+1695|3|Diabetic retinal oedema|1yr-<5yr|No
+1696|3|Retinal aneurysm|1yr-<5yr|No
+1697|3|Macular fibrosis|6m-<12m|No
+1576|743|Diabetes mellitus|10yr-<20yr|Yes
+1781|743|Coronary artery disease|1yr-<5yr|Yes
+1782|743|Retinal exudates|6m-<12m|No
+1783|743|Diabetic retinal oedema|1yr-<5yr|No
+1784|743|Hypercholesterolaemia|1yr-<5yr|Yes
+2150|743|Hypertension|1yr-<5yr|No
+1687|17|Diabetes mellitus|>=20yr|Yes
+1688|17|Hypertension|5yr-<10yr|Yes
+1689|17|Hypercholesterolaemia|5yr-<10yr|Yes
+1690|17|Hypothyroidism|1yr-<5yr|Yes
+1691|17|Osteoporosis|1yr-<5yr|Yes
+1692|17|Dry eye|1yr-<5yr|No
+1693|17|Diabetic retinal oedema|1yr-<5yr|No
+1618|369|Diabetes mellitus|10yr-<20yr|Yes
+1674|369|Hypertension|5yr-<10yr|Yes
+1675|369|Osteoarthritis|1yr-<5yr|No
+1676|369|Hypercholesterolaemia|5yr-<10yr|Yes
+1677|369|Herpes zoster|>1m-<3m|Yes
+1678|369|Gastrooesophageal reflux disease|6m-<12m|Yes
+1679|369|Cataract cortical|5yr-<10yr|No
+1680|369|Cataract nuclear|1yr-<5yr|No
+1681|369|Retinal exudates|6m-<12m|No
+1682|369|Diabetic retinal oedema|6m-<12m|No
+1683|369|Retinal ischaemia|3m-<6m|No
+1636|51|Diabetes mellitus|10yr-<20yr|Yes
+1637|51|Hypertension|10yr-<20yr|Yes
+1638|51|Hypercholesterolaemia|10yr-<20yr|No
+1639|51|Neuropathy peripheral|1yr-<5yr|Yes
+1640|51|Depression|1yr-<5yr|Yes
+1641|51|Osteoarthritis|1yr-<5yr|No
+1655|51|Cataract nuclear|1yr-<5yr|No
+1656|51|Cataract subcapsular|6m-<12m|No
+1657|51|Retinal exudates|1yr-<5yr|No
+1658|51|Diabetic retinal oedema|6m-<12m|No
+1659|51|Diabetic retinopathy|6m-<12m|No
+1660|51|Retinal degeneration|<=30d|No
+1661|51|Retinal pigment epitheliopathy|<=30d|No
+5432|51|Anaemia|1yr-<5yr|Yes
+1757|356|Diabetes mellitus|>=20yr|Yes
+1770|356|Hypertension|5yr-<10yr|Yes
+1771|356|Hypercholesterolaemia|1yr-<5yr|Yes
+1772|356|Depression|1yr-<5yr|Yes
+1773|356|Insomnia|6m-<12m|Yes
+1774|356|Sleep apnoea syndrome|1yr-<5yr|No
+1775|356|Cataract nuclear|5yr-<10yr|No
+1776|356|Hyalosis asteroid|1yr-<5yr|No
+1777|356|Diabetic retinopathy|5yr-<10yr|No
+1778|356|Vitreous detachment|5yr-<10yr|No
+1779|356|Prostatomegaly|1yr-<5yr|Yes
+1780|356|Diabetic retinal oedema|6m-<12m|No
+5275|356|Protein urine present|6m-<12m|No
+5503|356|Restless legs syndrome|1yr-<5yr|Yes
+1918|235|Diabetes mellitus|>=20yr|Yes
+2136|235|Depression|5yr-<10yr|Yes
+2137|235|Hyperthyroidism|5yr-<10yr|Yes
+2138|235|Diabetic neuropathy|1yr-<5yr|No
+2139|235|Insomnia|5yr-<10yr|Yes
+2140|235|Osteoporosis|1yr-<5yr|Yes
+2141|235|Cataract|5yr-<10yr|No
+2142|235|Macular degeneration|1yr-<5yr|No
+2143|235|Retinal degeneration|1yr-<5yr|No
+2144|235|Cystoid macular oedema|6m-<12m|No
+2145|235|Diabetic retinal oedema|1yr-<5yr|No
+2146|235|Hypercholesterolaemia|1yr-<5yr|Yes
+1967|466|Diabetes mellitus|1yr-<5yr|No
+1968|466|Hypertension|1yr-<5yr|Yes
+2256|466|Insomnia|1yr-<5yr|Yes
+2257|466|Dry eye|1yr-<5yr|Yes
+2258|466|Retinal haemorrhage|3m-<6m|No
+2259|466|Diabetic retinal oedema|3m-<6m|No
+2261|466|Cataract nuclear|1yr-<5yr|No
+2011|763|Diabetes mellitus|10yr-<20yr|Yes
+2123|763|Hypertension|10yr-<20yr|Yes
+2124|763|Hypercholesterolaemia|10yr-<20yr|Yes
+2125|763|Osteoarthritis|1yr-<5yr|No
+2126|763|Hypertensive heart disease|5yr-<10yr|Yes
+2127|763|Depression|1yr-<5yr|Yes
+2128|763|Diabetic neuropathy|5yr-<10yr|Yes
+2129|763|Diabetic retinal oedema|1yr-<5yr|No
+2130|763|Benign neoplasm|1yr-<5yr|No
+2131|763|Cystoid macular oedema|1yr-<5yr|No
+2132|763|Dry eye|5yr-<10yr|No
+2133|763|Corneal dystrophy|1yr-<5yr|No
+2134|763|Hypothyroidism|1yr-<5yr|Yes
+2073|210|Diabetes mellitus|>=20yr|Yes
+2109|210|Hypertension|10yr-<20yr|Yes
+2110|210|Anxiety|5yr-<10yr|Yes
+2111|210|Depression|6m-<12m|Yes
+2112|210|Blood testosterone decreased|1yr-<5yr|Yes
+2113|210|Diabetic neuropathy|1yr-<5yr|Yes
+2114|210|Seasonal allergy|10yr-<20yr|Yes
+2117|210|Retinal exudates|3m-<6m|No
+2119|210|Cataract|5yr-<10yr|No
+2120|210|Diabetic retinal oedema|1yr-<5yr|No
+2121|210|Macular degeneration|6m-<12m|No
+4520|210|Hypercholesterolaemia|5yr-<10yr|No
+2419|485|Diabetes mellitus|10yr-<20yr|Yes
+2500|485|Diabetic neuropathy|1yr-<5yr|Yes
+2501|485|Hypertension|5yr-<10yr|Yes
+2502|485|Hypercholesterolaemia|1yr-<5yr|Yes
+2503|485|Cataract|5yr-<10yr|No
+2504|485|Retinal exudates|1yr-<5yr|No
+2505|485|Diabetic retinal oedema|6m-<12m|No
+2506|485|Corneal dystrophy|1yr-<5yr|No
+2507|485|Retinal ischaemia|1yr-<5yr|No
+5542|485|Osteoarthritis|1yr-<5yr|No
+2548|336|Diabetes mellitus|10yr-<20yr|No
+2549|336|Hypercholesterolaemia|5yr-<10yr|Yes
+2685|336|Hypertension|1yr-<5yr|Yes
+2686|336|Diabetic retinal oedema|6m-<12m|No
+2687|336|Retinal exudates|6m-<12m|No
+2688|336|Cystoid macular oedema|1yr-<5yr|No
+2689|336|Retinal exudates|1yr-<5yr|No
+2690|336|Cataract|5yr-<10yr|No
+2691|336|Renal impairment|6m-<12m|Yes
+2693|467|Diabetes mellitus|>=20yr|Yes
+2694|467|Hypertension|>=20yr|Yes
+2695|467|Vitreous haemorrhage|6m-<12m|No
+2696|467|Retinal haemorrhage|6m-<12m|No
+2697|467|Retinal neovascularisation|6m-<12m|No
+2698|467|Diabetic retinal oedema|6m-<12m|No
+5354|467|Toe amputation|6m-<12m|No
+2712|474|Diabetes mellitus|>=20yr|Yes
+2734|474|Hypertension|10yr-<20yr|Yes
+2735|474|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+2736|474|Asthma|10yr-<20yr|No
+2737|474|Depression|5yr-<10yr|Yes
+2738|474|Hypothyroidism|5yr-<10yr|Yes
+2739|474|Oxygen saturation decreased|1yr-<5yr|Yes
+2740|474|Vitreous haemorrhage|6m-<12m|No
+2741|474|Diabetic retinal oedema|5yr-<10yr|No
+2742|474|Dry eye|1yr-<5yr|No
+2743|474|Insomnia|1yr-<5yr|Yes
+2744|474|Obesity|10yr-<20yr|No
+3651|474|Diabetic retinopathy|1yr-<5yr|No
+4636|474|Fibromyalgia|5yr-<10yr|No
+5155|474|Coronary artery disease|1yr-<5yr|No
+5156|474|Acute respiratory failure|1yr-<5yr|No
+5157|474|Anxiety|5yr-<10yr|Yes
+5158|474|Hypercholesterolaemia|1yr-<5yr|Yes
+5449|474|Sleep apnoea syndrome|1yr-<5yr|No
+5450|474|Transient ischaemic attack|1yr-<5yr|No
+2756|791|Diabetes mellitus|5yr-<10yr|Yes
+2783|791|Cerebrovascular accident|5yr-<10yr|No
+2784|791|Hypertension|5yr-<10yr|Yes
+2785|791|Dementia Alzheimer's type|1yr-<5yr|Yes
+2786|791|Retinal exudates|1yr-<5yr|No
+2787|791|Diabetic retinal oedema|1yr-<5yr|No
+2788|791|Eye naevus|1yr-<5yr|No
+2789|791|Vitreous detachment|1yr-<5yr|No
+2790|791|Cataract|1yr-<5yr|No
+5276|791|Dysphagia|1yr-<5yr|Yes
+2814|573|Diabetes mellitus|>=20yr|Yes
+2972|573|Hypertension|>=20yr|Yes
+2973|573|Hypercholesterolaemia|10yr-<20yr|No
+2974|573|Dementia Alzheimer's type|1yr-<5yr|Yes
+2975|573|Depression|1yr-<5yr|Yes
+2978|573|Hypothyroidism|1yr-<5yr|Yes
+2979|573|Vitreous detachment|1yr-<5yr|No
+2980|573|Retinal haemorrhage|1yr-<5yr|No
+2981|573|Vitreous haemorrhage|6m-<12m|No
+2982|573|Diabetic retinal oedema|1yr-<5yr|No
+2983|573|Diabetic retinopathy|1yr-<5yr|No
+2985|573|Sleep apnoea syndrome|1yr-<5yr|No
+2986|573|Cataract|1yr-<5yr|No
+2990|573|Retinal vein occlusion|1yr-<5yr|No
+3199|600|Diabetes mellitus|10yr-<20yr|Yes
+3459|600|Hypertension|>=20yr|Yes
+3460|600|Hypercholesterolaemia|10yr-<20yr|Yes
+3461|600|Neuropathy peripheral|10yr-<20yr|No
+3462|600|Insomnia|5yr-<10yr|Yes
+3463|600|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+3464|600|Depression|5yr-<10yr|Yes
+3465|600|Diabetic retinal oedema|1yr-<5yr|No
+3466|600|Cataract nuclear|10yr-<20yr|No
+3467|600|Retinal exudates|1yr-<5yr|No
+3468|600|Vitreous haemorrhage|6m-<12m|No
+3469|600|Cystoid macular oedema|6m-<12m|No
+3470|600|Diabetic retinopathy|6m-<12m|No
+5397|600|Arteriosclerosis coronary artery|1yr-<5yr|No
+5398|600|Myocardial infarction|1yr-<5yr|No
+5399|600|Leg amputation|1yr-<5yr|No
+3239|283|Diabetes mellitus|10yr-<20yr|Yes
+3356|283|Hypertension|10yr-<20yr|Yes
+3357|283|Hypercholesterolaemia|5yr-<10yr|Yes
+3358|283|Hypothyroidism|5yr-<10yr|Yes
+3361|283|Herpes zoster|5yr-<10yr|No
+3362|283|Spinal column stenosis|5yr-<10yr|No
+3363|283|Cutis laxa|1yr-<5yr|No
+3364|283|Vitreous detachment|1yr-<5yr|No
+3365|283|Retinal exudates|1yr-<5yr|No
+3370|283|Macular degeneration|1yr-<5yr|No
+3371|283|Osteoarthritis|5yr-<10yr|No
+3372|283|Anaemia|5yr-<10yr|No
+5495|283|Cataract nuclear|10yr-<20yr|No
+5496|283|Cataract cortical|10yr-<20yr|No
+3251|88|Diabetes mellitus|10yr-<20yr|Yes
+3328|88|Hypercholesterolaemia|5yr-<10yr|Yes
+3329|88|Hypertension|5yr-<10yr|Yes
+3330|88|Cataract nuclear|5yr-<10yr|No
+3331|88|Retinal exudates|1yr-<5yr|No
+3332|88|Retinal exudates|1yr-<5yr|No
+3333|88|Diabetic retinopathy|6m-<12m|No
+3284|482|Diabetes mellitus|10yr-<20yr|Yes
+3334|482|Hypertension|5yr-<10yr|Yes
+3335|482|Hypercholesterolaemia|1yr-<5yr|Yes
+3336|482|Dry eye|5yr-<10yr|Yes
+3337|482|Cataract|5yr-<10yr|No
+3338|482|Vitreous detachment|1yr-<5yr|No
+3339|482|Macular fibrosis|>1m-<3m|No
+3340|482|Macular degeneration|>1m-<3m|No
+5312|482|Herpes zoster|5yr-<10yr|No
+5313|482|Corneal scar|5yr-<10yr|No
+3705|676|Diabetes mellitus|>=20yr|Yes
+3930|676|Hypertension|10yr-<20yr|Yes
+3936|676|Hypothyroidism|5yr-<10yr|Yes
+3937|676|Hypercholesterolaemia|1yr-<5yr|No
+3938|676|Gastrooesophageal reflux disease|1yr-<5yr|No
+3939|676|Diabetic neuropathy|1yr-<5yr|No
+3940|676|Seasonal allergy|5yr-<10yr|No
+3941|676|Diabetic retinal oedema|1yr-<5yr|No
+3942|676|Vitreous haemorrhage|6m-<12m|No
+3943|676|Diabetic retinopathy|1yr-<5yr|No
+3944|676|Dry eye|1yr-<5yr|No
+3945|676|Vitreous adhesions|1yr-<5yr|No
+3946|676|Macular fibrosis|1yr-<5yr|No
+3947|676|Retinal haemorrhage|1yr-<5yr|No
+3948|676|Cataract|5yr-<10yr|No
+5353|676|Depression|>=20yr|Yes
+3757|136|Diabetes mellitus|1yr-<5yr|Yes
+4203|136|Hypertension|1yr-<5yr|Yes
+4204|136|Diabetic retinopathy|1yr-<5yr|No
+4205|136|Diabetic retinal oedema|1yr-<5yr|No
+4206|136|Cystoid macular oedema|1yr-<5yr|No
+4207|136|Cataract nuclear|1yr-<5yr|No
+4208|136|Vitreous haemorrhage|1yr-<5yr|No
+4209|136|Retinal exudates|1yr-<5yr|No
+5074|136|Seasonal allergy|5yr-<10yr|Yes
+3808|62|Diabetes mellitus|>=20yr|Yes
+3951|62|Hypertension|>=20yr|Yes
+3952|62|Hypercholesterolaemia|10yr-<20yr|Yes
+3953|62|Cardiac failure congestive|1yr-<5yr|No
+3954|62|Gout|5yr-<10yr|No
+3955|62|Diabetic neuropathy|5yr-<10yr|Yes
+3956|62|Renal failure|1yr-<5yr|No
+3957|62|Headache|1yr-<5yr|No
+3958|62|Nausea|1yr-<5yr|No
+3959|62|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3960|62|Vitreous detachment|5yr-<10yr|No
+3961|62|Diabetic retinal oedema|5yr-<10yr|No
+3962|62|Dry eye|1yr-<5yr|No
+3963|62|Cataract|5yr-<10yr|No
+4057|62|Ischaemic stroke|5yr-<10yr|No
+3984|419|Diabetes mellitus|>=20yr|Yes
+4014|419|Hypercholesterolaemia|5yr-<10yr|Yes
+4015|419|Hypertension|5yr-<10yr|Yes
+4016|419|Depression|5yr-<10yr|Yes
+4017|419|Osteoarthritis|1yr-<5yr|No
+4018|419|Cataract nuclear|5yr-<10yr|No
+4019|419|Diabetic retinopathy|1yr-<5yr|No
+4020|419|Diabetic retinal oedema|1yr-<5yr|No
+4192|419|Cataract|5yr-<10yr|No
+4193|419|Dry eye|1yr-<5yr|No
+4070|370|Diabetes mellitus|5yr-<10yr|Yes
+4201|370|Hypertension|1yr-<5yr|No
+4202|370|Hypercholesterolaemia|1yr-<5yr|No
+4351|370|Renal failure|1yr-<5yr|No
+4380|370|Localised infection|6m-<12m|No
+4112|337|Diabetes mellitus|>=20yr|Yes
+4212|337|Hypercholesterolaemia|5yr-<10yr|Yes
+4213|337|Bipolar disorder|5yr-<10yr|Yes
+4214|337|Multiple sclerosis|10yr-<20yr|Yes
+4215|337|Back pain|1yr-<5yr|Yes
+4216|337|Hypotension|5yr-<10yr|No
+4217|337|Depression|5yr-<10yr|Yes
+4218|337|Migraine|1yr-<5yr|No
+4219|337|Diabetic retinal oedema|1yr-<5yr|No
+4220|337|Cystoid macular oedema|1yr-<5yr|No
+4221|337|Cataract nuclear|5yr-<10yr|No
+5049|337|Eczema|1yr-<5yr|No
+5455|337|Herpes simplex|>=20yr|Yes
+4166|293|Diabetes mellitus|5yr-<10yr|Yes
+4485|293|Hypertension|5yr-<10yr|Yes
+4488|293|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4489|293|Diabetic neuropathy|1yr-<5yr|Yes
+4490|293|Hypercholesterolaemia|1yr-<5yr|Yes
+4491|293|Diabetic retinopathy|1yr-<5yr|No
+4941|293|Vitrectomy|<=30d|No
+5359|293|Migraine|>=20yr|Yes
+4242|663|Diabetes mellitus|1yr-<5yr|Yes
+4328|663|Hypertension|5yr-<10yr|Yes
+4329|663|Hypercholesterolaemia|5yr-<10yr|Yes
+4330|663|Herpes zoster|1yr-<5yr|No
+4331|663|Cardiac failure congestive|5yr-<10yr|Yes
+4332|663|Hypothyroidism|5yr-<10yr|Yes
+4455|663|Asthma|5yr-<10yr|Yes
+4456|663|Vitreous detachment|1yr-<5yr|No
+4457|663|Cataract nuclear|10yr-<20yr|No
+4458|663|Retinal exudates|1yr-<5yr|No
+4459|663|Retinal ischaemia|5yr-<10yr|No
+4460|663|Diabetic retinal oedema|1yr-<5yr|No
+4967|663|Seasonal allergy|10yr-<20yr|Yes
+4508|560|Diabetes mellitus|10yr-<20yr|Yes
+4557|560|Hypertension|1yr-<5yr|Yes
+4558|560|Diabetic retinal oedema|1yr-<5yr|No
+4559|560|Diabetic neuropathy|1yr-<5yr|No
+4560|560|Cataract nuclear|5yr-<10yr|No
+4561|560|Cataract cortical|5yr-<10yr|No
+4562|560|Cataract subcapsular|1yr-<5yr|No
+4563|560|Cystoid macular oedema|1yr-<5yr|No
+4564|560|Retinal exudates|6m-<12m|No
+5531|560|Sleep apnoea syndrome|1yr-<5yr|No
+5532|560|Osteoarthritis|1yr-<5yr|No
+5533|560|Asbestosis|10yr-<20yr|No
+4317|377|Diabetes mellitus|10yr-<20yr|Yes
+4318|377|Hypertension|5yr-<10yr|Yes
+4319|377|Diabetic retinal oedema|1yr-<5yr|No
+4320|377|Cataract|5yr-<10yr|No
+4359|2|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+4360|2|Hypertension|10yr-<20yr|Yes
+4361|2|Crohn's disease|10yr-<20yr|No
+4362|2|Renal impairment|1yr-<5yr|Yes
+4363|2|Diabetes mellitus|10yr-<20yr|Yes
+4364|2|Osteoporosis|1yr-<5yr|No
+4365|2|Drug hypersensitivity|>=20yr|No
+4366|2|Hypercholesterolaemia|1yr-<5yr|Yes
+5544|2|Deafness|1yr-<5yr|No
+4368|649|Diabetes mellitus|10yr-<20yr|Yes
+4369|649|Lung cancer metastatic|1yr-<5yr|No
+4370|649|Dyspnoea|1yr-<5yr|No
+4371|649|Left atrial dilatation|10yr-<20yr|No
+4372|649|Cardiac failure|1yr-<5yr|No
+4373|649|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+4374|649|Renal cancer|1yr-<5yr|No
+4375|649|Brain neoplasm|1yr-<5yr|No
+4376|649|Intervertebral disc protrusion|5yr-<10yr|Yes
+4377|649|Psoriasis|>=20yr|No
+4378|649|Depression|1yr-<5yr|Yes
+4379|649|Drug hypersensitivity|5yr-<10yr|No
+4542|649|Hypertension|1yr-<5yr|Yes
+5413|649|Myocardial infarction|5yr-<10yr|No
+4402|553|Diabetes mellitus|10yr-<20yr|Yes
+4476|553|Hypertension|10yr-<20yr|Yes
+4477|553|Hypothyroidism|5yr-<10yr|Yes
+4478|553|Hypercholesterolaemia|5yr-<10yr|Yes
+4479|553|Dry eye|1yr-<5yr|Yes
+4481|553|Cardiac failure congestive|5yr-<10yr|Yes
+4482|553|Retinal exudates|1yr-<5yr|No
+4483|553|Hyalosis asteroid|1yr-<5yr|No
+4679|409|Diabetes mellitus|10yr-<20yr|Yes
+4680|409|Hypertension|10yr-<20yr|Yes
+4913|409|Hypercholesterolaemia|5yr-<10yr|Yes
+4914|409|Diabetic neuropathy|1yr-<5yr|No
+4915|409|Vitreous detachment|1yr-<5yr|No
+4916|409|Cataract|5yr-<10yr|No
+4917|409|Diabetic retinal oedema|1yr-<5yr|No
+4918|409|Cystoid macular oedema|6m-<12m|No
+4919|409|Retinal degeneration|1yr-<5yr|No
+4920|409|Cutis laxa|5yr-<10yr|No
+1969|446|Diabetes mellitus|10yr-<20yr|Yes
+1970|446|Hypertension|5yr-<10yr|Yes
+1971|446|Myalgia|1yr-<5yr|No
+1994|70|Diabetes mellitus|1yr-<5yr|Yes
+1995|70|Hypertension|>=20yr|Yes
+1996|70|Hypothyroidism|1yr-<5yr|Yes
+1997|70|Osteoarthritis|1yr-<5yr|No
+2854|685|Diabetes mellitus|10yr-<20yr|Yes
+2859|685|Hypertension|5yr-<10yr|Yes
+2860|685|Hyperlipidaemia|1yr-<5yr|No
+2861|685|Chronic obstructive pulmonary disease|3m-<6m|Yes
+2862|685|Gout|1yr-<5yr|Yes
+2864|685|Chronic sinusitis|10yr-<20yr|No
+2865|685|Tinnitus|3m-<6m|No
+2866|685|Depression|10yr-<20yr|Yes
+2867|685|Rotator cuff syndrome|10yr-<20yr|No
+2868|685|Exostosis|3m-<6m|No
+5198|685|Hypercholesterolaemia|6m-<12m|Yes
+4278|90|Diabetes mellitus|10yr-<20yr|Yes
+4279|90|Hypertension|10yr-<20yr|Yes
+4280|90|Hypercholesterolaemia|10yr-<20yr|Yes
+4281|90|Hyperlipidaemia|10yr-<20yr|Yes
+4303|90|Osteoarthritis|5yr-<10yr|No
+4305|90|Neuropathy peripheral|6m-<12m|Yes
+4306|90|Anxiety|5yr-<10yr|Yes
+4307|90|Depression|5yr-<10yr|Yes
+4425|808|Diabetes mellitus|1yr-<5yr|Yes
+4426|808|Hypertension|1yr-<5yr|Yes
+4427|808|Hypercholesterolaemia|6m-<12m|Yes
+4614|808|Cholecystectomy|10yr-<20yr|No
+4615|808|Sepsis|3m-<6m|No
+4617|808|Osteoarthritis|5yr-<10yr|No
+4618|808|Hysterectomy|10yr-<20yr|No
+4619|808|Headache|5yr-<10yr|No
+4620|808|Alopecia|10yr-<20yr|No
+4621|808|Diarrhoea|10yr-<20yr|No
+4622|808|Weight decreased|6m-<12m|No
+4624|808|Otitis externa|6m-<12m|No
+4625|808|Nephrolithiasis|3m-<6m|No
+4705|645|Diabetes mellitus|1yr-<5yr|Yes
+4706|645|Hypertension|1yr-<5yr|Yes
+4707|645|Hypercholesterolaemia|1yr-<5yr|Yes
+4982|645|Glaucoma|1yr-<5yr|Yes
+4519|55|Diabetes mellitus|10yr-<20yr|No
+4528|55|Hypertension|>=20yr|Yes
+4640|55|Gastric bypass|1yr-<5yr|Yes
+4641|55|Renal failure chronic|1yr-<5yr|Yes
+4642|55|Depression|>=20yr|Yes
+4643|55|Attention deficit/hyperactivity disorder|1yr-<5yr|No
+4644|55|Hypothyroidism|>=20yr|Yes
+4645|55|Pulmonary embolism|5yr-<10yr|Yes
+4646|55|Asthma|>=20yr|Yes
+4696|712|Diabetes mellitus|10yr-<20yr|Yes
+4697|712|Hypertension|5yr-<10yr|Yes
+4698|712|Hypertriglyceridaemia|5yr-<10yr|Yes
+4835|402|Diabetes mellitus|>=20yr|Yes
+4836|402|Hypertension|10yr-<20yr|Yes
+4857|402|Hyperlipidaemia|10yr-<20yr|Yes
+177|218|Diabetes mellitus|1yr-<5yr|Yes
+178|218|Hypertension|1yr-<5yr|Yes
+179|218|Hypercholesterolaemia|1yr-<5yr|Yes
+180|218|Dry eye|1yr-<5yr|Yes
+181|218|Myalgia|1yr-<5yr|Yes
+182|218|Pancreatitis|10yr-<20yr|No
+183|218|Appendicitis|>=20yr|No
+928|218|Erectile dysfunction|1yr-<5yr|Yes
+2228|218|Herpes simplex|>=20yr|No
+5097|218|Diabetic neuropathy|<=30d|No
+275|765|Diabetes mellitus|10yr-<20yr|Yes
+276|765|Diabetic neuropathy|3m-<6m|No
+277|765|Hypertension|10yr-<20yr|Yes
+278|765|Hypercholesterolaemia|3m-<6m|Yes
+279|765|Irritable bowel syndrome|<=30d|Yes
+280|765|Depression|10yr-<20yr|No
+771|765|Psoriasis|5yr-<10yr|Yes
+5273|765|Pain in extremity|1yr-<5yr|No
+5274|765|Local swelling|1yr-<5yr|No
+793|176|Diabetes mellitus|3m-<6m|Yes
+794|176|Toe amputation|>1m-<3m|No
+795|176|Anaemia|>1m-<3m|Yes
+796|176|Transfusion|>1m-<3m|No
+797|176|Back pain|1yr-<5yr|Yes
+798|176|Skin graft|>1m-<3m|No
+3043|176|Seasonal allergy|>=20yr|No
+900|778|Diabetes mellitus|10yr-<20yr|Yes
+901|778|Diabetic neuropathy|10yr-<20yr|Yes
+902|778|Impaired gastric emptying|10yr-<20yr|Yes
+903|778|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+904|778|Hypothyroidism|3m-<6m|No
+905|778|Fungal infection|5yr-<10yr|Yes
+906|778|Nausea|1yr-<5yr|Yes
+907|778|Insomnia|6m-<12m|Yes
+908|778|Pain|10yr-<20yr|Yes
+909|778|Orthostatic hypotension|3m-<6m|No
+910|778|Diabetic ketoacidosis|5yr-<10yr|No
+911|778|Swelling|5yr-<10yr|Yes
+4631|778|Migraine|1yr-<5yr|No
+4632|778|Depression|5yr-<10yr|No
+5258|778|Hypoglycaemia|10yr-<20yr|No
+5259|778|Dizziness|10yr-<20yr|No
+1876|461|Diabetes mellitus|>=20yr|Yes
+1877|461|Coronary artery disease|1yr-<5yr|Yes
+1878|461|Myocardial infarction|>=20yr|No
+1879|461|Coronary arterial stent insertion|1yr-<5yr|No
+1880|461|Sleep apnoea syndrome|6m-<12m|No
+1881|461|Hyperlipidaemia|1yr-<5yr|Yes
+1882|461|Erectile dysfunction|10yr-<20yr|No
+1883|461|Haemorrhoids|>=20yr|No
+1884|461|Coronary artery bypass|1yr-<5yr|No
+1885|461|Rhinitis allergic|>=20yr|No
+1886|461|Hypertension|>=20yr|Yes
+1887|461|Depression|1yr-<5yr|Yes
+1888|461|Vitamin D deficiency|1yr-<5yr|Yes
+1894|461|Amnesia|>1m-<3m|Yes
+2446|461|Nausea|>1m-<3m|No
+5464|461|Carotid artery disease|10yr-<20yr|No
+2173|814|Diabetes mellitus|>=20yr|Yes
+2174|814|Myocardial infarction|>=20yr|No
+2175|814|Mitral valve prolapse|>=20yr|No
+2176|814|Arrhythmia|>=20yr|No
+2177|814|Depression|5yr-<10yr|Yes
+2178|814|Hyperlipidaemia|10yr-<20yr|Yes
+2179|814|Diabetic neuropathy|6m-<12m|Yes
+2180|814|Hypocalcaemia|>1m-<3m|Yes
+2181|814|Back pain|>=20yr|No
+2182|814|Arthritis|1yr-<5yr|Yes
+2183|814|Vision blurred|>1m-<3m|No
+2184|814|Hysterectomy|>=20yr|No
+2185|814|Cholecystectomy|10yr-<20yr|No
+2192|814|Hormone level abnormal|5yr-<10yr|No
+2457|681|Diabetes mellitus|>=20yr|Yes
+2458|681|Back pain|1yr-<5yr|No
+2459|681|Diplopia|1yr-<5yr|No
+2020|147|Hypertension|5yr-<10yr|Yes
+2021|147|Hypercholesterolaemia|5yr-<10yr|Yes
+2004|707|Hypertension|>=20yr|Yes
+5512|707|Diabetes mellitus|5yr-<10yr|Yes
+5547|216|Chronic kidney disease|1yr-<5yr|No
+2164|413|Hypertension|>=20yr|Yes
+2165|413|Hypercholesterolaemia|5yr-<10yr|Yes
+2166|413|Rheumatoid arthritis|5yr-<10yr|Yes
+2244|384|Hypertension|>=20yr|Yes
+2245|384|Hypercholesterolaemia|10yr-<20yr|Yes
+2246|384|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+2247|384|Thyroid neoplasm|10yr-<20yr|Yes
+2248|384|Ischaemic stroke|1yr-<5yr|Yes
+2249|384|Diabetic neuropathy|10yr-<20yr|Yes
+2250|384|Oedema peripheral|1yr-<5yr|Yes
+2914|145|Hypercholesterolaemia|1yr-<5yr|Yes
+2915|145|Hypertension|3m-<6m|Yes
+3385|556|Hypertension|10yr-<20yr|Yes
+4785|245|Hypertension|5yr-<10yr|Yes
+4786|245|Hypercholesterolaemia|5yr-<10yr|Yes
+4787|245|Restless legs syndrome|10yr-<20yr|Yes
+4788|245|Diabetic foot|6m-<12m|Yes
+4789|245|Erectile dysfunction|1yr-<5yr|Yes
+3497|379|Hypertension|5yr-<10yr|Yes
+3498|379|Hypercholesterolaemia|5yr-<10yr|Yes
+3499|379|Neuropathy peripheral|1yr-<5yr|Yes
+3500|379|Asthma|>=20yr|Yes
+3501|379|Seasonal allergy|5yr-<10yr|Yes
+3502|379|Diabetes mellitus|10yr-<20yr|Yes
+5374|379|Pneumonia|<=30d|No
+5444|379|Renal failure chronic|>1m-<3m|No
+5513|379|Pruritus|1yr-<5yr|Yes
+3898|520|Diabetes mellitus|10yr-<20yr|Yes
+3899|520|Hypertension|5yr-<10yr|Yes
+3901|520|Hyperlipidaemia|5yr-<10yr|No
+4006|520|Anxiety|1yr-<5yr|No
+4007|520|Dyspnoea|1yr-<5yr|No
+4008|520|Abdominal discomfort|1yr-<5yr|No
+4010|520|Oedema peripheral|1yr-<5yr|Yes
+4191|520|Renal failure|3m-<6m|No
+5494|520|Asthma|>=20yr|Yes
+5514|520|Pruritus|1yr-<5yr|Yes
+5543|520|Back pain|6m-<12m|No
+458|831|Diabetes mellitus|10yr-<20yr|Yes
+461|831|Hypertension|5yr-<10yr|Yes
+462|831|Rash|5yr-<10yr|Yes
+589|831|Erectile dysfunction|1yr-<5yr|Yes
+590|831|Leg amputation|1yr-<5yr|No
+591|831|Hyperlipidaemia|1yr-<5yr|Yes
+592|831|Neuropathy peripheral|1yr-<5yr|No
+726|613|Hypertension|5yr-<10yr|Yes
+727|613|Gout|5yr-<10yr|Yes
+728|613|Depression|1yr-<5yr|Yes
+729|613|Hypercholesterolaemia|5yr-<10yr|Yes
+730|613|Diabetes mellitus|10yr-<20yr|Yes
+731|613|Coronary artery restenosis|5yr-<10yr|No
+3281|613|Peripheral vascular disorder|10yr-<20yr|No
+3283|613|Osteoarthritis|>=20yr|No
+5099|613|Cardiac failure congestive|5yr-<10yr|No
+1191|770|Hypercholesterolaemia|1yr-<5yr|Yes
+1192|770|Diabetes mellitus|>=20yr|Yes
+1193|770|Depression|6m-<12m|Yes
+1427|770|Hypertension|6m-<12m|Yes
+1428|770|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1429|770|Breast cyst|5yr-<10yr|No
+3285|770|Back pain|10yr-<20yr|No
+3348|770|Seasonal allergy|10yr-<20yr|No
+1667|800|Diabetes mellitus|>=20yr|Yes
+1668|800|Muscle strain|>=20yr|Yes
+5216|800|Deafness|10yr-<20yr|No
+5217|800|Hypertension|5yr-<10yr|No
+5218|800|Blood testosterone decreased|6m-<12m|No
+1963|524|Diabetes mellitus|>=20yr|Yes
+2169|524|Hypertension|10yr-<20yr|Yes
+2170|524|Hypercholesterolaemia|5yr-<10yr|Yes
+1966|709|Diabetes mellitus|10yr-<20yr|Yes
+2387|709|Hypertension|10yr-<20yr|Yes
+2388|709|Coronary artery disease|10yr-<20yr|Yes
+2389|709|Atrial fibrillation|10yr-<20yr|No
+2390|709|Hypothyroidism|10yr-<20yr|Yes
+2391|709|Hypercholesterolaemia|10yr-<20yr|Yes
+2392|709|Cardiac pacemaker insertion|1yr-<5yr|No
+2393|709|Coronary artery bypass|10yr-<20yr|No
+2394|709|Dry eye|5yr-<10yr|Yes
+2395|709|Constipation|10yr-<20yr|Yes
+2827|709|Decubitus ulcer|<=30d|No
+5434|709|Renal failure chronic|5yr-<10yr|No
+5435|709|Breast cancer|5yr-<10yr|No
+5436|709|Myocardial infarction|1yr-<5yr|No
+5437|709|Skin ulcer|1yr-<5yr|No
+5438|709|Coronary artery bypass|1yr-<5yr|No
+4383|816|Diabetes mellitus|>=20yr|Yes
+4384|816|Hypothyroidism|>=20yr|Yes
+4385|816|Osteoarthritis|>=20yr|Yes
+4386|816|Migraine|>=20yr|Yes
+4494|816|Systemic lupus erythematosus|>=20yr|No
+4495|816|Sarcoidosis|>=20yr|No
+4496|816|Seasonal allergy|>=20yr|No
+4497|816|Depression|10yr-<20yr|Yes
+4498|816|Hypercholesterolaemia|10yr-<20yr|Yes
+4499|816|Ocular hypertension|5yr-<10yr|Yes
+4500|816|Diabetic retinopathy|6m-<12m|No
+4501|816|Asthma|10yr-<20yr|No
+4502|816|Hypertension|10yr-<20yr|Yes
+4503|816|Benign tumour excision|5yr-<10yr|No
+4504|816|Back pain|5yr-<10yr|Yes
+5343|816|Diabetic ulcer|<=30d|Yes
+4449|84|Diabetes mellitus|5yr-<10yr|Yes
+4450|84|Hepatitis|5yr-<10yr|No
+4451|84|Hypertension|<=30d|Yes
+4548|101|Diabetes mellitus|1yr-<5yr|Yes
+4973|101|Osteoarthritis|>=20yr|Yes
+4974|101|Hypertension|5yr-<10yr|Yes
+4975|101|Lung cancer metastatic|10yr-<20yr|No
+4976|101|Asthma|10yr-<20yr|No
+4977|101|Chronic sinusitis|10yr-<20yr|No
+4978|101|Vertigo|10yr-<20yr|No
+4979|101|Chorioretinal disorder|10yr-<20yr|No
+4752|807|Diabetes mellitus|>=20yr|Yes
+4765|807|Macular oedema|5yr-<10yr|No
+4985|807|Hypothyroidism|>=20yr|Yes
+4986|807|Hypertension|>=20yr|Yes
+4987|807|Hypercholesterolaemia|10yr-<20yr|Yes
+4988|807|Diabetic neuropathy|10yr-<20yr|Yes
+4989|807|Osteoarthritis|10yr-<20yr|No
+4990|807|Seasonal allergy|>=20yr|No
+3349|219|Cholecystectomy|10yr-<20yr|No
+3350|219|Hysterectomy|10yr-<20yr|No
+3351|219|Sleep apnoea syndrome|10yr-<20yr|No
+3352|219|Rheumatoid arthritis|10yr-<20yr|Yes
+3353|219|Diabetes mellitus|>=20yr|Yes
+3354|219|Breast cancer|5yr-<10yr|No
+3355|219|Hypertension|10yr-<20yr|Yes
+3359|219|Insomnia|5yr-<10yr|Yes
+3360|219|Urinary incontinence|5yr-<10yr|Yes
+3723|219|Uterine haemorrhage|10yr-<20yr|No
+5161|219|Seasonal allergy|>=20yr|Yes
+5162|219|Gastrooesophageal reflux disease|>=20yr|Yes
+3660|67|Hypertension|5yr-<10yr|Yes
+3661|67|Depression|5yr-<10yr|Yes
+3662|67|Diabetes mellitus|>=20yr|Yes
+3663|67|Hyperlipidaemia|5yr-<10yr|Yes
+3664|67|Chronic sinusitis|1yr-<5yr|No
+3665|67|Deafness|1yr-<5yr|No
+3666|67|Osteoarthritis|1yr-<5yr|Yes
+3989|67|Epistaxis|>=20yr|No
+5371|67|Musculoskeletal pain|1yr-<5yr|No
+5539|67|Cataract subcapsular|5yr-<10yr|No
+4356|239|Diabetes mellitus|>=20yr|Yes
+4357|239|Gastrooesophageal reflux disease|>=20yr|Yes
+4358|239|Neuropathy peripheral|10yr-<20yr|No
+593|74|Hypertension|1yr-<5yr|Yes
+594|74|Diabetes mellitus|>=20yr|Yes
+595|74|Glaucoma|1yr-<5yr|Yes
+631|675|Diabetes mellitus|>=20yr|Yes
+632|675|Hypercholesterolaemia|>=20yr|Yes
+634|675|Hypertension|>=20yr|Yes
+641|675|Rheumatoid arthritis|>=20yr|No
+642|675|Stent placement|10yr-<20yr|No
+643|675|Cardiac failure|>=20yr|Yes
+644|675|Cardiac operation|>=20yr|No
+3439|675|Myocardial infarction|>=20yr|No
+1012|313|Diabetes mellitus|>=20yr|Yes
+5333|313|Hypercholesterolaemia|5yr-<10yr|Yes
+5334|313|Hypertension|5yr-<10yr|Yes
+5335|313|Hypothyroidism|5yr-<10yr|Yes
+5336|313|Glaucoma|1yr-<5yr|Yes
+5337|313|Atrial fibrillation|5yr-<10yr|Yes
+5338|313|Dyspnoea|1yr-<5yr|No
+1274|499|Diabetes mellitus|10yr-<20yr|Yes
+1275|499|Impaired gastric emptying|5yr-<10yr|Yes
+1276|499|Oedema peripheral|1yr-<5yr|Yes
+1277|499|Hyperlipidaemia|3m-<6m|Yes
+1278|499|Back pain|6m-<12m|Yes
+1279|499|Dermatitis contact|6m-<12m|Yes
+1698|499|Coronary artery disease|10yr-<20yr|Yes
+1699|499|Hypertension|10yr-<20yr|Yes
+5186|499|Carpal tunnel syndrome|1yr-<5yr|No
+5294|499|Seasonal allergy|>=20yr|Yes
+5362|499|Diabetic neuropathy|5yr-<10yr|No
+5363|499|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1306|159|Diabetes mellitus|>=20yr|Yes
+1307|159|Osteoarthritis|1yr-<5yr|Yes
+1308|159|Hypertension|1yr-<5yr|Yes
+1309|159|Depression|3m-<6m|Yes
+1310|159|Anxiety|1yr-<5yr|Yes
+1311|159|Hypothyroidism|10yr-<20yr|Yes
+1312|159|Restless legs syndrome|1yr-<5yr|Yes
+1313|159|Heart rate increased|3m-<6m|Yes
+3509|159|Hypercholesterolaemia|1yr-<5yr|No
+4682|159|Sciatica|5yr-<10yr|No
+4689|159|Fibromyalgia|5yr-<10yr|No
+4690|159|Intervertebral disc protrusion|5yr-<10yr|Yes
+4793|159|VIIth nerve paralysis|1yr-<5yr|No
+4794|159|Sinus operation|1yr-<5yr|No
+1343|561|Diabetes mellitus|>=20yr|Yes
+5364|561|Dry eye|1yr-<5yr|Yes
+2536|510|Diabetes mellitus|10yr-<20yr|Yes
+2537|510|Diabetic retinal oedema|>1m-<3m|No
+2538|510|Hypercholesterolaemia|10yr-<20yr|No
+2539|510|Colitis ulcerative|10yr-<20yr|Yes
+2540|510|Osteoarthritis|10yr-<20yr|No
+2541|510|Folliculitis|10yr-<20yr|No
+2542|510|Seasonal allergy|>=20yr|No
+2543|510|Pain|10yr-<20yr|Yes
+2544|510|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+2546|510|Oedema peripheral|1yr-<5yr|Yes
+2547|510|Hypertension|5yr-<10yr|Yes
+4781|510|Cellulitis|>1m-<3m|Yes
+5365|510|Dry eye|1yr-<5yr|Yes
+5366|510|Cataract operation|<=30d|Yes
+2710|135|Diabetes mellitus|5yr-<10yr|Yes
+2726|135|Hypertension|5yr-<10yr|Yes
+2727|135|Depression|5yr-<10yr|Yes
+2728|135|Hypercholesterolaemia|>1m-<3m|Yes
+4798|135|Sciatica|1yr-<5yr|No
+4799|135|Vitreous floaters|1yr-<5yr|No
+4800|135|Joint injury|1yr-<5yr|No
+5368|135|Dry eye|1yr-<5yr|No
+2852|224|Diabetes mellitus|10yr-<20yr|Yes
+5370|224|Dry eye|1yr-<5yr|Yes
+3112|545|Diabetes mellitus|>=20yr|Yes
+3113|545|Hypertension|>=20yr|Yes
+3114|545|Asthma|>=20yr|Yes
+3115|545|Hypercholesterolaemia|10yr-<20yr|Yes
+3116|545|Convulsion|10yr-<20yr|Yes
+4803|545|Carpal tunnel syndrome|5yr-<10yr|No
+4804|545|Essential tremor|5yr-<10yr|No
+4939|545|Dry eye|1yr-<5yr|No
+4940|545|Diabetic neuropathy|1yr-<5yr|Yes
+5260|545|Seasonal allergy|10yr-<20yr|Yes
+5340|545|Migraine|1yr-<5yr|No
+5341|545|Insomnia|1yr-<5yr|No
+4228|757|Diabetes mellitus|10yr-<20yr|Yes
+4229|757|Hypertension|5yr-<10yr|Yes
+4230|757|Hyperlipidaemia|1yr-<5yr|Yes
+4231|757|Back pain|6m-<12m|Yes
+4233|757|Cardiac operation|5yr-<10yr|No
+4234|757|Rhinitis allergic|5yr-<10yr|No
+4782|757|Lacrimation increased|1yr-<5yr|No
+5262|757|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+5270|757|Glaucoma|6m-<12m|Yes
+4554|40|Diabetes mellitus|5yr-<10yr|Yes
+4555|40|Hypertension|5yr-<10yr|Yes
+4556|40|Diabetic gastroparesis|5yr-<10yr|No
+284|279|Diabetes mellitus|10yr-<20yr|Yes
+538|279|Diabetic neuropathy|3m-<6m|Yes
+1344|279|Vitreous floaters|<=30d|No
+5109|279|Vision blurred|<=30d|No
+5110|279|Diplopia|<=30d|No
+5111|279|Visual field defect|<=30d|No
+385|696|Diabetes mellitus|10yr-<20yr|Yes
+386|696|Hypertension|1yr-<5yr|Yes
+387|696|Hypercholesterolaemia|5yr-<10yr|Yes
+674|821|Cerebrovascular accident|5yr-<10yr|No
+675|821|Myocardial infarction|>=20yr|No
+676|821|Hypertension|10yr-<20yr|Yes
+677|821|Diabetes mellitus|10yr-<20yr|Yes
+678|821|Dementia|10yr-<20yr|Yes
+679|821|Diabetic retinal oedema|5yr-<10yr|Yes
+5179|821|Depression|5yr-<10yr|Yes
+923|581|Diabetes mellitus|1yr-<5yr|Yes
+899|204|Diabetes mellitus|>=20yr|Yes
+1356|204|Eye pruritus|6m-<12m|No
+1223|444|Hypertension|5yr-<10yr|Yes
+1224|444|Diabetes mellitus|10yr-<20yr|Yes
+1225|444|Hyperlipidaemia|5yr-<10yr|Yes
+1226|444|Actinic keratosis|1yr-<5yr|No
+1342|444|Osteoporosis|5yr-<10yr|Yes
+1752|660|Diabetes mellitus|10yr-<20yr|Yes
+1753|660|Hypertension|6m-<12m|Yes
+1754|660|Hyperlipidaemia|6m-<12m|Yes
+5558|660|Retinal ischaemia|5yr-<10yr|No
+1749|546|Diabetes mellitus|10yr-<20yr|Yes
+1750|546|Hypertension|10yr-<20yr|Yes
+1751|546|Depression|5yr-<10yr|Yes
+3056|546|Migraine|>1m-<3m|Yes
+3057|546|Hyperlipidaemia|>1m-<3m|Yes
+1942|729|Diabetes mellitus|10yr-<20yr|Yes
+1943|729|Hypertension|6m-<12m|No
+1944|729|Gastric ulcer|3m-<6m|Yes
+1945|729|Hypercholesterolaemia|3m-<6m|Yes
+2952|729|Photopsia|6m-<12m|No
+2953|729|Vitreous floaters|6m-<12m|No
+2954|729|Eye pruritus|6m-<12m|No
+2955|729|Eye pain|3m-<6m|No
+2254|264|Diabetes mellitus|10yr-<20yr|Yes
+2255|264|Hypertension|1yr-<5yr|Yes
+2414|186|Diabetes mellitus|10yr-<20yr|Yes
+2415|186|Hypertension|10yr-<20yr|Yes
+2416|186|Hyperlipidaemia|5yr-<10yr|Yes
+3420|186|Osteoarthritis|1yr-<5yr|Yes
+2651|160|Diabetes mellitus|>=20yr|Yes
+2652|160|Hypertension|1yr-<5yr|Yes
+2653|160|Hyperlipidaemia|1yr-<5yr|Yes
+2654|160|Dizziness|6m-<12m|Yes
+4012|160|Anaemia|1yr-<5yr|Yes
+5213|160|Dry eye|6m-<12m|Yes
+5323|160|Depression|<=30d|Yes
+2820|253|Glaucoma|1yr-<5yr|Yes
+2821|253|Osteoarthritis|1yr-<5yr|Yes
+2822|253|Hypertension|5yr-<10yr|Yes
+2823|253|Gastrooesophageal reflux disease|3m-<6m|Yes
+2824|253|Diabetes mellitus|10yr-<20yr|Yes
+2825|253|Hot flush|3m-<6m|Yes
+2826|253|Gout|3m-<6m|Yes
+2843|495|Diabetes mellitus|>=20yr|Yes
+2844|495|Hypertension|1yr-<5yr|Yes
+2845|495|Hypercholesterolaemia|1yr-<5yr|Yes
+2846|495|Swelling|>1m-<3m|Yes
+5214|495|Vitreous floaters|6m-<12m|No
+5215|495|Vision blurred|6m-<12m|No
+5465|495|Erectile dysfunction|1yr-<5yr|Yes
+3319|187|Diabetes mellitus|>=20yr|Yes
+3320|187|Hypertension|10yr-<20yr|Yes
+3321|187|Cardiac failure congestive|10yr-<20yr|Yes
+3322|187|Hypercholesterolaemia|10yr-<20yr|Yes
+3323|187|Oedema peripheral|3m-<6m|Yes
+3324|187|Cardiac pacemaker insertion|6m-<12m|No
+3325|187|Myocardial infarction|10yr-<20yr|No
+3326|187|Renal failure chronic|5yr-<10yr|No
+5230|187|Metamorphopsia|>1m-<3m|No
+3525|331|Diabetes mellitus|5yr-<10yr|Yes
+3526|331|Hypothyroidism|>=20yr|Yes
+3527|331|Insomnia|10yr-<20yr|Yes
+3528|331|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3529|331|Depression|10yr-<20yr|Yes
+3530|331|Hypercholesterolaemia|1yr-<5yr|Yes
+3531|331|Seasonal allergy|1yr-<5yr|Yes
+3532|331|Dry eye|6m-<12m|Yes
+3533|331|Angioedema|10yr-<20yr|Yes
+3534|331|Eye pruritus|6m-<12m|Yes
+5199|331|Diplopia|1yr-<5yr|No
+5200|331|Vitreous floaters|>1m-<3m|No
+5207|331|Photopsia|<=30d|No
+3689|438|Diabetes mellitus|10yr-<20yr|Yes
+3690|438|Hyperlipidaemia|5yr-<10yr|Yes
+3691|438|Hypertension|5yr-<10yr|Yes
+3846|438|Cerebrovascular accident|1yr-<5yr|Yes
+5150|438|Depression|3m-<6m|Yes
+3699|539|Diabetes mellitus|>=20yr|Yes
+3700|539|Hypertension|1yr-<5yr|Yes
+3701|539|Hyperlipidaemia|1yr-<5yr|Yes
+3702|539|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3703|539|Seasonal allergy|>=20yr|Yes
+5187|539|Insomnia|3m-<6m|No
+5202|539|Osteoarthritis|5yr-<10yr|Yes
+5228|539|Asthma|>=20yr|No
+3794|648|Diabetes mellitus|5yr-<10yr|Yes
+3795|648|Hyperlipidaemia|6m-<12m|Yes
+3796|648|Hypertension|6m-<12m|Yes
+3797|648|Diabetic foot|>1m-<3m|Yes
+5516|648|Neuropathic arthropathy|3m-<6m|No
+4055|840|Diabetes mellitus|>=20yr|Yes
+4102|840|Back pain|>=20yr|Yes
+4103|840|Hypercholesterolaemia|5yr-<10yr|No
+4104|840|Hypertension|10yr-<20yr|Yes
+4105|840|Localised infection|>1m-<3m|Yes
+4106|840|Ear pain|6m-<12m|Yes
+4107|840|Oedema peripheral|>1m-<3m|Yes
+5219|840|Vitreous floaters|5yr-<10yr|No
+5220|840|Photopsia|5yr-<10yr|No
+5221|840|Diplopia|<=30d|No
+4254|93|Diabetes mellitus|>1m-<3m|Yes
+4255|93|Hypertension|>1m-<3m|Yes
+5189|93|Vitreous floaters|<=30d|No
+4287|593|Gastrooesophageal reflux disease|6m-<12m|Yes
+4288|593|Diabetes mellitus|>=20yr|Yes
+4289|593|Hypertension|6m-<12m|Yes
+5272|593|Hyperlipidaemia|>1m-<3m|Yes
+4337|411|Diabetes mellitus|5yr-<10yr|Yes
+4951|411|Cataract|1yr-<5yr|No
+4367|655|Diabetes mellitus|6m-<12m|Yes
+5231|655|Vision blurred|3m-<6m|No
+4466|358|Depression|1yr-<5yr|No
+4467|358|Hypercholesterolaemia|3m-<6m|No
+4468|358|Diabetes mellitus|>=20yr|Yes
+4469|358|Ocular hypertension|<=30d|Yes
+4470|358|Hypertension|5yr-<10yr|Yes
+4661|469|Diabetes mellitus|>=20yr|Yes
+4662|469|Hypertension|5yr-<10yr|Yes
+5208|469|Dry mouth|1yr-<5yr|No
+4667|375|Diabetes mellitus|10yr-<20yr|Yes
+4668|375|Hypertension|10yr-<20yr|Yes
+4669|375|Gastrooesophageal reflux disease|3m-<6m|Yes
+5209|375|Vision blurred|6m-<12m|No
+5250|375|Hyperlipidaemia|1yr-<5yr|Yes
+4717|194|Diabetes mellitus|10yr-<20yr|Yes
+4718|194|Hyperlipidaemia|5yr-<10yr|Yes
+4719|194|Hypertension|5yr-<10yr|Yes
+4980|194|Hypothyroidism|5yr-<10yr|Yes
+4981|194|Menopause|1yr-<5yr|Yes
+3|181|Diabetes mellitus|10yr-<20yr|Yes
+4|181|Osteoarthritis|>=20yr|No
+5|181|Hypertension|10yr-<20yr|Yes
+76|181|Cataract operation|1yr-<5yr|No
+77|181|Hypercholesterolaemia|1yr-<5yr|Yes
+78|181|Depression|1yr-<5yr|No
+79|181|Knee operation|5yr-<10yr|No
+80|181|Biopsy prostate abnormal|5yr-<10yr|No
+81|181|Shoulder operation|10yr-<20yr|No
+82|181|Cholecystectomy|5yr-<10yr|No
+83|181|Neuropathy peripheral|1yr-<5yr|Yes
+84|181|Pain|5yr-<10yr|Yes
+5101|181|Cardiac failure congestive|1yr-<5yr|Yes
+5102|181|Gout|1yr-<5yr|No
+5103|181|Convulsion|5yr-<10yr|No
+5104|181|Renal failure chronic|1yr-<5yr|Yes
+5105|181|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+318|268|Diabetes mellitus|10yr-<20yr|Yes
+319|268|Coronary artery disease|5yr-<10yr|Yes
+320|268|Hypertension|10yr-<20yr|Yes
+445|268|Hyperlipidaemia|5yr-<10yr|Yes
+446|268|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+447|268|Cholelithiasis|10yr-<20yr|No
+448|268|Appendicitis|>=20yr|No
+449|268|Coronary arterial stent insertion|5yr-<10yr|No
+450|268|Knee operation|5yr-<10yr|No
+451|268|Skin cancer|5yr-<10yr|No
+4081|268|Osteoarthritis|5yr-<10yr|Yes
+5028|268|Cataract|5yr-<10yr|No
+5029|268|Vitreous detachment|1yr-<5yr|No
+5030|268|Anaemia|5yr-<10yr|No
+5031|268|Polyp|5yr-<10yr|No
+5032|268|Benign prostatic hyperplasia|1yr-<5yr|No
+5033|268|Diabetic retinal oedema|1yr-<5yr|No
+5034|268|Diabetic neuropathy|1yr-<5yr|No
+14|341|Diabetes mellitus|>=20yr|Yes
+15|341|Hypertension|10yr-<20yr|Yes
+16|341|Hypothyroidism|10yr-<20yr|Yes
+17|341|Hyperlipidaemia|5yr-<10yr|Yes
+18|341|Neuropathy peripheral|5yr-<10yr|Yes
+19|341|Osteoarthritis|5yr-<10yr|Yes
+20|341|Tonsillectomy|>=20yr|No
+21|341|Hysterectomy|5yr-<10yr|No
+85|341|Vitrectomy|1yr-<5yr|No
+86|341|Retinal laser coagulation|1yr-<5yr|No
+87|341|Insomnia|1yr-<5yr|Yes
+88|341|Arthralgia|5yr-<10yr|Yes
+89|341|Dry eye|1yr-<5yr|Yes
+1462|341|Macular fibrosis|1yr-<5yr|No
+22|395|Diabetes mellitus|>=20yr|Yes
+23|395|Gastric bypass|1yr-<5yr|No
+24|395|Knee operation|1yr-<5yr|No
+703|395|Cerebrovascular accident|1yr-<5yr|No
+704|395|Hypertension|5yr-<10yr|Yes
+705|395|Hypothyroidism|5yr-<10yr|Yes
+706|395|Neuropathy peripheral|1yr-<5yr|Yes
+707|395|Anaemia|5yr-<10yr|Yes
+708|395|Constipation|1yr-<5yr|Yes
+709|395|Arthralgia|1yr-<5yr|No
+710|395|Depression|1yr-<5yr|Yes
+711|395|Anxiety|1yr-<5yr|Yes
+4801|395|Cataract|1yr-<5yr|No
+5358|395|Uterine dilation and curettage|10yr-<20yr|No
+25|453|Diabetes mellitus|>=20yr|Yes
+26|453|Hypertension|10yr-<20yr|Yes
+27|453|Hyperlipidaemia|5yr-<10yr|Yes
+28|453|Depression|5yr-<10yr|Yes
+29|453|Endodontic procedure|5yr-<10yr|No
+5017|453|Diabetic retinopathy|5yr-<10yr|No
+5018|453|Diabetic retinal oedema|5yr-<10yr|No
+5019|453|Macular fibrosis|1yr-<5yr|No
+50|12|Diabetes mellitus|>=20yr|Yes
+51|12|Hypertension|5yr-<10yr|Yes
+52|12|Drug hypersensitivity|>=20yr|No
+53|12|Depression|5yr-<10yr|Yes
+54|12|Toe amputation|1yr-<5yr|No
+55|12|Cataract operation|1yr-<5yr|No
+56|12|Carpal tunnel syndrome|1yr-<5yr|No
+57|12|Hernia|5yr-<10yr|No
+58|12|Cholecystectomy|5yr-<10yr|No
+59|12|Neuropathy peripheral|1yr-<5yr|Yes
+60|12|Back pain|>=20yr|Yes
+61|12|Vitrectomy|>1m-<3m|No
+62|12|Vitreous haemorrhage|>1m-<3m|No
+63|12|Limb traumatic amputation|10yr-<20yr|No
+64|12|Appendicitis|10yr-<20yr|No
+65|12|Hysterectomy|1yr-<5yr|No
+66|12|Surgery|10yr-<20yr|No
+67|12|Osteoarthritis|5yr-<10yr|No
+68|12|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+456|12|Dry eye|6m-<12m|Yes
+457|12|Transient ischaemic attack|5yr-<10yr|No
+3165|12|Abdominal pain|1yr-<5yr|No
+3166|12|Constipation|1yr-<5yr|No
+3167|12|Diarrhoea|1yr-<5yr|No
+4921|12|Psoriasis|5yr-<10yr|No
+5035|12|Deafness|1yr-<5yr|No
+5036|12|Nasal congestion|10yr-<20yr|No
+150|605|Diabetes mellitus|1yr-<5yr|Yes
+151|605|Dry eye|6m-<12m|Yes
+152|605|Conjunctivitis allergic|1yr-<5yr|Yes
+153|605|Hypertension|1yr-<5yr|Yes
+154|605|Hyperlipidaemia|1yr-<5yr|Yes
+155|605|Drug hypersensitivity|5yr-<10yr|No
+156|605|Cardiac failure congestive|1yr-<5yr|Yes
+157|605|Renal impairment|1yr-<5yr|Yes
+158|605|Knee operation|5yr-<10yr|No
+159|605|Osteoarthritis|5yr-<10yr|No
+160|605|Prostatomegaly|1yr-<5yr|Yes
+5020|605|Cataract|6m-<12m|No
+5021|605|Conjunctivitis|1yr-<5yr|No
+5022|605|Facial bones fracture|5yr-<10yr|No
+5023|605|Diabetic retinal oedema|<=30d|No
+161|468|Cataract operation|5yr-<10yr|No
+162|468|Diabetes mellitus|10yr-<20yr|Yes
+163|468|Hypertension|10yr-<20yr|Yes
+164|468|Hypothyroidism|10yr-<20yr|Yes
+165|468|Diabetic neuropathy|5yr-<10yr|Yes
+166|468|Hyperlipidaemia|5yr-<10yr|Yes
+167|468|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+1786|468|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+2090|468|Erectile dysfunction|6m-<12m|Yes
+2091|468|Cough|6m-<12m|Yes
+2092|468|Muscle spasms|1yr-<5yr|Yes
+5009|468|Diabetic retinal oedema|10yr-<20yr|Yes
+5010|468|Glaucoma|5yr-<10yr|Yes
+5011|468|Depression|5yr-<10yr|No
+5012|468|Drug hypersensitivity|10yr-<20yr|No
+5013|468|Nasal congestion|10yr-<20yr|No
+5014|468|Arthralgia|10yr-<20yr|No
+981|599|Diabetes mellitus|5yr-<10yr|Yes
+1041|599|Hypertension|10yr-<20yr|Yes
+1042|599|Hyperlipidaemia|1yr-<5yr|Yes
+1043|599|Drug hypersensitivity|1yr-<5yr|No
+1044|599|Coronary artery disease|1yr-<5yr|Yes
+1045|599|Cataract operation|1yr-<5yr|No
+1046|599|Coronary artery bypass|1yr-<5yr|No
+1047|599|Tonsillectomy|>=20yr|No
+1048|599|Diabetic neuropathy|1yr-<5yr|No
+1049|599|Deafness|1yr-<5yr|No
+4783|599|Cataract|1yr-<5yr|No
+4784|599|Diabetic retinopathy|1yr-<5yr|No
+987|27|Diabetes mellitus|10yr-<20yr|Yes
+988|27|Coronary artery stenosis|5yr-<10yr|Yes
+1026|27|Chronic obstructive pulmonary disease|6m-<12m|Yes
+1027|27|Hypertension|5yr-<10yr|Yes
+1028|27|Prostatomegaly|5yr-<10yr|Yes
+1029|27|Atrial fibrillation|5yr-<10yr|Yes
+1030|27|Rheumatoid arthritis|5yr-<10yr|Yes
+1031|27|Hyperlipidaemia|5yr-<10yr|Yes
+1032|27|Nasal congestion|5yr-<10yr|Yes
+1033|27|Anaemia|5yr-<10yr|Yes
+1034|27|Tonsillectomy|>=20yr|No
+1035|27|Coronary arterial stent insertion|5yr-<10yr|No
+1036|27|Trigger finger|5yr-<10yr|No
+1037|27|Dermal cyst|5yr-<10yr|No
+1038|27|Cataract|5yr-<10yr|No
+1039|27|Cutis laxa|5yr-<10yr|No
+1040|27|Sleep apnoea syndrome|1yr-<5yr|No
+4997|27|Knee operation|1yr-<5yr|No
+4998|27|Diabetic retinal oedema|1yr-<5yr|No
+5441|27|Transient ischaemic attack|5yr-<10yr|No
+5442|27|Renal failure chronic|1yr-<5yr|No
+1112|610|Diabetes mellitus|>1m-<3m|Yes
+1113|610|Hypertension|>1m-<3m|Yes
+1114|610|Appendicitis|>=20yr|No
+1115|610|Hysterectomy|10yr-<20yr|No
+1116|610|Female sterilisation|10yr-<20yr|No
+4995|610|Constipation|1yr-<5yr|No
+4996|610|Cataract nuclear|3m-<6m|No
+1177|48|Diabetes mellitus|10yr-<20yr|Yes
+1178|48|Myocardial infarction|1yr-<5yr|No
+1179|48|Stent placement|1yr-<5yr|No
+1180|48|Hysterectomy|5yr-<10yr|No
+1181|48|Ankle fracture|1yr-<5yr|No
+1182|48|Tooth extraction|1yr-<5yr|No
+1183|48|Hyperlipidaemia|1yr-<5yr|Yes
+1184|48|Coronary artery disease|1yr-<5yr|Yes
+1185|48|Cataract|>1m-<3m|No
+1188|48|Hypertension|1yr-<5yr|Yes
+3014|48|Osteoarthritis|1yr-<5yr|No
+3015|48|Nasal congestion|5yr-<10yr|No
+1805|574|Diabetes mellitus|>=20yr|Yes
+1806|574|Hyperlipidaemia|1yr-<5yr|Yes
+1807|574|Hypertension|5yr-<10yr|Yes
+1808|574|Back pain|1yr-<5yr|Yes
+1809|574|Neck pain|1yr-<5yr|Yes
+1810|574|Osteoarthritis|1yr-<5yr|No
+4340|574|Polyp|1yr-<5yr|No
+4341|574|Chronic sinusitis|>=20yr|No
+4993|574|Cataract nuclear|1yr-<5yr|No
+4994|574|Cataract cortical|1yr-<5yr|No
+1857|315|Diabetes mellitus|>=20yr|Yes
+1858|315|Hypertension|>=20yr|Yes
+1859|315|Drug hypersensitivity|10yr-<20yr|No
+1860|315|Knee operation|>1m-<3m|Yes
+1861|315|Coronary arterial stent insertion|1yr-<5yr|Yes
+2283|315|Coronary artery disease|1yr-<5yr|No
+2994|315|Appendicitis|>=20yr|No
+2995|315|Sinus operation|10yr-<20yr|No
+2996|315|Limb injury|10yr-<20yr|No
+2997|315|Tonsillectomy|>=20yr|No
+2998|315|Cataract operation|6m-<12m|No
+2999|315|Vitrectomy|6m-<12m|No
+3000|315|Cataract nuclear|6m-<12m|No
+3001|315|Cataract cortical|6m-<12m|No
+3002|315|Cataract subcapsular|6m-<12m|No
+3003|315|Eye pain|6m-<12m|No
+3004|315|Ocular hyperaemia|6m-<12m|No
+3005|315|Vitreous haemorrhage|6m-<12m|No
+3006|315|Asthma|5yr-<10yr|No
+3007|315|Osteoarthritis|5yr-<10yr|Yes
+3008|315|Hypothyroidism|>=20yr|No
+3009|315|Constipation|1yr-<5yr|Yes
+4314|315|Foot deformity|1yr-<5yr|No
+4999|315|Exostosis|5yr-<10yr|No
+2215|311|Diabetes mellitus|>=20yr|Yes
+2216|311|Parkinson's disease|1yr-<5yr|No
+2217|311|Diabetic neuropathy|1yr-<5yr|No
+2218|311|Hyperlipidaemia|1yr-<5yr|Yes
+2219|311|Arteriosclerosis|1yr-<5yr|No
+2220|311|Peripheral vascular disorder|1yr-<5yr|No
+3016|311|Dermatitis allergic|>1m-<3m|Yes
+3017|311|Osteoarthritis|1yr-<5yr|No
+3018|311|Chronic obstructive pulmonary disease|1yr-<5yr|No
+3019|311|Knee operation|5yr-<10yr|No
+3020|311|Sinusitis|5yr-<10yr|No
+3021|311|Back pain|1yr-<5yr|No
+3022|311|Cataract nuclear|>1m-<3m|No
+3023|311|Drug hypersensitivity|1yr-<5yr|No
+5026|311|Surgery|5yr-<10yr|No
+5027|311|Cyst|5yr-<10yr|No
+2508|223|Diabetes mellitus|10yr-<20yr|Yes
+2509|223|Hypertension|10yr-<20yr|Yes
+2510|223|Sleep apnoea syndrome|5yr-<10yr|No
+2511|223|Hyperlipidaemia|10yr-<20yr|Yes
+2512|223|Coronary artery disease|10yr-<20yr|Yes
+2513|223|Coronary angioplasty|10yr-<20yr|No
+2514|223|Gastrooesophageal reflux disease|5yr-<10yr|No
+2515|223|Stent placement|10yr-<20yr|No
+2516|223|Coronary artery bypass|10yr-<20yr|No
+2517|223|Skin cancer|1yr-<5yr|No
+2518|223|Cholecystectomy|10yr-<20yr|No
+3010|223|Drug hypersensitivity|6m-<12m|No
+3011|223|Deafness|1yr-<5yr|No
+3012|223|Dyspnoea|1yr-<5yr|No
+3013|223|Headache|1yr-<5yr|No
+5000|223|Wrist surgery|5yr-<10yr|No
+3644|66|Diabetes mellitus|>=20yr|Yes
+3645|66|Renal impairment|>1m-<3m|No
+3646|66|Anaemia|1yr-<5yr|No
+3647|66|Depression|5yr-<10yr|Yes
+3648|66|Cerebrovascular accident|10yr-<20yr|Yes
+3649|66|Neuropathy peripheral|5yr-<10yr|Yes
+3650|66|Hypertension|>=20yr|Yes
+4454|66|Transient ischaemic attack|1yr-<5yr|No
+4763|66|Posterior capsule opacification|>1m-<3m|No
+4887|66|Insomnia|1yr-<5yr|Yes
+4888|66|Macular fibrosis|1yr-<5yr|No
+4889|66|Corneal dystrophy|>1m-<3m|No
+3731|847|Diabetes mellitus|1yr-<5yr|Yes
+3732|847|Hypertension|1yr-<5yr|Yes
+3733|847|Depression|5yr-<10yr|Yes
+3734|847|Colonoscopy|1yr-<5yr|No
+4411|847|Insomnia|1yr-<5yr|Yes
+4412|847|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4413|847|Hyperlipidaemia|1yr-<5yr|Yes
+5002|847|Osteoarthritis|1yr-<5yr|No
+5003|847|Renal failure chronic|1yr-<5yr|No
+5004|847|Vertigo|1yr-<5yr|No
+5005|847|Uterine dilation and curettage|10yr-<20yr|No
+5006|847|Surgery|5yr-<10yr|No
+3775|287|Diabetes mellitus|10yr-<20yr|Yes
+3776|287|Hypertension|>=20yr|Yes
+3777|287|Gout|>=20yr|Yes
+3778|287|Cholecystectomy|10yr-<20yr|No
+3779|287|Joint dislocation|10yr-<20yr|No
+3780|287|Diabetic neuropathy|5yr-<10yr|Yes
+3781|287|Sleep apnoea syndrome|5yr-<10yr|No
+3782|287|Anaemia|1yr-<5yr|Yes
+3783|287|Chronic obstructive pulmonary disease|10yr-<20yr|No
+3784|287|Renal impairment|1yr-<5yr|No
+3785|287|Osteoarthritis|10yr-<20yr|Yes
+3786|287|Osteoporosis|5yr-<10yr|Yes
+3787|287|Hyperlipidaemia|10yr-<20yr|Yes
+3788|287|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+3789|287|Drug hypersensitivity|10yr-<20yr|No
+4992|287|Nasal congestion|10yr-<20yr|No
+3832|128|Diabetes mellitus|>=20yr|Yes
+3833|128|Hypertension|>=20yr|Yes
+3834|128|Nephrolithiasis|10yr-<20yr|Yes
+3835|128|Hyperlipidaemia|10yr-<20yr|Yes
+3836|128|Glaucoma|5yr-<10yr|Yes
+3837|128|Cataract operation|5yr-<10yr|No
+3838|128|Glaucoma surgery|5yr-<10yr|No
+3839|128|Cardiac pacemaker replacement|10yr-<20yr|No
+3840|128|Cholecystectomy|1yr-<5yr|No
+3841|128|Heart rate irregular|>=20yr|Yes
+3842|128|Diabetic retinal oedema|5yr-<10yr|Yes
+5015|128|Nasal congestion|>=20yr|No
+5016|128|Coronary artery disease|5yr-<10yr|No
+4087|288|Diabetes mellitus|>=20yr|Yes
+4088|288|Cataract operation|1yr-<5yr|No
+4089|288|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+4090|288|Osteoarthritis|5yr-<10yr|Yes
+4091|288|Drug hypersensitivity|10yr-<20yr|No
+4147|288|Localised infection|>1m-<3m|No
+4148|288|Cyst|1yr-<5yr|No
+4149|288|Vitreous haemorrhage|<=30d|No
+4150|288|Diabetic retinopathy|5yr-<10yr|No
+4151|288|Vitreous adhesions|1yr-<5yr|No
+4152|288|Nasal congestion|5yr-<10yr|No
+4153|288|Foot fracture|10yr-<20yr|No
+4802|288|Anaemia|1yr-<5yr|No
+5001|288|Macular fibrosis|1yr-<5yr|No
+4571|211|Diabetes mellitus|6m-<12m|Yes
+4572|211|Hypertension|1yr-<5yr|Yes
+4573|211|Cardiac failure congestive|6m-<12m|Yes
+4574|211|Coronary artery disease|6m-<12m|Yes
+4575|211|Musculoskeletal discomfort|1yr-<5yr|No
+4890|211|Eye naevus|1yr-<5yr|No
+4891|211|Cataract nuclear|3m-<6m|No
+4822|550|Diabetes mellitus|5yr-<10yr|Yes
+4823|550|Hypertension|1yr-<5yr|Yes
+4824|550|Asthma|10yr-<20yr|No
+4826|550|Depression|1yr-<5yr|No
+4827|550|Diabetic neuropathy|1yr-<5yr|No
+4834|550|Cataract|6m-<12m|No
+4952|130|Diabetes mellitus|>=20yr|Yes
+4953|130|Hypertension|10yr-<20yr|Yes
+4954|130|Rheumatoid arthritis|5yr-<10yr|Yes
+4955|130|Asthma|1yr-<5yr|No
+4956|130|Hyperlipidaemia|1yr-<5yr|Yes
+4957|130|Gastrooesophageal reflux disease|1yr-<5yr|No
+90|578|Diabetes mellitus|10yr-<20yr|Yes
+91|578|Hypertension|5yr-<10yr|Yes
+92|578|Hypercholesterolaemia|5yr-<10yr|Yes
+93|578|Cellulitis|>1m-<3m|Yes
+94|578|Limb injury|5yr-<10yr|No
+95|578|Blood testosterone decreased|3m-<6m|Yes
+96|578|Eye pruritus|6m-<12m|No
+217|552|Diabetes mellitus|10yr-<20yr|Yes
+218|552|Chest pain|5yr-<10yr|No
+219|552|Stent placement|5yr-<10yr|Yes
+221|552|Hepatomegaly|10yr-<20yr|No
+222|552|Infection|6m-<12m|No
+223|552|Embolism|5yr-<10yr|No
+684|552|Hyperlipidaemia|6m-<12m|Yes
+685|552|Oedema peripheral|5yr-<10yr|Yes
+686|552|Gastrooesophageal reflux disease|3m-<6m|Yes
+1243|552|Coronary artery disease|5yr-<10yr|No
+5527|552|Hypertension|5yr-<10yr|Yes
+5528|552|Cardiac failure congestive|5yr-<10yr|Yes
+629|618|Diabetes mellitus|>=20yr|Yes
+630|618|Myasthenia gravis|6m-<12m|Yes
+633|618|Hypertension|>=20yr|Yes
+635|618|Hypercholesterolaemia|>=20yr|Yes
+636|618|Constipation|10yr-<20yr|No
+637|618|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+638|618|Chronic obstructive pulmonary disease|5yr-<10yr|Yes
+639|618|Anaemia|5yr-<10yr|Yes
+640|618|Anxiety|6m-<12m|Yes
+645|618|Dry eye|1yr-<5yr|Yes
+1244|618|Coronary artery disease|10yr-<20yr|No
+5540|618|Death|<=30d|No
+646|607|Diabetes mellitus|10yr-<20yr|Yes
+647|607|Cerebrovascular accident|1yr-<5yr|Yes
+648|607|Hypertension|10yr-<20yr|Yes
+649|607|Hypercholesterolaemia|10yr-<20yr|Yes
+650|607|Hysterectomy|>=20yr|No
+659|607|Hypersensitivity|>=20yr|Yes
+660|607|Anaemia|1yr-<5yr|Yes
+661|607|Drug hypersensitivity|10yr-<20yr|No
+5541|607|Death|6m-<12m|No
+745|809|Diabetes mellitus|10yr-<20yr|Yes
+746|809|Hypertension|5yr-<10yr|Yes
+747|809|Migraine|10yr-<20yr|No
+748|809|Shoulder operation|10yr-<20yr|No
+944|108|Diabetes mellitus|5yr-<10yr|Yes
+945|108|Hypertension|6m-<12m|Yes
+946|108|Stent placement|6m-<12m|No
+947|108|Rib fracture|1yr-<5yr|No
+948|108|Myocardial infarction|10yr-<20yr|No
+949|108|Hypercholesterolaemia|6m-<12m|Yes
+1130|525|Diabetes mellitus|>=20yr|Yes
+1131|525|Removal of foreign body from throat|10yr-<20yr|No
+1132|525|Appendicitis|>=20yr|No
+1133|525|Drug hypersensitivity|3m-<6m|No
+1212|459|Diabetes mellitus|>=20yr|Yes
+1213|459|Hypertension|10yr-<20yr|Yes
+1214|459|Hypercholesterolaemia|5yr-<10yr|Yes
+1215|459|Anxiety|10yr-<20yr|Yes
+1216|459|Transient ischaemic attack|>=20yr|No
+1217|459|Neuropathy peripheral|1yr-<5yr|No
+1590|459|Diabetic retinopathy|10yr-<20yr|No
+1230|787|Diabetes mellitus|6m-<12m|Yes
+1231|787|Hypertension|6m-<12m|Yes
+1259|787|Endometrial cancer|10yr-<20yr|No
+1260|787|Migraine|>=20yr|No
+1261|787|Anxiety|6m-<12m|Yes
+1272|715|Diabetes mellitus|10yr-<20yr|Yes
+1293|715|Dry eye|1yr-<5yr|Yes
+1295|715|Hypertension|10yr-<20yr|Yes
+1296|715|Hyperlipidaemia|5yr-<10yr|Yes
+1297|715|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+1298|715|Gout|1yr-<5yr|No
+1299|715|Spinal column stenosis|10yr-<20yr|No
+1300|715|Cardiac failure congestive|1yr-<5yr|Yes
+1301|715|Renal impairment|5yr-<10yr|No
+1302|715|Prostatomegaly|6m-<12m|Yes
+1303|715|Myocardial infarction|5yr-<10yr|No
+1304|715|Rheumatoid arthritis|10yr-<20yr|Yes
+2966|691|Coronary artery disease|5yr-<10yr|No
+2967|691|Diabetes mellitus|10yr-<20yr|Yes
+2968|691|Osteoarthritis|1yr-<5yr|No
+2969|691|Cholecystectomy|1yr-<5yr|No
+2970|691|Hypercholesterolaemia|3m-<6m|Yes
+2971|691|Hypertension|3m-<6m|Yes
+3173|788|Diabetes mellitus|>=20yr|Yes
+3174|788|Gout|10yr-<20yr|Yes
+3175|788|Hypertension|>=20yr|Yes
+3176|788|Hypercholesterolaemia|>=20yr|Yes
+3177|788|Cholecystectomy|5yr-<10yr|No
+3178|788|Surgery|10yr-<20yr|No
+3179|788|Cardiac pacemaker insertion|1yr-<5yr|No
+3180|788|Atrial fibrillation|10yr-<20yr|Yes
+4009|788|Coronary artery disease|5yr-<10yr|Yes
+5529|788|Depression|1yr-<5yr|No
+5530|788|Arrhythmia|5yr-<10yr|No
+4729|732|Diabetes mellitus|1yr-<5yr|Yes
+4730|732|Neuropathy peripheral|1yr-<5yr|No
+4792|732|Toe amputation|>1m-<3m|No
+2524|589|Hypertension|10yr-<20yr|Yes
+2528|589|Diabetes mellitus|>=20yr|Yes
+2529|589|Atrial fibrillation|5yr-<10yr|Yes
+2530|589|Hyperlipidaemia|5yr-<10yr|Yes
+2531|589|Coronary artery disease|5yr-<10yr|No
+2532|589|Myocardial infarction|5yr-<10yr|No
+2533|589|Oedema peripheral|5yr-<10yr|Yes
+2534|589|Cardiac pacemaker insertion|5yr-<10yr|No
+2535|589|Hysterectomy|>=20yr|No
+2699|589|Glaucoma|5yr-<10yr|Yes
+5080|589|Renal failure|1yr-<5yr|No
+5081|589|Diabetic neuropathy|1yr-<5yr|No
+2668|731|Diabetes mellitus|>=20yr|Yes
+2674|731|Hypothyroidism|>1m-<3m|Yes
+2675|731|Hyperlipidaemia|5yr-<10yr|Yes
+2676|731|Hypertension|6m-<12m|Yes
+2677|731|Seasonal allergy|5yr-<10yr|Yes
+3202|514|Diabetes mellitus|>=20yr|Yes
+3203|514|Hypertension|>=20yr|Yes
+3204|514|Coronary artery disease|10yr-<20yr|No
+3205|514|Coronary artery bypass|10yr-<20yr|No
+3206|514|Hyperlipidaemia|10yr-<20yr|Yes
+3207|514|Deafness|>=20yr|No
+3208|514|Oedema peripheral|10yr-<20yr|Yes
+3209|514|Vitamin D deficiency|1yr-<5yr|Yes
+3240|622|Diabetes mellitus|10yr-<20yr|Yes
+3247|622|Hypertension|>=20yr|Yes
+3248|622|Hyperlipidaemia|1yr-<5yr|Yes
+3249|622|Osteoarthritis|5yr-<10yr|No
+3410|651|Diabetes mellitus|1yr-<5yr|Yes
+3411|651|Hyperlipidaemia|1yr-<5yr|Yes
+3538|719|Diabetes mellitus|10yr-<20yr|Yes
+3555|719|Hypertension|1yr-<5yr|Yes
+3556|719|Toe amputation|5yr-<10yr|No
+3557|719|Tenotomy|1yr-<5yr|No
+3558|719|Infection|<=30d|Yes
+3559|719|Gastrooesophageal reflux disease|3m-<6m|Yes
+3560|719|Seasonal allergy|>=20yr|Yes
+3561|719|Inguinal hernia repair|>=20yr|No
+3562|719|Depression|>=20yr|Yes
+5232|719|Deafness|5yr-<10yr|No
+5233|719|Anxiety|5yr-<10yr|No
+5234|719|Leukocytosis|5yr-<10yr|No
+5235|719|Motion sickness|5yr-<10yr|No
+5236|719|Headache|5yr-<10yr|No
+5237|719|Asthma|5yr-<10yr|No
+5238|719|Neuropathy peripheral|5yr-<10yr|No
+5239|719|Angina pectoris|5yr-<10yr|No
+5240|719|Arrhythmia|5yr-<10yr|No
+5241|719|Bronchitis|5yr-<10yr|No
+4263|314|Diabetes mellitus|>=20yr|Yes
+4269|314|Seasonal allergy|10yr-<20yr|No
+4270|314|Hyperlipidaemia|10yr-<20yr|Yes
+4271|314|Peptic ulcer|10yr-<20yr|No
+4272|314|Coronary artery disease|10yr-<20yr|Yes
+4273|314|Coronary artery bypass|10yr-<20yr|No
+4274|314|Vitamin D deficiency|3m-<6m|Yes
+2401|580|Diabetes mellitus|10yr-<20yr|Yes
+2402|580|Hypertension|1yr-<5yr|Yes
+2403|580|Hepatitis|1yr-<5yr|Yes
+2404|580|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+2405|631|Diabetes mellitus|10yr-<20yr|Yes
+2406|631|Hypercholesterolaemia|6m-<12m|Yes
+2407|631|Pain in extremity|<=30d|Yes
+3722|631|Vaginal haemorrhage|1yr-<5yr|No
+2909|568|Diabetes mellitus|5yr-<10yr|Yes
+2910|568|Asthma|>=20yr|Yes
+3388|568|Hypertension|5yr-<10yr|No
+4585|417|Diabetes mellitus|10yr-<20yr|Yes
+4586|417|Hypertension|3m-<6m|Yes
+4587|417|Hypercholesterolaemia|6m-<12m|Yes
+5379|417|Back pain|>=20yr|Yes
+5534|417|Neuropathy peripheral|1yr-<5yr|Yes
+30|615|Diabetes mellitus|>=20yr|Yes
+31|615|Hypertension|>=20yr|Yes
+32|615|Osteoarthritis|>=20yr|Yes
+33|615|Hypercholesterolaemia|5yr-<10yr|Yes
+34|615|Sleep apnoea syndrome|1yr-<5yr|No
+517|615|Blister|<=30d|Yes
+1068|615|Glaucoma|10yr-<20yr|Yes
+3510|615|Lymphoedema|5yr-<10yr|No
+116|5|Diabetes mellitus inadequate control|>=20yr|Yes
+117|5|Cardiac operation|10yr-<20yr|Yes
+118|5|Hypercholesterolaemia|5yr-<10yr|Yes
+119|5|Hiatus hernia|>=20yr|Yes
+120|5|Gout|>=20yr|Yes
+121|5|Sleep apnoea syndrome|>=20yr|Yes
+122|5|Anxiety|1yr-<5yr|Yes
+123|5|Back pain|10yr-<20yr|Yes
+124|5|Oedema peripheral|10yr-<20yr|Yes
+125|5|Vitamin D deficiency|5yr-<10yr|Yes
+141|5|Pain in extremity|>=20yr|Yes
+761|5|Coronary artery disease|10yr-<20yr|Yes
+762|5|Hypertension|>=20yr|Yes
+188|354|Diabetes mellitus|>=20yr|Yes
+189|354|Hypertension|5yr-<10yr|Yes
+190|354|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+191|354|Muscle spasms|3m-<6m|Yes
+192|354|Pelvic pain|3m-<6m|No
+193|354|Menopause|5yr-<10yr|Yes
+194|354|Glaucoma|1yr-<5yr|Yes
+995|354|Cyst|1yr-<5yr|No
+5322|354|Cataract|5yr-<10yr|No
+376|641|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+377|641|Hypertension|>=20yr|Yes
+378|641|Anxiety|<=30d|Yes
+379|641|Depression|<=30d|No
+4925|641|Diabetic retinal oedema|1yr-<5yr|No
+4926|641|Diabetic retinopathy|1yr-<5yr|No
+388|213|Diabetes mellitus inadequate control|>=20yr|Yes
+389|213|Hypertension|>=20yr|Yes
+390|213|Hypercholesterolaemia|>=20yr|Yes
+391|213|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+5389|213|Cataract|5yr-<10yr|No
+402|30|Diabetes mellitus inadequate control|>=20yr|Yes
+403|30|Hypertension|10yr-<20yr|Yes
+404|30|Hepatitis|>=20yr|No
+405|30|Rheumatoid arthritis|1yr-<5yr|No
+772|30|Transient ischaemic attack|1yr-<5yr|No
+605|565|Diabetes mellitus inadequate control|>=20yr|Yes
+606|565|Hypercholesterolaemia|1yr-<5yr|Yes
+607|565|Hypertension|>=20yr|Yes
+608|565|Neuropathy peripheral|10yr-<20yr|Yes
+609|565|Depression|10yr-<20yr|No
+619|565|Tremor|5yr-<10yr|No
+1123|565|Coronary artery disease|5yr-<10yr|No
+2550|565|Vitamin D deficiency|1yr-<5yr|Yes
+2772|565|Gastrooesophageal reflux disease|>=20yr|No
+2774|565|Sleep apnoea syndrome|10yr-<20yr|No
+2775|565|Seasonal allergy|>=20yr|No
+4691|565|Cataract|1yr-<5yr|No
+712|603|Diabetes mellitus|>=20yr|Yes
+713|603|Hypertension|>=20yr|Yes
+714|603|Asthma|>=20yr|No
+715|603|Hypothyroidism|>=20yr|No
+716|603|Uterine cancer|5yr-<10yr|No
+717|603|Gastrooesophageal reflux disease|>=20yr|No
+718|603|Osteoarthritis|>=20yr|No
+719|603|Hypercholesterolaemia|1yr-<5yr|Yes
+720|603|Vitamin D deficiency|<=30d|Yes
+2191|603|Seasonal allergy|10yr-<20yr|No
+878|139|Hypertension|10yr-<20yr|Yes
+879|139|Diabetes mellitus|>=20yr|Yes
+880|139|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+881|139|Depression|10yr-<20yr|Yes
+882|139|Hypercholesterolaemia|5yr-<10yr|No
+883|139|Osteoarthritis|10yr-<20yr|Yes
+2252|139|Chronic sinusitis|5yr-<10yr|No
+3171|139|Insomnia|3m-<6m|Yes
+4984|139|Diabetic retinal oedema|1yr-<5yr|No
+1162|619|Diabetes mellitus inadequate control|>=20yr|Yes
+1163|619|Hypertension|>=20yr|Yes
+1164|619|Hypercholesterolaemia|1yr-<5yr|Yes
+1165|619|Hypothyroidism|5yr-<10yr|Yes
+1166|619|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1167|619|Bradycardia|>=20yr|Yes
+1168|619|Vitamin D deficiency|5yr-<10yr|Yes
+1948|334|Hypertension|1yr-<5yr|Yes
+1949|334|Hyperlipidaemia|1yr-<5yr|Yes
+1950|334|Diabetes mellitus|10yr-<20yr|Yes
+1951|334|Anaemia|>1m-<3m|No
+1952|334|Toe amputation|>1m-<3m|No
+1953|334|Gastrooesophageal reflux disease|>1m-<3m|Yes
+1954|334|Pain in extremity|1yr-<5yr|Yes
+2153|334|Blood sodium decreased|>1m-<3m|Yes
+2154|334|Tenotomy|5yr-<10yr|No
+5295|334|Insomnia|1yr-<5yr|No
+5546|334|Chronic kidney disease|5yr-<10yr|No
+2444|7|Hypertension|1yr-<5yr|Yes
+2445|7|Diabetes mellitus|1yr-<5yr|Yes
+2765|434|Hypertension|1yr-<5yr|Yes
+2766|434|Diabetes mellitus|10yr-<20yr|Yes
+2767|434|Asthma|1yr-<5yr|Yes
+2768|434|Skin cancer|5yr-<10yr|No
+2769|434|Osteoarthritis|5yr-<10yr|No
+2770|434|Depression|1yr-<5yr|Yes
+2771|434|Hyperlipidaemia|5yr-<10yr|Yes
+2773|434|Neuropathy peripheral|5yr-<10yr|Yes
+2776|434|Insomnia|5yr-<10yr|Yes
+3073|741|Hypertension|5yr-<10yr|Yes
+3074|741|Hyperlipidaemia|6m-<12m|Yes
+3075|741|Anaemia of chronic disease|1yr-<5yr|Yes
+3076|741|Bronchitis|>=20yr|No
+3077|741|Headache|>=20yr|No
+3078|741|Anxiety|5yr-<10yr|No
+3079|741|Gastrooesophageal reflux disease|>=20yr|No
+3090|654|Diabetes mellitus|10yr-<20yr|Yes
+3091|654|Hypertension|10yr-<20yr|Yes
+3092|654|Seasonal allergy|10yr-<20yr|Yes
+3093|654|Asthma|10yr-<20yr|Yes
+3094|654|Convulsion|5yr-<10yr|Yes
+3095|654|Vitamin D deficiency|5yr-<10yr|Yes
+3096|654|Hypercholesterolaemia|1yr-<5yr|Yes
+3097|654|Nausea|5yr-<10yr|Yes
+3098|820|Hypertension|5yr-<10yr|Yes
+3099|820|Hyperlipidaemia|1yr-<5yr|Yes
+3100|820|Coronary artery disease|1yr-<5yr|Yes
+3101|820|Headache|10yr-<20yr|No
+3394|820|Myocardial infarction|1yr-<5yr|No
+3120|502|Diabetes mellitus|10yr-<20yr|Yes
+3121|502|Hypercholesterolaemia|5yr-<10yr|Yes
+3122|502|Hypertension|5yr-<10yr|Yes
+3123|502|Glaucoma|1yr-<5yr|Yes
+5096|502|Macular fibrosis|1yr-<5yr|No
+5285|502|Seasonal allergy|>=20yr|No
+3152|674|Diabetes mellitus|5yr-<10yr|Yes
+3153|674|Hyperlipidaemia|1yr-<5yr|Yes
+3154|674|Hypertension|1yr-<5yr|Yes
+4814|674|Diabetic retinal oedema|3m-<6m|No
+3418|558|Diabetes mellitus|>=20yr|Yes
+3419|558|Hypertension|>=20yr|Yes
+3545|439|Hypertension|>=20yr|Yes
+3546|439|Hypercholesterolaemia|>=20yr|Yes
+3547|439|Coronary artery disease|10yr-<20yr|Yes
+3548|439|Arrhythmia|>=20yr|No
+3549|439|Implantable defibrillator insertion|1yr-<5yr|No
+3550|439|Coronary artery bypass|5yr-<10yr|No
+3551|439|Transfusion|5yr-<10yr|No
+3552|439|Gastrooesophageal reflux disease|>=20yr|Yes
+3553|439|Hypokalaemia|1yr-<5yr|Yes
+3554|439|Urinary incontinence|>=20yr|Yes
+3594|38|Osteoarthritis|1yr-<5yr|Yes
+3595|38|Gastrooesophageal reflux disease|1yr-<5yr|No
+3596|38|Menopause|5yr-<10yr|No
+3597|38|Seasonal allergy|>=20yr|No
+4073|794|Hypertension|5yr-<10yr|Yes
+4074|794|Hyperlipidaemia|1yr-<5yr|Yes
+4075|794|Osteoarthritis|10yr-<20yr|No
+4076|794|Neuropathy peripheral|1yr-<5yr|Yes
+5306|794|Cataract subcapsular|1yr-<5yr|No
+4082|447|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+4083|447|Depression|1yr-<5yr|Yes
+4084|447|Anaemia|1yr-<5yr|Yes
+4085|447|Hypertension|1yr-<5yr|Yes
+4086|447|Hypothyroidism|1yr-<5yr|Yes
+5249|447|Glaucoma|1yr-<5yr|Yes
+5357|447|Erectile dysfunction|1yr-<5yr|Yes
+4131|372|Hyperlipidaemia|<=30d|No
+4132|372|Hypertension|10yr-<20yr|Yes
+4133|372|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+4134|372|Cardiac operation|1yr-<5yr|Yes
+4355|372|Cardiac failure|1yr-<5yr|No
+4831|372|Diabetic retinal oedema|6m-<12m|No
+4832|372|Diabetic retinopathy|6m-<12m|No
+5087|372|Anxiety|1yr-<5yr|Yes
+4405|52|Diabetes mellitus inadequate control|5yr-<10yr|Yes
+4406|52|Hypertension|>=20yr|Yes
+4407|52|Migraine|1yr-<5yr|Yes
+4408|52|Hyperlipidaemia|1yr-<5yr|Yes
+4409|52|Anxiety|1yr-<5yr|Yes
+4410|52|Ischaemic stroke|1yr-<5yr|No
+4570|52|Transient ischaemic attack|1yr-<5yr|No
+4833|52|Diabetic retinal oedema|1yr-<5yr|No
+4428|642|Diabetes mellitus inadequate control|>=20yr|Yes
+4438|642|Hypertension|1yr-<5yr|Yes
+4440|642|Hyperlipidaemia|6m-<12m|Yes
+4443|642|Hyperthyroidism|1yr-<5yr|Yes
+4445|642|Coronary artery disease|1yr-<5yr|Yes
+4446|642|Diabetic neuropathy|5yr-<10yr|Yes
+4447|642|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4448|642|Osteoarthritis|10yr-<20yr|Yes
+4695|642|Transient ischaemic attack|1yr-<5yr|No
+4813|642|Diabetic retinal oedema|1yr-<5yr|No
+4633|588|Hypertension|10yr-<20yr|Yes
+4634|588|Rosacea|5yr-<10yr|Yes
+4635|588|Diabetes mellitus inadequate control|>=20yr|Yes
+399|271|Diabetes mellitus|5yr-<10yr|Yes
+400|271|Hypertension|5yr-<10yr|Yes
+401|271|Hypercholesterolaemia|5yr-<10yr|Yes
+406|271|Restless legs syndrome|5yr-<10yr|Yes
+407|271|Hypothyroidism|1yr-<5yr|Yes
+408|271|Neuropathy peripheral|5yr-<10yr|Yes
+409|271|Cardiac failure congestive|1yr-<5yr|Yes
+410|271|Arthralgia|5yr-<10yr|Yes
+411|271|Deafness|>=20yr|No
+412|271|Appendicitis|>=20yr|No
+5428|271|Prostatomegaly|>=20yr|No
+5429|271|Tonsillectomy|>=20yr|No
+5430|271|Skin graft|>=20yr|No
+5431|271|Thermal burn|>=20yr|No
+690|247|Diabetes mellitus|10yr-<20yr|Yes
+691|247|Hypertension|10yr-<20yr|Yes
+692|247|Hypercholesterolaemia|10yr-<20yr|Yes
+693|247|Tonsillectomy|>=20yr|No
+694|247|Hysterectomy|>=20yr|No
+695|247|Breast cancer|1yr-<5yr|No
+696|247|Drug hypersensitivity|>=20yr|No
+698|247|Seasonal allergy|>=20yr|Yes
+699|247|Gastrooesophageal reflux disease|6m-<12m|Yes
+700|247|Diabetic retinal oedema|>1m-<3m|No
+701|247|Dry eye|1yr-<5yr|Yes
+702|247|Conjunctivitis allergic|1yr-<5yr|Yes
+1854|682|Diabetes mellitus|1yr-<5yr|Yes
+1855|682|Hypertension|1yr-<5yr|Yes
+1856|682|Hypercholesterolaemia|1yr-<5yr|Yes
+1862|682|Prostate cancer|1yr-<5yr|No
+1863|682|Neuropathic arthropathy|1yr-<5yr|No
+1864|682|Diabetic foot|1yr-<5yr|No
+1865|682|Toe amputation|1yr-<5yr|No
+1866|682|Diabetic neuropathy|1yr-<5yr|Yes
+1867|682|Seasonal allergy|>=20yr|Yes
+1868|682|Skin graft|>=20yr|No
+1869|682|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1870|682|Drug hypersensitivity|1yr-<5yr|No
+1871|682|Headache|10yr-<20yr|Yes
+1872|682|Anxiety|1yr-<5yr|Yes
+5286|682|Peripheral vascular disorder|1yr-<5yr|No
+5287|682|Dry skin|1yr-<5yr|No
+1932|284|Diabetes mellitus|5yr-<10yr|Yes
+1938|284|Hypertension|5yr-<10yr|Yes
+1939|284|Osteoarthritis|5yr-<10yr|Yes
+1940|284|Osteoarthritis|5yr-<10yr|No
+1941|284|Surgery|>=20yr|No
+5082|284|Drug hypersensitivity|>=20yr|No
+2010|465|Diabetes mellitus|10yr-<20yr|Yes
+2012|465|Hypertension|>=20yr|Yes
+2013|465|Intervertebral disc protrusion|10yr-<20yr|No
+2014|465|Surgery|10yr-<20yr|No
+2015|465|Shoulder operation|10yr-<20yr|No
+2016|465|Drug hypersensitivity|>=20yr|No
+2017|465|Hypercholesterolaemia|1yr-<5yr|Yes
+2018|465|Nerve injury|>1m-<3m|Yes
+2019|465|Knee operation|>=20yr|No
+2310|586|Diabetes mellitus|10yr-<20yr|Yes
+2318|586|Diabetic retinal oedema|1yr-<5yr|No
+2322|586|Hypercholesterolaemia|1yr-<5yr|Yes
+2323|586|Cardiac murmur|>=20yr|No
+2324|586|Seasonal allergy|>=20yr|Yes
+2325|586|Diabetic neuropathy|1yr-<5yr|Yes
+2326|586|Osteoarthritis|10yr-<20yr|Yes
+2878|318|Diabetes mellitus|10yr-<20yr|Yes
+2879|318|Hypertension|10yr-<20yr|Yes
+2880|318|Hypercholesterolaemia|10yr-<20yr|Yes
+2888|318|Transient ischaemic attack|1yr-<5yr|No
+2889|318|Cerebrovascular accident|1yr-<5yr|No
+2890|318|Hysterectomy|>=20yr|No
+2891|318|Cholecystectomy|>=20yr|No
+2892|318|Surgery|>=20yr|No
+2893|318|Migraine|>=20yr|No
+2894|318|Diverticulitis|>=20yr|No
+2895|318|Dyspnoea|1yr-<5yr|No
+2896|318|Arthralgia|1yr-<5yr|No
+2897|318|Anxiety|>=20yr|No
+2898|318|Depression|10yr-<20yr|No
+2899|318|Muscle spasms|10yr-<20yr|Yes
+2900|318|Seasonal allergy|1yr-<5yr|Yes
+2901|318|Drug hypersensitivity|>=20yr|No
+2904|318|Pain|>=20yr|Yes
+5184|318|Asthma|>=20yr|Yes
+5504|318|Urinary incontinence|>=20yr|Yes
+3029|779|Diabetes mellitus|>=20yr|Yes
+3030|779|Hypertension|>=20yr|Yes
+3031|779|Hypercholesterolaemia|10yr-<20yr|No
+3037|779|Arthralgia|5yr-<10yr|No
+3038|779|Cardiac failure congestive|3m-<6m|No
+3039|779|Myocardial infarction|10yr-<20yr|No
+3369|779|Neuropathy peripheral|<=30d|No
+5242|779|Constipation|1yr-<5yr|No
+5243|779|Surgery|1yr-<5yr|No
+5424|779|Sleep apnoea syndrome|1yr-<5yr|No
+3036|306|Diabetes mellitus|10yr-<20yr|Yes
+3045|306|Hypertension|1yr-<5yr|Yes
+3046|306|Neuropathy peripheral|>1m-<3m|Yes
+3047|306|Glaucoma|6m-<12m|Yes
+3048|306|Dry eye|1yr-<5yr|Yes
+3049|306|Hypercholesterolaemia|1yr-<5yr|No
+3050|306|Female sterilisation|>=20yr|No
+3051|306|Cataract operation|6m-<12m|No
+3052|306|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3053|306|Vertigo|5yr-<10yr|Yes
+3054|306|Abdominal pain upper|<=30d|No
+3055|306|Seasonal allergy|>=20yr|Yes
+4025|431|Diabetes mellitus|>=20yr|Yes
+4026|431|Hypercholesterolaemia|1yr-<5yr|Yes
+4027|431|Anaemia|1yr-<5yr|Yes
+4028|431|Diabetic neuropathy|1yr-<5yr|No
+4029|431|Depression|1yr-<5yr|Yes
+4030|431|Hypertension|>=20yr|Yes
+4031|431|Diabetic foot|1yr-<5yr|No
+4038|431|Coronary artery disease|6m-<12m|No
+4039|431|Stent placement|6m-<12m|No
+4040|431|Chest pain|1yr-<5yr|No
+4041|431|Neuropathic arthropathy|1yr-<5yr|No
+4049|431|Diabetic retinal oedema|1yr-<5yr|No
+5308|431|Diarrhoea|1yr-<5yr|No
+4725|842|Diabetes mellitus|<=30d|Yes
+4731|842|Headache|5yr-<10yr|Yes
+4847|246|Diabetes mellitus|1yr-<5yr|Yes
+4848|246|Hypertension|1yr-<5yr|Yes
+4849|246|Drug hypersensitivity|>=20yr|No
+4850|246|Breast cancer|10yr-<20yr|No
+4851|246|Surgery|1yr-<5yr|No
+4852|246|Hypercholesterolaemia|5yr-<10yr|Yes
+4853|246|Rheumatoid arthritis|1yr-<5yr|Yes
+4854|246|Anaemia|1yr-<5yr|No
+4855|246|Gastrooesophageal reflux disease|5yr-<10yr|No
+4856|246|Hot flush|1yr-<5yr|Yes
+4972|246|Thymic cancer metastatic|5yr-<10yr|No
+4983|246|Seasonal allergy|>=20yr|Yes
+5076|246|Urinary incontinence|1yr-<5yr|No
+5196|246|Rotator cuff syndrome|6m-<12m|No
+5325|246|Eyelid oedema|1yr-<5yr|No
+620|583|Hypertension|1yr-<5yr|Yes
+621|583|Coeliac disease|5yr-<10yr|No
+622|583|Diabetes mellitus|>=20yr|Yes
+4958|583|Diabetic retinal oedema|1yr-<5yr|No
+5206|583|Bronchitis|1yr-<5yr|No
+1269|177|Diabetes mellitus|10yr-<20yr|Yes
+1270|177|Hypertension|10yr-<20yr|Yes
+1271|177|Hyperlipidaemia|10yr-<20yr|Yes
+5086|177|Macular fibrosis|<=30d|No
+914|357|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+915|357|Bronchitis|1yr-<5yr|Yes
+916|357|Diabetes mellitus|>=20yr|Yes
+917|357|Rheumatoid arthritis|6m-<12m|Yes
+4966|357|Diabetic retinal oedema|5yr-<10yr|Yes
+4815|252|Diabetes mellitus|10yr-<20yr|Yes
+4816|252|Hypothyroidism|>=20yr|Yes
+4817|252|Hyperlipidaemia|<=30d|No
+4818|252|Diabetic retinal oedema|<=30d|No
+4819|252|Irritable bowel syndrome|>=20yr|No
+5112|252|Polyp|3m-<6m|No
+2348|597|Diabetes mellitus|5yr-<10yr|Yes
+2349|597|Dyslipidaemia|5yr-<10yr|Yes
+2350|597|Hypertension|5yr-<10yr|Yes
+2351|597|Neuropathy peripheral|5yr-<10yr|No
+2352|597|Diabetic retinal oedema|1yr-<5yr|No
+2353|597|Cataract nuclear|1yr-<5yr|No
+2354|597|Vitreous degeneration|1yr-<5yr|No
+2356|597|Depression|5yr-<10yr|Yes
+2357|597|Rhinitis allergic|10yr-<20yr|Yes
+3424|322|Diabetes mellitus|>=20yr|Yes
+3425|322|Diabetic retinal oedema|5yr-<10yr|No
+3426|322|Carpal tunnel syndrome|6m-<12m|No
+3427|322|Dermatitis contact|5yr-<10yr|No
+3428|322|Intraocular lens implant|5yr-<10yr|No
+3429|322|Benign laryngeal neoplasm|1yr-<5yr|No
+3430|322|Cataract nuclear|1yr-<5yr|No
+3431|322|Ligament sprain|1yr-<5yr|No
+3432|322|Trigger finger|1yr-<5yr|No
+3433|322|Vitreous haemorrhage|1yr-<5yr|No
+3434|322|Drug hypersensitivity|5yr-<10yr|No
+3435|322|Diabetic retinopathy|5yr-<10yr|No
+3436|322|Hyperlipidaemia|5yr-<10yr|Yes
+3437|322|Hyperthyroidism|1yr-<5yr|Yes
+3438|322|Dry eye|5yr-<10yr|Yes
+5107|322|Vitreous floaters|3m-<6m|No
+4113|652|Diabetes mellitus|5yr-<10yr|Yes
+4114|652|Hysterectomy|5yr-<10yr|No
+4115|652|Macular oedema|<=30d|No
+4757|364|Diabetic retinal oedema|1yr-<5yr|No
+4758|364|Diabetes mellitus|>=20yr|Yes
+4759|364|Hypertension|5yr-<10yr|Yes
+4760|364|Hypercholesterolaemia|5yr-<10yr|Yes
+4761|364|Anxiety|5yr-<10yr|Yes
+4762|364|Bronchitis|6m-<12m|Yes
+4991|364|Neuropathy peripheral|1yr-<5yr|Yes
+5084|364|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4766|174|Renal failure|6m-<12m|No
+4767|174|Diabetes mellitus|5yr-<10yr|Yes
+4768|174|HIV infection|5yr-<10yr|No
+4769|174|Hypertension|1yr-<5yr|Yes
+4770|174|Hyperthyroidism|3m-<6m|Yes
+2375|11|Diabetes mellitus|10yr-<20yr|Yes
+2376|11|Hypertension|>=20yr|Yes
+2377|11|Nephrolithiasis|10yr-<20yr|Yes
+2378|11|Hysterectomy|>=20yr|No
+2379|11|Cholecystectomy|>=20yr|No
+2380|11|Knee operation|1yr-<5yr|No
+2381|11|Hip arthroplasty|1yr-<5yr|No
+2386|11|Diabetic retinal oedema|5yr-<10yr|No
+2754|11|Ocular discomfort|1yr-<5yr|Yes
+5256|11|Cataract|10yr-<20yr|No
+1050|347|Diabetes mellitus|>=20yr|Yes
+1051|347|Hypertension|10yr-<20yr|Yes
+1052|347|Breast cancer|>=20yr|No
+1053|347|Hypothyroidism|>=20yr|Yes
+1054|347|Hyperlipidaemia|10yr-<20yr|No
+1055|347|Asthma|>=20yr|Yes
+1056|347|Neoplasm malignant|>=20yr|No
+1057|347|Colonic polyp|5yr-<10yr|No
+1060|347|Thyroid neoplasm|5yr-<10yr|No
+1124|212|Depression|1yr-<5yr|Yes
+1125|212|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1126|212|Fibromyalgia|1yr-<5yr|Yes
+1127|212|Hypothyroidism|5yr-<10yr|Yes
+1128|212|Hypercholesterolaemia|5yr-<10yr|Yes
+1129|212|Diabetes mellitus|5yr-<10yr|Yes
+1584|212|Angle closure glaucoma|>1m-<3m|No
+1585|212|Headache|>=20yr|Yes
+2682|212|Insomnia|1yr-<5yr|Yes
+5164|212|Furuncle|10yr-<20yr|No
+5167|212|Teeth brittle|>=20yr|No
+5168|212|Seasonal allergy|5yr-<10yr|Yes
+5251|212|Asthma|1yr-<5yr|No
+5344|212|Vomiting|5yr-<10yr|No
+5345|212|Nausea|5yr-<10yr|No
+1314|572|Diabetes mellitus|>=20yr|Yes
+1315|572|Atrial fibrillation|1yr-<5yr|Yes
+1316|572|Skin cancer|1yr-<5yr|No
+1317|572|Leg amputation|1yr-<5yr|No
+1318|572|Toe amputation|5yr-<10yr|No
+1319|572|Hypercholesterolaemia|1yr-<5yr|Yes
+1320|572|Embolism|>=20yr|No
+1321|572|Polyp|1yr-<5yr|No
+1322|572|Thyroid neoplasm|1yr-<5yr|No
+1323|572|Dry eye|1yr-<5yr|Yes
+1324|572|Cataract operation|>1m-<3m|Yes
+1325|572|Prostatomegaly|5yr-<10yr|No
+1326|572|Oedema peripheral|1yr-<5yr|Yes
+5152|572|Headache|5yr-<10yr|Yes
+1430|527|Diabetes mellitus|10yr-<20yr|Yes
+1431|527|Glaucoma|1yr-<5yr|Yes
+1434|527|Asthma|>=20yr|Yes
+1435|527|Hypertension|5yr-<10yr|Yes
+1436|527|Depression|1yr-<5yr|Yes
+1437|527|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+5248|527|Syncope|1yr-<5yr|No
+1626|406|Diabetes mellitus|10yr-<20yr|Yes
+1627|406|Hyperlipidaemia|5yr-<10yr|Yes
+1628|406|Renal cyst|5yr-<10yr|No
+1629|406|Diabetic foot|1yr-<5yr|No
+1630|406|Hyperglycaemia|5yr-<10yr|No
+1631|406|Skin lesion|1yr-<5yr|No
+1632|406|Nephrolithiasis|5yr-<10yr|Yes
+1716|162|Diabetes mellitus|>=20yr|Yes
+1719|162|Muscle spasms|5yr-<10yr|No
+1723|162|Asthma|>=20yr|No
+1724|162|Insomnia|10yr-<20yr|No
+1725|162|Heart rate irregular|10yr-<20yr|No
+1726|162|Arthralgia|5yr-<10yr|No
+1727|162|Hypertension|5yr-<10yr|Yes
+1729|162|Asthenopia|6m-<12m|Yes
+5315|162|Seasonal allergy|5yr-<10yr|Yes
+5451|162|Dupuytren's contracture|10yr-<20yr|No
+1895|443|Diabetes mellitus|10yr-<20yr|Yes
+1896|443|Thyroid neoplasm|5yr-<10yr|No
+1897|443|Atrial fibrillation|6m-<12m|No
+1898|443|Renal failure chronic|6m-<12m|No
+1899|443|Chronic obstructive pulmonary disease|6m-<12m|No
+1900|443|Cardiac failure congestive|6m-<12m|Yes
+1901|443|Gastrooesophageal reflux disease|5yr-<10yr|No
+1902|443|Osteoarthritis|10yr-<20yr|No
+1903|443|Sleep apnoea syndrome|6m-<12m|No
+1904|443|Transient ischaemic attack|1yr-<5yr|No
+1905|443|Cataract|5yr-<10yr|No
+1906|443|Hysterectomy|>=20yr|No
+1907|443|Colonoscopy|6m-<12m|No
+1908|443|Cholecystectomy|10yr-<20yr|No
+1909|443|Surgery|10yr-<20yr|No
+1910|443|Tonsillectomy|>=20yr|No
+1911|443|Cardiac pacemaker insertion|3m-<6m|No
+1912|443|Nausea|5yr-<10yr|Yes
+1913|443|Anaemia|10yr-<20yr|Yes
+1914|443|Vitamin D deficiency|1yr-<5yr|Yes
+1915|443|Diabetic neuropathy|10yr-<20yr|Yes
+1916|443|Drug hypersensitivity|10yr-<20yr|No
+1917|443|Rhinitis allergic|1yr-<5yr|Yes
+2713|443|Hypertension|1yr-<5yr|Yes
+5153|443|Red blood cell count decreased|3m-<6m|No
+2044|635|Hypertension|>1m-<3m|Yes
+2045|635|Diabetes mellitus|>1m-<3m|Yes
+2050|635|Depression|>1m-<3m|Yes
+2051|635|Nausea|>1m-<3m|Yes
+2052|635|Pain in extremity|>1m-<3m|Yes
+2053|635|Leg amputation|>1m-<3m|No
+2054|635|Upper limb fracture|>=20yr|No
+2055|635|Wound|>=20yr|No
+2060|635|Constipation|>1m-<3m|Yes
+2065|635|Gangrene|>1m-<3m|No
+2151|635|Anxiety|>1m-<3m|Yes
+5169|635|Dry eye|1yr-<5yr|Yes
+5391|635|Cardiac murmur|<=30d|No
+2066|37|Hypertension|6m-<12m|Yes
+2067|37|Hypercholesterolaemia|1yr-<5yr|Yes
+2068|37|Asthma|1yr-<5yr|No
+2069|37|Diabetes mellitus|10yr-<20yr|Yes
+5447|37|Eye pruritus|10yr-<20yr|No
+2070|215|Renal failure chronic|1yr-<5yr|No
+2071|215|Diabetes mellitus|10yr-<20yr|Yes
+2072|215|Hypertension|10yr-<20yr|Yes
+2147|215|Anaemia|<=30d|No
+2148|215|Hypercholesterolaemia|1yr-<5yr|Yes
+2149|215|Diastolic dysfunction|1yr-<5yr|Yes
+5557|215|Neuropathy peripheral|>1m-<3m|Yes
+2594|309|Retinal detachment|5yr-<10yr|No
+2595|309|Cataract operation|5yr-<10yr|No
+2596|309|Renal impairment|1yr-<5yr|No
+2597|309|Diabetes mellitus|>=20yr|Yes
+2598|309|Hypertension|1yr-<5yr|Yes
+2599|309|Hypercholesterolaemia|1yr-<5yr|Yes
+2600|309|Hernia|>=20yr|No
+2601|309|Surgery|1yr-<5yr|No
+2602|309|Pterygium|1yr-<5yr|No
+2683|309|Osteoarthritis|6m-<12m|Yes
+2684|309|Dyspepsia|1yr-<5yr|Yes
+5197|309|Photophobia|1yr-<5yr|No
+5356|309|Restless legs syndrome|6m-<12m|Yes
+2639|175|Diabetes mellitus|>=20yr|Yes
+2640|175|Asthma|10yr-<20yr|Yes
+2641|175|Cardiac failure congestive|5yr-<10yr|Yes
+2642|175|Hypertension|5yr-<10yr|Yes
+2643|175|Sleep apnoea syndrome|5yr-<10yr|No
+2644|175|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+2645|175|Renal failure|1yr-<5yr|No
+2646|175|Deafness|>=20yr|No
+2647|175|Bipolar disorder|5yr-<10yr|Yes
+2648|175|Spinal fracture|1yr-<5yr|No
+2669|175|Seasonal allergy|5yr-<10yr|Yes
+2670|175|Pain|>=20yr|Yes
+2671|175|Restless legs syndrome|5yr-<10yr|Yes
+2672|175|Hypothyroidism|5yr-<10yr|Yes
+2673|175|Migraine|10yr-<20yr|Yes
+5100|175|Facial bones fracture|>=20yr|No
+5141|175|Nasal congestion|>=20yr|No
+171|199|Diabetes mellitus|10yr-<20yr|Yes
+172|199|Hypertension|10yr-<20yr|Yes
+173|199|Hypercholesterolaemia|10yr-<20yr|No
+174|199|Transient ischaemic attack|1yr-<5yr|No
+175|199|Thyroid cancer|10yr-<20yr|Yes
+176|199|Vertigo|1yr-<5yr|No
+2705|566|Hypertension|1yr-<5yr|Yes
+2706|566|Diabetes mellitus|>=20yr|Yes
+2707|566|Hypercholesterolaemia|1yr-<5yr|Yes
+2708|566|Arteriosclerosis coronary artery|1yr-<5yr|Yes
+2711|566|Depression|1yr-<5yr|Yes
+3272|566|Seasonal allergy|10yr-<20yr|Yes
+3373|664|Diabetes mellitus|10yr-<20yr|Yes
+3374|664|Hypercholesterolaemia|5yr-<10yr|Yes
+3375|664|Hypertension|5yr-<10yr|Yes
+3376|664|Borderline glaucoma|6m-<12m|Yes
+3377|664|Eye pruritus|6m-<12m|No
+3378|664|Cardiac murmur|>=20yr|No
+3379|664|Cardiac operation|>=20yr|No
+3380|664|Myocardial infarction|>=20yr|No
+3381|664|Cholecystectomy|10yr-<20yr|No
+3382|664|Carpal tunnel syndrome|>=20yr|No
+3383|664|Hysterectomy|10yr-<20yr|No
+3384|664|Drug hypersensitivity|>=20yr|No
+3692|325|Diabetes mellitus|>=20yr|No
+3693|325|Hypertension|>=20yr|Yes
+3694|325|Hypercholesterolaemia|>=20yr|Yes
+3695|325|Vascular graft|10yr-<20yr|No
+3696|325|Gastrooesophageal reflux disease|>=20yr|Yes
+3697|325|Benign prostatic hyperplasia|>=20yr|Yes
+4354|325|Coronary artery disease|<=30d|Yes
+5549|325|Chronic kidney disease|1yr-<5yr|No
+3790|14|Diabetes mellitus|1yr-<5yr|Yes
+3791|14|Hypercholesterolaemia|1yr-<5yr|Yes
+3867|92|Diabetes mellitus|10yr-<20yr|Yes
+3868|92|Drug hypersensitivity|>=20yr|No
+3869|92|Seasonal allergy|>=20yr|No
+3870|92|Hypertension|10yr-<20yr|Yes
+3871|92|Hypercholesterolaemia|10yr-<20yr|No
+3872|92|Cholecystectomy|10yr-<20yr|No
+3873|92|Hysterectomy|5yr-<10yr|No
+3874|92|Vision blurred|5yr-<10yr|No
+4945|118|Diabetes mellitus|10yr-<20yr|Yes
+4946|118|Hypertension|10yr-<20yr|Yes
+3200|392|Diabetes mellitus|1yr-<5yr|Yes
+3201|392|Hypercholesterolaemia|1yr-<5yr|Yes
+3522|388|Hypercholesterolaemia|1yr-<5yr|Yes
+3523|388|Hypertension|1yr-<5yr|Yes
+3524|388|Diabetes mellitus|1yr-<5yr|Yes
+4908|388|Herpes zoster ophthalmic|>1m-<3m|Yes
+4909|388|Conjunctivitis allergic|1yr-<5yr|Yes
+4565|275|Hypothyroidism|>=20yr|Yes
+4699|275|Hypertension|10yr-<20yr|Yes
+4700|275|Hypercholesterolaemia|10yr-<20yr|Yes
+4701|275|Diabetic neuropathy|5yr-<10yr|Yes
+4702|275|Menopause|5yr-<10yr|Yes
+4628|122|Hypertension|5yr-<10yr|Yes
+4629|122|Hypothyroidism|5yr-<10yr|Yes
+4630|122|Diabetes mellitus|5yr-<10yr|No
+4713|189|Coronary artery disease|5yr-<10yr|No
+4714|189|Diabetes mellitus|5yr-<10yr|Yes
+4715|189|Hypertension|5yr-<10yr|Yes
+547|634|Hypertension|1yr-<5yr|Yes
+554|634|Diabetes mellitus|10yr-<20yr|Yes
+651|634|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1787|131|Coronary artery disease|1yr-<5yr|Yes
+1788|131|Diabetes mellitus|>=20yr|Yes
+1789|131|Hypertension|>=20yr|Yes
+1790|131|Glaucoma|5yr-<10yr|Yes
+1791|131|Gout|1yr-<5yr|Yes
+5075|131|Chronic obstructive pulmonary disease|5yr-<10yr|No
+5515|131|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+2831|230|Diabetes mellitus|5yr-<10yr|Yes
+2832|230|Anxiety|>=20yr|Yes
+2833|230|Depression|>=20yr|Yes
+1|504|Diabetes mellitus|>=20yr|Yes
+2|504|Hypertension|>=20yr|Yes
+5261|504|Macular degeneration|1yr-<5yr|No
+413|819|Diabetes mellitus|3m-<6m|Yes
+414|819|Hypertension|3m-<6m|Yes
+415|819|Pain in extremity|3m-<6m|Yes
+3675|819|Hypercholesterolaemia|6m-<12m|Yes
+1134|138|Diabetes mellitus|>=20yr|Yes
+1135|138|Hypertension|>=20yr|Yes
+1136|138|Breast cancer|10yr-<20yr|Yes
+1137|138|Cardiac failure congestive|1yr-<5yr|Yes
+1138|138|Hypercholesterolaemia|1yr-<5yr|Yes
+1144|138|Neuropathy peripheral|5yr-<10yr|Yes
+2024|435|Diabetes mellitus|1yr-<5yr|Yes
+2025|435|Neuropathy peripheral|1yr-<5yr|Yes
+2026|435|Insomnia|1yr-<5yr|Yes
+2027|435|Prostatomegaly|1yr-<5yr|Yes
+2171|764|Diabetes mellitus|>=20yr|No
+2172|764|Hypothyroidism|>1m-<3m|Yes
+2815|153|Diabetes mellitus|10yr-<20yr|Yes
+2816|153|Hypercholesterolaemia|>=20yr|Yes
+2817|153|Hypertension|>=20yr|Yes
+2818|153|Osteoarthritis|>=20yr|Yes
+2819|153|Diabetic neuropathy|5yr-<10yr|Yes
+4693|153|Coronary artery disease|3m-<6m|Yes
+5253|153|Sciatica|5yr-<10yr|Yes
+5318|153|Depression|10yr-<20yr|Yes
+2937|256|Hypertension|10yr-<20yr|Yes
+2938|256|Hypercholesterolaemia|5yr-<10yr|Yes
+2939|256|Breast cancer|5yr-<10yr|Yes
+2940|256|Hyperthyroidism|10yr-<20yr|Yes
+2941|256|Diabetes mellitus|10yr-<20yr|Yes
+2942|256|Depression|10yr-<20yr|Yes
+2943|256|Insomnia|10yr-<20yr|Yes
+2944|256|Migraine|5yr-<10yr|Yes
+3111|256|Asthma|5yr-<10yr|Yes
+5320|256|Chronic obstructive pulmonary disease|5yr-<10yr|Yes
+5433|256|Arthralgia|10yr-<20yr|Yes
+3231|249|Hypertension|>=20yr|Yes
+3232|249|Diabetes mellitus|>=20yr|Yes
+3233|249|Hypercholesterolaemia|>=20yr|Yes
+3234|249|Hypertonic bladder|1yr-<5yr|Yes
+3235|249|Dyspepsia|>=20yr|Yes
+5418|249|Hysterectomy|>=20yr|No
+5419|249|Uterine haemorrhage|>=20yr|No
+3395|582|Diabetes mellitus|10yr-<20yr|Yes
+3631|582|Hypertension|>=20yr|Yes
+3632|582|Rheumatoid arthritis|5yr-<10yr|No
+3633|582|Hyperthyroidism|10yr-<20yr|Yes
+3634|582|Hypercholesterolaemia|5yr-<10yr|Yes
+3635|582|Angina pectoris|1yr-<5yr|Yes
+3636|582|Glaucoma|3m-<6m|No
+5347|582|Diabetic retinal oedema|1yr-<5yr|Yes
+3389|89|Diabetes mellitus|1yr-<5yr|Yes
+3390|89|Hypertension|5yr-<10yr|Yes
+3391|89|Hyperglycaemia|1yr-<5yr|Yes
+3392|89|Hypercholesterolaemia|1yr-<5yr|Yes
+3393|89|Neuropathy peripheral|1yr-<5yr|No
+5271|89|Seasonal allergy|>=20yr|Yes
+4252|786|Diabetes mellitus|>=20yr|Yes
+4253|786|Atrial fibrillation|1yr-<5yr|Yes
+5201|786|Hypertension|5yr-<10yr|Yes
+4480|329|Diabetes mellitus|>=20yr|Yes
+4486|329|Hypertension|>=20yr|Yes
+4487|329|Hypercholesterolaemia|>=20yr|Yes
+4910|329|Osteoarthritis|>=20yr|Yes
+4911|329|Rosacea|5yr-<10yr|No
+4912|329|Prostate cancer|10yr-<20yr|No
+5093|329|Seasonal allergy|10yr-<20yr|Yes
+5562|329|Cataract|1yr-<5yr|No
+4567|609|Diabetes mellitus|10yr-<20yr|Yes
+4568|609|Hypertension|1yr-<5yr|Yes
+4569|609|Joint injury|1yr-<5yr|Yes
+5229|609|Glaucoma|1yr-<5yr|Yes
+4654|647|Diabetes mellitus|>=20yr|Yes
+4657|647|Colon cancer|>=20yr|No
+5069|647|Hypertension|10yr-<20yr|Yes
+5070|647|Rheumatoid arthritis|>=20yr|No
+5071|647|Knee operation|1yr-<5yr|No
+5072|647|Surgery|10yr-<20yr|Yes
+5073|647|Shoulder operation|10yr-<20yr|No
+5560|647|Vitreous floaters|1yr-<5yr|No
+5561|647|Vitreous detachment|1yr-<5yr|No
+4626|501|Diabetes mellitus|>=20yr|Yes
+4627|501|Seasonal allergy|5yr-<10yr|Yes
+5068|501|Hypercholesterolaemia|10yr-<20yr|Yes
+5563|501|Vitreous floaters|<=30d|No
+1339|263|Diabetes mellitus|10yr-<20yr|Yes
+1340|263|Hypertension|10yr-<20yr|Yes
+1341|263|Breast cancer|10yr-<20yr|No
+1586|63|Hypertension|>=20yr|Yes
+1587|63|Diabetes mellitus|>=20yr|Yes
+1588|63|Malignant melanoma|10yr-<20yr|No
+4262|63|Neurogenic bladder|1yr-<5yr|Yes
+1758|703|Diabetes mellitus|10yr-<20yr|Yes
+1759|703|Hypertension|5yr-<10yr|Yes
+3032|91|Diabetes mellitus|10yr-<20yr|Yes
+3033|91|Diarrhoea|1yr-<5yr|Yes
+3034|91|Migraine|1yr-<5yr|Yes
+3035|91|Diabetic neuropathy|1yr-<5yr|Yes
+3155|6|Diabetes mellitus|>=20yr|Yes
+3156|6|Hypertension|1yr-<5yr|Yes
+3157|6|Osteoarthritis|1yr-<5yr|Yes
+3158|6|Glaucoma|1yr-<5yr|Yes
+3292|6|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+3293|6|Diabetic neuropathy|5yr-<10yr|Yes
+5098|6|Hypercholesterolaemia|<=30d|Yes
+3229|699|Diabetes mellitus|10yr-<20yr|Yes
+3230|699|Diabetic neuropathy|10yr-<20yr|Yes
+4261|699|Osteoarthritis|5yr-<10yr|Yes
+3571|628|Hypertension|10yr-<20yr|Yes
+3572|628|Hypercholesterolaemia|10yr-<20yr|Yes
+3573|628|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+3574|628|Diabetes mellitus|>=20yr|Yes
+3637|628|Hysterectomy|>=20yr|No
+3638|628|Tonsillectomy|>=20yr|No
+3639|628|Surgery|5yr-<10yr|No
+3881|533|Diabetes mellitus|10yr-<20yr|Yes
+3882|533|Asthma|>=20yr|No
+3883|533|Diabetic gastroparesis|6m-<12m|Yes
+3884|533|Depression|1yr-<5yr|Yes
+4222|339|Diabetes mellitus|10yr-<20yr|Yes
+4223|339|Hypertension|1yr-<5yr|Yes
+4224|339|Gastrooesophageal reflux disease|10yr-<20yr|No
+4225|339|Sleep apnoea syndrome|1yr-<5yr|Yes
+4335|367|Diabetes mellitus|5yr-<10yr|Yes
+4336|367|Hypertension|1yr-<5yr|Yes
+4429|751|Diabetes mellitus|5yr-<10yr|Yes
+4430|751|Hypertension|5yr-<10yr|Yes
+4461|751|Hypercholesterolaemia|5yr-<10yr|Yes
+4462|751|Diabetic neuropathy|5yr-<10yr|Yes
+4463|751|Osteoarthritis|5yr-<10yr|Yes
+4464|751|Urinary incontinence|6m-<12m|Yes
+4747|44|Hypercholesterolaemia|5yr-<10yr|Yes
+4748|44|Diabetes mellitus|10yr-<20yr|Yes
+4749|44|Hysterectomy|10yr-<20yr|No
+4750|44|Tonsillectomy|>=20yr|No
+4751|44|Seasonal allergy|>=20yr|Yes
+4830|44|Headache|1yr-<5yr|No
+459|236|Diabetes mellitus|>=20yr|Yes
+460|236|Hypothyroidism|>=20yr|Yes
+5085|236|Skin disorder|>=20yr|No
+851|299|Diabetes mellitus|>=20yr|Yes
+852|299|Myocardial infarction|>=20yr|No
+853|299|Diabetic retinopathy|10yr-<20yr|No
+854|299|Ischaemic stroke|10yr-<20yr|Yes
+855|299|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+856|299|Hypertension|>=20yr|Yes
+857|299|Hyperlipidaemia|>=20yr|Yes
+858|299|Anaemia|5yr-<10yr|Yes
+859|299|Skin cancer|6m-<12m|No
+860|299|Mitral valve prolapse|1yr-<5yr|No
+861|299|Diverticulum|>=20yr|No
+862|299|Colonic polyp|>=20yr|No
+863|299|Atrial flutter|1yr-<5yr|Yes
+864|299|Coronary artery disease|>=20yr|No
+865|299|Renal failure chronic|5yr-<10yr|No
+912|299|Constipation|5yr-<10yr|Yes
+913|299|Depression|1yr-<5yr|Yes
+985|299|Eye pruritus|1yr-<5yr|Yes
+5408|299|Benign prostatic hyperplasia|5yr-<10yr|No
+964|456|Diabetes mellitus|10yr-<20yr|Yes
+2569|456|Cataract|5yr-<10yr|No
+5254|456|Anxiety|10yr-<20yr|No
+5255|456|Depression|10yr-<20yr|No
+1495|237|Hypertension|10yr-<20yr|Yes
+1496|237|Coronary artery disease|10yr-<20yr|No
+1497|237|Myocardial infarction|5yr-<10yr|No
+1498|237|Atrial fibrillation|1yr-<5yr|Yes
+1499|237|Sleep apnoea syndrome|1yr-<5yr|No
+1500|237|Diabetes mellitus|10yr-<20yr|Yes
+1501|237|Hepatic cirrhosis|10yr-<20yr|No
+1502|237|Osteomyelitis|>=20yr|No
+1503|237|Diabetic neuropathy|1yr-<5yr|No
+1504|237|Diabetic retinal oedema|1yr-<5yr|No
+1505|237|Upper limb fracture|>=20yr|No
+1506|237|Upper limb fracture|>=20yr|No
+1507|237|Back pain|5yr-<10yr|No
+1508|237|Hyperlipidaemia|5yr-<10yr|Yes
+1509|237|Prostatomegaly|5yr-<10yr|Yes
+1510|237|Obesity|5yr-<10yr|No
+1511|237|Deafness|>=20yr|No
+1512|237|Diabetic retinopathy|3m-<6m|No
+1513|237|Arrhythmia|1yr-<5yr|Yes
+1514|237|Liver transplant|10yr-<20yr|Yes
+1558|237|Blood testosterone decreased|1yr-<5yr|Yes
+1825|812|Diabetes mellitus|>=20yr|Yes
+1826|812|Hypertension|10yr-<20yr|Yes
+1827|812|Diabetic neuropathy|1yr-<5yr|No
+3908|457|Diabetes mellitus|1yr-<5yr|Yes
+3909|457|Diabetic retinal oedema|1yr-<5yr|No
+3910|457|Cataract|1yr-<5yr|No
+3911|457|Hypertension|10yr-<20yr|Yes
+3912|457|Myocardial infarction|6m-<12m|No
+3913|457|Cardiac failure congestive|1yr-<5yr|Yes
+3914|457|Coronary artery disease|1yr-<5yr|Yes
+3915|457|Coronary artery bypass|1yr-<5yr|No
+3916|457|Coronary arterial stent insertion|6m-<12m|No
+3917|457|Hypercholesterolaemia|1yr-<5yr|Yes
+3918|457|Osteoarthritis|1yr-<5yr|Yes
+5526|457|Renal failure chronic|10yr-<20yr|Yes
+4348|140|Diabetes mellitus|10yr-<20yr|Yes
+4349|140|Hypertension|6m-<12m|Yes
+4350|140|Hypercholesterolaemia|6m-<12m|Yes
+5088|140|Depression|5yr-<10yr|No
+72|158|Diabetes mellitus|10yr-<20yr|Yes
+73|158|Sleep apnoea syndrome|5yr-<10yr|No
+74|158|Hypertension|1yr-<5yr|Yes
+75|158|Hypercholesterolaemia|1yr-<5yr|Yes
+485|491|Diabetes mellitus|>=20yr|Yes
+486|491|Hypertension|1yr-<5yr|Yes
+487|491|Hypercholesterolaemia|1yr-<5yr|Yes
+488|491|Hypothyroidism|>=20yr|Yes
+489|491|Seasonal allergy|1yr-<5yr|Yes
+814|735|Diabetes mellitus|10yr-<20yr|Yes
+815|735|Renal failure chronic|1yr-<5yr|Yes
+816|735|Sleep apnoea syndrome|1yr-<5yr|No
+817|735|Osteoarthritis|5yr-<10yr|Yes
+818|735|Anaemia|1yr-<5yr|Yes
+819|735|Hypertension|10yr-<20yr|No
+820|735|Hypercholesterolaemia|1yr-<5yr|Yes
+1008|307|Diabetes mellitus|10yr-<20yr|Yes
+1009|307|Hypertension|10yr-<20yr|Yes
+1010|307|Hypercholesterolaemia|10yr-<20yr|Yes
+1011|307|Drug hypersensitivity|>=20yr|No
+1013|307|Osteoarthritis|10yr-<20yr|Yes
+2408|126|Hypercholesterolaemia|1yr-<5yr|Yes
+2409|126|Hypertension|1yr-<5yr|Yes
+2410|126|Diabetes mellitus|1yr-<5yr|Yes
+2411|126|Back pain|5yr-<10yr|Yes
+2417|242|Hypertension|3m-<6m|Yes
+2418|242|Diabetes mellitus|6m-<12m|Yes
+2794|242|Hypercholesterolaemia|1yr-<5yr|No
+3686|668|Diabetes mellitus|>=20yr|Yes
+3687|668|Hypercholesterolaemia|5yr-<10yr|Yes
+3688|668|Hypertension|10yr-<20yr|Yes
+4101|516|Diabetes mellitus|10yr-<20yr|Yes
+4256|24|Hypertension|>=20yr|Yes
+4257|24|Hypercholesterolaemia|>=20yr|Yes
+4258|24|Diabetes mellitus|>=20yr|Yes
+4259|24|Drug hypersensitivity|>=20yr|No
+4315|24|Musculoskeletal pain|10yr-<20yr|Yes
+3403|839|Diabetes mellitus|>=20yr|Yes
+3404|839|Hypercholesterolaemia|1yr-<5yr|Yes
+3405|839|Hypertension|1yr-<5yr|Yes
+3417|839|Diabetic retinopathy|1yr-<5yr|No
+313|196|Diabetes mellitus|10yr-<20yr|Yes
+314|196|Vascular graft|5yr-<10yr|No
+315|196|Hypercholesterolaemia|5yr-<10yr|Yes
+316|196|Hypertension|10yr-<20yr|Yes
+317|196|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+348|127|Diabetes mellitus|10yr-<20yr|Yes
+369|627|Diabetes mellitus|10yr-<20yr|Yes
+370|627|Hypertension|10yr-<20yr|Yes
+683|627|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+372|497|Diabetes mellitus|>=20yr|Yes
+380|497|Hypertension|10yr-<20yr|Yes
+381|497|Hypothyroidism|5yr-<10yr|No
+382|497|Asbestosis|5yr-<10yr|Yes
+383|497|Hypercholesterolaemia|10yr-<20yr|Yes
+384|497|Arrhythmia|5yr-<10yr|No
+979|513|Diabetes mellitus|10yr-<20yr|Yes
+982|513|Hypertension|1yr-<5yr|Yes
+983|513|Fibromyalgia|1yr-<5yr|Yes
+984|513|Vitamin D deficiency|6m-<12m|Yes
+3346|513|Hypercholesterolaemia|<=30d|Yes
+1451|165|Diabetes mellitus|>=20yr|Yes
+1452|165|Hypertension|>=20yr|Yes
+1454|165|Throat cancer|1yr-<5yr|Yes
+1455|165|Appendicitis|5yr-<10yr|No
+1456|165|Cardiac operation|10yr-<20yr|No
+1457|165|Transient ischaemic attack|10yr-<20yr|No
+1458|165|Myocardial infarction|>=20yr|Yes
+1459|165|Ocular hypertension|5yr-<10yr|Yes
+1460|165|Hypothyroidism|1yr-<5yr|Yes
+1461|165|Anxiety|1yr-<5yr|Yes
+1670|165|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1672|165|Vitreous floaters|>1m-<3m|No
+1673|165|Diplopia|>1m-<3m|No
+1755|165|Visual impairment|>1m-<3m|No
+2035|165|Basal cell carcinoma|1yr-<5yr|No
+2074|165|Skin cancer|1yr-<5yr|No
+1489|818|Diabetes mellitus|10yr-<20yr|Yes
+1521|818|Hypertension|10yr-<20yr|Yes
+1522|818|Anxiety|5yr-<10yr|Yes
+1523|818|Depression|1yr-<5yr|Yes
+1524|818|Diabetic neuropathy|1yr-<5yr|Yes
+1525|818|Hypercholesterolaemia|5yr-<10yr|Yes
+1526|818|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1527|818|Vitamin D deficiency|1yr-<5yr|Yes
+1528|818|Glaucoma|5yr-<10yr|Yes
+1529|818|Dry eye|1yr-<5yr|Yes
+1530|818|Osteoporosis|1yr-<5yr|Yes
+1543|818|Skin bacterial infection|1yr-<5yr|Yes
+2853|169|Diabetes mellitus|10yr-<20yr|Yes
+2869|169|Gout|5yr-<10yr|Yes
+2870|169|Hypertension|10yr-<20yr|Yes
+2871|169|Hypercholesterolaemia|10yr-<20yr|Yes
+2872|169|Renal failure|1yr-<5yr|No
+2873|169|Spinal column stenosis|1yr-<5yr|Yes
+2874|169|Seasonal allergy|5yr-<10yr|No
+2875|169|Coronary artery disease|1yr-<5yr|No
+2876|169|Cardiac pacemaker insertion|5yr-<10yr|No
+2877|169|Neuropathy peripheral|1yr-<5yr|No
+2881|169|Hypothyroidism|5yr-<10yr|Yes
+2887|169|Skin cancer|5yr-<10yr|No
+2902|632|Transient ischaemic attack|1yr-<5yr|No
+2903|632|Diabetes mellitus|10yr-<20yr|Yes
+3605|632|Coronary artery disease|5yr-<10yr|No
+3606|632|Prostatomegaly|6m-<12m|Yes
+3607|632|Gastrooesophageal reflux disease|6m-<12m|Yes
+3608|632|Hypercholesterolaemia|1yr-<5yr|Yes
+3609|632|Hypertension|1yr-<5yr|Yes
+2957|265|Diabetes mellitus|5yr-<10yr|Yes
+3061|265|Hypertension|5yr-<10yr|Yes
+3062|265|Hypercholesterolaemia|5yr-<10yr|Yes
+3063|265|Macular oedema|3m-<6m|Yes
+2993|633|Diabetes mellitus|>=20yr|Yes
+3040|633|Hypercholesterolaemia|1yr-<5yr|Yes
+3041|633|Hypertension|10yr-<20yr|Yes
+3042|633|Seasonal allergy|1yr-<5yr|Yes
+3610|429|Diabetes mellitus|>=20yr|Yes
+3619|429|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+3620|429|Cardiac failure congestive|10yr-<20yr|Yes
+3621|429|Sleep apnoea syndrome|10yr-<20yr|No
+3622|429|Sarcoidosis|10yr-<20yr|Yes
+3623|429|Depression|10yr-<20yr|Yes
+3624|429|Irritable bowel syndrome|10yr-<20yr|Yes
+3625|429|Anxiety|10yr-<20yr|Yes
+3626|429|Hypercholesterolaemia|10yr-<20yr|Yes
+3627|429|Diabetic neuropathy|10yr-<20yr|Yes
+3628|429|Hypertension|10yr-<20yr|Yes
+4250|166|Diabetes mellitus|>=20yr|Yes
+4251|166|Hypercholesterolaemia|5yr-<10yr|Yes
+4282|166|Hypertension|5yr-<10yr|Yes
+4283|166|Rheumatoid arthritis|5yr-<10yr|No
+4610|151|Diabetes mellitus|6m-<12m|Yes
+4611|151|Hypertension|10yr-<20yr|Yes
+4616|151|Hypothyroidism|3m-<6m|Yes
+4623|151|Renal cancer|10yr-<20yr|No
+4692|151|Vitamin D deficiency|1yr-<5yr|Yes
+4637|428|Hypertension|10yr-<20yr|Yes
+4638|428|Diabetes mellitus|5yr-<10yr|Yes
+4639|428|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+4842|428|Anxiety|>=20yr|Yes
+4843|428|Depression|10yr-<20yr|Yes
+4844|428|Sleep apnoea syndrome|10yr-<20yr|Yes
+4845|428|Asthma|>=20yr|Yes
+4647|836|Diabetes mellitus|10yr-<20yr|Yes
+4648|836|Hypertension|10yr-<20yr|Yes
+4649|836|Hypercholesterolaemia|5yr-<10yr|Yes
+4655|257|Diabetes mellitus|5yr-<10yr|Yes
+4656|257|Hypertension|>=20yr|Yes
+4663|257|Hypercholesterolaemia|10yr-<20yr|Yes
+4664|257|Prostatomegaly|1yr-<5yr|Yes
+4665|257|Pain|10yr-<20yr|Yes
+4726|584|Diabetes mellitus|>=20yr|Yes
+4727|584|Hypothyroidism|1yr-<5yr|Yes
+4820|584|Asthma|>=20yr|No
+4821|584|Depression|5yr-<10yr|Yes
+4825|584|Acne|1yr-<5yr|Yes
+4828|584|Osteoarthritis|1yr-<5yr|No
+2454|486|Diabetes mellitus|10yr-<20yr|Yes
+2455|486|Depression|3m-<6m|No
+2456|486|Diabetic ulcer|6m-<12m|Yes
+3890|804|Diabetes mellitus|10yr-<20yr|Yes
+3891|804|Cardiac murmur|10yr-<20yr|No
+3892|804|Abdominal pain upper|10yr-<20yr|No
+3893|804|Carpal tunnel syndrome|10yr-<20yr|No
+3894|804|Hysterectomy|10yr-<20yr|No
+3895|804|Appendicitis|1yr-<5yr|No
+3896|804|Seasonal allergy|10yr-<20yr|No
+3897|804|Hypercholesterolaemia|1yr-<5yr|Yes
+427|109|Hypertension|10yr-<20yr|Yes
+428|109|Atrioventricular block second degree|1yr-<5yr|Yes
+429|109|Osteoarthritis|>=20yr|No
+430|109|Diabetes mellitus|10yr-<20yr|Yes
+749|109|Myocardial infarction|1yr-<5yr|No
+895|620|Hypertension|1yr-<5yr|Yes
+896|620|Psoriasis|10yr-<20yr|Yes
+897|620|Diabetes mellitus|1yr-<5yr|Yes
+898|620|Hypercholesterolaemia|1yr-<5yr|Yes
+918|726|Hypertension|6m-<12m|Yes
+919|726|Diabetes mellitus|6m-<12m|Yes
+920|726|Diabetic neuropathy|6m-<12m|Yes
+1111|294|Diabetes mellitus|1yr-<5yr|Yes
+1424|637|Diabetes mellitus|10yr-<20yr|Yes
+1425|637|Diabetic neuropathy|3m-<6m|Yes
+1426|637|Renal impairment|>1m-<3m|Yes
+1662|507|Diabetes mellitus|>=20yr|Yes
+1663|507|Hypertension|1yr-<5yr|Yes
+1664|507|Tachycardia|>=20yr|Yes
+1665|507|Low density lipoprotein increased|>1m-<3m|Yes
+1666|507|Hypothyroidism|>=20yr|Yes
+5095|507|Spinal column stenosis|1yr-<5yr|No
+2086|328|Hypertension|>=20yr|Yes
+2087|328|Diabetes mellitus|10yr-<20yr|Yes
+2088|328|Low density lipoprotein increased|1yr-<5yr|Yes
+2089|328|Anxiety|>1m-<3m|Yes
+2924|328|Photophobia|3m-<6m|No
+2777|380|Diabetes mellitus|10yr-<20yr|No
+2778|380|Hypertension|5yr-<10yr|No
+2779|380|Diabetic neuropathy|1yr-<5yr|No
+2780|380|Osteomyelitis|5yr-<10yr|No
+2781|380|Iritis|>1m-<3m|No
+2782|380|Toe amputation|5yr-<10yr|No
+3979|103|Hypertension|6m-<12m|Yes
+3980|103|Diabetes mellitus|1yr-<5yr|Yes
+3981|103|Depression|6m-<12m|Yes
+3982|103|Low density lipoprotein increased|1yr-<5yr|Yes
+3983|103|Cerebrovascular accident|6m-<12m|Yes
+4145|103|Transient ischaemic attack|6m-<12m|No
+4146|103|Coronary artery disease|1yr-<5yr|No
+5550|103|Peripheral vascular disorder|1yr-<5yr|No
+4595|806|Hypertension|10yr-<20yr|Yes
+4596|806|Diabetes mellitus|10yr-<20yr|Yes
+4597|806|Dyspnoea|6m-<12m|Yes
+4598|806|Sleep apnoea syndrome|6m-<12m|No
+4599|806|Low density lipoprotein increased|>1m-<3m|Yes
+4600|806|Rhinitis allergic|>=20yr|Yes
+4601|806|Carpal tunnel syndrome|10yr-<20yr|No
+4602|806|Osteoarthritis|1yr-<5yr|Yes
+4606|806|Dry eye|1yr-<5yr|Yes
+4607|806|Oedema peripheral|1yr-<5yr|Yes
+4608|806|Depression|6m-<12m|Yes
+4612|806|Device related infection|6m-<12m|No
+4720|530|Diabetes mellitus|>=20yr|Yes
+4721|530|Hypertension|>=20yr|Yes
+4722|530|Cerebrovascular accident|10yr-<20yr|Yes
+4723|530|High density lipoprotein decreased|1yr-<5yr|Yes
+4724|530|Depression|10yr-<20yr|Yes
+321|156|Hypertension|>=20yr|Yes
+322|156|Osteoarthritis|1yr-<5yr|No
+323|156|Hypothyroidism|>=20yr|Yes
+324|156|Hypercholesterolaemia|>=20yr|Yes
+325|156|Diabetes mellitus|>=20yr|Yes
+326|156|Hysterectomy|>=20yr|No
+327|156|Blepharitis|1yr-<5yr|No
+328|156|Conjunctival cyst|6m-<12m|No
+329|156|Vitreous detachment|6m-<12m|No
+330|156|Cataract|1yr-<5yr|No
+331|156|Glaucoma|1yr-<5yr|Yes
+332|156|Macular fibrosis|1yr-<5yr|No
+333|156|Depression|>=20yr|Yes
+334|156|Anxiety|>=20yr|Yes
+365|156|Cutis laxa|6m-<12m|No
+366|156|Diabetic retinopathy|6m-<12m|No
+367|156|Vitreous floaters|6m-<12m|No
+368|156|Diabetic retinal oedema|6m-<12m|No
+335|76|Asthma|10yr-<20yr|Yes
+336|76|Hypertension|10yr-<20yr|Yes
+337|76|Hyperlipidaemia|10yr-<20yr|Yes
+338|76|Nephrolithiasis|10yr-<20yr|No
+339|76|Hysterectomy|>=20yr|No
+340|76|Osteoarthritis|10yr-<20yr|No
+341|76|Hypothyroidism|>=20yr|Yes
+342|76|Diabetes mellitus|6m-<12m|Yes
+343|76|Vitreous detachment|6m-<12m|No
+344|76|Macular fibrosis|6m-<12m|No
+345|76|Iritis|5yr-<10yr|Yes
+346|76|Cataract|5yr-<10yr|No
+347|76|Cataract operation|6m-<12m|No
+610|277|Nasal congestion|>1m-<3m|Yes
+611|277|Sleep apnoea syndrome|1yr-<5yr|No
+612|277|Hypertension|1yr-<5yr|Yes
+613|277|Hypercholesterolaemia|1yr-<5yr|Yes
+614|277|Transient ischaemic attack|6m-<12m|No
+615|277|Cardiac failure congestive|6m-<12m|Yes
+616|277|Diabetes mellitus|5yr-<10yr|Yes
+617|277|Diabetic neuropathy|1yr-<5yr|Yes
+618|277|Insomnia|1yr-<5yr|Yes
+739|68|Diabetes mellitus|>=20yr|Yes
+741|68|Hypertension|10yr-<20yr|Yes
+743|68|Hypothyroidism|10yr-<20yr|Yes
+744|68|Tinnitus|5yr-<10yr|Yes
+750|68|Neuropathy peripheral|1yr-<5yr|Yes
+751|68|Hypercholesterolaemia|1yr-<5yr|Yes
+1547|36|Diabetes mellitus|5yr-<10yr|Yes
+1610|36|Hypertension|1yr-<5yr|Yes
+1611|36|Hyperlipidaemia|>1m-<3m|Yes
+1612|36|Constipation|5yr-<10yr|No
+1613|36|Diabetic neuropathy|1yr-<5yr|No
+1614|36|Depression|1yr-<5yr|No
+1625|36|Glaucoma|>1m-<3m|Yes
+2306|548|Nasal congestion|10yr-<20yr|Yes
+2307|548|Chronic obstructive pulmonary disease|10yr-<20yr|Yes
+2308|548|Sleep apnoea syndrome|5yr-<10yr|No
+2309|548|Hypertension|10yr-<20yr|Yes
+2311|548|Hypercholesterolaemia|10yr-<20yr|Yes
+2312|548|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+2313|548|Barrett's oesophagus|5yr-<10yr|No
+2314|548|Basal cell carcinoma|1yr-<5yr|No
+2315|548|Osteoarthritis|10yr-<20yr|No
+2316|548|Diabetes mellitus|>=20yr|Yes
+2435|548|Herpes simplex|1yr-<5yr|Yes
+2836|387|Hypertension|5yr-<10yr|Yes
+2837|387|Hypercholesterolaemia|5yr-<10yr|Yes
+2838|387|Oedema peripheral|1yr-<5yr|Yes
+2839|387|Diabetes mellitus|10yr-<20yr|Yes
+2840|387|Post-traumatic stress disorder|>=20yr|Yes
+3058|777|Diabetes mellitus|10yr-<20yr|Yes
+3059|777|Hypertension|5yr-<10yr|Yes
+3060|777|Prostatomegaly|5yr-<10yr|Yes
+4116|828|Diabetes mellitus|>=20yr|Yes
+4117|828|Hypercholesterolaemia|5yr-<10yr|Yes
+4118|828|Cardiac murmur|>=20yr|No
+4119|828|Mitral valve incompetence|>=20yr|No
+4120|828|Basedow's disease|10yr-<20yr|Yes
+4121|828|Diabetic neuropathy|6m-<12m|Yes
+4122|828|Depression|>=20yr|Yes
+4123|828|Menopause|5yr-<10yr|No
+4124|828|Vitreous detachment|1yr-<5yr|No
+4125|828|Cataract|5yr-<10yr|No
+4327|150|Seasonal allergy|5yr-<10yr|Yes
+4732|150|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+4733|150|Urinary incontinence|>1m-<3m|No
+4734|150|Diabetes mellitus|>=20yr|Yes
+4735|150|Diabetic neuropathy|6m-<12m|Yes
+4736|150|Schizoaffective disorder|>=20yr|Yes
+4737|150|Menopause|1yr-<5yr|No
+4740|150|Cataract|<=30d|No
+4388|554|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+4389|554|Deafness|>=20yr|No
+4390|554|Hypertension|10yr-<20yr|Yes
+4391|554|Coronary artery disease|10yr-<20yr|No
+4392|554|Myocardial infarction|1yr-<5yr|No
+4393|554|Coronary artery bypass|1yr-<5yr|No
+4394|554|Cerebrovascular accident|5yr-<10yr|No
+4395|554|Cardiac failure congestive|5yr-<10yr|No
+4396|554|Hyperlipidaemia|1yr-<5yr|Yes
+4397|554|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4431|554|Nephrolithiasis|1yr-<5yr|Yes
+4432|554|Renal failure chronic|1yr-<5yr|Yes
+4433|554|Hysterectomy|>=20yr|No
+4434|554|Psoriasis|1yr-<5yr|Yes
+4435|554|Vitamin D deficiency|6m-<12m|Yes
+4436|554|Diabetes mellitus|>=20yr|Yes
+4437|554|Anaemia|1yr-<5yr|Yes
+4439|554|Diabetic neuropathy|1yr-<5yr|Yes
+4441|554|Depression|>=20yr|Yes
+4442|554|Vitreous detachment|>1m-<3m|No
+4444|554|Cataract|>1m-<3m|No
+4452|554|Seasonal allergy|1yr-<5yr|Yes
+4453|554|Angina pectoris|1yr-<5yr|Yes
+955|796|Diabetes mellitus inadequate control|3m-<6m|Yes
+956|796|Hypertension|3m-<6m|Yes
+957|796|Hypothyroidism|>=20yr|No
+958|796|Menopause|10yr-<20yr|No
+965|796|Vision blurred|3m-<6m|No
+966|796|Photopsia|3m-<6m|No
+967|796|Visual acuity reduced|3m-<6m|No
+968|796|Altered visual depth perception|3m-<6m|No
+969|796|Dry eye|3m-<6m|No
+970|796|Glare|3m-<6m|No
+971|796|Photophobia|3m-<6m|No
+972|796|Diabetic retinal oedema|3m-<6m|No
+973|796|Cataract|3m-<6m|No
+974|796|Cataract nuclear|3m-<6m|No
+975|796|Vitreous detachment|3m-<6m|No
+976|796|Retinal aneurysm|3m-<6m|No
+977|796|Macular ischaemia|3m-<6m|No
+980|796|Dental implantation|5yr-<10yr|No
+1756|796|Uterine haemorrhage|10yr-<20yr|No
+2764|796|Retinal exudates|<=30d|No
+5545|796|Goitre|>=20yr|No
+1407|432|Diabetes mellitus|>=20yr|Yes
+1408|432|Hypertension|1yr-<5yr|Yes
+1409|432|Hyperlipidaemia|>=20yr|Yes
+1410|432|Menopause|5yr-<10yr|No
+1411|432|Vision blurred|6m-<12m|No
+1414|432|Diabetic retinal oedema|<=30d|No
+1415|432|Retinal haemorrhage|<=30d|No
+1422|305|Diabetes mellitus|10yr-<20yr|Yes
+1423|305|Hypertension|10yr-<20yr|Yes
+1432|305|Anxiety|>1m-<3m|Yes
+1433|305|Pancreatitis|<=30d|No
+1438|305|Hypercholesterolaemia|10yr-<20yr|Yes
+1439|305|Oedema peripheral|3m-<6m|Yes
+1440|305|Renal failure chronic|3m-<6m|No
+3575|305|Drug hypersensitivity|10yr-<20yr|No
+5044|305|Vision blurred|1yr-<5yr|No
+5045|305|Vitreous floaters|3m-<6m|No
+1609|373|Diabetes mellitus|>=20yr|Yes
+1732|373|Diarrhoea|<=30d|Yes
+1733|373|Hypercholesterolaemia|>=20yr|Yes
+1734|373|Hypertension|1yr-<5yr|Yes
+4050|373|Vision blurred|1yr-<5yr|No
+4051|373|Vitreous floaters|3m-<6m|No
+4053|373|Diabetic retinal oedema|1yr-<5yr|No
+1792|557|Diabetes mellitus|>=20yr|Yes
+1793|557|Hypertension|10yr-<20yr|No
+1794|557|Back pain|5yr-<10yr|No
+1795|557|Arthralgia|5yr-<10yr|No
+3978|557|Diabetic neuropathy|10yr-<20yr|Yes
+4885|557|Vitreous haemorrhage|>1m-<3m|No
+2201|171|Diabetes mellitus inadequate control|10yr-<20yr|Yes
+2202|171|Hypertension|5yr-<10yr|Yes
+2203|171|Hypercholesterolaemia|5yr-<10yr|Yes
+2204|171|Ischaemic stroke|5yr-<10yr|No
+2205|171|Fluid retention|1yr-<5yr|Yes
+2327|171|Depression|1yr-<5yr|Yes
+2328|171|Urine output decreased|1yr-<5yr|Yes
+2329|171|Infection|<=30d|Yes
+2330|171|Eye pain|>1m-<3m|Yes
+2612|171|Retinal vein occlusion|5yr-<10yr|No
+2613|171|Vitreous haemorrhage|1yr-<5yr|No
+2847|171|Abdominal pain|<=30d|No
+2848|171|Diarrhoea|<=30d|No
+2849|171|Obesity|>=20yr|No
+2850|171|Onychomycosis|5yr-<10yr|No
+2851|171|Osteoarthritis|5yr-<10yr|Yes
+4021|171|Diabetic neuropathy|1yr-<5yr|No
+4022|171|Erectile dysfunction|1yr-<5yr|No
+4023|171|Fungal skin infection|>1m-<3m|Yes
+2729|616|Diabetes mellitus|10yr-<20yr|Yes
+2730|616|Hypertension|6m-<12m|Yes
+2731|616|Hypothyroidism|6m-<12m|Yes
+2732|616|Gastrooesophageal reflux disease|6m-<12m|Yes
+2733|616|Depression|6m-<12m|Yes
+2757|616|Oedema peripheral|3m-<6m|Yes
+2758|616|Anxiety|<=30d|Yes
+2759|616|Vitamin B12 deficiency|>1m-<3m|Yes
+2760|616|Diabetic neuropathy|3m-<6m|Yes
+2761|616|Diarrhoea|6m-<12m|Yes
+2762|616|Constipation|6m-<12m|Yes
+2763|616|Pain|6m-<12m|Yes
+2828|616|Eczema|<=30d|Yes
+4059|616|Diabetic retinal oedema|>1m-<3m|No
+5037|616|Diabetic retinopathy|>1m-<3m|No
+2987|519|Diabetes mellitus|10yr-<20yr|Yes
+2988|519|Hypertension|10yr-<20yr|Yes
+2989|519|Hypercholesterolaemia|>1m-<3m|Yes
+3698|519|Vision blurred|1yr-<5yr|No
+4054|519|Diabetic retinal oedema|1yr-<5yr|No
+5046|519|Vitreous detachment|>1m-<3m|No
+5047|519|Diabetic retinopathy|>1m-<3m|No
+1593|184|Diabetes mellitus|10yr-<20yr|Yes
+1594|184|Hypercholesterolaemia|10yr-<20yr|Yes
+1595|184|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1596|184|Diabetic neuropathy|6m-<12m|No
+1597|184|Angina pectoris|5yr-<10yr|Yes
+1598|184|Osteoporosis|1yr-<5yr|No
+1599|184|Peripheral vascular disorder|1yr-<5yr|Yes
+1600|184|Hypersensitivity|1yr-<5yr|No
+1601|184|Sleep apnoea syndrome|1yr-<5yr|No
+1602|184|Asthma|1yr-<5yr|No
+1603|184|Micturition urgency|1yr-<5yr|No
+1604|184|Hernia|5yr-<10yr|No
+1605|184|Cholecystectomy|1yr-<5yr|No
+1606|184|Seasonal allergy|5yr-<10yr|No
+1607|184|Appendiceal abscess|5yr-<10yr|No
+1608|184|Hypertension|1yr-<5yr|Yes
+1615|184|Fluid retention|6m-<12m|Yes
+2061|234|Hypercholesterolaemia|1yr-<5yr|Yes
+2062|234|Diabetes mellitus|5yr-<10yr|Yes
+2063|234|Oesophageal ulcer|6m-<12m|Yes
+2064|234|Vitamin D deficiency|6m-<12m|Yes
+3922|234|Cataract|1yr-<5yr|No
+5297|234|Coronary artery disease|1yr-<5yr|No
+5298|234|Renal failure|1yr-<5yr|No
+5299|234|Heart rate irregular|<=30d|No
+5440|234|Peptic ulcer|1yr-<5yr|Yes
+2156|528|Diabetes mellitus|10yr-<20yr|Yes
+2157|528|Rheumatoid arthritis|>1m-<3m|Yes
+2158|528|Neuropathy peripheral|6m-<12m|No
+2159|528|Hypertension|1yr-<5yr|Yes
+2160|528|Seasonal allergy|10yr-<20yr|No
+2161|528|Poor peripheral circulation|1yr-<5yr|No
+2162|528|Deafness|5yr-<10yr|No
+2163|528|Skin disorder|1yr-<5yr|No
+2610|528|Cerebrovascular accident|1yr-<5yr|No
+2260|509|Diabetes mellitus|10yr-<20yr|Yes
+2262|509|Hypertension|5yr-<10yr|Yes
+2263|509|Depression|3m-<6m|Yes
+2264|509|Anaemia|1yr-<5yr|No
+2265|509|Diverticulitis|5yr-<10yr|No
+2266|509|Osteoarthritis|10yr-<20yr|No
+2267|509|Headache|3m-<6m|Yes
+2268|509|Hysterectomy|10yr-<20yr|No
+2269|509|Arthralgia|5yr-<10yr|No
+2270|509|Neuropathy peripheral|>1m-<3m|Yes
+2271|509|Dyspepsia|5yr-<10yr|Yes
+3135|225|Diabetes mellitus|10yr-<20yr|Yes
+3136|225|Hypertension|1yr-<5yr|Yes
+3137|225|Constipation|1yr-<5yr|Yes
+3138|225|Anxiety|1yr-<5yr|Yes
+3139|225|Oedema peripheral|1yr-<5yr|Yes
+3140|225|Neuropathy peripheral|1yr-<5yr|No
+3141|225|Arthralgia|1yr-<5yr|Yes
+3142|225|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3143|225|Hysterectomy|>=20yr|No
+3144|225|Cholelithiasis|5yr-<10yr|No
+3145|225|Pancreatitis|10yr-<20yr|No
+3146|225|Osteoarthritis|5yr-<10yr|Yes
+3147|225|Inguinal hernia|10yr-<20yr|No
+3148|225|Insomnia|1yr-<5yr|Yes
+3149|225|Dyspnoea|1yr-<5yr|Yes
+4923|225|Bladder prolapse|5yr-<10yr|No
+4924|225|Coronary artery disease|5yr-<10yr|Yes
+4670|203|Diabetes mellitus|5yr-<10yr|Yes
+4671|203|Presyncope|5yr-<10yr|No
+4672|203|Hyperlipidaemia|1yr-<5yr|Yes
+4673|203|Vitamin D deficiency|1yr-<5yr|Yes
+5288|203|Arthritis|6m-<12m|Yes
+2605|727|Hypercholesterolaemia|1yr-<5yr|Yes
+2606|727|Hypothyroidism|1yr-<5yr|Yes
+2607|727|Constipation|1yr-<5yr|Yes
+2608|727|Seasonal allergy|5yr-<10yr|Yes
+2609|727|Diabetes mellitus|>=20yr|Yes
+2857|727|Coronary artery disease|1yr-<5yr|Yes
+2858|727|Stent placement|1yr-<5yr|No
+2863|727|Ocular hypertension|5yr-<10yr|Yes
+3386|727|Basal cell carcinoma|6m-<12m|No
+5166|727|Nocturia|5yr-<10yr|No
+3241|332|Hypertension|>=20yr|Yes
+3242|332|Fatigue|1yr-<5yr|No
+3243|332|Diabetes mellitus|10yr-<20yr|Yes
+3244|332|Hypercholesterolaemia|1yr-<5yr|Yes
+3245|332|Depression|5yr-<10yr|Yes
+3246|332|Insomnia|>=20yr|Yes
+3727|332|Anxiety|1yr-<5yr|Yes
+3728|332|Nausea|1yr-<5yr|Yes
+4108|332|Obesity|5yr-<10yr|No
+4109|332|Renal failure chronic|10yr-<20yr|No
+4110|332|Fibromyalgia|5yr-<10yr|No
+4111|332|Diabetic gastroparesis|5yr-<10yr|No
+4164|332|Back pain|5yr-<10yr|No
+4165|332|Surgery|5yr-<10yr|No
+4417|332|Ocular hypertension|6m-<12m|Yes
+3263|291|Hypertension|>=20yr|Yes
+3264|291|Diabetes mellitus|>=20yr|Yes
+3265|291|Coronary artery disease|3m-<6m|Yes
+3266|291|Chronic obstructive pulmonary disease|3m-<6m|Yes
+3267|291|Depression|10yr-<20yr|Yes
+3268|291|Muscle spasms|3m-<6m|Yes
+3269|291|Neuropathy peripheral|1yr-<5yr|Yes
+3270|291|Insomnia|5yr-<10yr|Yes
+3271|291|Iron deficiency|3m-<6m|Yes
+3317|291|Stent placement|10yr-<20yr|No
+3318|291|Vascular graft|3m-<6m|No
+3409|291|Vitamin D deficiency|>1m-<3m|Yes
+3799|291|Myocardial infarction|3m-<6m|No
+5145|291|Papilloma viral infection|6m-<12m|No
+5146|291|Cardiac failure congestive|3m-<6m|Yes
+5147|291|Hypercholesterolaemia|>1m-<3m|Yes
+5148|291|Arrhythmia|3m-<6m|No
+5149|291|Atrial fibrillation|3m-<6m|No
+3750|684|Diabetes mellitus|10yr-<20yr|Yes
+3751|684|Hypercholesterolaemia|1yr-<5yr|Yes
+3752|684|Neuropathy peripheral|1yr-<5yr|Yes
+3753|684|Hypertension|5yr-<10yr|Yes
+3754|684|Dizziness|1yr-<5yr|Yes
+3755|684|Urinary tract infection|>1m-<3m|No
+3756|684|Cholecystectomy|10yr-<20yr|No
+4666|684|Back pain|1yr-<5yr|No
+5478|684|Carpal tunnel syndrome|1yr-<5yr|No
+5482|684|Arthralgia|1yr-<5yr|No
+3823|346|Diabetes mellitus|10yr-<20yr|Yes
+3824|346|Hypertension|10yr-<20yr|Yes
+3825|346|Hypercholesterolaemia|10yr-<20yr|Yes
+3826|346|Rheumatoid arthritis|5yr-<10yr|Yes
+3827|346|Psoriatic arthropathy|>1m-<3m|No
+3828|346|Headache|>1m-<3m|No
+3829|346|Gastrooesophageal reflux disease|6m-<12m|Yes
+3830|346|Palpitations|1yr-<5yr|No
+3831|346|Oedema peripheral|1yr-<5yr|Yes
+1559|227|Diabetes mellitus|>=20yr|Yes
+1560|227|Hypertension|>=20yr|Yes
+1561|227|Osteoarthritis|10yr-<20yr|Yes
+1562|227|Cerebrovascular accident|5yr-<10yr|Yes
+1563|227|Gout|5yr-<10yr|Yes
+1564|227|Hypercholesterolaemia|1yr-<5yr|Yes
+1565|227|Insomnia|1yr-<5yr|Yes
+2319|227|Uterine prolapse|1yr-<5yr|No
+3792|227|Hysterectomy|5yr-<10yr|No
+3793|227|Tinnitus|1yr-<5yr|No
+2611|767|Diabetes mellitus inadequate control|10yr-<20yr|No
+2700|767|Diabetes mellitus|10yr-<20yr|Yes
+2958|753|Diabetes mellitus|10yr-<20yr|Yes
+2959|753|Hypertension|1yr-<5yr|No
+2960|753|Vitreous haemorrhage|6m-<12m|No
+2961|753|Retinal neovascularisation|>1m-<3m|No
+2962|753|Diabetic retinopathy|6m-<12m|No
+2991|529|Diabetes mellitus|10yr-<20yr|Yes
+2992|529|Hypercholesterolaemia|1yr-<5yr|No
+4352|248|Diabetes mellitus|>1m-<3m|Yes
+4414|248|Menopause|10yr-<20yr|No
+4415|248|Gastrooesophageal reflux disease|1yr-<5yr|No
+4416|248|Eye pain|<=30d|No
+4703|248|Hypertension|<=30d|No
+69|567|Diabetes mellitus|1yr-<5yr|Yes
+70|567|Diabetic retinopathy|>1m-<3m|No
+71|567|Diabetic retinal oedema|>1m-<3m|No
+97|79|Diabetes mellitus|>=20yr|Yes
+98|79|Diabetic neuropathy|1yr-<5yr|Yes
+99|79|Osteoarthritis|1yr-<5yr|Yes
+100|79|Insomnia|6m-<12m|Yes
+101|79|Drug hypersensitivity|>=20yr|No
+102|79|Oesophagitis|10yr-<20yr|Yes
+103|79|Headache|10yr-<20yr|No
+113|79|Diabetic retinal oedema|>1m-<3m|No
+114|79|Cataract|>1m-<3m|No
+115|79|Diabetic retinopathy|>1m-<3m|No
+1635|79|Hypothyroidism|10yr-<20yr|No
+548|238|Hypertension|10yr-<20yr|Yes
+549|238|Diabetes mellitus|10yr-<20yr|Yes
+550|238|Macular oedema|>1m-<3m|No
+551|238|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+596|238|Hyperlipidaemia|5yr-<10yr|Yes
+597|238|Migraine|10yr-<20yr|Yes
+598|238|Rash|5yr-<10yr|Yes
+599|238|Diabetic retinopathy|3m-<6m|No
+838|238|Schizoaffective disorder|>=20yr|Yes
+839|238|Bipolar disorder|>=20yr|Yes
+841|238|Diabetic neuropathy|1yr-<5yr|No
+842|238|Hyperkeratosis|3m-<6m|No
+843|238|Plantar fasciitis|1yr-<5yr|No
+844|238|Herpes virus infection|1yr-<5yr|Yes
+889|295|Diabetes mellitus|>=20yr|Yes
+890|295|Macular oedema|<=30d|No
+891|295|Deafness|>1m-<3m|No
+892|295|Seasonal allergy|10yr-<20yr|No
+893|295|Diabetic neuropathy|1yr-<5yr|Yes
+894|295|Osteoarthritis|1yr-<5yr|Yes
+1268|302|Diabetic retinal oedema|>1m-<3m|No
+1283|302|Diabetes mellitus|10yr-<20yr|Yes
+1284|302|Embolism|5yr-<10yr|Yes
+1285|302|Muscle spasms|1yr-<5yr|No
+1286|302|Varicose vein|5yr-<10yr|No
+1287|302|Headache|6m-<12m|No
+1364|47|Diabetes mellitus|10yr-<20yr|Yes
+1365|47|Hypertension|10yr-<20yr|Yes
+1366|47|Cataract|>1m-<3m|No
+1367|47|Inner ear disorder|>=20yr|No
+1368|47|Sinusitis|>=20yr|Yes
+1369|47|Dyspnoea|6m-<12m|No
+1370|47|Neuropathy peripheral|5yr-<10yr|Yes
+1371|47|Dizziness|1yr-<5yr|No
+1372|47|Anaemia|1yr-<5yr|Yes
+1373|47|Hypothyroidism|1yr-<5yr|No
+1374|47|Female sterilisation|>=20yr|No
+1375|47|Haemorrhoids|>=20yr|No
+1453|47|Headache|5yr-<10yr|No
+1570|683|Impaired gastric emptying|1yr-<5yr|Yes
+1571|683|Diabetes mellitus|10yr-<20yr|Yes
+1572|683|Diabetic retinal oedema|<=30d|No
+1573|683|Osteoarthritis|>=20yr|Yes
+1574|683|Drug hypersensitivity|10yr-<20yr|No
+1575|683|Amnesia|1yr-<5yr|No
+1577|683|Depression|5yr-<10yr|Yes
+1578|683|Hypertension|1yr-<5yr|No
+1731|683|Oedema peripheral|>1m-<3m|No
+1649|33|Diabetes mellitus|10yr-<20yr|Yes
+1651|33|Hypercholesterolaemia|6m-<12m|Yes
+1652|33|Inguinal hernia repair|10yr-<20yr|No
+1653|33|Diabetic retinal oedema|<=30d|No
+1711|775|Diabetes mellitus|1yr-<5yr|Yes
+1712|775|Hypertension|1yr-<5yr|Yes
+1713|775|Hypercholesterolaemia|5yr-<10yr|Yes
+1714|775|Cataract|1yr-<5yr|No
+1715|775|Diabetic retinal oedema|<=30d|No
+1717|775|Cholecystectomy|6m-<12m|No
+1718|775|Prostatitis|1yr-<5yr|Yes
+1720|775|Diabetic neuropathy|1yr-<5yr|No
+1721|775|Muscle atrophy|1yr-<5yr|No
+1722|775|Sinusitis|>=20yr|No
+1728|775|Tachycardia|1yr-<5yr|Yes
+2286|351|Diabetes mellitus|>=20yr|Yes
+2287|351|Depression|>=20yr|Yes
+2963|351|Transient ischaemic attack|1yr-<5yr|No
+3117|673|Hypertension|5yr-<10yr|Yes
+3118|673|Diabetes mellitus|5yr-<10yr|Yes
+3119|673|Depression|1yr-<5yr|Yes
+5140|673|Back pain|5yr-<10yr|Yes
+5468|673|Musculoskeletal pain|5yr-<10yr|No
+3159|549|Diabetes mellitus|>=20yr|Yes
+3160|549|Hypertension|5yr-<10yr|Yes
+3161|549|Hypercholesterolaemia|>=20yr|Yes
+3162|549|Micturition urgency|1yr-<5yr|No
+3215|750|Diabetes mellitus|>=20yr|Yes
+3220|750|Hypertensive heart disease|10yr-<20yr|No
+3221|750|Cataract operation|5yr-<10yr|No
+3223|750|Hysterectomy|>=20yr|No
+3224|750|Cholecystectomy|>=20yr|No
+4036|750|Cardiac operation|10yr-<20yr|No
+4037|750|Myocardial infarction|1yr-<5yr|No
+5474|750|Vision blurred|3m-<6m|No
+5517|750|Neuropathy peripheral|1yr-<5yr|No
+5518|750|Constipation|1yr-<5yr|No
+5519|750|Back pain|1yr-<5yr|No
+5559|750|Cystitis haemorrhagic|6m-<12m|No
+3258|383|Diabetes mellitus|1yr-<5yr|Yes
+3259|383|Hypertension|10yr-<20yr|Yes
+3294|104|Diabetes mellitus|10yr-<20yr|Yes
+3295|104|Hypertension|10yr-<20yr|Yes
+3296|104|Bipolar disorder|3m-<6m|Yes
+4674|104|Osteoarthritis|>1m-<3m|No
+5471|104|Drug abuse|1yr-<5yr|No
+5472|104|Affective disorder|1yr-<5yr|Yes
+5473|104|Back pain|6m-<12m|No
+3613|350|Diabetes mellitus|>=20yr|Yes
+3614|350|Hypertension|1yr-<5yr|Yes
+3615|350|Hypercholesterolaemia|1yr-<5yr|Yes
+3616|350|Diabetic neuropathy|5yr-<10yr|Yes
+3617|350|Fibromyalgia|5yr-<10yr|Yes
+5466|350|Hypokalaemia|1yr-<5yr|Yes
+5467|350|Hyperparathyroidism|1yr-<5yr|Yes
+5476|350|Renal failure chronic|1yr-<5yr|No
+5477|350|Staphylococcal infection|1yr-<5yr|No
+3885|56|Hypertension|1yr-<5yr|Yes
+3886|56|Diabetes mellitus|>=20yr|Yes
+3887|56|Depression|5yr-<10yr|Yes
+3888|56|Seasonal allergy|>=20yr|Yes
+3889|56|Vascular graft|5yr-<10yr|No
+4080|56|Myocardial infarction|5yr-<10yr|No
+5497|56|Pain|>1m-<3m|Yes
+5498|56|Irritable bowel syndrome|>1m-<3m|Yes
+4032|289|Hypertension|5yr-<10yr|Yes
+4033|289|Diabetes mellitus|1yr-<5yr|Yes
+4034|289|Intervertebral disc degeneration|1yr-<5yr|Yes
+4035|289|Toe amputation|6m-<12m|No
+4052|289|Benign prostatic hyperplasia|10yr-<20yr|Yes
+422|769|Osteoarthritis|5yr-<10yr|Yes
+423|769|Diabetes mellitus|10yr-<20yr|Yes
+424|769|Hypertension|1yr-<5yr|Yes
+425|769|Hypercholesterolaemia|1yr-<5yr|Yes
+426|769|Obsessive-compulsive disorder|>=20yr|Yes
+662|536|Diabetes mellitus|10yr-<20yr|Yes
+663|536|Hypercholesterolaemia|1yr-<5yr|Yes
+664|536|Hypertension|1yr-<5yr|Yes
+665|536|Hyperthyroidism|1yr-<5yr|Yes
+950|77|Diabetes mellitus|5yr-<10yr|Yes
+951|77|Hypertension|5yr-<10yr|Yes
+952|77|Osteoarthritis|5yr-<10yr|No
+996|297|Diabetes mellitus|3m-<6m|Yes
+997|297|Hypertension|3m-<6m|Yes
+2221|521|Ovarian neoplasm|6m-<12m|No
+2222|521|Diabetic neuropathy|6m-<12m|Yes
+2223|521|Hypertension|5yr-<10yr|Yes
+2224|521|Diabetes mellitus|10yr-<20yr|Yes
+2225|521|Hypothyroidism|6m-<12m|Yes
+2284|267|Diabetes mellitus|10yr-<20yr|Yes
+2285|267|Hypertension|5yr-<10yr|Yes
+3193|734|Diabetes mellitus|10yr-<20yr|Yes
+3194|734|Hypertension|5yr-<10yr|Yes
+3195|734|Glaucoma|1yr-<5yr|Yes
+3196|734|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3197|734|Anxiety|5yr-<10yr|Yes
+3198|734|Osteoarthritis|5yr-<10yr|Yes
+3396|585|Atrial fibrillation|1yr-<5yr|Yes
+3397|585|Hypertension|1yr-<5yr|Yes
+3398|585|Diabetes mellitus|1yr-<5yr|Yes
+3399|585|Hyperlipidaemia|1yr-<5yr|Yes
+3400|585|Asthma|1yr-<5yr|Yes
+3717|454|Diabetes mellitus|5yr-<10yr|Yes
+3718|454|Hypertension|5yr-<10yr|Yes
+3719|454|Arrhythmia|6m-<12m|Yes
+3720|454|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4316|454|Coronary artery disease|5yr-<10yr|No
+1829|594|Diabetes mellitus|10yr-<20yr|Yes
+1873|594|Mitral valve incompetence|5yr-<10yr|No
+1874|594|Pulmonary valve incompetence|5yr-<10yr|No
+2527|594|Hyperlipidaemia|1yr-<5yr|Yes
+2440|296|Diabetes mellitus|10yr-<20yr|Yes
+2441|296|Diabetic ulcer|>1m-<3m|No
+2800|442|Diabetes mellitus|>=20yr|Yes
+2810|442|Insomnia|6m-<12m|Yes
+3387|442|Anxiety|5yr-<10yr|No
+4005|442|Hypertension|1yr-<5yr|Yes
+242|366|Diabetes mellitus|1yr-<5yr|Yes
+250|366|Hypertension|5yr-<10yr|Yes
+251|366|Osteoarthritis|1yr-<5yr|No
+466|301|Diabetes mellitus|>=20yr|Yes
+552|301|Knee operation|<=30d|Yes
+553|301|Glaucoma|5yr-<10yr|Yes
+555|301|Tobacco abuse|>=20yr|No
+556|301|Bundle branch block|6m-<12m|No
+557|301|Toe amputation|10yr-<20yr|No
+587|301|Hydrocele operation|>=20yr|No
+588|301|Inguinal hernia repair|6m-<12m|No
+721|102|Diabetes mellitus|>=20yr|Yes
+1092|102|Anaemia|1yr-<5yr|No
+1093|102|Cardiac murmur|1yr-<5yr|No
+1094|102|Bundle branch block|5yr-<10yr|No
+1095|102|Renal failure chronic|5yr-<10yr|No
+1096|102|Coronary artery disease|5yr-<10yr|Yes
+1097|102|Diverticulum|5yr-<10yr|No
+1098|102|Deafness|1yr-<5yr|No
+1099|102|Haemorrhoids|>1m-<3m|No
+1100|102|Hyperlipidaemia|10yr-<20yr|Yes
+1101|102|Hyperparathyroidism|1yr-<5yr|No
+1102|102|Hypertension|10yr-<20yr|Yes
+1103|102|Colonic polyp|>1m-<3m|No
+1104|102|Onychomycosis|10yr-<20yr|No
+1105|102|Osteoporosis|<=30d|No
+1106|102|Proteinuria|1yr-<5yr|No
+1107|102|Carotid bruit|5yr-<10yr|No
+3313|773|Diabetes mellitus|10yr-<20yr|Yes
+3314|773|Hyperlipidaemia|10yr-<20yr|Yes
+3315|773|Hypertension|5yr-<10yr|Yes
+3511|773|Diabetic neuropathy|5yr-<10yr|No
+3512|773|Osteopenia|1yr-<5yr|No
+3513|773|Malignant melanoma|>=20yr|No
+3514|773|Osteoarthritis|1yr-<5yr|No
+3515|773|Hepatic enzyme increased|1yr-<5yr|No
+3516|773|Retinopathy hypertensive|6m-<12m|No
+3517|773|Eye naevus|5yr-<10yr|No
+3518|773|Eyelid ptosis|5yr-<10yr|No
+3519|773|Glaucoma|5yr-<10yr|No
+3520|773|Diabetic retinal oedema|5yr-<10yr|No
+3521|773|Cataract|5yr-<10yr|No
+5423|773|Posterior capsule opacification|5yr-<10yr|No
+289|270|Diabetes mellitus|10yr-<20yr|Yes
+290|270|Hypertension|10yr-<20yr|Yes
+291|270|Asthma|1yr-<5yr|Yes
+507|270|Hypercholesterolaemia|1yr-<5yr|Yes
+508|270|Hypothyroidism|1yr-<5yr|Yes
+840|270|Hyperlipidaemia|6m-<12m|Yes
+790|577|Diabetes mellitus|1yr-<5yr|Yes
+791|577|Anaemia|10yr-<20yr|Yes
+792|577|Seasonal allergy|10yr-<20yr|Yes
+806|577|Hypertension|1yr-<5yr|Yes
+807|577|Hypothyroidism|1yr-<5yr|Yes
+808|577|Asthma|10yr-<20yr|Yes
+1169|577|Hyperlipidaemia|<=30d|Yes
+799|575|Diabetes mellitus|1yr-<5yr|Yes
+801|575|Hyperlipidaemia|5yr-<10yr|Yes
+963|811|Diabetes mellitus|6m-<12m|Yes
+999|811|Hypokalaemia|6m-<12m|Yes
+1000|811|Hypertension|6m-<12m|Yes
+1001|811|Hyperlipidaemia|6m-<12m|Yes
+5486|811|Coronary artery disease|6m-<12m|No
+5487|811|Coronary artery bypass|6m-<12m|No
+142|846|Diabetes mellitus|>=20yr|Yes
+354|846|Erectile dysfunction|1yr-<5yr|Yes
+371|846|Pruritus|3m-<6m|No
+197|679|Hypertension|1yr-<5yr|Yes
+198|679|Hyperlipidaemia|6m-<12m|Yes
+199|679|Depression|>=20yr|Yes
+200|679|Rheumatoid arthritis|>=20yr|Yes
+203|679|Menopause|5yr-<10yr|No
+208|679|Diabetes mellitus|>=20yr|Yes
+241|679|Seasonal allergy|5yr-<10yr|No
+5277|679|Asthma|10yr-<20yr|Yes
+5278|679|Insomnia|10yr-<20yr|No
+5279|679|Oedema peripheral|10yr-<20yr|Yes
+5280|679|Necrobiosis lipoidica diabeticorum|10yr-<20yr|No
+5281|679|Hidradenitis|10yr-<20yr|No
+5282|679|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+5284|679|Candida infection|5yr-<10yr|Yes
+845|361|Hypertension|10yr-<20yr|Yes
+846|361|Hyperlipidaemia|10yr-<20yr|Yes
+847|361|Erectile dysfunction|1yr-<5yr|No
+848|361|Obesity|>=20yr|No
+849|361|Dyslexia|>=20yr|Yes
+850|361|Gastrooesophageal reflux disease|5yr-<10yr|No
+871|361|Hypertriglyceridaemia|1yr-<5yr|No
+872|361|Rhinitis allergic|10yr-<20yr|No
+873|361|Diabetic neuropathy|10yr-<20yr|Yes
+874|361|Skin ulcer|6m-<12m|Yes
+875|361|Coronary artery disease|5yr-<10yr|Yes
+876|361|Diabetes mellitus|>=20yr|Yes
+877|361|Drug hypersensitivity|1yr-<5yr|No
+888|361|Nephritis|5yr-<10yr|Yes
+5193|361|Dry eye|6m-<12m|No
+5376|361|Oedema peripheral|1yr-<5yr|Yes
+5377|361|Pancreatitis|1yr-<5yr|No
+5378|361|Cellulitis|1yr-<5yr|No
+5385|361|Chronic obstructive pulmonary disease|5yr-<10yr|Yes
+1170|106|Diabetes mellitus|10yr-<20yr|Yes
+1171|106|Hypertension|10yr-<20yr|Yes
+1172|106|Hyperlipidaemia|10yr-<20yr|Yes
+1173|106|Coronary artery disease|10yr-<20yr|Yes
+1174|106|Obesity|1yr-<5yr|No
+1175|106|Vertigo|5yr-<10yr|No
+1176|106|Insomnia|1yr-<5yr|Yes
+1196|106|Osteoarthritis|6m-<12m|No
+1197|106|Diabetic neuropathy|10yr-<20yr|No
+1198|106|Pulmonary hypertension|1yr-<5yr|No
+1199|106|Ischaemic cardiomyopathy|10yr-<20yr|Yes
+1200|106|Mitral valve incompetence|1yr-<5yr|No
+1201|106|Tricuspid valve incompetence|1yr-<5yr|No
+1202|106|Myocardial infarction|10yr-<20yr|Yes
+2340|688|Sleep apnoea syndrome|3m-<6m|No
+2341|688|Osteoarthritis|10yr-<20yr|Yes
+2342|688|Hypertension|10yr-<20yr|Yes
+2343|688|Hyperlipidaemia|10yr-<20yr|No
+2344|688|Depression|10yr-<20yr|No
+2345|688|Myocardial infarction|5yr-<10yr|Yes
+2346|688|Diabetes mellitus|>=20yr|Yes
+2347|688|Obesity|10yr-<20yr|No
+2358|688|Poor peripheral circulation|1yr-<5yr|Yes
+2359|688|Arthralgia|10yr-<20yr|Yes
+2155|58|Hypertension|5yr-<10yr|Yes
+2167|58|Osteoarthritis|10yr-<20yr|Yes
+2168|58|Diabetes mellitus|>=20yr|Yes
+3024|58|Gastritis|>=20yr|No
+3250|355|Diabetes mellitus|>=20yr|Yes
+3256|355|Hypertension|>=20yr|Yes
+3257|355|Hypercholesterolaemia|10yr-<20yr|Yes
+3260|355|Deafness|1yr-<5yr|No
+3262|355|Prostatomegaly|5yr-<10yr|Yes
+5142|355|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+38|693|Diabetes mellitus|>=20yr|Yes
+39|693|Anxiety|5yr-<10yr|Yes
+40|693|Seasonal allergy|1yr-<5yr|Yes
+41|693|Urinary incontinence|1yr-<5yr|Yes
+42|693|Hypercholesterolaemia|5yr-<10yr|Yes
+43|693|Vulvovaginal dryness|6m-<12m|Yes
+44|693|Temporomandibular joint syndrome|5yr-<10yr|Yes
+484|693|Hypothyroidism|10yr-<20yr|Yes
+1186|689|Diabetes mellitus|1yr-<5yr|Yes
+1189|689|Vision blurred|6m-<12m|No
+1190|689|Diabetic retinal oedema|3m-<6m|No
+2618|748|Hypertension|1yr-<5yr|Yes
+2619|748|Myocardial infarction|1yr-<5yr|No
+2620|748|Hypercholesterolaemia|5yr-<10yr|Yes
+2621|748|Asthma|5yr-<10yr|No
+2622|748|Seasonal allergy|10yr-<20yr|Yes
+2623|748|Rheumatoid arthritis|5yr-<10yr|No
+2624|748|Fluid retention|5yr-<10yr|Yes
+2625|748|Headache|3m-<6m|Yes
+2626|748|Fatigue|1yr-<5yr|Yes
+2627|748|Anaemia|1yr-<5yr|No
+2628|748|Neuropathy peripheral|1yr-<5yr|No
+2629|748|Diabetes mellitus|>=20yr|Yes
+2637|748|Cataract|1yr-<5yr|No
+2638|748|Dry eye|1yr-<5yr|Yes
+3985|748|Osteoporosis|1yr-<5yr|Yes
+2917|503|Neuropathy peripheral|5yr-<10yr|Yes
+2918|503|Diabetes mellitus|10yr-<20yr|Yes
+2919|503|Diabetic retinal oedema|1yr-<5yr|No
+2920|503|Oedema peripheral|5yr-<10yr|Yes
+2921|503|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3273|205|Hypertension|6m-<12m|Yes
+3274|205|Malignant melanoma|10yr-<20yr|No
+3275|205|Seasonal allergy|10yr-<20yr|Yes
+3276|205|Neuropathy peripheral|3m-<6m|Yes
+3277|205|Diabetes mellitus|6m-<12m|Yes
+3278|205|Diabetic retinal oedema|>1m-<3m|No
+3471|455|Diabetes mellitus|>=20yr|Yes
+3472|455|Renal failure chronic|5yr-<10yr|No
+3473|455|Hypertension|5yr-<10yr|Yes
+3474|455|Urinary incontinence|1yr-<5yr|Yes
+3475|455|Oedema peripheral|1yr-<5yr|No
+3476|455|Osteoarthritis|5yr-<10yr|Yes
+3477|455|Back pain|1yr-<5yr|No
+3478|455|Sleep apnoea syndrome|5yr-<10yr|No
+3479|455|Cyst|1yr-<5yr|No
+3480|455|Blood testosterone decreased|>=20yr|Yes
+3481|455|Neuropathy peripheral|>=20yr|No
+3482|455|Constipation|1yr-<5yr|Yes
+3483|455|Hyperlipidaemia|5yr-<10yr|Yes
+3484|455|Deafness|5yr-<10yr|No
+3485|455|Headache|10yr-<20yr|No
+3674|190|Diabetes mellitus|10yr-<20yr|Yes
+3676|190|Hypertension|5yr-<10yr|Yes
+3677|190|Hyperlipidaemia|5yr-<10yr|Yes
+3678|190|Back pain|<=30d|Yes
+3679|190|Fatigue|1yr-<5yr|No
+3809|82|Diabetes mellitus|>=20yr|Yes
+3810|82|Hypertension|10yr-<20yr|Yes
+3811|82|Angioedema|10yr-<20yr|No
+3812|82|Depression|10yr-<20yr|Yes
+3813|82|Hyperlipidaemia|1yr-<5yr|Yes
+3814|82|Seasonal allergy|>=20yr|No
+3815|82|Back pain|6m-<12m|Yes
+3816|82|Hypothyroidism|>=20yr|Yes
+3817|82|Headache|6m-<12m|No
+4932|82|Myocardial infarction|5yr-<10yr|No
+4933|82|Transient ischaemic attack|5yr-<10yr|No
+4934|82|Hypertensive heart disease|10yr-<20yr|Yes
+4333|155|Hyperlipidaemia|6m-<12m|Yes
+4334|155|Diabetes mellitus|5yr-<10yr|Yes
+4421|790|Hypertension|1yr-<5yr|Yes
+4422|790|Hyperlipidaemia|6m-<12m|Yes
+4423|790|Diabetes mellitus|10yr-<20yr|Yes
+4424|790|Rheumatoid arthritis|1yr-<5yr|Yes
+3721|700|Diabetes mellitus|>1m-<3m|Yes
+3725|700|Hypertension|>1m-<3m|Yes
+3726|700|Hypercholesterolaemia|>1m-<3m|Yes
+3341|398|Hypertension|10yr-<20yr|Yes
+3342|398|Diabetes mellitus|>=20yr|Yes
+3343|398|Hyperlipidaemia|10yr-<20yr|Yes
+3344|398|Musculoskeletal pain|5yr-<10yr|No
+3345|398|Cardiac failure congestive|1yr-<5yr|Yes
+3225|269|Skin lesion|>=20yr|No
+3226|269|Diabetes mellitus|>=20yr|Yes
+3327|269|Hypertension|1yr-<5yr|No
+1476|730|Hypertension|1yr-<5yr|Yes
+1477|730|Hypercholesterolaemia|1yr-<5yr|No
+1478|730|Hyperlipidaemia|1yr-<5yr|No
+1479|730|Diabetes mellitus|>=20yr|Yes
+1760|714|Diabetes mellitus|10yr-<20yr|Yes
+1761|714|Hypercholesterolaemia|10yr-<20yr|Yes
+1762|714|Hypothyroidism|5yr-<10yr|Yes
+1763|714|Anaemia|1yr-<5yr|Yes
+1764|714|Hypertension|1yr-<5yr|Yes
+1765|714|Diabetic neuropathy|1yr-<5yr|Yes
+1766|714|Cardiac failure congestive|1yr-<5yr|Yes
+1767|714|Back pain|10yr-<20yr|Yes
+1768|714|Gastrooesophageal reflux disease|>1m-<3m|No
+1769|714|Osteoarthritis|1yr-<5yr|No
+2037|756|Diabetes mellitus|1yr-<5yr|Yes
+2038|756|Hypertension|6m-<12m|Yes
+2039|756|Asthma|>=20yr|Yes
+2193|401|Diabetes mellitus|10yr-<20yr|Yes
+2194|401|Hypertension|1yr-<5yr|Yes
+2195|401|Hypercholesterolaemia|10yr-<20yr|Yes
+2196|401|Inguinal hernia repair|1yr-<5yr|No
+2274|772|Diabetes mellitus|10yr-<20yr|Yes
+2275|772|Hypertension|10yr-<20yr|Yes
+2276|772|Myocardial infarction|10yr-<20yr|No
+2277|772|Spinal osteoarthritis|10yr-<20yr|No
+2278|772|Bursitis|5yr-<10yr|Yes
+2279|772|Nephrolithiasis|1yr-<5yr|Yes
+2280|772|Coronary artery disease|10yr-<20yr|Yes
+2281|772|Hypercholesterolaemia|10yr-<20yr|Yes
+2282|772|Hypothyroidism|10yr-<20yr|Yes
+800|595|Diabetes mellitus|>=20yr|Yes
+802|595|Diabetic gastroparesis|10yr-<20yr|Yes
+803|595|Coronary artery disease|>=20yr|Yes
+804|595|Glaucoma|10yr-<20yr|Yes
+805|595|Diabetic retinal oedema|10yr-<20yr|No
+2103|477|Diabetes mellitus|10yr-<20yr|Yes
+2104|477|Hypertension|5yr-<10yr|Yes
+2105|477|Cerebrovascular accident|5yr-<10yr|No
+2106|477|Gout|>=20yr|Yes
+2107|477|Hypercholesterolaemia|5yr-<10yr|Yes
+2108|477|Hypertriglyceridaemia|5yr-<10yr|Yes
+2908|477|Nephrolithiasis|5yr-<10yr|No
+2922|477|Renal failure chronic|5yr-<10yr|No
+2923|477|Diabetic neuropathy|5yr-<10yr|No
+5038|477|Osteoarthritis|10yr-<20yr|No
+3083|163|Diabetes mellitus|10yr-<20yr|Yes
+3084|163|Hypercholesterolaemia|5yr-<10yr|Yes
+3085|163|Coronary artery bypass|5yr-<10yr|Yes
+3086|163|Nephrolithiasis|<=30d|No
+1376|180|Diabetes mellitus|10yr-<20yr|Yes
+1442|23|Diabetes mellitus|>=20yr|Yes
+1444|23|Hypertension|>=20yr|Yes
+1445|23|Hypothyroidism|>=20yr|Yes
+1446|23|Low density lipoprotein increased|1yr-<5yr|Yes
+1463|23|Seasonal allergy|>=20yr|Yes
+1464|23|Sleep apnoea syndrome|1yr-<5yr|No
+1465|23|Vitamin D deficiency|<=30d|Yes
+1706|266|Low density lipoprotein increased|10yr-<20yr|Yes
+1707|266|Hypertension|10yr-<20yr|Yes
+1708|266|Diabetes mellitus|10yr-<20yr|Yes
+1797|214|Diabetes mellitus|5yr-<10yr|Yes
+1798|214|Low density lipoprotein increased|10yr-<20yr|No
+1799|214|Cardiac murmur|>=20yr|No
+1800|214|Migraine|1yr-<5yr|Yes
+1820|414|Diabetes mellitus|10yr-<20yr|Yes
+1821|414|Hypertension|10yr-<20yr|Yes
+1822|414|Cardiac failure congestive|10yr-<20yr|Yes
+1823|414|Goitre|10yr-<20yr|Yes
+1824|414|Low density lipoprotein increased|10yr-<20yr|Yes
+1973|414|Vitamin D deficiency|1yr-<5yr|Yes
+104|708|Hypertension|5yr-<10yr|Yes
+105|708|Hypercholesterolaemia|5yr-<10yr|Yes
+106|708|Prostatomegaly|10yr-<20yr|No
+107|708|Bladder cancer|1yr-<5yr|No
+108|708|Diabetes mellitus|10yr-<20yr|Yes
+109|708|Osteoarthritis|10yr-<20yr|No
+110|708|Vitamin D deficiency|1yr-<5yr|No
+5446|708|Coronary artery disease|5yr-<10yr|No
+184|639|Diabetes mellitus|1yr-<5yr|Yes
+185|639|Neuropathy peripheral|6m-<12m|Yes
+989|385|Hypertension|10yr-<20yr|Yes
+990|385|Diabetes mellitus|10yr-<20yr|Yes
+991|385|Neuropathy peripheral|5yr-<10yr|Yes
+992|385|Back pain|10yr-<20yr|Yes
+993|385|Hypothyroidism|10yr-<20yr|Yes
+994|385|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+1567|449|Hypertension|1yr-<5yr|Yes
+1568|449|Diabetes mellitus|10yr-<20yr|Yes
+1569|449|Hypercholesterolaemia|1yr-<5yr|Yes
+3798|449|Gastrooesophageal reflux disease|>1m-<3m|Yes
+4138|374|Hypercholesterolaemia|5yr-<10yr|Yes
+4139|374|Depression|10yr-<20yr|Yes
+4140|374|Vitamin D deficiency|3m-<6m|Yes
+4141|374|Arrhythmia|>1m-<3m|No
+4142|374|Diabetes mellitus|1yr-<5yr|Yes
+4143|374|Uterine cancer|10yr-<20yr|No
+4144|374|Cholecystectomy|10yr-<20yr|No
+4187|374|Psoriasis|5yr-<10yr|No
+886|802|Hypertension|5yr-<10yr|Yes
+921|802|Hypercholesterolaemia|5yr-<10yr|Yes
+922|802|Diabetes mellitus|>=20yr|Yes
+978|802|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1154|802|Stent placement|10yr-<20yr|No
+1360|802|Coronary artery disease|10yr-<20yr|Yes
+3238|802|Eczema|>=20yr|Yes
+3316|802|Urinary retention|1yr-<5yr|Yes
+5143|802|Palpitations|>=20yr|No
+938|85|Anxiety|10yr-<20yr|Yes
+959|85|Hypertension|5yr-<10yr|Yes
+960|85|Gout|10yr-<20yr|Yes
+961|85|Diabetes mellitus|10yr-<20yr|Yes
+962|85|Localised infection|<=30d|Yes
+2841|85|Psoriasis|>=20yr|No
+3286|85|Hyperlipidaemia|10yr-<20yr|Yes
+5407|85|Seasonal allergy|5yr-<10yr|No
+1076|754|Hypertension|10yr-<20yr|Yes
+1080|754|Seasonal allergy|1yr-<5yr|Yes
+1081|754|Diabetes mellitus|>=20yr|Yes
+1082|754|Constipation|1yr-<5yr|Yes
+1083|754|Dyspepsia|1yr-<5yr|Yes
+5244|754|Arthritis|5yr-<10yr|No
+5245|754|Ear pain|1yr-<5yr|Yes
+1118|784|Coronary artery disease|5yr-<10yr|No
+1119|784|Hypertension|5yr-<10yr|Yes
+1120|784|Cerebrovascular accident|5yr-<10yr|Yes
+1121|784|Bladder cancer|>=20yr|No
+1122|784|Hyperlipidaemia|5yr-<10yr|Yes
+1187|784|Atrial fibrillation|5yr-<10yr|Yes
+1281|784|Diabetes mellitus|10yr-<20yr|Yes
+1282|784|Coronary artery bypass|5yr-<10yr|No
+1218|310|Atrial flutter|1yr-<5yr|Yes
+1219|310|Diabetes mellitus|5yr-<10yr|Yes
+1220|310|Hypertension|5yr-<10yr|Yes
+1221|310|Hyperlipidaemia|5yr-<10yr|Yes
+1222|310|Insomnia|1yr-<5yr|Yes
+1280|310|Blood testosterone decreased|1yr-<5yr|Yes
+5352|310|Diabetic neuropathy|5yr-<10yr|No
+3566|623|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+3576|623|Hypercholesterolaemia|1yr-<5yr|Yes
+3577|623|Constipation|1yr-<5yr|Yes
+3578|623|Diabetes mellitus|>=20yr|Yes
+3579|623|Hypothyroidism|5yr-<10yr|Yes
+3580|623|Coronary artery disease|10yr-<20yr|Yes
+3581|623|Hypertension|5yr-<10yr|Yes
+3582|623|Myocardial infarction|5yr-<10yr|Yes
+3583|623|Angina pectoris|1yr-<5yr|Yes
+3584|623|Seasonal allergy|5yr-<10yr|Yes
+3585|623|Depression|5yr-<10yr|Yes
+3611|623|Sleep apnoea syndrome|6m-<12m|No
+3612|623|Asthma|>=20yr|No
+3710|623|Prostatomegaly|1yr-<5yr|Yes
+3711|623|Osteoarthritis|10yr-<20yr|Yes
+4566|623|Dry eye|1yr-<5yr|Yes
+5283|623|Syncope|5yr-<10yr|No
+5448|623|Nasal congestion|1yr-<5yr|No
+3773|706|Diabetes mellitus|10yr-<20yr|Yes
+3774|706|Hypertension|1yr-<5yr|Yes
+3986|706|Sinusitis|5yr-<10yr|No
+3987|706|Rhabdomyolysis|1yr-<5yr|No
+3988|706|Concussion|5yr-<10yr|No
+4167|191|Hypertension|1yr-<5yr|Yes
+4168|191|Hypercholesterolaemia|5yr-<10yr|No
+4169|191|Lymphoma|1yr-<5yr|No
+4170|191|Diabetes mellitus|>=20yr|Yes
+4171|191|Osteoarthritis|1yr-<5yr|No
+4172|191|Skin cancer|1yr-<5yr|No
+4173|191|Myocardial infarction|5yr-<10yr|Yes
+4174|191|Tinnitus|>=20yr|No
+4175|191|Vertigo|>=20yr|No
+4176|191|Gastrooesophageal reflux disease|10yr-<20yr|Yes
+4177|191|Brain neoplasm|1yr-<5yr|No
+4178|191|Gout|>=20yr|Yes
+4179|191|Hypothyroidism|1yr-<5yr|Yes
+4180|191|Angina pectoris|5yr-<10yr|Yes
+4181|191|Diabetic retinal oedema|3m-<6m|Yes
+4188|191|VIIth nerve paralysis|6m-<12m|No
+4189|191|VIth nerve paralysis|6m-<12m|No
+4190|191|Cataract nuclear|6m-<12m|No
+4837|781|Hypercholesterolaemia|6m-<12m|Yes
+4838|781|Diabetes mellitus|>=20yr|Yes
+4839|781|Fluid retention|1yr-<5yr|Yes
+4840|781|Hypertension|1yr-<5yr|Yes
+4841|781|Osteoarthritis|1yr-<5yr|No
+4950|781|Iron deficiency|6m-<12m|Yes
+4886|226|Diabetes mellitus|10yr-<20yr|Yes
+4893|226|Constipation|5yr-<10yr|Yes
+4894|226|Intervertebral disc protrusion|10yr-<20yr|Yes
+4895|226|Fluid retention|5yr-<10yr|Yes
+4896|226|Back pain|5yr-<10yr|Yes
+4897|226|Chronic sinusitis|>=20yr|Yes
+4898|226|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+4899|226|Menopause|10yr-<20yr|Yes
+4900|226|Hypertension|10yr-<20yr|Yes
+4901|226|Osteoarthritis|1yr-<5yr|Yes
+4902|226|Hypomagnesaemia|1yr-<5yr|Yes
+4943|226|Hypertonic bladder|1yr-<5yr|Yes
+4944|226|Motion sickness|>=20yr|Yes
+5349|226|Muscular weakness|5yr-<10yr|No
+5350|226|Diabetes mellitus inadequate control|10yr-<20yr|No
+3843|799|Diabetes mellitus|1yr-<5yr|Yes
+3844|799|Diabetic neuropathy|1yr-<5yr|No
+3845|799|Skin cancer|1yr-<5yr|No
+3857|799|Diabetic retinopathy|>1m-<3m|Yes
+3443|397|Diabetes mellitus|>=20yr|Yes
+3444|397|Hypertension|>=20yr|Yes
+3445|397|Hyperlipidaemia|>=20yr|Yes
+3503|397|Macular oedema|6m-<12m|No
+3504|397|Diabetic retinal oedema|10yr-<20yr|No
+3640|397|Psoriasis|5yr-<10yr|Yes
+3641|397|Dyspepsia|6m-<12m|Yes
+3642|397|Constipation|1yr-<5yr|Yes
+3643|397|Hypertensive heart disease|5yr-<10yr|Yes
+4096|404|Diabetes mellitus|>=20yr|Yes
+4097|404|Hypertension|>=20yr|Yes
+4098|404|Hypercholesterolaemia|>=20yr|Yes
+4099|404|Tremor|10yr-<20yr|No
+4100|404|Asthma|1yr-<5yr|Yes
+4683|658|Diabetes mellitus|10yr-<20yr|Yes
+4684|658|Hypertension|10yr-<20yr|Yes
+4685|658|Hypercholesterolaemia|10yr-<20yr|Yes
+4686|658|Intervertebral disc protrusion|6m-<12m|No
+4687|658|Asthma|1yr-<5yr|Yes
+4688|658|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+5077|658|Anxiety|1yr-<5yr|Yes
+5078|658|Pain in extremity|1yr-<5yr|Yes
+5079|658|Sciatica|1yr-<5yr|Yes
+722|749|Hypertension|1yr-<5yr|Yes
+723|749|Diabetes mellitus|1yr-<5yr|Yes
+724|749|Cataract|1yr-<5yr|No
+725|749|Diabetic retinal oedema|>1m-<3m|No
+5083|749|Vitreous adhesions|<=30d|No
+2795|721|Diabetes mellitus|>=20yr|Yes
+2796|721|Hypertension|5yr-<10yr|Yes
+2797|721|Hypothyroidism|5yr-<10yr|Yes
+2798|721|Hypercholesterolaemia|5yr-<10yr|Yes
+3181|258|Diabetes mellitus|10yr-<20yr|Yes
+3182|258|Hypertension|1yr-<5yr|Yes
+3183|258|Hepatitis|>=20yr|No
+3535|481|Diabetes mellitus|10yr-<20yr|Yes
+3536|481|Hypertension|>=20yr|Yes
+3537|481|Neuropathy peripheral|>1m-<3m|Yes
+4154|396|Diabetes mellitus|5yr-<10yr|Yes
+4155|396|Proteinuria|5yr-<10yr|Yes
+4156|396|Hypercholesterolaemia|1yr-<5yr|Yes
+509|201|Diabetes mellitus|>=20yr|Yes
+510|201|Migraine|>=20yr|No
+511|201|Shoulder operation|1yr-<5yr|No
+866|105|Diabetes mellitus|10yr-<20yr|Yes
+867|105|Hypertension|10yr-<20yr|Yes
+868|105|Hyperlipidaemia|10yr-<20yr|Yes
+869|105|Female sterilisation|10yr-<20yr|No
+870|105|Atrial fibrillation|5yr-<10yr|No
+1669|105|Insomnia|>1m-<3m|Yes
+558|1|Coronary artery disease|10yr-<20yr|No
+559|1|Diabetes mellitus|10yr-<20yr|Yes
+560|1|Renal failure chronic|1yr-<5yr|No
+561|1|Angina pectoris|10yr-<20yr|Yes
+562|1|Hypertension|10yr-<20yr|Yes
+563|1|Hypercholesterolaemia|10yr-<20yr|Yes
+564|1|Depression|10yr-<20yr|Yes
+566|1|Constipation|1yr-<5yr|Yes
+567|1|Prostatomegaly|5yr-<10yr|Yes
+568|1|Cardiac failure congestive|10yr-<20yr|Yes
+569|1|Hypothyroidism|1yr-<5yr|Yes
+570|1|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+571|1|Hip arthroplasty|5yr-<10yr|No
+572|1|Vascular graft|5yr-<10yr|No
+652|86|Diabetes mellitus|10yr-<20yr|Yes
+653|86|Hypertension|10yr-<20yr|Yes
+654|86|Hypercholesterolaemia|10yr-<20yr|No
+655|86|Colon cancer|1yr-<5yr|No
+656|86|Hysterectomy|>=20yr|No
+657|86|Vertigo|10yr-<20yr|Yes
+658|86|Menopause|>=20yr|Yes
+1069|164|Hypertension|10yr-<20yr|Yes
+1070|164|Cardiac failure congestive|10yr-<20yr|Yes
+1071|164|Hypercholesterolaemia|10yr-<20yr|Yes
+1072|164|Diabetes mellitus|10yr-<20yr|Yes
+1073|164|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1074|164|Rheumatoid arthritis|10yr-<20yr|No
+1075|164|Bronchitis|1yr-<5yr|No
+1471|164|Glaucoma|5yr-<10yr|Yes
+1077|290|Hypertension|10yr-<20yr|Yes
+1078|290|Diabetes mellitus|10yr-<20yr|Yes
+1079|290|Transient ischaemic attack|5yr-<10yr|No
+1839|702|Diabetes mellitus|>=20yr|Yes
+1840|702|Back pain|5yr-<10yr|Yes
+1841|702|Hypercholesterolaemia|>=20yr|Yes
+1842|702|Micturition urgency|5yr-<10yr|Yes
+1843|702|Neuropathy peripheral|10yr-<20yr|Yes
+1844|702|Constipation|1yr-<5yr|Yes
+1845|702|Hypokalaemia|10yr-<20yr|Yes
+1846|702|Blood testosterone decreased|5yr-<10yr|Yes
+1847|702|Glaucoma|1yr-<5yr|Yes
+1848|702|Deafness|10yr-<20yr|No
+1849|702|Surgery|>=20yr|No
+1850|702|Surgery|>=20yr|No
+2745|274|Diabetes mellitus|6m-<12m|Yes
+2746|274|Neuropathy peripheral|6m-<12m|Yes
+3104|80|Deafness|5yr-<10yr|No
+3105|80|Hypertension|5yr-<10yr|Yes
+3106|80|Diabetes mellitus|5yr-<10yr|Yes
+3107|80|Hypercholesterolaemia|1yr-<5yr|Yes
+3108|80|Coronary artery disease|1yr-<5yr|Yes
+3109|80|Vascular graft|6m-<12m|No
+3110|80|Neuropathy peripheral|1yr-<5yr|Yes
+195|371|Diabetes mellitus|>=20yr|Yes
+196|371|Polyp|5yr-<10yr|No
+201|371|Seasonal allergy|>=20yr|Yes
+202|371|Depression|>=20yr|Yes
+204|371|Raynaud's phenomenon|>=20yr|No
+205|371|Hypothyroidism|1yr-<5yr|Yes
+206|371|Corneal disorder|6m-<12m|Yes
+207|371|Glaucoma|5yr-<10yr|Yes
+3586|371|Skin papilloma|10yr-<20yr|No
+292|72|Diabetes mellitus|10yr-<20yr|Yes
+293|72|Bipolar disorder|10yr-<20yr|No
+294|72|Hypercholesterolaemia|>1m-<3m|Yes
+295|72|Spinal column stenosis|1yr-<5yr|Yes
+296|72|Osteoporosis|10yr-<20yr|No
+297|72|Deafness|1yr-<5yr|No
+298|72|Neuropathy peripheral|5yr-<10yr|No
+299|72|Depression|10yr-<20yr|Yes
+490|72|Oedema peripheral|<=30d|Yes
+417|39|Diabetes mellitus|>=20yr|Yes
+418|39|Hypertension|1yr-<5yr|Yes
+419|39|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+420|39|Prostatomegaly|10yr-<20yr|No
+421|39|Hypercholesterolaemia|10yr-<20yr|Yes
+1067|39|Neuropathy peripheral|<=30d|No
+5257|39|Cataract|5yr-<10yr|No
+773|716|Diabetes mellitus|10yr-<20yr|Yes
+774|716|Hypertension|10yr-<20yr|Yes
+775|716|Arteriosclerosis coronary artery|5yr-<10yr|Yes
+776|716|Prostate cancer|10yr-<20yr|No
+3673|716|Trigger finger|1yr-<5yr|No
+924|59|Diabetes mellitus|>=20yr|Yes
+925|59|Osteoarthritis|>=20yr|Yes
+926|59|Hypercholesterolaemia|>=20yr|Yes
+927|59|Age-related macular degeneration|<=30d|No
+2714|399|Diabetes mellitus|>=20yr|Yes
+2715|399|Hypothyroidism|1yr-<5yr|Yes
+2717|399|Proteinuria|1yr-<5yr|No
+2723|399|Gout|1yr-<5yr|Yes
+2724|399|Hypercholesterolaemia|>=20yr|Yes
+4056|399|Atrial fibrillation|1yr-<5yr|No
+5091|399|Hypercalcaemia|1yr-<5yr|No
+5452|399|Hypertension|1yr-<5yr|Yes
+3652|614|Diabetes mellitus|>=20yr|Yes
+3653|614|Neuropathy peripheral|1yr-<5yr|Yes
+3654|614|Hypercholesterolaemia|1yr-<5yr|Yes
+3655|614|Chronic obstructive pulmonary disease|5yr-<10yr|Yes
+3656|614|Depression|>=20yr|Yes
+3658|614|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+623|348|Diabetes mellitus|1yr-<5yr|Yes
+624|348|Anxiety|1yr-<5yr|Yes
+625|348|Hypertension|1yr-<5yr|Yes
+626|348|Hyperlipidaemia|1yr-<5yr|Yes
+627|348|Dry eye|1yr-<5yr|Yes
+628|348|Osteoarthritis|5yr-<10yr|Yes
+1061|789|Diabetes mellitus|>=20yr|Yes
+1062|789|Hypertension|5yr-<10yr|Yes
+1063|789|Hyperlipidaemia|5yr-<10yr|Yes
+1064|789|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+1065|789|Gout|1yr-<5yr|Yes
+1066|789|Depression|1yr-<5yr|Yes
+5439|789|Renal failure acute|5yr-<10yr|Yes
+1251|810|Diabetes mellitus|>=20yr|Yes
+1252|810|Pulmonary hypertension|5yr-<10yr|Yes
+1253|810|Osteoarthritis|5yr-<10yr|Yes
+1254|810|Hyperlipidaemia|10yr-<20yr|Yes
+1255|810|Gastrooesophageal reflux disease|3m-<6m|Yes
+1671|810|Vascular graft|10yr-<20yr|No
+1397|596|Diabetes mellitus|>=20yr|Yes
+1398|596|Hypertension|5yr-<10yr|Yes
+1399|596|Hyperlipidaemia|5yr-<10yr|Yes
+1958|185|Diabetes mellitus|10yr-<20yr|No
+1959|185|Skin cancer|1yr-<5yr|No
+1960|185|Hypertension|>=20yr|Yes
+1961|185|Cardiac murmur|>=20yr|No
+1962|185|Thyroid neoplasm|1yr-<5yr|No
+3102|464|Diabetes mellitus|5yr-<10yr|Yes
+3103|464|Hypertension|1yr-<5yr|Yes
+3124|464|Hyperlipidaemia|1yr-<5yr|Yes
+3128|464|Ocular hypertension|5yr-<10yr|No
+3129|464|Dry eye|1yr-<5yr|Yes
+3287|608|Diabetes mellitus|>=20yr|Yes
+3288|608|Hypertension|1yr-<5yr|Yes
+3289|608|Hypercholesterolaemia|>=20yr|Yes
+3800|421|Hypercholesterolaemia|1yr-<5yr|Yes
+3801|421|Hypertension|1yr-<5yr|Yes
+3802|421|Diabetes mellitus|10yr-<20yr|Yes
+3950|421|Cerebrovascular accident|1yr-<5yr|No
+5317|421|Glaucoma|1yr-<5yr|No
+4042|479|Hypertension|1yr-<5yr|Yes
+4043|479|Diabetes mellitus|10yr-<20yr|Yes
+4044|479|Seasonal allergy|1yr-<5yr|No
+4235|479|Hyperlipidaemia|1yr-<5yr|Yes
+4236|479|Oedema peripheral|>1m-<3m|No
+4237|479|Dermatitis allergic|>1m-<3m|No
+5490|479|Glaucoma|<=30d|Yes
+209|515|Hypertension|6m-<12m|Yes
+210|515|Hypercholesterolaemia|6m-<12m|Yes
+211|515|Diabetic neuropathy|1yr-<5yr|Yes
+212|515|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+213|515|Diabetes mellitus|10yr-<20yr|Yes
+373|115|Diabetes mellitus|5yr-<10yr|Yes
+374|115|Diabetic retinopathy|6m-<12m|No
+375|115|Psoriasis|1yr-<5yr|No
+392|841|Diabetes mellitus|1yr-<5yr|Yes
+393|841|Hypertension|1yr-<5yr|Yes
+416|736|Diabetes mellitus|10yr-<20yr|Yes
+467|692|Diabetes mellitus|5yr-<10yr|Yes
+468|692|Hypercholesterolaemia|1yr-<5yr|Yes
+469|692|Diabetic neuropathy|6m-<12m|Yes
+470|692|Hypertension|5yr-<10yr|Yes
+471|692|Anaemia|6m-<12m|Yes
+472|692|Hyperparathyroidism|1yr-<5yr|Yes
+473|692|Depression|1yr-<5yr|Yes
+474|692|Dermatitis allergic|1yr-<5yr|Yes
+2521|692|Nephropathy|5yr-<10yr|Yes
+687|837|Diabetes mellitus|3m-<6m|Yes
+688|837|Hypertension|6m-<12m|Yes
+689|837|Erectile dysfunction|1yr-<5yr|No
+763|783|Diabetes mellitus|5yr-<10yr|Yes
+764|783|Cardiac failure congestive|1yr-<5yr|Yes
+765|783|Hypertension|5yr-<10yr|Yes
+766|783|Hypercholesterolaemia|5yr-<10yr|Yes
+767|783|Myocardial infarction|6m-<12m|Yes
+768|783|Renal impairment|1yr-<5yr|Yes
+769|783|Coronary artery disease|1yr-<5yr|Yes
+770|783|Chronic obstructive pulmonary disease|1yr-<5yr|Yes
+3044|793|Diabetes mellitus|10yr-<20yr|Yes
+4418|359|Diabetes mellitus|3m-<6m|Yes
+4728|590|Diabetes mellitus|1yr-<5yr|Yes
+5039|590|Hyperthyroidism|1yr-<5yr|Yes
+5040|590|Dyslipidaemia|1yr-<5yr|No
+5041|590|Hypertension|1yr-<5yr|No
+5042|590|Diabetic neuropathy|1yr-<5yr|Yes
+5043|590|Irritable bowel syndrome|1yr-<5yr|Yes
+1390|75|Hyperlipidaemia|1yr-<5yr|Yes
+1391|75|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+1392|75|Mitral valve incompetence|1yr-<5yr|No
+1393|75|Cerebrovascular accident|6m-<12m|Yes
+1394|75|Drug hypersensitivity|>=20yr|No
+1395|75|Diabetes mellitus|10yr-<20yr|Yes
+1418|319|Diabetes mellitus|5yr-<10yr|Yes
+1419|319|Hypothyroidism|5yr-<10yr|Yes
+1420|319|Hypertension|5yr-<10yr|Yes
+1421|319|Rheumatoid arthritis|1yr-<5yr|No
+2692|319|Cataract|1yr-<5yr|No
+2075|591|Hypercholesterolaemia|10yr-<20yr|Yes
+2076|591|Osteoporosis|5yr-<10yr|Yes
+2077|591|Hypothyroidism|10yr-<20yr|Yes
+2078|591|Rheumatoid arthritis|5yr-<10yr|No
+2079|591|Hyperlipidaemia|10yr-<20yr|Yes
+2080|591|Anxiety|10yr-<20yr|Yes
+2081|591|Diabetes mellitus|>=20yr|Yes
+2115|771|Diabetes mellitus|>=20yr|Yes
+2116|771|Hypertension|10yr-<20yr|Yes
+2118|771|Drug hypersensitivity|10yr-<20yr|No
+2122|771|Hypercholesterolaemia|5yr-<10yr|Yes
+2206|208|Diabetes mellitus|>=20yr|Yes
+2207|208|Hypercholesterolaemia|5yr-<10yr|Yes
+2208|208|Asthma|5yr-<10yr|Yes
+2209|208|Hypertension|5yr-<10yr|Yes
+2210|208|Insomnia|1yr-<5yr|Yes
+2211|208|Depression|1yr-<5yr|Yes
+2212|208|Diabetic neuropathy|1yr-<5yr|Yes
+2213|208|Hypersensitivity|>=20yr|No
+2214|208|Rheumatoid arthritis|1yr-<5yr|No
+3818|96|Diabetes mellitus|>=20yr|Yes
+3819|96|Hypertension|1yr-<5yr|No
+3820|96|Transient ischaemic attack|1yr-<5yr|No
+3821|96|Cataract|3m-<6m|No
+3822|96|Drug hypersensitivity|5yr-<10yr|No
+4058|96|Myocardial infarction|1yr-<5yr|No
+5293|96|Hyperlipidaemia|5yr-<10yr|No
+143|422|Hypertension|10yr-<20yr|Yes
+144|422|Coronary artery disease|5yr-<10yr|Yes
+145|422|Hypercholesterolaemia|10yr-<20yr|Yes
+146|422|Anaemia|5yr-<10yr|Yes
+147|422|Diabetes mellitus|>=20yr|Yes
+148|422|Diabetic retinal oedema|<=30d|No
+149|422|Diabetic neuropathy|10yr-<20yr|No
+1150|640|Hyperlipidaemia|>=20yr|Yes
+1151|640|Diabetes mellitus|>=20yr|Yes
+1152|640|Hypertension|>=20yr|Yes
+1153|640|Anaemia|>=20yr|Yes
+3567|259|Hypertension|5yr-<10yr|Yes
+3568|259|Hypercholesterolaemia|5yr-<10yr|Yes
+3569|259|Oedema peripheral|1yr-<5yr|Yes
+3570|259|Diabetes mellitus|>=20yr|Yes
+5252|259|Carpal tunnel syndrome|5yr-<10yr|No
+3902|795|Convulsion|1yr-<5yr|Yes
+3903|795|Oedema peripheral|1yr-<5yr|Yes
+3904|795|Hypertension|10yr-<20yr|Yes
+3905|795|Hypercholesterolaemia|10yr-<20yr|Yes
+3906|795|Diabetes mellitus|>=20yr|Yes
+3907|795|Bladder cancer|1yr-<5yr|No
+4505|436|Hypercholesterolaemia|10yr-<20yr|Yes
+4506|436|Diabetes mellitus|10yr-<20yr|Yes
+4507|436|Osteoarthritis|5yr-<10yr|No
+2791|817|Diabetes mellitus|10yr-<20yr|Yes
+2792|817|Coronary artery disease|5yr-<10yr|Yes
+2793|817|Hypercholesterolaemia|5yr-<10yr|Yes
+2933|817|Ocular hyperaemia|<=30d|Yes
+3412|680|Diabetes mellitus|10yr-<20yr|Yes
+3413|680|Osteoarthritis|5yr-<10yr|Yes
+3414|680|Asthma|>=20yr|No
+3415|680|Diabetic neuropathy|10yr-<20yr|Yes
+3416|680|Hypertension|5yr-<10yr|Yes
+4024|680|Narcolepsy|>=20yr|No
+3736|695|Diabetes mellitus|10yr-<20yr|Yes
+3737|695|Asthma|10yr-<20yr|Yes
+3738|695|Seasonal allergy|10yr-<20yr|Yes
+3739|695|Arthralgia|>=20yr|Yes
+3740|695|Shoulder operation|5yr-<10yr|Yes
+4963|695|Migraine|10yr-<20yr|No
+4247|827|Diabetes mellitus|10yr-<20yr|Yes
+4248|827|Hyperlipidaemia|10yr-<20yr|Yes
+4249|827|Hypertension|1yr-<5yr|Yes
+4603|761|Diabetes mellitus|1yr-<5yr|Yes
+4604|761|Hypertension|1yr-<5yr|Yes
+4605|761|Transient ischaemic attack|1yr-<5yr|Yes
+519|611|Diabetes mellitus|5yr-<10yr|Yes
+520|611|Hypertension|>=20yr|Yes
+521|611|Prostatomegaly|1yr-<5yr|Yes
+522|611|Diabetic retinal oedema|6m-<12m|No
+523|611|Retinopathy hypertensive|6m-<12m|No
+524|611|Cataract nuclear|5yr-<10yr|No
+525|121|Hypertension|1yr-<5yr|Yes
+526|121|Diabetes mellitus|>=20yr|Yes
+527|121|Gait disturbance|10yr-<20yr|Yes
+528|121|Diabetic retinopathy|>1m-<3m|No
+529|121|Depression|1yr-<5yr|Yes
+530|121|Hypokalaemia|10yr-<20yr|Yes
+821|403|Diabetes mellitus|5yr-<10yr|Yes
+822|403|Hypercholesterolaemia|1yr-<5yr|Yes
+837|403|Cataract operation|1yr-<5yr|No
+929|759|Diabetes mellitus|5yr-<10yr|Yes
+930|759|Hypercholesterolaemia|3m-<6m|Yes
+931|759|Gastrooesophageal reflux disease|3m-<6m|Yes
+932|759|Depression|1yr-<5yr|Yes
+943|759|Cataract operation|1yr-<5yr|No
+935|543|Diabetes mellitus|10yr-<20yr|Yes
+936|543|Hypertension|6m-<12m|Yes
+937|543|Hypercholesterolaemia|6m-<12m|Yes
+942|543|Hypothyroidism|1yr-<5yr|Yes
+1334|518|Diabetes mellitus|>=20yr|Yes
+1336|518|Hypercholesterolaemia|5yr-<10yr|No
+1337|518|Hypertension|5yr-<10yr|No
+1338|518|Neuropathy peripheral|5yr-<10yr|No
+1801|195|Hypertension|10yr-<20yr|Yes
+1802|195|Diabetes mellitus|10yr-<20yr|Yes
+1803|195|Osteoarthritis|5yr-<10yr|No
+1804|195|Hypercholesterolaemia|10yr-<20yr|No
+1818|195|Cataract operation|1yr-<5yr|No
+1819|195|Diabetic retinopathy|1yr-<5yr|No
+5090|195|Colitis ulcerative|1yr-<5yr|Yes
+5092|195|Glaucoma|5yr-<10yr|Yes
+5326|195|Sleep apnoea syndrome|5yr-<10yr|Yes
+5327|195|Obesity|5yr-<10yr|No
+5355|195|Diabetic retinal oedema|1yr-<5yr|No
+2365|661|Diabetes mellitus|10yr-<20yr|Yes
+2367|661|Hypertension|5yr-<10yr|Yes
+2369|661|Hypercholesterolaemia|5yr-<10yr|Yes
+2372|661|Diabetic retinal oedema|1yr-<5yr|No
+5061|661|Knee operation|1yr-<5yr|No
+5062|661|Dyspnoea|6m-<12m|No
+2366|670|Diabetes mellitus|5yr-<10yr|Yes
+2368|670|Hypertension|1yr-<5yr|Yes
+2370|670|Hypercholesterolaemia|1yr-<5yr|Yes
+2371|670|Cataract nuclear|1yr-<5yr|No
+2373|670|Diabetic retinal oedema|>1m-<3m|No
+2374|670|Retinal oedema|>1m-<3m|No
+2747|670|Seasonal allergy|10yr-<20yr|Yes
+2460|54|Hypertension|5yr-<10yr|Yes
+2461|54|Diabetes mellitus|5yr-<10yr|Yes
+2462|54|Hypercholesterolaemia|<=30d|Yes
+2463|54|Ischaemic stroke|5yr-<10yr|Yes
+2464|54|Cholecystectomy|>=20yr|No
+2465|54|Hiatus hernia|5yr-<10yr|No
+2466|54|Oedema peripheral|1yr-<5yr|Yes
+2467|54|Nephrolithiasis|10yr-<20yr|No
+2468|54|Hepatomegaly|10yr-<20yr|No
+2469|54|Diabetic retinal oedema|>1m-<3m|Yes
+2470|54|Retinopathy hypertensive|>1m-<3m|No
+2471|54|Cataract nuclear|>1m-<3m|No
+2472|54|Vitreous detachment|>1m-<3m|No
+5094|54|Vision blurred|>1m-<3m|No
+2492|488|Diabetes mellitus|1yr-<5yr|Yes
+2493|488|Hypertension|6m-<12m|Yes
+2494|488|Hypercholesterolaemia|1yr-<5yr|Yes
+5484|488|Diabetic retinal oedema|>1m-<3m|No
+2718|394|Diabetes mellitus|10yr-<20yr|Yes
+2719|394|Hypertension|10yr-<20yr|Yes
+2720|394|Hypercholesterolaemia|10yr-<20yr|Yes
+2721|394|Osteoarthritis|5yr-<10yr|Yes
+2722|394|Cardiac failure congestive|>=20yr|No
+2725|394|Ear discomfort|5yr-<10yr|Yes
+2803|317|Colon cancer|5yr-<10yr|No
+2804|317|Diabetes mellitus|>=20yr|Yes
+2805|317|Migraine|10yr-<20yr|Yes
+2806|317|Hypertension|10yr-<20yr|Yes
+2807|317|Hypokalaemia|5yr-<10yr|Yes
+2808|317|Anaemia of chronic disease|5yr-<10yr|Yes
+2809|317|Intraocular pressure increased|3m-<6m|Yes
+2811|365|Diabetes mellitus|10yr-<20yr|Yes
+2812|365|Hypertension|10yr-<20yr|Yes
+2813|365|Hypercholesterolaemia|3m-<6m|Yes
+5411|365|Renal failure chronic|1yr-<5yr|No
+5421|365|Transient ischaemic attack|1yr-<5yr|Yes
+4753|10|Diabetes mellitus|10yr-<20yr|Yes
+4754|10|Hypertension|>1m-<3m|Yes
+4755|10|Hypercholesterolaemia|>1m-<3m|Yes
+4756|10|Hypothyroidism|10yr-<20yr|Yes
+4764|10|Glaucoma|3m-<6m|Yes
+539|604|Myocardial infarction|10yr-<20yr|No
+540|604|Coronary artery disease|1yr-<5yr|Yes
+541|604|Hypertension|10yr-<20yr|Yes
+542|604|Hypercholesterolaemia|10yr-<20yr|Yes
+543|604|Diabetes mellitus|10yr-<20yr|Yes
+544|604|Retinopathy hypertensive|6m-<12m|No
+545|604|Cataract nuclear|1yr-<5yr|No
+546|604|Cardiac failure congestive|5yr-<10yr|Yes
+565|604|Diabetic neuropathy|1yr-<5yr|No
+224|148|Deafness|>=20yr|No
+225|148|Hypertension|5yr-<10yr|Yes
+226|148|Arthralgia|>=20yr|Yes
+227|148|Back pain|>=20yr|Yes
+228|148|Gait disturbance|>=20yr|No
+229|148|Depression|1yr-<5yr|Yes
+230|148|Atrial fibrillation|1yr-<5yr|Yes
+231|148|Diabetes mellitus|>=20yr|Yes
+232|148|Contusion|1yr-<5yr|No
+233|148|Hypercholesterolaemia|5yr-<10yr|Yes
+258|148|Sleep apnoea syndrome|5yr-<10yr|No
+2916|148|Hip arthroplasty|>=20yr|No
+495|183|Diabetes mellitus|>=20yr|Yes
+498|183|Hypertension|10yr-<20yr|Yes
+499|183|Anaemia of chronic disease|>=20yr|Yes
+500|183|Diabetic neuropathy|>1m-<3m|Yes
+501|183|Hypercholesterolaemia|>=20yr|Yes
+502|183|Spinal column stenosis|1yr-<5yr|Yes
+503|183|Sleep apnoea syndrome|>=20yr|No
+504|183|Osteoarthritis|>=20yr|No
+505|183|Glaucoma|10yr-<20yr|Yes
+506|183|Diabetic retinal oedema|>1m-<3m|Yes
+2082|832|Hypercholesterolaemia|3m-<6m|Yes
+2083|832|Hypertension|3m-<6m|Yes
+2084|832|Diabetes mellitus|3m-<6m|Yes
+2085|832|Osteoarthritis|1yr-<5yr|Yes
+5525|832|Cataract|6m-<12m|No
+2856|423|Arthralgia|1yr-<5yr|Yes
+436|349|Migraine|>1m-<3m|Yes
+437|349|Hypertension|5yr-<10yr|Yes
+438|349|Diabetes mellitus|5yr-<10yr|Yes
+439|349|Concussion|10yr-<20yr|No
+440|349|Nephrolithiasis|>1m-<3m|No
+441|349|Back pain|10yr-<20yr|Yes
+475|349|Diabetic retinopathy|>1m-<3m|No
+476|231|Hyperparathyroidism|5yr-<10yr|No
+477|231|Migraine|3m-<6m|No
+478|231|Knee operation|10yr-<20yr|No
+479|231|Diabetes mellitus|>=20yr|Yes
+480|231|Deafness|>=20yr|No
+481|231|Cholecystitis acute|10yr-<20yr|No
+482|231|Hepatic cirrhosis|10yr-<20yr|Yes
+483|231|Neuropathy peripheral|>=20yr|Yes
+5417|231|Intestinal perforation|5yr-<10yr|No
+1232|298|Cardiac failure congestive|1yr-<5yr|Yes
+1233|298|Ischaemic stroke|1yr-<5yr|No
+1234|298|Hypertension|10yr-<20yr|Yes
+1235|298|Osteoarthritis|10yr-<20yr|Yes
+1236|298|Diabetes mellitus|>=20yr|Yes
+1237|298|Depression|1yr-<5yr|Yes
+1238|298|Deep vein thrombosis|>=20yr|Yes
+1239|298|Seasonal allergy|>=20yr|Yes
+1240|298|Hypercholesterolaemia|10yr-<20yr|Yes
+1241|298|Cholelithiasis|10yr-<20yr|Yes
+1589|298|Diabetic retinal oedema|>1m-<3m|No
+3724|298|Carotid artery disease|1yr-<5yr|No
+1531|686|Hypertension|>=20yr|Yes
+1532|686|Angina pectoris|10yr-<20yr|Yes
+1533|686|Osteoarthritis|>=20yr|Yes
+1534|686|Gastric bypass|5yr-<10yr|Yes
+1535|686|Diabetes mellitus|>=20yr|Yes
+1536|686|Hypercholesterolaemia|10yr-<20yr|Yes
+1537|686|Myocardial infarction|10yr-<20yr|No
+1538|686|Stent placement|1yr-<5yr|No
+1539|686|Knee operation|10yr-<20yr|No
+1540|686|Joint injury|>=20yr|No
+1541|686|Upper limb fracture|>=20yr|No
+1542|686|Spinal fracture|>=20yr|No
+1544|686|Herpes virus infection|10yr-<20yr|Yes
+1545|686|Depression|10yr-<20yr|Yes
+5453|686|Coronary artery disease|10yr-<20yr|No
+1328|197|Injury|5yr-<10yr|No
+1329|197|Diabetes mellitus|1yr-<5yr|Yes
+1330|197|Hypertension|5yr-<10yr|Yes
+1331|197|Hypercholesterolaemia|1yr-<5yr|Yes
+1332|197|Diabetic retinopathy|6m-<12m|No
+1333|197|Hemiparesis|1yr-<5yr|Yes
+4226|197|Meningitis viral|5yr-<10yr|No
+4227|197|Migraine|5yr-<10yr|No
+4245|197|Dizziness|10yr-<20yr|No
+4246|197|Vision blurred|10yr-<20yr|No
+5500|197|West Nile viral infection|5yr-<10yr|No
+1468|478|Diabetes mellitus|1yr-<5yr|Yes
+1469|478|Hypertension|1yr-<5yr|No
+1470|478|Hypercholesterolaemia|1yr-<5yr|Yes
+1592|478|Head injury|>=20yr|No
+2360|389|Diabetes mellitus|6m-<12m|Yes
+2361|389|Crohn's disease|6m-<12m|No
+2362|389|Hypertension|6m-<12m|Yes
+2363|389|Rotator cuff syndrome|5yr-<10yr|No
+2364|389|Pain in extremity|3m-<6m|Yes
+5246|389|Gout|10yr-<20yr|No
+2562|240|Hyperthyroidism|>=20yr|Yes
+2563|240|Diabetes mellitus|>=20yr|Yes
+2564|240|Asthma|>=20yr|No
+2565|240|Hypertension|>=20yr|Yes
+2566|240|Hernia|>=20yr|No
+2567|240|Tonsillectomy|>=20yr|No
+2568|240|Hypercholesterolaemia|10yr-<20yr|Yes
+2882|540|Cyst|10yr-<20yr|No
+2883|540|Diabetes mellitus|>=20yr|Yes
+2884|540|Hypertension|>=20yr|Yes
+2885|540|Musculoskeletal pain|3m-<6m|Yes
+2886|540|Arthralgia|1yr-<5yr|Yes
+4244|540|Hypercholesterolaemia|1yr-<5yr|Yes
+3713|353|Hypercholesterolaemia|10yr-<20yr|Yes
+3714|353|Hypertension|1yr-<5yr|Yes
+3715|353|Diabetes mellitus|10yr-<20yr|Yes
+3716|353|Anaemia|3m-<6m|Yes
+5050|353|Vitreous floaters|6m-<12m|No
+4543|272|Diabetes mellitus|5yr-<10yr|Yes
+4544|272|Hypercholesterolaemia|1yr-<5yr|Yes
+4545|272|Pulmonary embolism|1yr-<5yr|No
+4546|272|Benign breast neoplasm|10yr-<20yr|No
+4547|272|Hypertension|1yr-<5yr|Yes
+4858|272|Glaucoma|<=30d|Yes
+4859|272|Vitreous floaters|<=30d|No
+4860|272|Corneal oedema|<=30d|No
+5339|272|Diabetic neuropathy|1yr-<5yr|No
+5551|272|Angle closure glaucoma|<=30d|Yes
+5552|272|Intraocular pressure increased|<=30d|Yes
+5554|272|Angle closure glaucoma|<=30d|No
+884|405|Hypertension|>=20yr|Yes
+885|405|Diabetes mellitus|1yr-<5yr|Yes
+887|405|Ischaemic stroke|1yr-<5yr|No
+1022|209|Diabetes mellitus inadequate control|<=30d|Yes
+1023|209|Hypertension|>1m-<3m|Yes
+1024|209|Retinopathy hypertensive|<=30d|No
+1025|209|Diabetic retinopathy|<=30d|No
+4778|412|Diabetes mellitus|10yr-<20yr|Yes
+4779|412|Hypercholesterolaemia|1yr-<5yr|Yes
+5420|412|Hypertension|3m-<6m|Yes
+2226|170|Diabetic retinal oedema|1yr-<5yr|No
+2227|170|Ischaemic cardiomyopathy|1yr-<5yr|No
+2799|170|Diabetes mellitus|>=20yr|No
+5483|170|Cataract nuclear|1yr-<5yr|No
+5553|170|Coronary artery disease|1yr-<5yr|Yes
+2317|144|Diabetic retinal oedema|1yr-<5yr|No
+2412|144|Myocardial infarction|1yr-<5yr|No
+2413|144|Hypertension|5yr-<10yr|Yes
+5311|144|Macular fibrosis|1yr-<5yr|No
+5332|144|Eye disorder|1yr-<5yr|No
+5346|144|Retinal detachment|1yr-<5yr|No
+5523|144|Renal failure chronic|1yr-<5yr|No
+3657|292|Diabetes mellitus|5yr-<10yr|Yes
+3659|292|Low density lipoprotein increased|5yr-<10yr|Yes
+2523|120|Diabetes mellitus|>=20yr|Yes
+2525|120|Depression|>=20yr|Yes
+2526|120|Hypertension|5yr-<10yr|Yes
+5089|120|Irritable bowel syndrome|6m-<12m|Yes
+5170|120|Low density lipoprotein increased|5yr-<10yr|Yes
+5321|120|Seasonal allergy|<=30d|Yes
+5481|120|Posterior capsule opacification|5yr-<10yr|No
+2751|116|Diabetes mellitus|10yr-<20yr|Yes
+2752|116|Hypertension|<=30d|Yes
+2753|116|High density lipoprotein decreased|6m-<12m|Yes
+5456|116|Cataract nuclear|1yr-<5yr|No
+2976|724|Diabetes mellitus|10yr-<20yr|Yes
+2977|724|Diabetic retinal oedema|>1m-<3m|No
+2984|724|Hypertension|>1m-<3m|Yes
+5106|724|Low density lipoprotein increased|<=30d|Yes
+5382|724|Neuropathic arthropathy|1yr-<5yr|No
+5383|724|Hyperlipidaemia|1yr-<5yr|Yes
+5384|724|Renal failure|<=30d|Yes
+5386|724|Coronary artery disease|1yr-<5yr|Yes
+5457|724|Macular fibrosis|1yr-<5yr|No
+3163|833|Diabetes mellitus|5yr-<10yr|Yes
+3164|833|Low density lipoprotein increased|<=30d|Yes
+3168|833|Diabetic retinal oedema|>1m-<3m|No
+3169|833|Hypothyroidism|3m-<6m|Yes
+3170|833|Hypertension|1yr-<5yr|No
+4072|833|Gastrooesophageal reflux disease|<=30d|Yes
+3401|445|Diabetes mellitus|10yr-<20yr|Yes
+3402|445|Hypertension|5yr-<10yr|Yes
+3407|445|Hypokalaemia|1yr-<5yr|Yes
+3864|445|Fluid retention|1yr-<5yr|Yes
+5351|445|Macular fibrosis|1yr-<5yr|No
+5381|445|Retinal haemorrhage|1yr-<5yr|No
+3680|31|Diabetes mellitus|>=20yr|Yes
+3681|31|Low density lipoprotein increased|>=20yr|Yes
+3682|31|Addison's disease|>=20yr|Yes
+3683|31|Hypertension|10yr-<20yr|Yes
+3684|31|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+3685|31|Hypothyroidism|<=30d|Yes
+5165|31|Nausea|6m-<12m|Yes
+5290|31|Hydronephrosis|1yr-<5yr|Yes
+3862|123|Hypertension|>1m-<3m|Yes
+3865|123|Low density lipoprotein increased|>1m-<3m|Yes
+3866|123|Diabetes mellitus|10yr-<20yr|Yes
+4381|123|Fluid retention|<=30d|Yes
+4382|123|Blood potassium decreased|<=30d|Yes
+5052|123|Renal failure chronic|>1m-<3m|Yes
+5053|123|Vitamin D deficiency|>1m-<3m|Yes
+5055|123|Hyperlipidaemia|>1m-<3m|Yes
+5056|123|Left ventricular hypertrophy|>1m-<3m|Yes
+5058|123|Renal artery stenosis|3m-<6m|Yes
+5113|123|Coagulopathy|<=30d|Yes
+4301|427|Fluid retention|6m-<12m|Yes
+4302|427|Low density lipoprotein increased|1yr-<5yr|Yes
+4304|427|Nephrolithiasis|1yr-<5yr|Yes
+4308|427|Hypertension|1yr-<5yr|Yes
+4309|427|Hypothyroidism|1yr-<5yr|Yes
+4310|427|Gastrooesophageal reflux disease|1yr-<5yr|Yes
+4311|427|Hypertension|1yr-<5yr|Yes
+4313|427|Diabetes mellitus|1yr-<5yr|Yes
+5301|427|Renal failure chronic|1yr-<5yr|Yes
+5302|427|Atrial fibrillation|1yr-<5yr|Yes
+5303|427|Cardiac failure congestive|1yr-<5yr|Yes
+5304|427|Anaemia of chronic disease|1yr-<5yr|Yes
+5309|427|Intestinal perforation|5yr-<10yr|No
+5443|427|Coronary artery disease|1yr-<5yr|No
+5458|427|Cataract subcapsular|1yr-<5yr|No
+5459|427|Cataract cortical|1yr-<5yr|No
+4398|746|Diabetes mellitus|5yr-<10yr|Yes
+4399|746|Neuropathy peripheral|1yr-<5yr|Yes
+4400|746|Depression|5yr-<10yr|Yes
+4401|746|Anxiety|1yr-<5yr|Yes
+5307|746|Posterior capsule opacification|1yr-<5yr|No
+4593|843|Diabetes mellitus|10yr-<20yr|Yes
+4594|843|Low density lipoprotein increased|5yr-<10yr|Yes
+4675|97|Diabetes mellitus|5yr-<10yr|Yes
+4676|97|Pain in extremity|1yr-<5yr|Yes
+4677|97|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+4678|97|Depression|5yr-<10yr|Yes
+5291|97|Cataract|1yr-<5yr|No
+5462|97|Cataract nuclear|1yr-<5yr|No
+3758|677|Hypothyroidism|10yr-<20yr|Yes
+3759|677|Hypercholesterolaemia|5yr-<10yr|Yes
+3760|677|Diabetes mellitus|10yr-<20yr|Yes
+3761|677|Demyelinating polyneuropathy|1yr-<5yr|No
+3762|677|Hypertension|10yr-<20yr|Yes
+3763|677|Dyspnoea|5yr-<10yr|No
+3764|677|Seasonal allergy|5yr-<10yr|Yes
+3765|677|Menopause|10yr-<20yr|No
+4971|677|Cataract|1yr-<5yr|No
+3931|758|Depression|5yr-<10yr|Yes
+3932|758|Cerebrovascular accident|5yr-<10yr|No
+3933|758|Sleep apnoea syndrome|1yr-<5yr|No
+3934|758|Hypertension|5yr-<10yr|Yes
+3935|758|Diabetes mellitus|5yr-<10yr|Yes
+3949|758|Gastrooesophageal reflux disease|5yr-<10yr|Yes
+3969|758|Menopause|5yr-<10yr|No
+3970|758|Seasonal allergy|10yr-<20yr|No
+4060|476|Prostate cancer|1yr-<5yr|No
+4061|476|Atrial fibrillation|1yr-<5yr|Yes
+4062|476|Large intestine polyp|6m-<12m|No
+4063|476|Hypertension|>=20yr|Yes
+4064|476|Sleep apnoea syndrome|1yr-<5yr|No
+4065|476|Diabetes mellitus|10yr-<20yr|Yes
+4066|476|Cardiomyopathy|1yr-<5yr|No
+4067|476|Neuropathy peripheral|1yr-<5yr|No
+4068|476|Diverticulum|1yr-<5yr|No
+4069|476|Vitamin D deficiency|1yr-<5yr|Yes
+4071|476|Diabetic retinal oedema|1yr-<5yr|No
+4342|542|Diabetes mellitus|>=20yr|Yes
+4343|542|Hypertension|10yr-<20yr|Yes
+4344|542|Hyperlipidaemia|10yr-<20yr|No
+4345|542|Neuropathic arthropathy|1yr-<5yr|No
+4346|542|Osteomyelitis|1yr-<5yr|No
+4347|542|Erectile dysfunction|1yr-<5yr|Yes
+4873|117|Hypertension|>=20yr|Yes
+4874|117|Diabetes mellitus|5yr-<10yr|Yes
+4875|117|Hyperlipidaemia|10yr-<20yr|Yes
+4876|117|Hypothyroidism|1yr-<5yr|Yes
+4877|117|Asthma|>=20yr|Yes
+4878|117|Demyelinating polyneuropathy|1yr-<5yr|Yes
+4879|117|Vitamin D deficiency|1yr-<5yr|Yes
+4880|117|Psoriasis|5yr-<10yr|No
+4881|117|Polyp|1yr-<5yr|No
+4882|117|Epicondylitis|6m-<12m|No
+4883|117|Menopause|1yr-<5yr|No
+4884|117|Gastrooesophageal reflux disease|>1m-<3m|Yes
+5314|117|Diabetic retinal oedema|5yr-<10yr|No
+5324|117|Cataract|1yr-<5yr|No
+3210|792|Hypertension|6m-<12m|Yes
+3211|792|Diabetes mellitus|6m-<12m|Yes
+4002|133|Hypertension|10yr-<20yr|Yes
+4003|133|Diabetes mellitus|10yr-<20yr|Yes
+4004|133|Hypercholesterolaemia|1yr-<5yr|Yes
+5556|133|Cataract operation|6m-<12m|No
+4238|728|Diabetes mellitus|1yr-<5yr|Yes
+4239|728|Hypercholesterolaemia|<=30d|Yes
+5524|728|Back pain|>1m-<3m|Yes
+4533|262|Arteriosclerosis|5yr-<10yr|Yes
+4534|262|Hypertension|5yr-<10yr|Yes
+4535|262|Hypothyroidism|5yr-<10yr|Yes
+4536|262|Diabetic neuropathy|1yr-<5yr|Yes
+4537|262|Diabetes mellitus|10yr-<20yr|Yes
+4538|262|Surgery|3m-<6m|Yes
+4539|262|Hip arthroplasty|1yr-<5yr|No
+4651|697|Diabetes mellitus|1yr-<5yr|Yes
+4652|697|Hypertension|1yr-<5yr|Yes
+4653|697|Ischaemic stroke|6m-<12m|Yes

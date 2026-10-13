@@ -1,0 +1,1842 @@
+RecID|PtID|Visit|PhotoNotDone|PhotoNotDoneReas|PhotoExamDtDaysFromEnroll|PhotoNotDoneOD|PhotoNotDoneReasOD|PhotoFldsOD|RedReflexOD|PhotoNotDoneOS|PhotoNotDoneReasOS|PhotoFldsOS|RedReflexOS|PhotoType|ParentLoginVisitID|CamType
+208|776|Baseline|||-20|||7 fields|Yes|||7 fields|Yes|Digital|40832|Topcon 50DX
+863|776|52 week|||369|||7 fields|Yes|||||Digital|53406|Topcon 50DX
+1449|776|104 week|||733|||7 fields|Yes|||||Digital|63952|Topcon 50DX
+307|391|Baseline|||-7|||7 fields|Yes|||7 fields|Yes|Digital|42071|Topcon 50DX
+953|391|52 week|||365|||||||7 fields|Yes|Digital|54749|Topcon 50DX
+1532|391|104 week|||728|||||||7 fields|Yes|Digital|64906|Topcon 50DX
+326|15|Baseline|||-2|||7 fields|Yes|||7 fields|Yes|Digital|42333|Topcon 50DX
+998|15|52 week|||383|||||||7 fields|Yes|Digital|55557|Topcon 50DX
+1559|15|104 week|||733|||||||7 fields|Yes|Digital|65181|Topcon 50DX
+185|420|Baseline|||0|||||||7 fields|Yes|Digital|40554|Topcon 50IX
+846|420|52 week|||370|||||||7 fields|Yes|Digital|53167|Topcon 50IX
+1436|420|104 week|||734|||||||7 fields|Yes|Digital|63817|Topcon 50IX
+187|41|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|40565|Topcon 50IX
+834|41|52 week|1|Other|||||||||||52988|
+1438|41|104 week|||734|||||||7 fields|Yes|Digital|63827|Topcon 50IX
+198|188|Baseline|||-1|||7 fields|Yes|||||Digital|40737|Topcon 50IX
+859|188|52 week|||370|||7 fields|Yes|||||Digital|53346|Topcon 50IX
+1447|188|104 week|||729|||7 fields|Yes|||||Digital|63890|Topcon 50IX
+199|179|Baseline|||0|||7 fields|Yes|||||Digital|40753|Topcon 50IX
+860|179|52 week|||371|||7 fields|Yes|||||Digital|53380|Topcon 50IX
+1448|179|104 week|||734|||7 fields|Yes|||||Digital|63922|Topcon 50IX
+203|125|Baseline|||0|||7 fields|Yes|||||Digital|40768|Topcon 50IX
+862|125|52 week|||371|||7 fields|Yes|||||Digital|53405|Topcon 50IX
+1439|125|104 week|||727|||7 fields|Yes|||||Digital|63830|Topcon 50IX
+207|112|Baseline|||0|||7 fields|Yes|||||Digital|40818|Topcon 50IX
+866|112|52 week|||371|||7 fields|Yes|||||Digital|53459|Topcon 50IX
+218|505|Baseline|||0|||||||7 fields|Yes|Digital|40916|Topcon 50IX
+880|505|52 week|||371|||||||7 fields|Yes|Digital|53624|Topcon 50IX
+1460|505|104 week|||730|||||||7 fields|Yes|Digital|64053|Topcon 50IX
+253|559|Baseline|||0|||7 fields|Yes|||||Digital|41335|Topcon 50IX
+913|559|52 week|||371|||7 fields|Yes|||||Digital|54048|Topcon 50IX
+1480|559|104 week|||728|||7 fields|Yes|||||Digital|64325|Topcon 50IX
+262|281|Baseline|||0|||7 fields|Yes|||||Digital|41469|Topcon 50IX
+910|281|52 week|||368|||7 fields|Yes|||||Digital|54013|Topcon 50IX
+1490|281|104 week|||727|||7 fields|Yes|||||Digital|64384|Topcon 50IX
+271|172|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41544|Topcon 50IX
+926|172|52 week|||424|||||||7 fields|Yes|Digital|54252|Topcon 50IX
+1497|172|104 week|||725|||||||7 fields|Yes|Digital|64447|Topcon 50IX
+333|193|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42413|Topcon 50IX
+365|644|Baseline|||0|||||||7 fields|Yes|Digital|42958|Topcon 50IX
+1000|644|52 week|||364|||||||7 fields|Yes|Digital|55642|Topcon 50IX
+399|500|Baseline|||0|||||||7 fields|Yes|Digital|43419|Topcon 50IX
+1022|500|52 week|||364|||||||7 fields|Yes|Digital|56010|Topcon 50IX
+1608|500|104 week|||731|||||||7 fields|Yes|Digital|65882|Topcon 50IX
+456|132|Baseline|||0|||7 fields|Yes|||||Digital|44247|Topcon 50IX
+1072|132|52 week|||364|||7 fields|Yes|||||Digital|56757|Topcon 50IX
+1643|132|104 week|||725|||7 fields|Yes|||||Digital|67245|Topcon 50IX
+423|494|Baseline|||0|||7 fields|Yes|||||Digital|43764|Topcon 50IX
+442|173|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44045|Topcon 50IX
+1061|173|52 week|||364|||||||7 fields|Yes|Digital|56557|Topcon 50IX
+476|390|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44510|Topcon 50IX
+1090|390|52 week|||363|||||||7 fields|Yes|Digital|56975|Topcon 50IX
+1653|390|104 week|||721|||||||7 fields|Yes|Digital|67352|Topcon 50IX
+596|111|Baseline|||-5|||7 fields|Yes|||||Digital|46665|Topcon 50IX
+1199|111|52 week|||358|||7 fields|Yes|||||Digital|58577|Topcon 50IX
+1776|111|104 week|||730|||7 fields|Yes|||||Digital|68845|Topcon 50IX
+602|650|Baseline|||0|||||||7 fields|Yes|Digital|46740|Topcon 50IX
+622|78|Baseline|||0|||||||7 fields|Yes|Digital|47066|Topcon 50IX
+1238|78|52 week|||368|||||||7 fields|Yes|Digital|59141|Topcon 50IX
+1795|78|104 week|||727|||||||7 fields|Yes|Digital|69019|Topcon 50IX
+322|564|Baseline|||0|||7 fields|Yes|||||Digital|42285|Topcon 50EX
+967|564|52 week|||366|||7 fields|Yes|||||Digital|54977|Topcon 50EX
+1531|564|104 week|||722|||7 fields|No|||||Digital|64903|Topcon 50DX
+460|471|Baseline|||-9|||7 fields|Yes|||7 fields|Yes|Digital|44293|Topcon 50EX
+1102|471|52 week|||371|||||||7 fields|Yes|Digital|57047|Topcon 50EX
+1671|471|104 week|||735|||||||7 fields|No|Digital|67562|Topcon 50DX
+583|785|Baseline|||-6|||||||7 fields|Yes|Digital|46462|Topcon 50EX
+1191|785|52 week|||362|||||||7 fields|No|Digital|58509|Topcon 50EX
+1753|785|104 week|||721|||||||7 fields|Yes|Digital|68550|Topcon 50DX
+400|669|Baseline|||0|||4-wide|Yes|||||Digital|43443|Topcon 50DX
+1024|669|52 week|||364|||4-wide|Yes|||||Digital|56041|Topcon 50DX
+1615|669|104 week|||735|||4-wide|Yes|||||Digital|65973|Topcon 50DX
+554|303|Baseline|||0|||||||4-wide|Yes|Digital|46061|Topcon 50DX
+1173|303|52 week|||365|||||||4-wide|Yes|Digital|58296|Topcon 50DX
+1761|303|104 week|||735|||||||4-wide|Yes|Digital|68632|Topcon 50DX
+283|742|Baseline|||-6|||7 fields|Yes|||7 fields|Yes|Digital|41664|Topcon 50IX
+929|742|52 week|||365|||||||7 fields|Yes|Digital|54267|Topcon 50IX
+341|61|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42486|Topcon 50IX
+973|61|52 week|||364|||||||7 fields|Yes|Digital|55093|Topcon 50EX
+1558|61|104 week|||728|||||||7 fields|Yes|Digital|65177|Topcon 50IX
+449|168|Baseline|||0|||||||7 fields|Yes|Digital|44168|Topcon 50EX
+1086|168|52 week|||371|||||||7 fields|Yes|Digital|56938|Topcon 50EX
+1649|168|104 week|||728|||||||7 fields|Yes|Digital|67305|Topcon 50IX
+351|134|Baseline|||0|||7 fields|Yes|1|Other|||Digital|42687|Zeiss FF3
+996|134|52 week|||371|||7 fields|Yes|||||Digital|55552|Zeiss FF3
+1557|134|104 week|||721|||7 fields|Yes|||||Digital|65171|Zeiss FF3
+564|815|Baseline|||0|||||||7 fields|Yes|Digital|46150|Zeiss FF3
+1188|815|52 week|||370|||||||7 fields|Yes|Digital|58475|Zeiss FF3
+1742|815|104 week|||727|||||||7 fields|Yes|Digital|68492|Zeiss FF3
+128|35|Baseline|||0|||||||7 fields|Yes|Digital|39553|Topcon 50DX
+815|35|52 week|||392|||||||7 fields|Yes|Digital|52561|Topcon 50DX
+1391|35|104 week|||735|||||||7 fields|Yes|Digital|63014|Topcon 50DX
+154|192|Baseline|||0|||7 fields|Yes|||||Digital|39916|Topcon 50DX
+805|192|52 week|||369|||7 fields|Yes|||||Digital|52372|Topcon 50DX
+1409|192|104 week|||735|||7 fields|Yes|||||Digital|63312|Topcon 50DX
+194|636|Baseline|||0|||||||7 fields|Yes|Digital|40635|Topcon 50DX
+845|636|52 week|||365|||||||7 fields|Yes|Digital|53102|Topcon 50DX
+1410|636|104 week|||714|||||||7 fields|Yes|Digital|63336|Topcon 50DX
+248|687|Baseline|||0|||7 fields|Yes|||||Digital|41276|Topcon 50DX
+872|687|52 week|||357|||7 fields|Yes|||||Digital|53518|Topcon 50DX
+1476|687|104 week|||728|||7 fields|Yes|||||Digital|64273|Topcon 50DX
+653|323|Baseline|||0|||||||7 fields|Yes|Digital|47502|Topcon 50DX
+1270|323|52 week|||371|||||||7 fields|Yes|Digital|59598|Topcon 50DX
+1826|323|104 week|||734|||||||7 fields|Yes|Digital|69387|Visucam Pro NM
+64|718|Baseline|||0|||||||7 fields|Yes|Digital|38424|Topcon 50EX
+733|718|52 week|||378|||||||7 fields|Yes|Digital|50757|Topcon 50EX
+1315|718|104 week|||721|||||||7 fields|Yes|Digital|61303|Topcon 50EX
+65|222|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38450|Topcon 50EX
+727|222|52 week|||371|||7 fields|Yes|||||Digital|50560|Topcon 50EX
+1323|222|104 week|||728|||7 fields|Yes|||||Digital|61568|Topcon 50EX
+66|662|Baseline|||0|||||||7 fields|Yes|Digital|38458|Topcon 50EX
+729|662|52 week|||371|||||||7 fields|Yes|Digital|50575|Topcon 50EX
+1317|662|104 week|||722|||||||7 fields|Yes|Digital|61418|Topcon 50EX
+327|844|Baseline|||0|||7 fields|Yes|||||Digital|42342|Topcon 50EX
+955|844|52 week|||358|||7 fields|Yes|||||Digital|54767|Topcon 50EX
+403|81|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43478|Topcon 50EX
+1029|81|52 week|||366|||||||7 fields|Yes|Digital|56154|Topcon 50EX
+1609|81|104 week|||730|||||||7 fields|Yes|Digital|65884|Topcon 50EX
+410|137|Baseline|||0|||7 fields|Yes|1|Other|||Digital|43603|Topcon 50EX
+1043|137|52 week|||367|||7 fields|Yes|||||Digital|56323|Topcon 50EX
+568|335|Baseline|||0|||||||7 fields|Yes|Digital|46252|Topcon 50EX
+1171|335|52 week|||361|||||||7 fields|Yes|Digital|58262|Topcon 50EX
+1745|335|104 week|||725|||||||7 fields|Yes|Digital|68496|Topcon 50EX
+645|87|Baseline|||0|||||||7 fields|Yes|Digital|47357|Topcon 50EX
+1263|87|52 week|||374|||||||7 fields|Yes|Digital|59488|Topcon 50EX
+1801|87|104 week|||724|||||||7 fields|Yes|Digital|69080|Topcon 50EX
+658|532|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47660|Topcon 50EX
+1274|532|52 week|||371|||||||7 fields|Yes|Digital|59674|Topcon 50EX
+1824|532|104 week|||728|||||||7 fields|Yes|Digital|69365|Topcon 50EX
+35|46|Baseline|||0|||||||7 fields|Yes|Digital|37868|Topcon 50EX
+691|46|52 week|||363|||||||7 fields|Yes|Digital|49295|Topcon 50EX
+1296|46|104 week|||721|||||||7 fields|Yes|Digital|60657|Topcon 50EX
+44|563|Baseline|||0|||7 fields|Yes|||||Digital|38099|Topcon 50EX
+710|563|52 week|||371|||7 fields|Yes|||||Digital|50040|Topcon 50EX
+108|659|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39279|Topcon 50EX
+767|659|52 week|||370|||7 fields|Yes|||||Digital|51615|Topcon 50EX
+1375|659|104 week|||737|||7 fields|Yes|||||Digital|62748|Topcon 50EX
+221|462|Baseline|||0|||||||7 fields|Yes|Digital|40934|Topcon 50EX
+882|462|52 week|||371|||||||7 fields|Yes|Digital|53656|Topcon 50EX
+1494|462|104 week|||744|||||||7 fields|Yes|Digital|64417|Topcon 50EX
+358|22|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42816|Topcon 50EX
+993|22|52 week|||364|||||||7 fields|Yes|Digital|55474|Topcon 50EX
+1586|22|104 week|||735|||||||7 fields|Yes|Digital|65577|Topcon 50EX
+166|321|Baseline|||0|||||||7 fields|Yes|Digital|40293|Zeiss FF4
+808|321|52 week|||358|||||||7 fields|Yes|Digital|52430|Zeiss FF4
+1405|321|104 week|||722|||||||7 fields|Yes|Digital|63226|Zeiss FF4
+176|312|Baseline|||0|||7 fields|Yes|||||Digital|40431|Zeiss FF4
+840|312|52 week|||371|||7 fields|Yes|||||Digital|53060|Zeiss FF4
+1446|312|104 week|||735|||7 fields|Yes|||||Digital|63888|Zeiss FF4
+200|345|Baseline|||0|||7 fields|Yes|||||Digital|40754|Zeiss FF4
+842|345|52 week|||359|||7 fields|Yes|||||Digital|53085|Zeiss FF4
+1459|345|104 week|||736|||7 fields|Yes|||||Digital|64037|Zeiss FF4
+224|745|Baseline|||0|||7 fields|Yes|||||Digital|40961|Zeiss FF4
+228|386|Baseline|||0|||||||7 fields|Yes|Digital|41002|Zeiss FF4
+885|386|52 week|||371|||||||7 fields|Yes|Digital|53722|Zeiss FF4
+1724|386|104 week|||867|||||||7 fields|Yes|Digital|68262|Zeiss FF4
+239|129|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41183|Topcon 50DX
+883|129|52 week|||364|||7 fields|Yes|||||Digital|53668|Topcon 50IX
+1456|129|104 week|||721|||7 fields|Yes|||||Digital|64016|Topcon 50DX
+299|110|Baseline|||0|||||||7 fields|Yes|Digital|41975|Zeiss FF4
+951|110|52 week|||367|||||||7 fields|Yes|Digital|54733|Zeiss FF4
+1514|110|104 week|||722|||||||7 fields|Yes|Digital|64653|Zeiss FF4
+312|612|Baseline|||0|||7 fields|Yes|||||Digital|42141|Zeiss FF4
+946|612|52 week|||363|||7 fields|Yes|||||Digital|54698|Zeiss FF4
+1547|612|104 week|||734|||7 fields|Yes|||||Digital|65072|Zeiss FF4
+343|178|Baseline|||0|||7 fields|Yes|||||Digital|42539|Zeiss FF4
+990|178|52 week|||371|||7 fields|Yes|||||Digital|55413|Zeiss FF4
+1592|178|104 week|||748|||7 fields|Yes|||||Digital|65625|Zeiss FF4
+386|25|Baseline|||0|||||||7 fields|Yes|Digital|43270|Zeiss FF4
+1018|25|52 week|||364|||||||7 fields|Yes|Digital|55904|Zeiss FF4
+1605|25|104 week|||733|||||||7 fields|Yes|Digital|65788|Zeiss FF4
+415|690|Baseline|||0|||||||7 fields|Yes|Digital|43681|Zeiss FF4
+1045|690|52 week|||365|||||||7 fields|Yes|Digital|56328|Zeiss FF4
+1626|690|104 week|||730|||||||7 fields|Yes|Digital|67064|Zeiss FF4
+461|657|Baseline|||0|||||||7 fields|Yes|Digital|44295|Zeiss FF4
+1081|657|52 week|||368|||||||7 fields|Yes|Digital|56885|Zeiss FF4
+1661|657|104 week|||732|||||||7 fields|Yes|Digital|67441|Zeiss FF4
+491|333|Baseline|||0|||||||7 fields|Yes|Digital|44804|Zeiss FF4
+1111|333|52 week|||364|||||||7 fields|Yes|Digital|57249|Zeiss FF4
+1681|333|104 week|||728|||||||7 fields|Yes|Digital|67734|Zeiss FF4
+495|42|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44906|Topcon 50DX
+1107|42|52 week|||358|||||||7 fields|Yes|Digital|57158|Topcon 50DX
+1675|42|104 week|||721|||||||7 fields|Yes|Digital|67615|Topcon 50DX
+510|418|Baseline|||0|||7 fields|Yes|||||Digital|45162|Zeiss FF4
+1136|418|52 week|||366|||7 fields|Yes|||||Digital|57643|Zeiss FF4
+1704|418|104 week|||730|||7 fields|Yes|||||Digital|68018|Zeiss FF4
+519|522|Baseline|||0|||||||7 fields|Yes|Digital|45289|Zeiss FF4
+1132|522|52 week|||362|||||||7 fields|Yes|Digital|57558|Zeiss FF4
+1700|522|104 week|||727|||||||7 fields|Yes|Digital|67991|Zeiss FF4
+528|705|Baseline|||0|||7 fields|Yes|||||Digital|45523|Zeiss FF4
+1147|705|52 week|||364|||7 fields|Yes|||||Digital|57830|Zeiss FF4
+1839|705|104 week|||823|||7 fields|Yes|||||Digital|70084|Zeiss FF4
+535|723|Baseline|||0|||7 fields|Yes|||||Digital|45699|Zeiss FF4
+1156|723|52 week|||365|||7 fields|Yes|||||Digital|58015|Zeiss FF4
+1709|723|104 week|||721|||7 fields|Yes|||||Digital|68090|Zeiss FF4
+545|824|Baseline|||0|||7 fields|Yes|||||Digital|45873|Zeiss FF4
+1169|824|52 week|||371|||7 fields|Yes|||||Digital|58246|Zeiss FF4
+1731|824|104 week|||728|||7 fields|Yes|||||Digital|68381|Zeiss FF4
+556|107|Baseline|||0|||||||7 fields|Yes|Digital|46082|Topcon 50DX
+1183|107|52 week|||366|||||||7 fields|Yes|Digital|58364|Topcon 50DX
+1754|107|104 week|||730|||||||7 fields|Yes|Digital|68557|Topcon 50DX
+560|95|Baseline|||0|||||||7 fields|Yes|Digital|46118|Topcon 50DX
+1184|95|52 week|||366|||||||7 fields|Yes|Digital|58381|Topcon 50DX
+1744|95|104 week|||728|||||||7 fields|Yes|Digital|68494|Topcon 50DX
+563|330|Baseline|||0|||7 fields|Yes|||||Digital|46145|Zeiss FF4
+1175|330|52 week|||364|||7 fields|Yes|||||Digital|58310|Zeiss FF4
+1763|330|104 week|||735|||7 fields|Yes|||||Digital|68667|Zeiss FF4
+5|220|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|37093|Zeiss FF450-plus
+668|220|52 week|||371|||7 fields|Yes|||||Digital|48353|Zeiss FF450-plus
+1281|220|104 week|||735|||7 fields|Yes|||||Digital|60041|Zeiss FF450-plus
+8|65|Baseline|||-21|||7 fields|Yes|||7 fields|Yes|Digital|37230|Zeiss FF450-plus
+663|65|52 week|||357|||||||7 fields|Yes|Digital|48118|Zeiss FF450-plus
+1286|65|104 week|||735|||||||7 fields|Yes|Digital|60255|Zeiss FF450-plus
+54|433|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38233|Zeiss FF450-plus
+716|433|52 week|||371|||||||7 fields|Yes|Digital|50195|Zeiss FF450-plus
+1397|433|104 week|||791|||||||7 fields|Yes|Digital|63062|Zeiss FF450-plus
+55|671|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38234|Zeiss FF450-plus
+717|671|52 week|||371|||||||7 fields|Yes|Digital|50213|Zeiss FF450-plus
+1320|671|104 week|||735|||||||7 fields|Yes|Digital|61480|Zeiss FF450-plus
+80|50|Baseline|||0|||7 fields|Yes|||||Digital|38712|Zeiss FF450-plus
+732|50|52 week|||364|||7 fields|Yes|||||Digital|50750|Zeiss FF450-plus
+1326|50|104 week|||721|||7 fields|Yes|||||Digital|61671|Zeiss FF450-plus
+250|490|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41297|Zeiss FF450-plus
+874|490|52 week|||357|||||||7 fields|Yes|Digital|53535|Zeiss FF450-plus
+1479|490|104 week|||728|||||||7 fields|Yes|Digital|64301|Zeiss FF450-plus
+338|535|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42460|Zeiss FF450-plus
+983|535|52 week|||371|||||||7 fields|Yes|Digital|55321|Zeiss FF450-plus
+1554|535|104 week|||728|||||||7 fields|Yes|Digital|65167|Zeiss FF450-plus
+349|304|Baseline|||0|||7 fields|Yes|||||Digital|42628|Zeiss FF450-plus
+981|304|52 week|||367|||7 fields|Yes|||||Digital|55316|Zeiss FF450-plus
+1705|304|104 week|||805|||7 fields|Yes|||||Digital|68026|Zeiss FF450-plus
+229|487|Baseline|||0|||||||7 fields|Yes|Digital|41026|Topcon 50DX
+868|487|52 week|||364|||||||7 fields|Yes|Digital|53477|Topcon 50DX
+1461|487|104 week|||728|||||||7 fields|Yes|Digital|64060|Topcon 50DX
+255|834|Baseline|||0|||||||7 fields|Yes|Digital|41353|Topcon 50DX
+918|834|52 week|||372|||||||7 fields|Yes|Digital|54139|Topcon 50DX
+1467|834|104 week|||721|||||||7 fields|Yes|Digital|64147|Topcon 50DX
+274|621|Baseline|||0|||||||7 fields|Yes|Digital|41576|Topcon 50DX
+922|621|52 week|||365|||||||7 fields|Yes|Digital|54181|Topcon 50DX
+420|625|Baseline|||0|||7 fields|Yes|||||Digital|43732|Topcon 50DX
+1037|625|52 week|||362|||7 fields|Yes|||||Digital|56248|Topcon 50DX
+1619|625|104 week|||728|||7 fields|Yes|||||Digital|67015|Topcon 50DX
+475|280|Baseline|||0|||||||7 fields|Yes|Digital|44505|Topcon 50DX
+1088|280|52 week|||363|||||||7 fields|Yes|Digital|56954|Topcon 50DX
+1673|280|104 week|||733|||||||7 fields|Yes|Digital|67590|Topcon 50DX
+484|393|Baseline|||0|||||||7 fields|Yes|Digital|44695|Topcon 50DX
+1123|393|52 week|||371|||||||7 fields|No|Digital|57400|Topcon 50DX
+1678|393|104 week|||728|||||||7 fields|Yes|Digital|67675|Topcon 50DX
+605|551|Baseline|||0|||||||7 fields|Yes|Digital|46769|Topcon 50DX
+1230|551|52 week|||371|||||||7 fields|Yes|Digital|59040|Topcon 50DX
+1778|551|104 week|||728|||||||7 fields|Yes|Digital|68850|Topcon 50DX
+643|630|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47343|Topcon 50DX
+1273|630|52 week|||378|||||||7 fields|Yes|Digital|59641|Topcon 50DX
+1797|630|104 week|||721|||||||7 fields|Yes|Digital|69038|Topcon 50DX
+31|20|Baseline|||0|||4-wide|Yes|||||Digital|37797|Topcon 50IX
+684|20|52 week|||359|||4-wide|Yes|||||Digital|49107|Topcon 50IX
+1298|20|104 week|||723|||4-wide|Yes|||||Digital|60671|Topcon 50IX
+13|538|Baseline|||0|||4-wide|Yes|||||Digital|37434|Topcon 50IX
+680|538|52 week|||371|||4-wide|Yes|||||Digital|49000|Topcon 50IX
+1284|538|104 week|||721|||4-wide|Yes|||||Digital|60088|Topcon 50IX
+16|489|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|37497|Topcon 50IX
+682|489|52 week|||371|||4-wide|Yes|||||Digital|49067|Topcon 50IX
+1289|489|104 week|||728|||4-wide|Yes|||||Digital|60389|Topcon 50IX
+27|254|Baseline|||0|||4-wide|Yes|||||Digital|37734|Topcon 50IX
+678|254|52 week|||361|||4-wide|Yes|||||Digital|48990|Topcon 50IX
+1305|254|104 week|||736|||4-wide|Yes|||||Digital|60891|Topcon 50IX
+29|838|Baseline|||0|||4-wide|Yes|||||Digital|37746|Topcon 50IX
+690|838|52 week|||369|||4-wide|Yes|||||Digital|49292|Topcon 50IX
+1301|838|104 week|||733|||4-wide|Yes|||||Digital|60800|Topcon 50IX
+32|701|Baseline|||0|||||||4-wide|Yes|Digital|37809|Topcon 50IX
+738|701|52 week|||406|||||||4-wide|Yes|Digital|50794|Topcon 50IX
+38|653|Baseline|||0|||||||4-wide|Yes|Digital|37999|Topcon 50IX
+694|653|52 week|||361|||||||4-wide|Yes|Digital|49470|Topcon 50IX
+1308|653|104 week|||732|||||||4-wide|Yes|Digital|61110|Topcon 50IX
+45|762|Baseline|||0|||4-wide|Yes|||||Digital|38105|Topcon 50IX
+700|762|52 week|||360|||4-wide|Yes|||||Digital|49672|Topcon 50IX
+1306|762|104 week|||721|||4-wide|Yes|||||Digital|60948|Topcon 50IX
+81|506|Baseline|||0|||4-wide|Yes|||||Digital|38724|Topcon 50IX
+734|506|52 week|||364|||4-wide|Yes|||||Digital|50760|Topcon 50IX
+1343|506|104 week|||735|||4-wide|Yes|||||Digital|62166|Topcon 50IX
+94|780|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|38878|Topcon 50IX
+749|780|52 week|||371|||4-wide|Yes|||||Digital|51141|Topcon 50IX
+98|16|Baseline|||0|||||||4-wide|Yes|Digital|38967|Topcon 50IX
+752|16|52 week|||371|||||||4-wide|Yes|Digital|51235|Topcon 50IX
+103|511|Baseline|||0|||4-wide|Yes|||||Digital|39038|Topcon 50IX
+758|511|52 week|||371|||4-wide|Yes|||||Digital|51390|Topcon 50IX
+1355|511|104 week|||728|||4-wide|Yes|||||Digital|62364|Topcon 50IX
+112|547|Baseline|||0|||||||4-wide|Yes|Digital|39362|Topcon 50IX
+777|547|52 week|||371|||||||4-wide|Yes|Digital|51743|Topcon 50IX
+1360|547|104 week|||728|||||||4-wide|Yes|Digital|62505|Topcon 50IX
+141|21|Baseline|||-7|||||||4-wide|Yes|Digital|39714|Topcon 50IX
+813|21|52 week|||385|||||||4-wide|Yes|Digital|52521|Topcon 50IX
+1369|21|104 week|||721|||||||4-wide|Yes|Digital|62687|Topcon 50IX
+144|360|Baseline|||0|||||||4-wide|Yes|Digital|39788|Topcon 50IX
+799|360|52 week|||375|||||||4-wide|Yes|Digital|52243|Topcon 50IX
+1394|360|104 week|||729|||||||4-wide|Yes|Digital|63025|Topcon 50IX
+184|768|Baseline|||0|||||||4-wide|Yes|Digital|40522|Topcon 50IX
+841|768|52 week|||367|||||||4-wide|Yes|Digital|53082|Topcon 50IX
+1421|768|104 week|||724|||||||4-wide|Yes|Digital|63575|Topcon 50IX
+202|3|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40760|Topcon 50IX
+848|3|52 week|||364|||4-wide|Yes|||||Digital|53203|Topcon 50IX
+1425|3|104 week|||721|||4-wide|Yes|||||Digital|63702|Topcon 50IX
+209|743|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40834|Topcon 50IX
+867|743|52 week|||371|||||||4-wide|Yes|Digital|53471|Topcon 50IX
+1430|743|104 week|||721|||||||4-wide|Yes|Digital|63756|Topcon 50IX
+230|17|Baseline|||-3|||4-wide|Yes|||4-wide|Yes|Digital|41042|Topcon 50IX
+878|17|52 week|||367|||||||4-wide|Yes|Digital|53593|Topcon 50IX
+1466|17|104 week|||731|||||||4-wide|Yes|Digital|64136|Topcon 50IX
+219|369|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40918|Topcon 50IX
+861|369|52 week|||364|||4-wide|Yes|||||Digital|53388|Topcon 50IX
+1450|369|104 week|||728|||4-wide|Yes|||||Digital|63962|Topcon 50IX
+223|51|Baseline|||0|||4-wide|Yes|||||Digital|40953|Topcon 50IX
+900|51|52 week|||378|||4-wide|Yes|||||Digital|53875|Topcon 50IX
+233|356|Baseline|||0|1|Other|||||4-wide|Yes|Digital|41130|Topcon 50IX
+898|356|52 week|||371|||||||4-wide|Yes|Digital|53834|Topcon 50IX
+1464|356|104 week|||724|||||||4-wide|Yes|Digital|64088|Topcon 50IX
+258|235|Baseline|||-7|||||||4-wide|Yes|Digital|41418|Topcon 50IX
+921|235|52 week|||371|||||||4-wide|Yes|Digital|54167|Topcon 50IX
+1472|235|104 week|||721|||||||4-wide|Yes|Digital|64213|Topcon 50IX
+264|466|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|41482|Topcon 50IX
+924|466|52 week|||371|||4-wide|Yes|||||Digital|54207|Topcon 50IX
+1493|466|104 week|||728|||4-wide|Yes|||||Digital|64408|Topcon 50IX
+267|763|Baseline|||0|||4-wide|Yes|||||Digital|41530|Topcon 50IX
+911|763|52 week|||364|||4-wide|Yes|||||Digital|54014|Topcon 50IX
+1492|763|104 week|||724|||4-wide|Yes|||||Digital|64404|Topcon 50IX
+280|210|Baseline|||0|||4-wide|Yes|||||Digital|41608|Topcon 50IX
+919|210|52 week|||364|||4-wide|Yes|||||Digital|54140|Topcon 50IX
+1504|210|104 week|||728|||4-wide|Yes|||||Digital|64543|Topcon 50IX
+321|485|Baseline|||0|||4-wide|Yes|1|Other|||Digital|42276|Topcon 50IX
+975|485|52 week|||371|||4-wide|Yes|||||Digital|55115|Topcon 50IX
+1587|485|104 week|||752|||4-wide|Yes|||||Digital|65588|Topcon 50IX
+337|336|Baseline|||0|||4-wide|Yes|1|Other|||Digital|42454|Topcon 50IX
+982|336|52 week|||371|||4-wide|Yes|||||Digital|55319|Topcon 50IX
+1552|336|104 week|||724|||4-wide|Yes|||||Digital|65107|Topcon 50IX
+350|467|Baseline|||0|||||||4-wide|Yes|Digital|42674|Topcon 50IX
+984|467|52 week|||364|||||||4-wide|Yes|Digital|55328|Topcon 50IX
+1556|467|104 week|||721|||||||4-wide|Yes|Digital|65170|Topcon 50IX
+353|474|Baseline|||0|||||||4-wide|Yes|Digital|42745|Topcon 50IX
+362|791|Baseline|||0|||4-wide|Yes|||||Digital|42880|Topcon 50IX
+980|791|52 week|||357|||4-wide|Yes|||||Digital|55299|Topcon 50IX
+1562|791|104 week|||721|||4-wide|Yes|||||Digital|65282|Topcon 50IX
+370|573|Baseline|||0|||4-wide|Yes|||||Digital|43024|Topcon 50IX
+1002|573|52 week|||364|||4-wide|Yes|||||Digital|55695|Topcon 50IX
+1583|573|104 week|||728|||4-wide|Yes|||||Digital|65554|Topcon 50IX
+450|600|Baseline|||-14|||||||4-wide|Yes|Digital|44176|Topcon 50IX
+1089|600|52 week|||371|||||||4-wide|Yes|Digital|56955|Topcon 50IX
+1685|600|104 week|||749|||||||4-wide|Yes|Digital|67807|Topcon 50IX
+438|283|Baseline|||-7|||4-wide|Yes|1|Other|||Digital|44010|Topcon 50IX
+1067|283|52 week|||368|||4-wide|Yes|||||Digital|56664|Topcon 50IX
+1630|283|104 week|||725|||4-wide|Yes|||||Digital|67116|Topcon 50IX
+428|88|Baseline|||0|||4-wide|Yes|1|Other|||Digital|43867|Topcon 50IX
+433|482|Baseline|||0|||||||4-wide|Yes|Digital|43930|Topcon 50IX
+1055|482|52 week|||363|||||||4-wide|Yes|Digital|56465|Topcon 50IX
+1632|482|104 week|||728|||||||4-wide|Yes|Digital|67153|Topcon 50IX
+490|676|Baseline|||0|||||||4-wide|Yes|Digital|44793|Topcon 50IX
+1110|676|52 week|||364|||||||4-wide|Yes|Digital|57231|Topcon 50IX
+1689|676|104 week|||731|||||||4-wide|Yes|Digital|67827|Topcon 50IX
+550|136|Baseline|||0|||4-wide|Yes|||||Digital|46019|Topcon 50IX
+1187|136|52 week|||371|||4-wide|Yes|||||Digital|58427|Topcon 50IX
+1727|136|104 week|||717|||4-wide|Yes|||||Digital|68293|Topcon 50IX
+505|62|Baseline|||0|1|Other|||||4-wide|Yes|Digital|45108|Topcon 50IX
+1127|62|52 week|||364|||||||4-wide|Yes|Digital|57491|Topcon 50IX
+524|419|Baseline|||0|||||||4-wide|Yes|Digital|45386|Topcon 50IX
+1128|419|52 week|||357|||||||4-wide|Yes|Digital|57495|Topcon 50IX
+1696|419|104 week|||721|||||||4-wide|Yes|Digital|67921|Topcon 50IX
+533|370|Baseline|||0|||4-wide|Yes|||||Digital|45678|Topcon 50IX
+1152|370|52 week|||364|||4-wide|Yes|||||Digital|57967|Topcon 50IX
+1749|370|104 week|||742|||4-wide|Yes|||||Digital|68531|Topcon 50IX
+541|337|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|45828|Topcon 50IX
+1168|337|52 week|||370|||||||4-wide|Yes|Digital|58207|Topcon 50IX
+1723|337|104 week|||726|||||||4-wide|Yes|Digital|68261|Topcon 50IX
+548|293|Baseline|||0|||||||4-wide|Yes|Digital|45955|Topcon 50IX
+1174|293|52 week|||371|||||||4-wide|Yes|Digital|58304|Topcon 50IX
+1740|293|104 week|||734|||||||4-wide|Yes|Digital|68483|Topcon 50IX
+555|663|Baseline|||0|||||||4-wide|Yes|Digital|46063|Topcon 50IX
+1178|663|52 week|||365|||||||4-wide|Yes|Digital|58324|Topcon 50IX
+1741|663|104 week|||728|||||||4-wide|Yes|Digital|68488|Topcon 50IX
+599|560|Baseline|||-14|||4-wide|Yes|||4-wide|Yes|Digital|46711|Topcon 50IX
+1225|560|52 week|||371|||||||4-wide|Yes|Digital|59002|Topcon 50IX
+1808|560|104 week|||742|||||||4-wide|Yes|Digital|69134|Topcon 50IX
+567|377|Baseline|||0|||||||4-wide|Yes|Digital|46234|Topcon 50IX
+1172|377|52 week|||361|||||||4-wide|Yes|Digital|58263|Topcon 50IX
+1750|377|104 week|||726|||||||4-wide|Yes|Digital|68542|Topcon 50IX
+577|2|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|46398|Topcon 50IX
+1195|2|52 week|||364|||||||4-wide|Yes|Digital|58541|Topcon 50IX
+1748|2|104 week|||721|||||||4-wide|Yes|Digital|68525|Topcon 50IX
+578|649|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|46411|Topcon 50IX
+585|553|Baseline|||0|1|Other|||||4-wide|Yes|Digital|46499|Topcon 50IX
+625|409|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|47119|Topcon 50IX
+1229|409|52 week|||360|||4-wide|Yes|||||Digital|59031|Topcon 50IX
+1792|409|104 week|||724|||4-wide|Yes|||||Digital|69008|Topcon 50IX
+265|446|Baseline|||0|||||||7 fields|Yes|Digital|41499|Topcon 50DX
+928|446|52 week|||371|||||||7 fields|Yes|Digital|54262|Topcon 50EX
+1475|446|104 week|||721|||||||7 fields|No|Digital|64272|Topcon 50DX
+266|70|Baseline|||0|||7 fields|Yes|||||Digital|41508|Topcon 50DX
+908|70|52 week|||364|||7 fields|Yes|||||Digital|53989|Topcon 50EX
+1498|70|104 week|||728|||7 fields|No|||||Digital|64454|Topcon 50DX
+379|685|Baseline|||0|||||||7 fields|Yes|Digital|43118|Topcon 50EX
+1008|685|52 week|||364|||||||7 fields|No|Digital|55770|Topcon 50DX
+1603|685|104 week|||735|||||||7 fields|No|Digital|65760|Topcon 50DX
+565|90|Baseline|||0|||||||7 fields|Yes|Digital|46169|Topcon 50DX
+1181|90|52 week|||364|||||||7 fields|No|Digital|58339|Topcon 50DX
+1758|90|104 week|||730|||||||7 fields|Yes|Digital|68597|Topcon 50EX
+591|808|Baseline|||0|||7 fields|Yes|||||Digital|46580|Topcon 50DX
+1210|808|52 week|||366|||7 fields|No|||||Digital|58786|Topcon 50DX
+1780|808|104 week|||735|||7 fields|Yes|||||Digital|68905|Topcon 50DX
+631|645|Baseline|||0|||7 fields|Yes|||||Digital|47239|Topcon 50DX
+1252|645|52 week|||371|||7 fields|No|||||Digital|59368|Topcon 50DX
+1818|645|104 week|||735|||7 fields|Yes|||||Digital|69278|Topcon 50EX
+600|55|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46728|Topcon 50IA
+1224|55|52 week|||370|||7 fields|Yes|||||Digital|58975|Topcon 50IA
+1777|55|104 week|||727|||7 fields|Yes|||||Digital|68848|Zeiss FF450-plus
+630|712|Baseline|||0|||7 fields|Yes|||||Digital|47218|Topcon 50IA
+1246|712|52 week|||367|||7 fields|Yes|||||Digital|59279|Topcon 50IA
+1828|712|104 week|||742|||7 fields|Yes|||||Digital|69423|Zeiss FF450-plus
+650|402|Baseline|||0|||7 fields|Yes|||||Digital|47468|Topcon 50IA
+1245|402|52 week|||359|||7 fields|Yes|||||Digital|59249|Topcon 50IA
+1827|402|104 week|||722|||7 fields|Yes|||||Digital|69396|Zeiss FF450-plus
+21|218|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|37633|Topcon 50IX
+681|218|52 week|||364|||7 fields|Yes|||||Digital|49017|Topcon 50IX
+1288|218|104 week|||721|||7 fields|Yes|||||Digital|60333|Topcon 50IX
+33|765|Baseline|||0|||7 fields|Yes|||||Digital|37824|Topcon 50IX
+689|765|52 week|||364|||7 fields|Yes|||||Digital|49287|Topcon 50IX
+1300|765|104 week|||727|||7 fields|Yes|||||Digital|60761|Topcon 50IX
+109|176|Baseline|||0|||7 fields|Yes|1|Other|||Digital|39290|Topcon 50IX
+769|176|52 week|||371|||7 fields|Yes|||||Digital|51664|Topcon 50DX
+1356|176|104 week|||727|||7 fields|Yes|||||Digital|62405|Topcon 50DX
+123|778|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39500|Topcon 50IX
+771|778|52 week|||364|||7 fields|Yes|||||Digital|51686|Topcon 50IX
+1399|778|104 week|||741|||7 fields|Yes|||||Digital|63076|Topcon 50IX
+254|461|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41351|Topcon 50DX
+902|461|52 week|||366|||||||7 fields|Yes|Digital|53920|Topcon 50IX
+1473|461|104 week|||723|||||||7 fields|Yes|Digital|64239|Topcon 50IX
+292|814|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41798|Topcon 50IX
+934|814|52 week|||365|||7 fields|Yes|||||Digital|54367|Topcon 50IX
+1517|814|104 week|||729|||7 fields|Yes|||||Digital|64681|Topcon 50IX
+329|681|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42348|Topcon 50IX
+948|681|52 week|||357|||7 fields|Yes|||||Digital|54718|Topcon 50IX
+1533|681|104 week|||721|||7 fields|Yes|||||Digital|64915|Topcon 50IX
+268|147|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41531|Topcon 50X
+894|147|52 week|||357|||7 fields|Yes|||||Digital|53804|Topcon 50X
+1501|147|104 week|||728|||7 fields|No|||||Digital|64476|Topcon 50X
+270|707|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41534|Topcon 50X
+892|707|52 week|||357|||||||7 fields|Yes|Digital|53794|Topcon 50X
+1500|707|104 week|||728|||||||7 fields|No|Digital|64475|Topcon 50X
+286|216|Baseline|||0|||7 fields|Yes|1|Other|||Digital|41738|Topcon 50X
+940|216|52 week|||371|||7 fields|Yes|||||Digital|54521|Topcon 50X
+1581|216|104 week|||766|||7 fields|No|||||Digital|65546|Topcon 50X
+287|413|Baseline|||0|||||||7 fields|Yes|Digital|41764|Topcon 50X
+941|413|52 week|||371|||||||7 fields|Yes|Digital|54528|Topcon 50X
+1502|413|104 week|||721|||||||7 fields|No|Digital|64489|Topcon 50X
+300|384|Baseline|||0|||||||7 fields|Yes|Digital|41977|Topcon 50X
+958|384|52 week|||371|||||||7 fields|Yes|Digital|54831|Topcon 50X
+1513|384|104 week|||721|||||||7 fields|No|Digital|64617|Topcon 50X
+384|145|Baseline|||0|||||||7 fields|Yes|Digital|43224|Topcon 50X
+1012|145|52 week|||364|||||||7 fields|Yes|Digital|55826|Topcon 50X
+1589|145|104 week|||726|||||||7 fields|No|Digital|65604|Topcon 50X
+445|556|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44090|Topcon 50X
+1053|556|52 week|||357|||||||7 fields|Yes|Digital|56409|Topcon 50X
+1642|556|104 week|||728|||||||7 fields|No|Digital|67240|Topcon 50X
+646|245|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47402|Topcon 50X
+1247|245|52 week|||364|||7 fields|Yes|||||Digital|59284|Topcon 50X
+1819|245|104 week|||730|||4-wide|Yes|||||Digital|69281|Topcon 50EX
+463|379|Baseline|||0|||||||7 fields|Yes|Digital|44338|Zeiss FF4
+1126|379|52 week|||385|||||||7 fields|Yes|Digital|57454|Zeiss FF4
+1667|379|104 week|||730|||||||7 fields|Yes|Digital|67487|Zeiss FF4
+529|520|Baseline|||-7|||||||7 fields|Yes|Digital|45524|Zeiss FF4
+1149|520|52 week|||368|||||||7 fields|Yes|Digital|57902|Zeiss FF4
+1729|520|104 week|||735|||||||7 fields|Yes|Digital|68312|Zeiss FF4
+67|831|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38466|Zeiss FF4
+721|831|52 week|||368|||||||7 fields|Yes|Digital|50407|Zeiss FF4
+101|613|Baseline|||0|||||||7 fields|Yes|Digital|39032|Zeiss FF4
+746|613|52 week|||358|||||||7 fields|Yes|Digital|51005|Zeiss FF4
+1344|613|104 week|||722|||||||7 fields|Yes|Digital|62186|Zeiss FF4
+163|770|Baseline|||0|||7 fields|Yes|||||Digital|40194|Zeiss FF4
+825|770|52 week|||370|||7 fields|Yes|||||Digital|52816|Zeiss FF4
+1414|770|104 week|||730|||7 fields|Yes|||||Digital|63425|Zeiss FF4
+227|800|Baseline|||0|||7 fields|Yes|||||Digital|40997|Zeiss FF4
+869|800|52 week|||364|||7 fields|Yes|||||Digital|53478|Zeiss FF4
+1471|800|104 week|||734|||7 fields|Yes|||||Digital|64209|Zeiss FF4
+290|524|Baseline|||-11|||7 fields|Yes|||||Digital|41767|Zeiss FF4
+310|709|Baseline|||-20|||7 fields|Yes|||||Digital|42082|Zeiss FF4
+945|709|52 week|||364|||7 fields|Yes|||||Digital|54692|Zeiss FF4
+581|816|Baseline|||0|||7 fields|Yes|||||Digital|46432|Zeiss FF4
+1202|816|52 week|||367|||7 fields|Yes|||||Digital|58668|Zeiss FF4
+1781|816|104 week|||740|||7 fields|Yes|||||Digital|68909|Zeiss FF4
+594|84|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46618|Zeiss FF4
+604|101|Baseline|||0|||7 fields|Yes|||||Digital|46759|Zeiss FF4
+1248|101|52 week|||382|||7 fields|Yes|||||Digital|59303|Zeiss FF4
+1813|101|104 week|||746|||7 fields|Yes|||||Digital|69224|Zeiss FF4
+638|807|Baseline|||0|||7 fields|Yes|||||Digital|47323|Zeiss FF4
+1254|807|52 week|||370|||7 fields|Yes|||||Digital|59389|Zeiss FF4
+1810|807|104 week|||728|||7 fields|Yes|||||Digital|69158|Zeiss FF4
+440|219|Baseline|||0|||7 fields|Yes|||||Digital|44033|Topcon 50EX
+1062|219|52 week|||364|||7 fields|Yes|||||Digital|56558|Topcon 50EX
+1638|219|104 week|||727|||7 fields|Yes|||||Digital|67202|Topcon 50EX
+483|67|Baseline|||0|||7 fields|Yes|||||Digital|44672|Topcon 50IX
+1108|67|52 week|||363|||7 fields|Yes|||||Digital|57175|Topcon 50IX
+1684|67|104 week|||734|||7 fields|Yes|||||Digital|67783|Topcon 50IX
+579|239|Baseline|||0|||||||7 fields|Yes|Digital|46420|Topcon 50IX
+1177|239|52 week|||357|||||||7 fields|Yes|Digital|58318|Topcon 50IX
+1747|239|104 week|||721|||||||7 fields|Yes|Digital|68523|Topcon 50IX
+82|74|Baseline|||0|1|Other|||||7 fields|Yes|Digital|38736|Topcon 50DX
+736|74|52 week|||364|||||||7 fields|Yes|Digital|50774|Topcon 50DX
+1332|74|104 week|||724|||||||7 fields|Yes|Digital|61834|Topcon 50DX
+89|675|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38849|Topcon 50DX
+748|675|52 week|||370|||7 fields|Yes|||||Digital|51081|Topcon 50DX
+1349|675|104 week|||734|||7 fields|Yes|||||Digital|62259|Topcon 50DX
+145|313|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39789|Topcon 50DX
+794|313|52 week|||365|||7 fields|Yes|||||Digital|52124|Topcon 50DX
+1377|313|104 week|||721|||7 fields|Yes|||||Digital|62759|Topcon 50DX
+172|499|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|40333|Topcon 50EX
+829|499|52 week|||366|||||||7 fields|Yes|Digital|52847|Topcon 50EX
+1408|499|104 week|||722|||||||7 fields|Yes|Digital|63288|Topcon 50EX
+174|159|Baseline|||0|||||||7 fields|Yes|Digital|40379|Topcon 50EX
+823|159|52 week|||364|||||||7 fields|Yes|Digital|52795|Topcon 50EX
+1508|159|104 week|||771|||||||7 fields|Yes|Digital|64567|Topcon 50EX
+181|561|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|40452|Topcon 50EX
+827|561|52 week|||363|||7 fields|Yes|||||Digital|52821|Topcon 50EX
+1420|561|104 week|||727|||7 fields|Yes|||||Digital|63558|Topcon 50EX
+336|510|Baseline|||0|||||||7 fields|Yes|Digital|42449|Topcon 50EX
+356|135|Baseline|||0|||7 fields|Yes|||||Digital|42785|Topcon 50EX
+988|135|52 week|||363|||7 fields|Yes|||||Digital|55399|Topcon 50EX
+1579|135|104 week|||734|||7 fields|Yes|||||Digital|65502|Topcon 50EX
+375|224|Baseline|||0|||7 fields|Yes|||||Digital|43093|Topcon 50EX
+1001|224|52 week|||360|||7 fields|Yes|||||Digital|55681|Topcon 50EX
+1738|224|104 week|1|Other|||||||||||68466|
+478|545|Baseline|||0|||||||7 fields|Yes|Digital|44563|Topcon 50EX
+1085|545|52 week|||361|||||||7 fields|Yes|Digital|56918|Zeiss FF450-plus
+1676|545|104 week|||733|||||||7 fields|Yes|Digital|67630|Topcon 50EX
+552|757|Baseline|||0|||||||7 fields|Yes|Digital|46057|Topcon 50EX
+1170|757|52 week|||364|||||||7 fields|Yes|Digital|58248|Zeiss FF450-plus
+1798|757|104 week|||753|||||||7 fields|Yes|Digital|69065|Topcon 50EX
+607|40|Baseline|||0|||7 fields|Yes|||||Digital|46794|Zeiss FF450-plus
+1231|40|52 week|||371|||7 fields|Yes|||||Digital|59046|Zeiss FF450-plus
+36|279|Baseline|||0|||7 fields|Yes|||||Digital|37876|Topcon 50DX
+699|279|52 week|||370|||7 fields|Yes|||||Digital|49659|Topcon 50DX
+1303|279|104 week|||728|||7 fields|Yes|||||Digital|60844|Topcon 50DX
+52|696|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38218|Topcon 50DX
+715|696|52 week|||371|||||||7 fields|Yes|Digital|50193|Topcon 50DX
+1319|696|104 week|||735|||||||7 fields|Yes|Digital|61467|Topcon 50DX
+95|821|Baseline|||-3|||||||7 fields|Yes|Digital|38893|Topcon 50DX
+804|821|52 week|||413|||||||7 fields|Yes|Digital|52342|Topcon 50DX
+1351|821|104 week|||735|||||||7 fields|Yes|Digital|62297|Topcon 50DX
+126|581|Baseline|||0|||7 fields|Yes|||||Digital|39533|Topcon 50DX
+776|581|52 week|||364|||7 fields|Yes|||||Digital|51737|Topcon 50DX
+1368|581|104 week|||727|||7 fields|Yes|||||Digital|62673|Topcon 50DX
+125|204|Baseline|||-7|||||||7 fields|Yes|Digital|39530|Topcon 50DX
+774|204|52 week|||364|||||||7 fields|Yes|Digital|51727|Topcon 50DX
+1372|204|104 week|||728|||||||7 fields|Yes|Digital|62712|Topcon 50DX
+180|444|Baseline|||0|||||||7 fields|Yes|Digital|40442|Topcon 50DX
+831|444|52 week|||364|||||||7 fields|Yes|Digital|52867|Topcon 50DX
+1431|444|104 week|||735|||||||7 fields|Yes|Digital|63769|Topcon 50DX
+237|660|Baseline|||0|||||||7 fields|Yes|Digital|41164|Topcon 50DX
+864|660|52 week|||357|||||||7 fields|Yes|Digital|53422|Topcon 50DX
+1486|660|104 week|||735|||||||7 fields|Yes|Digital|64357|Topcon 50DX
+272|546|Baseline|||0|||||||7 fields|Yes|Digital|41545|Topcon 50DX
+931|546|52 week|||371|||||||7 fields|Yes|Digital|54310|Topcon 50DX
+1499|546|104 week|||725|||||||7 fields|Yes|Digital|64459|Topcon 50DX
+260|729|Baseline|||0|1|Other|||||7 fields|Yes|Digital|41446|Topcon 50DX
+920|729|52 week|||369|||||||7 fields|Yes|Digital|54159|Topcon 50DX
+1489|729|104 week|||728|||||||7 fields|Yes|Digital|64375|Topcon 50DX
+302|264|Baseline|||0|||||||7 fields|Yes|Digital|42011|Topcon 50DX
+944|264|52 week|||365|||||||7 fields|Yes|Digital|54691|Topcon 50DX
+1548|264|104 week|||736|||||||7 fields|Yes|Digital|65077|Topcon 50DX
+325|186|Baseline|||0|||||||7 fields|Yes|Digital|42327|Topcon 50DX
+972|186|52 week|||369|||||||7 fields|Yes|Digital|55077|Topcon 50DX
+1560|186|104 week|||735|||||||7 fields|Yes|Digital|65237|Topcon 50DX
+346|160|Baseline|||0|||7 fields|Yes|||||Digital|42596|Topcon 50DX
+968|160|52 week|||357|||7 fields|Yes|||||Digital|54998|Topcon 50DX
+1569|160|104 week|||734|||7 fields|Yes|||||Digital|65368|Topcon 50DX
+371|253|Baseline|||0|||||||7 fields|Yes|Digital|43028|Topcon 50DX
+443|495|Baseline|||0|||7 fields|Yes|||||Digital|44047|Topcon 50DX
+1063|495|52 week|||364|||7 fields|Yes|||||Digital|56574|Topcon 50DX
+1627|495|104 week|1|No View|||||||||||67073|
+441|187|Baseline|||-1|||7 fields|Yes|||7 fields|Yes|Digital|44043|Topcon 50DX
+467|331|Baseline|||0|||||||7 fields|Yes|Digital|44420|Topcon 50DX
+1103|331|52 week|||371|||||||7 fields|Yes|Digital|57109|Topcon 50DX
+1648|331|104 week|||721|||||||7 fields|Yes|Digital|67299|Topcon 50DX
+487|438|Baseline|||0|||7 fields|Yes|||||Digital|44731|Topcon 50DX
+1124|438|52 week|||371|||7 fields|Yes|||||Digital|57402|Topcon 50DX
+1670|438|104 week|||721|||7 fields|Yes|||||Digital|67540|Topcon 50DX
+489|539|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44764|Topcon 50DX
+1115|539|52 week|||367|||7 fields|Yes|||||Digital|57276|Topcon 50DX
+1698|539|104 week|||739|||7 fields|Yes|||||Digital|67945|Topcon 50DX
+503|648|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45056|Topcon 50DX
+1140|648|52 week|||371|||7 fields|Yes|||||Digital|57691|Topcon 50DX
+1693|648|104 week|||725|||7 fields|Yes|||||Digital|67879|Topcon 50DX
+540|840|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45805|Topcon 50DX
+1157|840|52 week|||364|||||||7 fields|Yes|Digital|58033|Topcon 50DX
+570|93|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46275|Topcon 50DX
+1186|93|52 week|1|Machine Malfunction|||||||||||58418|
+1760|93|104 week|||728|||7 fields|Yes|||||Digital|68607|Topcon 50DX
+566|593|Baseline|||0|||||||7 fields|Yes|Digital|46176|Topcon 50DX
+1180|593|52 week|||364|||||||7 fields|Yes|Digital|58331|Topcon 50DX
+1755|593|104 week|||729|||||||7 fields|Yes|Digital|68561|Topcon 50DX
+588|411|Baseline|||-4|||||||7 fields|Yes|Digital|46544|Topcon 50DX
+1204|411|52 week|||367|||||||7 fields|Yes|Digital|58681|Topcon 50DX
+1773|411|104 week|||733|||||||7 fields|Yes|Digital|68812|Topcon 50DX
+580|655|Baseline|||0|||||||7 fields|Yes|Digital|46423|Topcon 50DX
+1198|655|52 week|||364|||||||7 fields|Yes|Digital|58565|Topcon 50DX
+1752|655|104 week|||721|||||||7 fields|Yes|Digital|68547|Topcon 50DX
+601|358|Baseline|||-2|||||||7 fields|Yes|Digital|46738|Topcon 50DX
+1211|358|52 week|||364|||||||7 fields|Yes|Digital|58798|Topcon 50DX
+1775|358|104 week|||728|||||||7 fields|Yes|Digital|68829|Topcon 50DX
+623|469|Baseline|||0|||7 fields|Yes|||||Digital|47071|Topcon 50DX
+1236|469|52 week|||367|||7 fields|Yes|||||Digital|59120|Topcon 50DX
+1783|469|104 week|||724|||7 fields|Yes|||||Digital|68934|Topcon 50DX
+629|375|Baseline|||-4|||||||7 fields|Yes|Digital|47213|Topcon 50DX
+1237|375|52 week|||363|||||||7 fields|Yes|Digital|59121|Topcon 50DX
+1809|375|104 week|||729|||||||7 fields|Yes|Digital|69147|Topcon 50DX
+632|194|Baseline|||0|||||||7 fields|Yes|Digital|47266|Topcon 50DX
+1240|194|52 week|||363|||||||7 fields|Yes|Digital|59176|Topcon 50DX
+1806|194|104 week|||727|||||||7 fields|Yes|Digital|69117|Topcon 50DX
+2|181|Baseline|||0|||7 fields|Yes|||||Digital|36901|Topcon 50EX
+659|181|52 week|||365|||7 fields|Yes|||||Digital|47830|Topcon 50EX
+41|268|Baseline|||0|||||||7 fields|Yes|Digital|38035|Topcon 50EX
+703|268|52 week|||370|||||||7 fields|Yes|Digital|49872|Topcon 50EX
+1309|268|104 week|||731|||||||7 fields|Yes|Digital|61113|Topcon 50EX
+3|341|Baseline|||0|||7 fields|Yes|||||Digital|36953|Topcon 50EX
+667|341|52 week|||377|||7 fields|Yes|||||Digital|48303|Topcon 50EX
+1275|341|104 week|||731|||7 fields|Yes|||||Digital|59685|Topcon 50EX
+4|395|Baseline|||0|||7 fields|Yes|||||Digital|36959|Topcon 50EX
+666|395|52 week|||376|||7 fields|Yes|||||Digital|48223|Topcon 50EX
+1264|395|104 week|||724|||7 fields|Yes|||||Digital|59503|Topcon 50EX
+22|453|Baseline|||0|||||||7 fields|Yes|Digital|37644|Topcon 50EX
+685|453|52 week|||366|||||||7 fields|Yes|Digital|49111|Topcon 50EX
+1329|453|104 week|||729|||||||7 fields|Yes|Digital|61721|Topcon 50EX
+9|12|Baseline|||0|||7 fields|Yes|||||Digital|37241|Topcon 50EX
+671|12|52 week|||371|||7 fields|Yes|||||Digital|48724|Topcon 50EX
+18|605|Baseline|||0|||||||7 fields|Yes|Digital|37565|Topcon 50EX
+670|605|52 week|||360|||||||7 fields|Yes|Digital|48695|Topcon 50EX
+1287|605|104 week|||724|||||||7 fields|Yes|Digital|60287|Topcon 50EX
+238|468|Baseline|||0|||||||7 fields|Yes|Digital|41165|Topcon 50EX
+897|468|52 week|||370|||||||7 fields|Yes|Digital|53829|Topcon 50EX
+1496|468|104 week|||738|||||||7 fields|Yes|Digital|64440|Topcon 50EX
+139|599|Baseline|||0|||||||7 fields|Yes|Digital|39693|Topcon 50EX
+781|599|52 week|||359|||||||7 fields|Yes|Digital|51762|Topcon 50EX
+1404|599|104 week|||745|||||||7 fields|Yes|Digital|63168|Topcon 50EX
+140|27|Baseline|1|Other|||||||||||39713|
+798|27|52 week|||376|||7 fields|Yes|||||Digital|52215|Topcon 50EX
+1384|27|104 week|||727|||7 fields|Yes|||||Digital|62862|Topcon 50EX
+156|610|Baseline|||0|||7 fields|Yes|||||Digital|39929|Topcon 50EX
+803|610|52 week|||366|||7 fields|Yes|||||Digital|52311|Topcon 50EX
+1401|610|104 week|||727|||7 fields|Yes|||||Digital|63111|Topcon 50EX
+161|48|Baseline|||0|||7 fields|Yes|||||Digital|40161|Topcon 50EX
+816|48|52 week|||365|||7 fields|Yes|||||Digital|52598|Topcon 50EX
+1629|48|104 week|||736|||7 fields|Yes|||||Digital|67099|Topcon 50EX
+244|574|Baseline|||0|||||||7 fields|Yes|Digital|41229|Topcon 50EX
+905|574|52 week|||371|||||||7 fields|Yes|Digital|53926|Topcon 50EX
+1469|574|104 week|||726|||||||7 fields|Yes|Digital|64184|Topcon 50EX
+252|315|Baseline|||0|||7 fields|Yes|||||Digital|41315|Topcon 50EX
+888|315|52 week|||361|||7 fields|Yes|||||Digital|53753|Topcon 50EX
+1477|315|104 week|||725|||7 fields|Yes|||||Digital|64274|Topcon 50EX
+295|311|Baseline|||0|||7 fields|Yes|||||Digital|41883|Topcon 50EX
+1054|311|52 week|||425|||7 fields|Yes|||||Digital|56443|Topcon 50EX
+1665|311|104 week|||803|||7 fields|Yes|||||Digital|67476|Topcon 50EX
+332|223|Baseline|||0|||||||7 fields|Yes|Digital|42390|Topcon 50EX
+978|223|52 week|||370|||||||7 fields|Yes|Digital|55192|Topcon 50EX
+1538|223|104 week|||725|||||||7 fields|Yes|Digital|65028|Topcon 50EX
+480|66|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44635|Topcon 50EX
+496|847|Baseline|||0|||||||7 fields|Yes|Digital|44922|Topcon 50EX
+1133|847|52 week|||371|||||||7 fields|Yes|Digital|57579|Topcon 50EX
+1707|847|104 week|||741|||||||7 fields|Yes|Digital|68076|Topcon 50EX
+499|287|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44992|Topcon 50EX
+1112|287|52 week|||361|||7 fields|Yes|||||Digital|57268|Topcon 50EX
+509|128|Baseline|||0|||7 fields|Yes|||||Digital|45146|Topcon 50EX
+1143|128|52 week|||371|||7 fields|Yes|||||Digital|57748|Topcon 50EX
+1706|128|104 week|||734|||7 fields|Yes|||||Digital|68046|Topcon 50EX
+537|288|Baseline|||0|||||||7 fields|Yes|Digital|45759|Topcon 50EX
+1182|288|52 week|||378|||||||7 fields|Yes|Digital|58358|Topcon 50EX
+1737|288|104 week|||735|||||||7 fields|Yes|Digital|68434|Topcon 50EX
+609|211|Baseline|||0|||||||7 fields|Yes|Digital|46817|Topcon 50EX
+649|550|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47454|Topcon 50EX
+1261|550|52 week|||367|||7 fields|Yes|||||Digital|59465|Topcon 50EX
+1829|550|104 week|||735|||7 fields|Yes|||||Digital|69424|Topcon 50EX
+662|130|Baseline|||0|||7 fields|Yes|||||Digital|47998|Topcon 50EX
+1278|130|52 week|||370|||7 fields|Yes|||||Digital|59890|Topcon 50EX
+1832|130|104 week|||728|||7 fields|Yes|||||Digital|69555|Topcon 50EX
+10|578|Baseline|||0|||||||4-wide|Yes|Digital|37390|Topcon 50EX
+669|578|52 week|||367|||||||4-wide|Yes|Digital|48690|Topcon 50EX
+1299|578|104 week|||745|||||||4-wide|Yes|Digital|60709|Topcon 50EX
+28|552|Baseline|||0|||||||4-wide|Yes|Digital|37735|Topcon 50EX
+695|552|52 week|||376|||||||4-wide|Yes|Digital|49495|Topcon 50EX
+1555|552|104 week|||908|||||||4-wide|Yes|Digital|65169|Topcon 50EX
+88|618|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|38825|Topcon 50EX
+731|618|52 week|||361|||||||4-wide|No|Digital|50738|Topcon 50EX
+1364|618|104 week|||753|||||||4-wide|Yes|Digital|62588|Topcon 50EX
+90|607|Baseline|||0|||4-wide|Yes|||||Digital|38853|Topcon 50EX
+747|607|52 week|||370|||4-wide|Yes|||||Digital|51048|Topcon 50EX
+1335|607|104 week|||725|||4-wide|Yes|||||Digital|61914|Topcon 50EX
+105|809|Baseline|||0|||||||4-wide|Yes|Digital|39051|Topcon 50EX
+759|809|52 week|||371|||||||4-wide|Yes|Digital|51392|Topcon 50EX
+1354|809|104 week|||728|||||||4-wide|Yes|Digital|62327|Topcon 50EX
+133|108|Baseline|||0|||||||4-wide|Yes|Digital|39618|Topcon 50EX
+795|108|52 week|||371|||||||4-wide|Yes|Digital|52142|Topcon 50EX
+1395|108|104 week|||735|||||||4-wide|Yes|Digital|63039|Topcon 50EX
+158|525|Baseline|||0|||4-wide|Yes|||||Digital|39990|Topcon 50EX
+796|525|52 week|||356|||4-wide|Yes|||||Digital|52180|Topcon 50EX
+1398|525|104 week|||718|||4-wide|Yes|||||Digital|63068|Topcon 50EX
+215|459|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40897|Topcon 50EX
+914|459|52 week|||385|||4-wide|Yes|||||Digital|54087|Topcon 50EX
+1491|459|104 week|||744|||4-wide|Yes|||||Digital|64398|Topcon 50EX
+165|787|Baseline|||0|||4-wide|Yes|||||Digital|40244|Topcon 50EX
+832|787|52 week|||371|||4-wide|Yes|||||Digital|52914|Topcon 50EX
+1435|787|104 week|||742|||4-wide|Yes|||||Digital|63797|Topcon 50EX
+170|715|Baseline|||0|||4-wide|Yes|||||Digital|40323|Topcon 50EX
+906|715|52 week|||401|||4-wide|Yes|||||Digital|53942|Topcon 50EX
+389|691|Baseline|||0|||4-wide|Yes|||||Digital|43322|Topcon 50EX
+412|788|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|43649|Topcon 50EX
+1033|788|52 week|||363|||||||4-wide|Yes|Digital|56199|Topcon 50EX
+1762|788|104 week|||805|||||||4-wide|Yes|Digital|68649|Topcon 50EX
+642|732|Baseline|||0|||4-wide|Yes|||||Digital|47337|Topcon 50EX
+1258|732|52 week|||372|||4-wide|Yes|||||Digital|59440|Topcon 50EX
+1841|732|104 week|1|Other|||||||||||70363|
+334|589|Baseline|||0|||7 fields|Yes|||||Digital|42432|Topcon 50IX
+348|731|Baseline|||0|||||||7 fields|Yes|Digital|42618|Topcon 50IX
+994|731|52 week|1|Other|||||||||||55480|
+1553|731|104 week|||721|||||||4-wide|Yes|Digital|65129|Topcon 50IX
+416|514|Baseline|||0|||||||7 fields|Yes|Digital|43701|Topcon 50IX
+1052|514|52 week|||366|||||||7 fields|Yes|Digital|56377|Topcon 50IX
+1628|514|104 week|||733|||||||7 fields|Yes|Digital|67094|Topcon 50IX
+426|622|Baseline|||0|||||||7 fields|Yes|Digital|43808|Topcon 50IX
+1058|622|52 week|||369|||||||7 fields|Yes|Digital|56498|Topcon 50IX
+1616|622|104 week|||726|||||||7 fields|Yes|Digital|65992|Topcon 50IX
+452|651|Baseline|||0|||Other|Yes|||7 fields|Yes|Digital|44199|Topcon 50IX
+1070|651|52 week|||364|||||||7 fields|Yes|Digital|56728|Topcon 50IX
+1633|651|104 week|||721|||||||7 fields|Yes|Digital|67165|Topcon 50IX
+468|719|Baseline|||0|||7 fields|Yes|||||Digital|44428|Topcon 50IX
+1078|719|52 week|||359|||7 fields|Yes|||||Digital|56817|Topcon 50IX
+1657|719|104 week|||723|||7 fields|Yes|||||Digital|67386|Topcon 50IX
+562|314|Baseline|||0|||7 fields|Yes|||||Digital|46135|Topcon 50IX
+1200|314|52 week|||373|||7 fields|Yes|||||Digital|58641|Topcon 50IX
+1756|314|104 week|||730|||7 fields|Yes|||||Digital|68589|Topcon 50IX
+339|580|Baseline|||0|||7 fields|Yes|||||Digital|42475|Zeiss FF4
+493|631|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44874|Zeiss FF4
+1117|631|52 week|||364|||7 fields|Yes|||||Digital|57309|Zeiss FF4
+1732|631|104 week|||756|||7 fields|Yes|||||Digital|68395|Zeiss FF4
+383|568|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43211|Zeiss FF4
+610|417|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46895|Zeiss FF4
+1220|417|52 week|||364|||7 fields|Yes|||||Digital|58955|Zeiss FF4
+1803|417|104 week|||735|||7 fields|Yes|||||Digital|69101|Zeiss FF4
+7|615|Baseline|||-5|||||||7 fields|Yes|Digital|37139|Topcon 50DX
+665|615|52 week|||364|||||||7 fields|Yes|Digital|48211|Topcon 50DX
+1282|615|104 week|||733|||||||7 fields|Yes|Digital|60063|Topcon 50DX
+58|5|Baseline|||0|||7 fields|Yes|||||Digital|38286|Topcon 50DX
+719|5|52 week|||371|||7 fields|Yes|||||Digital|50272|Topcon 50DX
+1316|5|104 week|||728|||7 fields|Yes|||||Digital|61331|Topcon 50DX
+24|354|Baseline|||0|||7 fields|Yes|||||Digital|37685|Topcon 50DX
+675|354|52 week|||357|||7 fields|Yes|||||Digital|48857|Topcon 50DX
+1290|354|104 week|||721|||7 fields|Yes|||||Digital|60394|Topcon 50DX
+49|641|Baseline|||0|||7 fields|Yes|||||Digital|38194|Topcon 50DX
+706|641|52 week|||367|||7 fields|Yes|||||Digital|49953|Topcon 50DX
+1310|641|104 week|||724|||7 fields|Yes|||||Digital|61126|Topcon 50DX
+51|213|Baseline|||0|||7 fields|Yes|||||Digital|38217|Topcon 50DX
+704|213|52 week|||361|||7 fields|Yes|||||Digital|49915|Topcon 50DX
+1318|213|104 week|||735|||7 fields|Yes|||||Digital|61466|Topcon 50DX
+57|30|Baseline|||0|||||||7 fields|Yes|Digital|38267|Topcon 50DX
+705|30|52 week|||363|||||||7 fields|Yes|Digital|49942|Topcon 50DX
+84|565|Baseline|||0|||7 fields|Yes|1|Other|||Digital|38763|Topcon 50DX
+741|565|52 week|||364|||7 fields|Yes|||||Digital|50840|Topcon 50DX
+1345|565|104 week|||735|||7 fields|Yes|||||Digital|62200|Topcon 50DX
+100|603|Baseline|||0|||7 fields|Yes|||||Digital|39005|Topcon 50DX
+751|603|52 week|||365|||7 fields|Yes|||||Digital|51221|Topcon 50DX
+1342|603|104 week|||722|||7 fields|Yes|||||Digital|62125|Topcon 50DX
+118|139|Baseline|||0|||7 fields|Yes|||||Digital|39430|Topcon 50DX
+760|139|52 week|||359|||7 fields|Yes|||||Digital|51411|Topcon 50DX
+1381|139|104 week|||735|||7 fields|Yes|||||Digital|62827|Topcon 50DX
+169|619|Baseline|||-7|||7 fields|Yes|||7 fields|Yes|Digital|40312|Topcon 50DX
+820|619|52 week|||364|||||||7 fields|Yes|Digital|52731|Topcon 50DX
+1406|619|104 week|||721|||||||7 fields|Yes|Digital|63234|Topcon 50DX
+261|334|Baseline|||0|||7 fields|Yes|||||Digital|41468|Topcon 50DX
+904|334|52 week|||364|||7 fields|Yes|||||Digital|53924|Topcon 50DX
+1635|334|104 week|||805|||7 fields|Yes|||||Digital|67189|Topcon 50DX
+323|344|Baseline|||0|||7 fields|Yes|1|Other|||Digital|42295|Topcon 50DX
+963|344|52 week|||364|||7 fields|Yes|||||Digital|54914|Topcon 50DX
+1568|344|104 week|||742|||7 fields|Yes|||||Digital|65354|Topcon 50DX
+324|7|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42316|Topcon 50DX
+363|434|Baseline|||0|||7 fields|Yes|||||Digital|42914|Topcon 50DX
+992|434|52 week|||359|||7 fields|Yes|||||Digital|55431|Topcon 50DX
+1571|434|104 week|||723|||7 fields|Yes|||||Digital|65381|Topcon 50DX
+398|741|Baseline|||0|||7 fields|Yes|||||Digital|43405|Topcon 50DX
+1040|741|52 week|||371|||7 fields|Yes|||||Digital|56297|Topcon 50DX
+1597|741|104 week|||722|||7 fields|Yes|||||Digital|65666|Topcon 50DX
+402|654|Baseline|||0|||||||7 fields|Yes|Digital|43477|Topcon 50DX
+1073|654|52 week|||386|||||||7 fields|Yes|Digital|56781|Topcon 50DX
+1610|654|104 week|||733|||||||7 fields|Yes|Digital|65923|Topcon 50DX
+404|820|Baseline|||0|1|Other|||||7 fields|Yes|Digital|43499|Topcon 50DX
+1027|820|52 week|||364|||||||7 fields|Yes|Digital|56108|Topcon 50DX
+1607|820|104 week|||728|||||||7 fields|Yes|Digital|65851|Topcon 50DX
+407|502|Baseline|||0|||||||7 fields|Yes|Digital|43568|Topcon 50DX
+1041|502|52 week|||366|||||||7 fields|Yes|Digital|56306|Topcon 50DX
+1624|502|104 week|||732|||||||7 fields|Yes|Digital|67045|Topcon 50DX
+455|674|Baseline|||0|||||||7 fields|Yes|Digital|44234|Topcon 50DX
+1084|674|52 week|||369|||||||7 fields|Yes|Digital|56910|Topcon 50DX
+1669|674|104 week|||735|||||||7 fields|Yes|Digital|67536|Topcon 50DX
+454|558|Baseline|||0|||||||7 fields|Yes|Digital|44209|Topcon 50DX
+1091|558|52 week|||371|||||||7 fields|Yes|Digital|56976|Topcon 50DX
+1654|558|104 week|||729|||||||7 fields|Yes|Digital|67354|Topcon 50DX
+470|439|Baseline|||0|||||||7 fields|Yes|Digital|44461|Topcon 50DX
+1105|439|52 week|||371|||||||7 fields|Yes|Digital|57115|Topcon 50DX
+1666|439|104 week|||728|||||||7 fields|Yes|Digital|67479|Topcon 50DX
+474|38|Baseline|||0|||7 fields|Yes|||||Digital|44499|Topcon 50DX
+1100|38|52 week|||364|||7 fields|Yes|||||Digital|57024|Topcon 50DX
+1668|38|104 week|||728|||7 fields|Yes|||||Digital|67528|Topcon 50DX
+534|794|Baseline|||0|||7 fields|Yes|1|Other|||Digital|45685|Topcon 50DX
+1151|794|52 week|||364|||7 fields|Yes|||||Digital|57949|Topcon 50DX
+1721|794|104 week|||728|||7 fields|Yes|||||Digital|68252|Topcon 50DX
+536|447|Baseline|||0|||||||7 fields|Yes|Digital|45742|Topcon 50DX
+1162|447|52 week|||369|||||||7 fields|Yes|Digital|58118|Topcon 50DX
+1720|447|104 week|||726|||||||7 fields|Yes|Digital|68217|Topcon 50DX
+576|372|Baseline|||0|||7 fields|Yes|||||Digital|46390|Topcon 50DX
+1203|372|52 week|||369|||7 fields|Yes|||||Digital|58674|Topcon 50DX
+1746|372|104 week|||721|||7 fields|Yes|||||Digital|68514|Topcon 50DX
+586|52|Baseline|||0|||7 fields|Yes|||||Digital|46501|Topcon 50DX
+1207|52|52 week|||369|||7 fields|Yes|||||Digital|58723|Topcon 50DX
+1757|52|104 week|||722|||7 fields|Yes|||||Digital|68591|Topcon 50DX
+592|642|Baseline|||0|||||||7 fields|Yes|Digital|46598|Topcon 50DX
+617|588|Baseline|||0|||||||7 fields|Yes|Digital|46951|Topcon 50DX
+1218|588|52 week|||362|||||||7 fields|Yes|Digital|58898|Topcon 50DX
+1793|588|104 week|||729|||||||7 fields|Yes|Digital|69009|Topcon 50DX
+56|271|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38258|Zeiss FF3
+707|271|52 week|||363|||||||7 fields|Yes|Digital|49958|Zeiss FF3
+97|247|Baseline|||0|||7 fields|Yes|||||Digital|38951|Zeiss FF3
+737|247|52 week|||357|||7 fields|Yes|||||Digital|50775|Zeiss FF3
+1353|247|104 week|||734|||7 fields|Yes|||||Digital|62319|Zeiss FF3
+251|682|Baseline|||0|||7 fields|Yes|||||Digital|41313|Zeiss FF3
+876|682|52 week|||357|||7 fields|Yes|||||Digital|53554|Zeiss FF3
+1512|682|104 week|||742|||7 fields|Yes|||||Digital|64610|Zeiss FF3
+259|284|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41426|Zeiss FF3
+269|465|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41533|Zeiss FF3
+923|465|52 week|||367|||||||7 fields|Yes|Digital|54202|Zeiss FF3
+1505|465|104 week|||730|||||||7 fields|Yes|Digital|64544|Zeiss FF3
+308|586|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42072|Zeiss FF3
+950|586|52 week|||365|||7 fields|Yes|||||Digital|54729|Zeiss FF3
+1540|586|104 week|||734|||7 fields|Yes|||||Digital|65040|Zeiss FF3
+380|318|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43144|Zeiss FF3
+1006|318|52 week|||363|||7 fields|Yes|||||Digital|55761|Zeiss FF3
+1577|318|104 week|||721|||7 fields|Yes|||||Digital|65469|Zeiss FF3
+393|779|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43360|Zeiss FF3
+1032|779|52 week|||371|||||||7 fields|Yes|Digital|56191|Zeiss FF3
+396|306|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43382|Zeiss FF3
+1064|306|52 week|||385|||||||7 fields|Yes|Digital|56597|Zeiss FF3
+544|431|Baseline|||-7|||||||7 fields|Yes|Digital|45871|Zeiss FF3
+1159|431|52 week|||364|||||||7 fields|Yes|Digital|58078|Zeiss FF3
+1717|431|104 week|||721|||||||7 fields|Yes|Digital|68190|Zeiss FF3
+633|842|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47274|Zeiss FF3
+1251|842|52 week|||370|||7 fields|Yes|||||Digital|59345|Zeiss FF3
+1820|842|104 week|||735|||7 fields|Yes|||||Digital|69284|Zeiss FF3
+652|246|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47495|Zeiss FF3
+1271|246|52 week|||371|||7 fields|Yes|||||Digital|59614|Zeiss FF3
+86|583|Baseline|||0|||4-wide|No|1|Other|||Digital|38808|Topcon 50DX
+757|583|52 week|||383|||4-wide|Yes|||||Digital|51386|Topcon 50DX
+1463|583|104 week|||812|||4-wide|Yes|||||Digital|64081|Topcon 50DX
+171|177|Baseline|||0|1|Other|||||4-wide|Yes|Digital|40332|Topcon 50DX
+850|177|52 week|||378|||||||4-wide|Yes|Digital|53214|Topcon 50DX
+1411|177|104 week|||723|||||||4-wide|Yes|Digital|63347|Topcon 50DX
+124|357|Baseline|||0|||4-wide|Yes|||||Digital|39518|Topcon 50DX
+788|357|52 week|||371|||4-wide|Yes|||||Digital|51989|Topcon 50DX
+1370|357|104 week|||728|||4-wide|Yes|||||Digital|62694|Topcon 50DX
+647|252|Baseline|||0|||4-wide|Yes|||||Digital|47439|Topcon 50DX
+1239|252|52 week|||357|||4-wide|Yes|||||Digital|59164|Topcon 50DX
+1836|252|104 week|||744|||4-wide|Yes|||||Digital|69621|Topcon 50DX
+315|597|Baseline|||0|||7 fields|Yes|||||Digital|42176|Zeiss FF450-plus
+956|597|52 week|||364|||7 fields|Yes|||||Digital|54770|Zeiss FF450-plus
+1536|597|104 week|||728|||7 fields|No|||||Digital|64961|Zeiss FF450-plus
+457|322|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44251|Zeiss FF450-plus
+1098|322|52 week|||371|||7 fields|Yes|||||Digital|57012|Zeiss FF450-plus
+1658|322|104 week|||732|||7 fields|No|||||Digital|67402|Zeiss FF450-plus
+542|652|Baseline|||0|||7 fields|Yes|||||Digital|45837|Zeiss FF450-plus
+1165|652|52 week|||369|||7 fields|Yes|||||Digital|58165|Zeiss FF450-plus
+1722|652|104 week|||726|||7 fields|No|||||Digital|68259|Zeiss FF450-plus
+641|364|Baseline|||0|||7 fields|Yes|||||Digital|47336|Zeiss FF450-plus
+1256|364|52 week|||371|||7 fields|No|||||Digital|59412|Zeiss FF450-plus
+1811|364|104 week|||728|||7 fields|No|||||Digital|69159|Zeiss FF450-plus
+639|174|Baseline|||0|||7 fields|Yes|||||Digital|47334|Zeiss FF450-plus
+1243|174|52 week|||364|||7 fields|No|||||Digital|59232|Zeiss FF450-plus
+1812|174|104 week|||728|||7 fields|No|||||Digital|69164|Zeiss FF450-plus
+318|11|Baseline|||0|||||||7 fields|Yes|Digital|42220|Topcon 50IX
+966|11|52 week|||367|||||||7 fields|Yes|Digital|54968|Topcon 50IX
+1524|11|104 week|||721|||||||7 fields|Yes|Digital|64798|Topcon 50IX
+148|347|Baseline|||0|||7 fields|Yes|||||Digital|39844|Zeiss FF3
+789|347|52 week|||357|||7 fields|Yes|||||Digital|52006|Zeiss FF450-plus
+1388|347|104 week|||721|||7 fields|Yes|||||Digital|62970|Zeiss FF450-plus
+212|212|Baseline|||0|||7 fields|Yes|||||Digital|40845|Zeiss FF3
+843|212|52 week|||357|||7 fields|Yes|||||Digital|53093|Zeiss FF450-plus
+1433|212|104 week|||721|||7 fields|Yes|||||Digital|63776|Zeiss FF3
+175|572|Baseline|||0|||||||7 fields|Yes|Digital|40395|Zeiss FF3
+828|572|52 week|||364|||||||7 fields|Yes|Digital|52827|Zeiss FF3
+1429|572|104 week|||735|||||||7 fields|Yes|Digital|63742|Zeiss FF3
+192|527|Baseline|||0|||||||7 fields|Yes|Digital|40602|Zeiss FF3
+839|527|52 week|||364|||||||7 fields|Yes|Digital|53050|Zeiss FF3
+1419|527|104 week|||721|||||||7 fields|Yes|Digital|63555|Zeiss FF3
+220|406|Baseline|||0|||||||7 fields|Yes|Digital|40930|Zeiss FF3
+870|406|52 week|||366|||||||7 fields|Yes|Digital|53488|Zeiss FF3
+1468|406|104 week|||735|||||||7 fields|Yes|Digital|64168|Zeiss FF3
+232|162|Baseline|||0|||7 fields|Yes|||||Digital|41072|Zeiss FF3
+887|162|52 week|||370|||7 fields|Yes|||||Digital|53735|Zeiss FF3
+1453|162|104 week|||725|||7 fields|Yes|||||Digital|63982|Zeiss FF3
+257|443|Baseline|||0|||||||7 fields|Yes|Digital|41383|Zeiss FF3
+899|443|52 week|||364|||||||7 fields|Yes|Digital|53863|Zeiss FF3
+1495|443|104 week|||730|||||||7 fields|Yes|Digital|64424|Zeiss FF3
+278|635|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41595|Zeiss FF3
+925|635|52 week|||366|||7 fields|Yes|||||Digital|54225|Zeiss FF3
+1485|635|104 week|||721|||7 fields|Yes|||||Digital|64356|Zeiss FF3
+277|37|Baseline|||0|||||||7 fields|Yes|Digital|41594|Zeiss FF3
+917|37|52 week|||364|||||||7 fields|Yes|Digital|54113|Zeiss FF3
+1503|37|104 week|||728|||||||7 fields|Yes|Digital|64520|Zeiss FF3
+279|215|Baseline|||0|||7 fields|Yes|||||Digital|41596|Zeiss FF450-plus
+932|215|52 week|||371|||7 fields|Yes|||||Digital|54337|Zeiss FF3
+1515|215|104 week|||735|||7 fields|Yes|||||Digital|64661|Zeiss FF3
+342|309|Baseline|||0|||7 fields|Yes|||||Digital|42502|Zeiss FF3
+987|309|52 week|||371|||7 fields|Yes|||||Digital|55375|Zeiss FF3
+345|175|Baseline|||0|||7 fields|Yes|||||Digital|42548|Zeiss FF450-plus
+977|175|52 week|||364|||7 fields|Yes|||||Digital|55177|Zeiss FF450-plus
+1549|175|104 week|||721|||7 fields|Yes|||||Digital|65079|Zeiss FF3
+20|199|Baseline|||0|||4-wide|Yes|||||Digital|37621|Zeiss FF450
+679|199|52 week|||364|||4-wide|Yes|||||Digital|48991|Zeiss FF450
+359|566|Baseline|||-3|||4-wide|Yes|||||Digital|42824|Zeiss FF450
+1003|566|52 week|||371|||4-wide|Yes|||||Digital|55732|Zeiss FF450
+1573|566|104 week|||728|||4-wide|Yes|||||Digital|65420|Zeiss FF450
+444|664|Baseline|||0|||7 fields|Yes|||||Digital|44087|Topcon 50DX
+1144|664|52 week|||401|||7 fields|No|||||Digital|57774|Topcon 50DX
+1637|664|104 week|||724|||7 fields|Yes|||||Digital|67193|Topcon 50DX
+488|325|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44759|Topcon 50DX
+1106|325|52 week|||362|||||||7 fields|Yes|Digital|57148|Topcon 50DX
+1686|325|104 week|||733|||||||7 fields|Yes|Digital|67811|Topcon 50DX
+502|14|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45025|Topcon 50DX
+513|92|Baseline|||0|||7 fields|Yes|||||Digital|45201|Topcon 50DX
+1131|92|52 week|||363|||7 fields|No|||||Digital|57523|Topcon 50DX
+1708|92|104 week|||734|||7 fields|Yes|||||Digital|68083|Topcon 50DX
+660|118|Baseline|||-7|||7 fields|Yes|||7 fields|Yes|Digital|47895|Topcon 50DX
+1277|118|52 week|||368|||7 fields|Yes|||||Digital|59751|Topcon 50DX
+1837|118|104 week|||735|||7 fields|Yes|||||Digital|69640|Topcon 50DX
+417|392|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|43706|Topcon 50EX
+1039|392|52 week|||364|||||||4-wide|Yes|Digital|56289|Topcon 50EX
+1631|392|104 week|||735|||||||4-wide|Yes|Digital|67148|Topcon 50EX
+466|388|Baseline|||0|||4-wide|Yes|||||Digital|44419|Topcon 50EX
+1104|388|52 week|||371|||4-wide|Yes|||||Digital|57110|Topcon 50EX
+1659|388|104 week|||727|||4-wide|Yes|||||Digital|67414|Topcon 50EX
+606|275|Baseline|||0|||4-wide|Yes|||||Digital|46793|Topcon 50EX
+1214|275|52 week|||363|||4-wide|Yes|||||Digital|58813|Topcon 50EX
+1838|275|104 week|||784|||4-wide|Yes|||||Digital|70038|Topcon 50EX
+616|122|Baseline|||0|||4-wide|Yes|||||Digital|46933|Topcon 50EX
+1226|122|52 week|||365|||4-wide|Yes|||||Digital|59014|Topcon 50EX
+1791|122|104 week|||729|||4-wide|Yes|||||Digital|69002|Topcon 50EX
+637|189|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|47286|Topcon 50EX
+1233|189|52 week|||359|||||||4-wide|Yes|Digital|59073|Topcon 50EX
+1831|189|104 week|||747|||||||4-wide|Yes|Digital|69517|Topcon 50EX
+91|634|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38860|Topcon 50IA
+240|131|Baseline|||0|||||||7 fields|Yes|Digital|41188|Topcon 50IA
+903|131|52 week|||372|||||||7 fields|Yes|Digital|53922|Topcon 50IA
+1457|131|104 week|||721|||||||7 fields|Yes|Digital|64034|Topcon 50IA
+373|230|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43058|Topcon 50IA
+1014|230|52 week|||369|||||||7 fields|Yes|Digital|55849|Topcon 50IA
+1599|230|104 week|||735|||||||7 fields|Yes|Digital|65723|Topcon 50IA
+1|504|Baseline|||0|||4-wide|Yes|||||Digital|36893|Zeiss FF450-plus
+661|504|52 week|||366|||4-wide|Yes|||||Digital|47896|Zeiss FF450-plus
+1276|504|104 week|||734|||4-wide|Yes|||||Digital|59721|Zeiss FF450-plus
+60|819|Baseline|||0|||4-wide|Yes|||||Digital|38309|Zeiss FF450-plus
+712|819|52 week|||365|||4-wide|Yes|||||Digital|50126|Zeiss FF450-plus
+1442|819|104 week|||825|||4-wide|Yes|||||Digital|63853|Zeiss FF450-plus
+159|138|Baseline|||-2|||||||4-wide|Yes|Digital|40016|Zeiss FF450-plus
+807|138|52 week|||368|||||||4-wide|Yes|Digital|52412|Zeiss FF450-plus
+1400|138|104 week|||725|||||||4-wide|Yes|Digital|63106|Zeiss FF450-plus
+273|435|Baseline|||0|||||||4-wide|Yes|Digital|41551|Zeiss FF450-plus
+909|435|52 week|||363|||||||4-wide|Yes|Digital|54002|Zeiss FF450-plus
+1511|435|104 week|||732|||||||4-wide|Yes|Digital|64608|Zeiss FF450-plus
+291|764|Baseline|||0|||||||4-wide|Yes|Digital|41781|Zeiss FF450-plus
+627|153|Baseline|||0|1|Other|||||4-wide|Yes|Digital|47180|Zeiss FF450-plus
+1244|153|52 week|||366|||||||4-wide|Yes|Digital|59248|Zeiss FF450-plus
+387|256|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|43276|Zeiss FF450-plus
+1017|256|52 week|||364|||||||4-wide|Yes|Digital|55894|Zeiss FF450-plus
+1585|256|104 week|||722|||||||7 fields|Yes|Digital|65567|Zeiss FF450
+430|249|Baseline|||0|||4-wide|Yes|||||Digital|43888|Zeiss FF450-plus
+1060|249|52 week|||366|||4-wide|Yes|||||Digital|56532|Zeiss FF450-plus
+1639|249|104 week|||730|||4-wide|Yes|||||Digital|67204|Zeiss FF450-plus
+448|582|Baseline|||0|||4-wide|Yes|1|Other|||Digital|44153|Zeiss FF450-plus
+1075|582|52 week|||366|||4-wide|Yes|||||Digital|56785|Zeiss FF450-plus
+1677|582|104 week|||744|||4-wide|Yes|||||Digital|67663|Zeiss FF450-plus
+447|89|Baseline|||0|||||||4-wide|Yes|Digital|44140|Zeiss FF450-plus
+1083|89|52 week|||371|||||||4-wide|Yes|Digital|56901|Zeiss FF450-plus
+1662|89|104 week|||735|||||||4-wide|Yes|Digital|67445|Zeiss FF450-plus
+558|786|Baseline|||0|||||||4-wide|Yes|Digital|46098|Zeiss FF450-plus
+595|329|Baseline|||0|||4-wide|Yes|1|Other|||Digital|46647|Zeiss FF450-plus
+1221|329|52 week|||371|||4-wide|Yes|||||Digital|58956|Zeiss FF450-plus
+1785|329|104 week|||735|||4-wide|Yes|||||Digital|68950|Zeiss FF450-plus
+608|609|Baseline|||0|||||||4-wide|Yes|Digital|46803|Zeiss FF450-plus
+1206|609|52 week|||362|||||||4-wide|Yes|Digital|58722|Zeiss FF450-plus
+1768|609|104 week|||726|||||||4-wide|Yes|Digital|68770|Zeiss FF450-plus
+657|647|Baseline|||-14|||||||4-wide|Yes|Digital|47597|Topcon 50EX
+1267|647|52 week|||368|||||||4-wide|Yes|Digital|59532|Zeiss FF450-plus
+1825|647|104 week|||732|||||||4-wide|Yes|Digital|69372|Zeiss FF450-plus
+614|501|Baseline|||0|||||||4-wide|Yes|Digital|46905|Zeiss FF450-plus
+1257|501|52 week|||380|||||||4-wide|Yes|Digital|59417|Zeiss FF450-plus
+1833|501|104 week|||758|||||||4-wide|Yes|Digital|69596|Zeiss FF450-plus
+188|263|Baseline|||-5|||7 fields|Yes|||7 fields|Yes|Digital|40570|Zeiss FF450-plus
+849|263|52 week|||371|||||||7 fields|Yes|Digital|53206|Zeiss FF450-plus
+1437|263|104 week|||734|||||||7 fields|Yes|Digital|63823|Zeiss FF450-plus
+213|63|Baseline|||0|||7 fields|Yes|||||Digital|40868|Zeiss FF450-plus
+877|63|52 week|||371|||7 fields|Yes|||||Digital|53558|Zeiss FF450-plus
+1452|63|104 week|||729|||7 fields|Yes|||||Digital|63976|Zeiss FF450-plus
+234|703|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41137|Zeiss FF450-plus
+895|703|52 week|||370|||7 fields|Yes|||||Digital|53808|Zeiss FF450-plus
+1510|703|104 week|||745|||7 fields|Yes|||||Digital|64594|Zeiss FF450-plus
+394|91|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43369|Zeiss FF450-plus
+1031|91|52 week|||371|||7 fields|Yes|||||Digital|56185|Zeiss FF450-plus
+1591|91|104 week|||721|||7 fields|Yes|||||Digital|65618|Zeiss FF450-plus
+411|6|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43629|Zeiss FF450-plus
+1046|6|52 week|||366|||||||7 fields|Yes|Digital|56336|Zeiss FF450-plus
+1622|6|104 week|||730|||||||7 fields|Yes|Digital|67027|Zeiss FF450-plus
+422|699|Baseline|||0|||7 fields|Yes|||||Digital|43762|Zeiss FF450-plus
+1056|699|52 week|||369|||7 fields|Yes|||||Digital|56467|Zeiss FF450-plus
+1614|699|104 week|||726|||7 fields|Yes|||||Digital|65970|Zeiss FF450-plus
+472|628|Baseline|||0|||||||7 fields|Yes|Digital|44474|Zeiss FF450-plus
+1093|628|52 week|||364|||||||7 fields|Yes|Digital|56979|Zeiss FF450-plus
+1674|628|104 week|||734|||||||7 fields|Yes|Digital|67599|Zeiss FF450-plus
+514|533|Baseline|||0|||7 fields|Yes|||||Digital|45225|Zeiss FF450-plus
+1141|533|52 week|||369|||7 fields|Yes|||||Digital|57705|Zeiss FF450-plus
+1728|533|104 week|||742|||7 fields|Yes|||||Digital|68299|Zeiss FF450-plus
+551|339|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46035|Zeiss FF450-plus
+1196|339|52 week|||373|||||||7 fields|Yes|Digital|58542|Zeiss FF450-plus
+1743|339|104 week|||729|||||||7 fields|Yes|Digital|68493|Zeiss FF450-plus
+572|367|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46302|Zeiss FF450-plus
+1209|367|52 week|||372|||||||7 fields|Yes|Digital|58755|Zeiss FF450-plus
+1751|367|104 week|||723|||||||7 fields|Yes|Digital|68546|Zeiss FF450-plus
+593|751|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46599|Zeiss FF450-plus
+1205|751|52 week|||364|||7 fields|Yes|||||Digital|58705|Zeiss FF450-plus
+1767|751|104 week|||724|||7 fields|Yes|||||Digital|68762|Zeiss FF450-plus
+648|44|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47452|Zeiss FF450-plus
+1269|44|52 week|||371|||||||7 fields|Yes|Digital|59562|Zeiss FF450-plus
+1804|44|104 week|||721|||||||7 fields|Yes|Digital|69106|Zeiss FF450-plus
+68|236|Baseline|||-9|||||||7 fields|Yes|Digital|38468|Zeiss FF450
+722|236|52 week|||369|||||||7 fields|Yes|Digital|50450|Zeiss FF450
+1328|236|104 week|1|Other|||||||||||61700|
+117|299|Baseline|||0|||7 fields|Yes|||||Digital|39412|Zeiss FF450
+756|299|52 week|||361|||7 fields|Yes|||||Digital|51351|Zeiss FF450
+1362|299|104 week|||728|||7 fields|Yes|||||Digital|62563|Zeiss FF450
+136|456|Baseline|||0|||||||7 fields|Yes|Digital|39663|Zeiss FF450
+785|456|52 week|||364|||||||7 fields|Yes|Digital|51920|Zeiss FF450
+1393|456|104 week|||731|||||||7 fields|Yes|Digital|63021|Zeiss FF450
+211|237|Baseline|||-3|||||||7 fields|Yes|Digital|40844|Zeiss FF450-plus
+855|237|52 week|||364|||||||7 fields|Yes|Digital|53304|Zeiss FF450
+1462|237|104 week|||735|||||||7 fields|Yes|Digital|64075|Zeiss FF450
+247|812|Baseline|||0|||||||7 fields|Yes|Digital|41273|Zeiss FF450-plus
+890|812|52 week|||364|||||||7 fields|Yes|Digital|53775|Zeiss FF450
+1478|812|104 week|||728|||||||7 fields|Yes|Digital|64280|Zeiss FF450
+518|457|Baseline|||0|||||||7 fields|Yes|Digital|45287|Zeiss FF450
+1137|457|52 week|||364|||||||7 fields|Yes|Digital|57648|Zeiss FF450
+1703|457|104 week|||728|||||||7 fields|Yes|Digital|68014|Zeiss FF450
+574|140|Baseline|||0|1|Other|||||7 fields|Yes|Digital|46359|Zeiss FF450
+1189|140|52 week|||364|||||||7 fields|Yes|Digital|58478|Zeiss FF450
+1771|140|104 week|||735|||||||7 fields|Yes|Digital|68787|Zeiss FF450
+19|158|Baseline|||-8|||||||7 fields|Yes|Digital|37583|Zeiss FF4
+697|158|52 week|||382|||||||7 fields|Yes|Digital|49547|Zeiss FF4
+1291|158|104 week|||728|||||||7 fields|Yes|Digital|60486|Zeiss FF4
+72|491|Baseline|||0|||||||7 fields|Yes|Digital|38611|Zeiss FF4
+739|491|52 week|||371|||||||7 fields|Yes|Digital|50805|Zeiss FF4
+1336|491|104 week|||735|||||||7 fields|Yes|Digital|61943|Zeiss FF4
+113|735|Baseline|||0|||7 fields|Yes|||||Digital|39382|Zeiss FF4
+775|735|52 week|||370|||7 fields|Yes|||||Digital|51731|Zeiss FF4
+1373|735|104 week|||734|||7 fields|Yes|||||Digital|62715|Zeiss FF4
+146|307|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39795|Zeiss FF4
+790|307|52 week|||363|||||||7 fields|Yes|Digital|52013|Zeiss FF4
+1386|307|104 week|||727|||||||7 fields|Yes|Digital|62957|Zeiss FF4
+319|126|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42269|Zeiss FF4
+961|126|52 week|||364|||||||7 fields|Yes|Digital|54880|Zeiss FF4
+1528|126|104 week|||721|||||||7 fields|Yes|Digital|64845|Zeiss FF4
+320|242|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42274|Zeiss FF4
+943|242|52 week|||357|||7 fields|Yes|||||Digital|54627|Zeiss FF4
+1529|242|104 week|||721|||7 fields|Yes|||||Digital|64859|Zeiss FF4
+486|668|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44728|Zeiss FF4
+1121|668|52 week|||370|||7 fields|Yes|||||Digital|57354|Zeiss FF4
+1688|668|104 week|||734|||7 fields|Yes|||||Digital|67815|Zeiss FF4
+539|516|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45803|Zeiss FF4
+1154|516|52 week|||363|||||||7 fields|Yes|Digital|57988|Zeiss FF4
+1735|516|104 week|||734|||||||7 fields|Yes|Digital|68431|Zeiss FF4
+561|24|Baseline|||0|||7 fields|Yes|||||Digital|46122|Zeiss FF4
+1193|24|52 week|||371|||7 fields|Yes|||||Digital|58528|Zeiss FF4
+1733|24|104 week|||721|||7 fields|Yes|||||Digital|68400|Zeiss FF4
+451|839|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44198|Zeiss FF450-plus
+1071|839|52 week|||364|||||||7 fields|Yes|Digital|56730|Zeiss FF450-plus
+1652|839|104 week|||729|||||||7 fields|Yes|Digital|67351|Zeiss FF450-plus
+40|196|Baseline|||0|||7 fields|Yes|||||Digital|38031|Zeiss FF4
+693|196|52 week|||357|||7 fields|Yes|||||Digital|49409|Zeiss FF4
+1324|196|104 week|||749|||7 fields|Yes|||||Digital|61628|Zeiss FF4
+43|127|Baseline|||0|||||||7 fields|Yes|Digital|38060|Zeiss FF4
+708|127|52 week|||371|||||||7 fields|Yes|Digital|49964|Zeiss FF4
+1321|127|104 week|||743|||||||7 fields|Yes|Digital|61508|Zeiss FF4
+47|627|Baseline|||0|||||||7 fields|Yes|Digital|38188|Zeiss FF4
+713|627|52 week|||371|||||||7 fields|Yes|Digital|50134|Zeiss FF4
+1340|627|104 week|1|Other|||||||||||62064|
+48|497|Baseline|||0|||||||7 fields|Yes|Digital|38192|Zeiss FF4
+714|497|52 week|||371|||||||7 fields|Yes|Digital|50156|Zeiss FF4
+1313|497|104 week|||731|||||||7 fields|Yes|Digital|61283|Zeiss FF4
+137|513|Baseline|||0|||||||7 fields|Yes|Digital|39671|Zeiss FF4
+780|513|52 week|||359|||||||7 fields|Yes|Digital|51761|Zeiss FF4
+1390|513|104 week|||730|||||||7 fields|Yes|Digital|62988|Zeiss FF4
+195|165|Baseline|||0|||7 fields|Yes|||||Digital|40637|Zeiss FF4
+912|165|52 week|||396|||7 fields|Yes|||||Digital|54015|Zeiss FF4
+1509|165|104 week|||763|||7 fields|Yes|||||Digital|64578|Zeiss FF4
+201|818|Baseline|||0|||||||7 fields|Yes|Digital|40756|Zeiss FF4
+824|818|52 week|1|No View|||||||||||52806|
+1454|818|104 week|||735|||||||7 fields|Yes|Digital|63983|Zeiss FF4
+376|169|Baseline|||0|||7 fields|Yes|||||Digital|43099|Zeiss FF4
+1007|169|52 week|||364|||7 fields|Yes|||||Digital|55763|Zeiss FF4
+1588|169|104 week|||728|||7 fields|Yes|||||Digital|65603|Zeiss FF4
+382|632|Baseline|||0|||||||7 fields|Yes|Digital|43172|Zeiss FF4
+1047|632|52 week|||380|||||||7 fields|Yes|Digital|56338|Zeiss FF4
+1634|632|104 week|||751|||||||7 fields|Yes|Digital|67184|Zeiss FF4
+388|265|Baseline|||0|||7 fields|Yes|||||Digital|43295|Zeiss FF4
+390|633|Baseline|||0|||7 fields|Yes|||||Digital|43335|Zeiss FF4
+1030|633|52 week|||371|||7 fields|Yes|||||Digital|56163|Zeiss FF4
+1602|633|104 week|||731|||7 fields|Yes|||||Digital|65754|Zeiss FF4
+477|429|Baseline|||0|||||||7 fields|Yes|Digital|44558|Zeiss FF4
+1166|429|52 week|||404|||||||7 fields|Yes|Digital|58168|Zeiss FF4
+1715|429|104 week|||756|||||||7 fields|Yes|Digital|68157|Zeiss FF4
+559|166|Baseline|||0|||7 fields|Yes|||||Digital|46104|Zeiss FF4
+1192|166|52 week|||371|||7 fields|Yes|||||Digital|58513|Zeiss FF4
+1779|166|104 week|||745|||7 fields|Yes|||||Digital|68894|Zeiss FF4
+613|151|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46901|Zeiss FF4
+1219|151|52 week|||364|||7 fields|Yes|||||Digital|58938|Zeiss FF4
+1794|151|104 week|||730|||7 fields|Yes|||||Digital|69010|Zeiss FF4
+618|428|Baseline|||0|||||||7 fields|Yes|Digital|46978|Zeiss FF4
+1242|428|52 week|||371|||||||7 fields|Yes|Digital|59211|Zeiss FF4
+1817|428|104 week|||742|||||||7 fields|Yes|Digital|69276|Zeiss FF4
+619|836|Baseline|||0|||||||7 fields|Yes|Digital|46999|Zeiss FF4
+1227|836|52 week|||364|||||||7 fields|Yes|Digital|59022|Zeiss FF4
+1784|836|104 week|||726|||||||7 fields|Yes|Digital|68938|Zeiss FF4
+621|257|Baseline|||0|||||||7 fields|Yes|Digital|47046|Zeiss FF4
+1259|257|52 week|||378|||||||7 fields|Yes|Digital|59445|Zeiss FF4
+1774|257|104 week|||719|||||||7 fields|Yes|Digital|68827|Zeiss FF4
+636|584|Baseline|||0|||7 fields|Yes|||||Digital|47284|Zeiss FF4
+1250|584|52 week|||370|||7 fields|Yes|||||Digital|59329|Zeiss FF4
+1822|584|104 week|||737|||7 fields|Yes|||||Digital|69330|Zeiss FF4
+328|486|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|42343|Topcon 50IX
+964|486|52 week|||364|||||||4-wide|Yes|Digital|54956|Topcon 50IX
+1550|486|104 week|||728|||||||4-wide|Yes|Digital|65086|Topcon 50IX
+515|804|Baseline|||0|||||||4-wide|Yes|Digital|45244|Topcon 50IX
+1134|804|52 week|||364|||||||4-wide|Yes|Digital|57612|Topcon 50IX
+1834|804|104 week|||805|||||||4-wide|Yes|Digital|69613|Topcon 50IX
+63|109|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38389|Zeiss FF450
+122|620|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39492|Zeiss FF450
+768|620|52 week|||364|||||||7 fields|Yes|Digital|51651|Zeiss FF450
+153|726|Baseline|||-21|||7 fields|Yes|||7 fields|Yes|Digital|39913|Zeiss FF4
+826|726|52 week|||378|||||||7 fields|No|Digital|52818|Zeiss FF450
+1507|726|104 week|||784|||||||7 fields|Yes|Digital|64556|Zeiss FF450
+155|294|Baseline|||0|||||||7 fields|Yes|Digital|39927|Zeiss FF4
+812|294|52 week|||371|||||||7 fields|Yes|Digital|52492|Zeiss FF450
+1402|294|104 week|||728|||||||7 fields|Yes|Digital|63141|Zeiss FF450
+191|637|Baseline|||0|||7 fields|Yes|||||Digital|40591|Zeiss FF4
+836|637|52 week|||364|||7 fields|Yes|||||Digital|53022|Zeiss FF450
+1428|637|104 week|||728|||7 fields|Yes|||||Digital|63722|Zeiss FF450
+226|507|Baseline|||0|||7 fields|Yes|||||Digital|40968|Zeiss FF4
+884|507|52 week|||371|||7 fields|Yes|||||Digital|53674|Zeiss FF450
+282|328|Baseline|||0|||||||7 fields|Yes|Digital|41645|Zeiss FF4
+936|328|52 week|||371|||||||7 fields|Yes|Digital|54403|Zeiss FF450
+1506|328|104 week|||728|||||||7 fields|Yes|Digital|64555|Zeiss FF450
+364|380|Baseline|||0|||7 fields|Yes|||||Digital|42930|Zeiss FF4
+1013|380|52 week|||372|||7 fields|Yes|||||Digital|55841|Zeiss FF450
+1570|380|104 week|||722|||7 fields|Yes|||||Digital|65370|Zeiss FF450
+523|103|Baseline|||0|||||||7 fields|Yes|Digital|45381|Zeiss FF450
+1164|103|52 week|||378|||||||7 fields|Yes|Digital|58135|Zeiss FF450
+1712|103|104 week|||729|||||||7 fields|Yes|Digital|68110|Zeiss FF450
+615|806|Baseline|||0|||||||7 fields|Yes|Digital|46921|Zeiss FF4
+1223|806|52 week|||364|||||||7 fields|Yes|Digital|58961|Zeiss FF450
+1786|806|104 week|||728|||||||7 fields|Yes|Digital|68956|Zeiss FF450
+634|530|Baseline|||0|||7 fields|Yes|||||Digital|47279|Zeiss FF450
+1253|530|52 week|||371|||7 fields|Yes|||||Digital|59376|Zeiss FF450
+1787|530|104 week|||721|||7 fields|Yes|||||Digital|68974|Zeiss FF450
+46|156|Baseline|||-6|||7 fields|Yes|||||Digital|38162|Zeiss FF450-plus
+711|156|52 week|||370|||4-wide|Yes|||||Digital|50061|Zeiss FF450-plus
+1312|156|104 week|||740|||7 fields|Yes|||||Digital|61160|Zeiss FF450-plus
+42|76|Baseline|||0|||7 fields|Yes|||||Digital|38050|Zeiss FF450-plus
+702|76|52 week|||368|||4-wide|Yes|||||Digital|49773|Zeiss FF450-plus
+1311|76|104 week|||746|||7 fields|Yes|||||Digital|61159|Zeiss FF450-plus
+83|277|Baseline|||0|||7 fields|Yes|||||Digital|38760|Zeiss FF450-plus
+725|277|52 week|1|Other|||||||||||50529|
+1337|277|104 week|||728|||7 fields|Yes|||||Digital|61967|Zeiss FF450-plus
+104|68|Baseline|||0|||7 fields|Yes|||||Digital|39043|Zeiss FF450-plus
+753|68|52 week|||364|||7 fields|Yes|||||Digital|51239|Zeiss FF450-plus
+1357|68|104 week|||735|||7 fields|Yes|||||Digital|62443|Zeiss FF450-plus
+206|36|Baseline|||0|||||||7 fields|Yes|Digital|40802|Zeiss FF450-plus
+852|36|52 week|||364|||||||7 fields|Yes|Digital|53242|Zeiss FF450-plus
+305|548|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42058|Zeiss FF450-plus
+949|548|52 week|||365|||||||7 fields|Yes|Digital|54726|Zeiss FF450-plus
+1522|548|104 week|||722|||||||7 fields|Yes|Digital|64733|Zeiss FF450-plus
+374|387|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43063|Zeiss FF450-plus
+1004|387|52 week|||364|||||||7 fields|Yes|Digital|55734|Zeiss FF450-plus
+1598|387|104 week|||734|||||||7 fields|Yes|Digital|65713|Zeiss FF450-plus
+397|777|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43396|Zeiss FF450-plus
+1020|777|52 week|||364|||7 fields|Yes|||||Digital|56005|Zeiss FF450-plus
+1604|777|104 week|||728|||7 fields|Yes|||||Digital|65775|Zeiss FF450-plus
+543|828|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45843|Zeiss FF450-plus
+1167|828|52 week|||370|||7 fields|Yes|||||Digital|58194|Zeiss FF450-plus
+1764|828|104 week|||747|||7 fields|Yes|||||Digital|68677|Zeiss FF450-plus
+569|150|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46264|Zeiss FF450-plus
+1201|150|52 week|||371|||7 fields|Yes|||||Digital|58662|Zeiss FF450-plus
+1796|150|104 week|||748|||7 fields|Yes|||||Digital|69028|Zeiss FF450-plus
+584|554|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46483|Zeiss FF450-plus
+1260|554|52 week|||393|||7 fields|Yes|||||Digital|59457|Zeiss FF450-plus
+138|796|Baseline|||-1|||7 fields|Yes|||7 fields|Yes|Digital|39677|Topcon 50DX
+770|796|52 week|||357|||||||7 fields|Yes|Digital|51667|Topcon 50DX
+1396|796|104 week|||734|||||||7 fields|No|Digital|63048|Topcon 50DX
+186|432|Baseline|||0|||7 fields|Yes|||||Digital|40561|Topcon 50DX
+851|432|52 week|||371|||7 fields|Yes|||||Digital|53222|Topcon 50DX
+196|305|Baseline|||-2|||7 fields|Yes|||7 fields|Yes|Digital|40663|Topcon 50IX
+847|305|52 week|||368|||||||7 fields|Yes|Digital|53197|Topcon 50IX
+1423|305|104 week|||725|||||||7 fields|Yes|Digital|63690|Topcon 50IX
+216|373|Baseline|||-4|||||||7 fields|Yes|Digital|40901|Topcon 50IX
+242|557|Baseline|||0|||||||7 fields|Yes|Digital|41191|Topcon 50IX
+865|557|52 week|||357|||||||7 fields|Yes|Digital|53436|Topcon 50IX
+1482|557|104 week|||734|||||||7 fields|Yes|Digital|64335|Topcon 50IX
+311|171|Baseline|||-7|||7 fields|Yes|||||Digital|42115|Topcon 50EX
+952|171|52 week|||364|||7 fields|Yes|||||Digital|54734|Topcon 50DX
+1535|171|104 week|||728|||7 fields|Yes|||||Digital|64937|Topcon 50DX
+361|616|Baseline|||-4|||||||7 fields|Yes|Digital|42849|Topcon 50IX
+979|616|52 week|||357|||||||7 fields|Yes|Digital|55291|Topcon 50IX
+1716|616|104 week|||771|||||||7 fields|Yes|Digital|68166|Topcon 50IX
+424|519|Baseline|||-14|||7 fields|Yes|||||Digital|43789|Topcon 50IX
+1066|519|52 week|||375|||7 fields|Yes|||||Digital|56653|Topcon 50IX
+1664|519|104 week|||746|||7 fields|Yes|||||Digital|67453|Topcon 50IX
+217|184|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|40908|Zeiss FF4
+857|184|52 week|||363|||7 fields|Yes|||||Digital|53334|Zeiss FF4
+1470|184|104 week|||736|||7 fields|Yes|||||Digital|64193|Zeiss FF4
+276|234|Baseline|||0|||||||7 fields|Yes|Digital|41588|Zeiss FF4
+901|234|52 week|||358|||||||7 fields|Yes|Digital|53894|Zeiss FF4
+288|528|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41765|Zeiss FF4
+916|528|52 week|||358|||7 fields|Yes|||||Digital|54110|Zeiss FF4
+301|509|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42002|Zeiss FF4
+959|509|52 week|||370|||||||7 fields|Yes|Digital|54834|Zeiss FF4
+1530|509|104 week|||729|||||||7 fields|Yes|Digital|64894|Zeiss FF4
+409|225|Baseline|||0|1|Other|||||7 fields|Yes|Digital|43599|Zeiss FF4
+1082|225|52 week|||386|||||||7 fields|Yes|Digital|56892|Zeiss FF4
+1613|225|104 week|||729|||||||7 fields|Yes|Digital|65953|Zeiss FF4
+624|203|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47089|Zeiss FF4
+1265|203|52 week|||379|||||||7 fields|Yes|Digital|59518|Zeiss FF4
+1807|203|104 week|||730|||||||7 fields|Yes|Digital|69121|Zeiss FF450-plus
+377|727|Baseline|||0|||7 fields|Yes|||||Digital|43112|Topcon 50IX
+1010|727|52 week|||364|||7 fields|Yes|||||Digital|55780|Topcon 50IX
+1575|727|104 week|||721|||7 fields|Yes|||||Digital|65448|Topcon 50IX
+427|332|Baseline|||0|||7 fields|Yes|||||Digital|43818|Topcon 50IX
+1049|332|52 week|||363|||7 fields|Yes|||||Digital|56350|Topcon 50IX
+431|291|Baseline|||0|||||||7 fields|Yes|Digital|43904|Topcon 50IX
+1068|291|52 week|||371|||||||7 fields|Yes|Digital|56666|Topcon 50IX
+501|684|Baseline|||-4|||7 fields|Yes|||7 fields|Yes|Digital|45024|Topcon 50IX
+1113|684|52 week|||360|||7 fields|Yes|||||Digital|57274|Topcon 50IX
+1701|684|104 week|||734|||7 fields|Yes|||||Digital|67993|Topcon 50IX
+508|346|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45145|Topcon 50IX
+1129|346|52 week|||364|||||||7 fields|Yes|Digital|57505|Topcon 50IX
+1815|346|104 week|||791|||||||7 fields|Yes|Digital|69241|Topcon 50IX
+222|227|Baseline|||-7|||4-wide|Yes|||4-wide|Yes|Digital|40939|Topcon 50IX
+873|227|52 week|||367|||||||4-wide|Yes|Digital|53531|Topcon 50IX
+1451|227|104 week|||728|||||||4-wide|Yes|Digital|63973|Topcon 50IX
+352|767|Baseline|||-7|||4-wide|No|||4-wide|No|Digital|42688|Topcon 50IX
+986|767|52 week|||364|||||||4-wide|Yes|Digital|55342|Topcon 50IX
+1566|767|104 week|||728|||||||4-wide|Yes|Digital|65308|Topcon 50IX
+392|753|Baseline|||-3|||4-wide|No|||4-wide|No|Digital|43347|Topcon 50IX
+1023|753|52 week|||368|||||||4-wide|Yes|Digital|56031|Topcon 50IX
+1594|753|104 week|||725|||||||4-wide|Yes|Digital|65636|Topcon 50DX
+391|529|Baseline|||0|||4-wide|No|||4-wide|No|Digital|43345|Topcon 50IX
+1019|529|52 week|||364|||||||4-wide|Yes|Digital|55926|Topcon 50IX
+1593|529|104 week|||725|||||||4-wide|Yes|Digital|65627|Topcon 50DX
+575|248|Baseline|||-18|||4-wide|No|||4-wide|No|Digital|46387|Topcon 50IX
+1190|248|52 week|||364|||||||4-wide|Yes|Digital|58494|Topcon 50IX
+1770|248|104 week|||735|||||||4-wide|Yes|Digital|68775|Topcon 50IX
+14|567|Baseline|||0|||4-wide|Yes|||||Digital|37439|Zeiss FF450-plus
+676|567|52 week|||366|||4-wide|Yes|||||Digital|48874|Zeiss FF450-plus
+1292|567|104 week|||735|||7 fields|Yes|||||Digital|60533|Topcon 50DX
+11|79|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|37400|Zeiss FF450-plus
+674|79|52 week|||369|||4-wide|Yes|||||Digital|48848|Zeiss FF450-plus
+1293|79|104 week|||740|||4-wide|Yes|||||Digital|60605|Zeiss FF450-plus
+78|238|Baseline|||0|||4-wide|Yes|||||Digital|38685|Zeiss FF450-plus
+740|238|52 week|||369|||4-wide|Yes|||||Digital|50834|Zeiss FF450-plus
+1333|238|104 week|||731|||4-wide|Yes|||||Digital|61880|Zeiss FF450-plus
+121|295|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|39463|Zeiss FF450-plus
+765|295|52 week|||363|||4-wide|Yes|||||Digital|51586|Zeiss FF450-plus
+1378|295|104 week|||730|||4-wide|Yes|||||Digital|62761|Zeiss FF450-plus
+173|302|Baseline|||-1|||4-wide|Yes|||4-wide|Yes|Digital|40342|Zeiss FF450-plus
+822|302|52 week|||364|||||||4-wide|Yes|Digital|52754|Zeiss FF450-plus
+1443|302|104 week|||742|||||||4-wide|Yes|Digital|63856|Zeiss FF450-plus
+197|47|Baseline|||-7|||4-wide|Yes|||4-wide|Yes|Digital|40664|Zeiss FF450-plus
+844|47|52 week|1|Other|||||||||||53101|
+1518|47|104 week|||747|||4-wide|Yes|||||Digital|64697|Zeiss FF450-plus
+210|683|Baseline|||0|||||||4-wide|Yes|Digital|40836|Zeiss FF450-plus
+856|683|52 week|||368|||||||4-wide|Yes|Digital|53332|Zeiss FF450-plus
+1537|683|104 week|||774|||||||4-wide|No|Digital|64998|Zeiss FF450-plus
+225|33|Baseline|||0|||4-wide|Yes|||||Digital|40962|Zeiss FF450-plus
+889|33|52 week|||373|||4-wide|Yes|||||Digital|53767|Zeiss FF450-plus
+1519|33|104 week|||744|||4-wide|Yes|||||Digital|64698|Zeiss FF450-plus
+231|775|Baseline|||0|||4-wide|Yes|||||Digital|41052|Zeiss FF450-plus
+891|775|52 week|||371|||4-wide|Yes|||||Digital|53777|Zeiss FF450-plus
+1458|775|104 week|||726|||4-wide|Yes|||||Digital|64035|Zeiss FF450-plus
+306|351|Baseline|||0|||||||4-wide|Yes|Digital|42066|Zeiss FF450-plus
+962|351|52 week|1|Machine Malfunction|||||||||||54905|
+1542|351|104 week|||735|||||||4-wide|No|Digital|65053|Zeiss FF450-plus
+406|673|Baseline|||0|||4-wide|Yes|||||Digital|43549|Zeiss FF450-plus
+1038|673|52 week|||369|||4-wide|Yes|||||Digital|56273|Zeiss FF450-plus
+1600|673|104 week|||721|||4-wide|Yes|||||Digital|65725|Zeiss FF450-plus
+419|549|Baseline|||-2|||4-wide|Yes|||4-wide|Yes|Digital|43729|Zeiss FF450-plus
+1035|549|52 week|||362|||||||4-wide|No|Digital|56228|Zeiss FF450-plus
+1645|549|104 week|||740|||||||4-wide|Yes|Digital|67261|Zeiss FF450-plus
+421|750|Baseline|||0|||4-wide|No|||4-wide|No|Digital|43746|Zeiss FF450-plus
+1044|750|52 week|||364|||||||4-wide|Yes|Digital|56325|Zeiss FF450-plus
+1660|750|104 week|||747|||||||4-wide|Yes|Digital|67418|Zeiss FF450-plus
+446|383|Baseline|||-7|||||||4-wide|Yes|Digital|44115|Zeiss FF450-plus
+1074|383|52 week|1|Machine Malfunction|||||||||||56782|
+1646|383|104 week|||728|||||||4-wide|Yes|Digital|67289|Zeiss FF450-plus
+435|104|Baseline|||0|||||||4-wide|Yes|Digital|43979|Zeiss FF450-plus
+1065|104|52 week|||368|||||||4-wide|Yes|Digital|56607|Zeiss FF450-plus
+1621|104|104 week|||721|||||||4-wide|Yes|Digital|67026|Zeiss FF450-plus
+479|350|Baseline|||0|||4-wide|Yes|||||Digital|44577|Zeiss FF450-plus
+1097|350|52 week|||360|||4-wide|Yes|||||Digital|57009|Zeiss FF450-plus
+1672|350|104 week|||729|||4-wide|Yes|||||Digital|67582|Zeiss FF450-plus
+516|56|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|45252|Zeiss FF450-plus
+530|289|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|45585|Zeiss FF450-plus
+1158|289|52 week|||371|||4-wide|Yes|||||Digital|58069|Zeiss FF450-plus
+1719|289|104 week|||729|||4-wide|Yes|||||Digital|68212|Zeiss FF450-plus
+62|769|Baseline|||0|||||||7 fields|Yes|Digital|38374|Topcon 50EX
+718|769|52 week|||361|||||||7 fields|Yes|Digital|50255|Topcon 50EX
+1331|769|104 week|||755|||||||7 fields|Yes|Digital|61794|Topcon 50EX
+93|536|Baseline|||0|||||||7 fields|Yes|Digital|38877|Topcon 50EX
+763|536|52 week|||384|||||||7 fields|Yes|Digital|51529|Topcon 50EX
+1347|536|104 week|||753|||||||7 fields|Yes|Digital|62248|Topcon 50EX
+134|77|Baseline|||0|||||||7 fields|Yes|Digital|39623|Topcon 50EX
+784|77|52 week|||364|||||||7 fields|Yes|Digital|51885|Topcon 50EX
+1366|77|104 week|||735|||||||7 fields|Yes|Digital|62627|Topcon 50EX
+143|297|Baseline|||0|||7 fields|Yes|||||Digital|39757|Topcon 50EX
+786|297|52 week|||350|||7 fields|Yes|||||Digital|51934|Topcon 50EX
+1385|297|104 week|||728|||7 fields|Yes|||||Digital|62922|Topcon 50EX
+314|521|Baseline|||-16|||||||7 fields|Yes|Digital|42162|Zeiss FF4
+316|267|Baseline|||0|||7 fields|Yes|||||Digital|42182|Zeiss FF4
+965|267|52 week|||370|||7 fields|Yes|||||Digital|54967|Zeiss FF4
+425|734|Baseline|||-2|||7 fields|Yes|||||Digital|43796|Zeiss FF4
+1051|734|52 week|1|Machine Malfunction|||||||||||56369|
+1625|734|104 week|||728|||7 fields|Yes|||||Digital|67052|Zeiss FF4
+462|585|Baseline|||-4|||||||7 fields|Yes|Digital|44305|Zeiss FF4
+1099|585|52 week|||370|||||||7 fields|Yes|Digital|57018|Zeiss FF4
+1656|585|104 week|||728|||||||7 fields|Yes|Digital|67374|Zeiss FF4
+500|454|Baseline|||-3|||||||7 fields|Yes|Digital|44994|Zeiss FF4
+1122|454|52 week|||364|||||||7 fields|Yes|Digital|57397|Zeiss FF4
+1679|454|104 week|||721|||||||7 fields|Yes|Digital|67676|Zeiss FF4
+256|594|Baseline|||-6|||7 fields|Yes|||7 fields|Yes|Digital|41362|Topcon 50DX
+881|594|52 week|||350|||7 fields|Yes|||||Digital|53633|Topcon 50DX
+1484|594|104 week|||723|||7 fields|Yes|||||Digital|64348|Topcon 50DX
+347|296|Baseline|||-9|||||||7 fields|Yes|Digital|42615|Topcon 50DX
+969|296|52 week|||355|||||||7 fields|Yes|Digital|55014|Topcon 50DX
+1545|296|104 week|||712|||||||7 fields|Yes|Digital|65070|Topcon 50DX
+372|442|Baseline|||-2|||||||7 fields|Yes|Digital|43050|Topcon 50DX
+999|442|52 week|||355|||||||7 fields|Yes|Digital|55575|Topcon 50DX
+1595|442|104 week|||727|||||||7 fields|Yes|Digital|65641|Topcon 50DX
+30|366|Baseline|||0|||||||7 fields|Yes|Digital|37760|Topcon 50DX
+677|366|52 week|||357|||||||7 fields|Yes|Digital|48950|Topcon 50DX
+1297|366|104 week|||727|||||||7 fields|Yes|Digital|60661|Topcon 50DX
+69|301|Baseline|||0|||7 fields|Yes|||||Digital|38534|Topcon 50DX
+730|301|52 week|||368|||7 fields|Yes|||||Digital|50670|Topcon 50DX
+1330|301|104 week|||730|||7 fields|Yes|||||Digital|61750|Topcon 50DX
+99|102|Baseline|||0|||7 fields|Yes|||||Digital|38998|Topcon 50DX
+755|102|52 week|||371|||7 fields|Yes|||||Digital|51335|Topcon 50DX
+1350|102|104 week|||725|||7 fields|Yes|||||Digital|62292|Topcon 50DX
+436|773|Baseline|||0|||||||7 fields|Yes|Digital|43995|Topcon 50DX
+1057|773|52 week|||363|||||||7 fields|Yes|Digital|56486|Topcon 50DX
+1641|773|104 week|||729|||||||7 fields|Yes|Digital|67217|Topcon 50DX
+37|270|Baseline|||0|||7 fields|Yes|||||Digital|37944|Topcon 50DX
+698|270|52 week|||366|||7 fields|Yes|||||Digital|49650|Topcon 50DX
+1307|270|104 week|||730|||7 fields|Yes|||||Digital|61035|Topcon 50DX
+107|577|Baseline|1|Machine Malfunction|||||||||||39267|
+814|577|52 week|||401|||7 fields|Yes|||||Digital|52553|Topcon 50DX
+111|575|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39359|Topcon 50EX
+787|575|52 week|||376|||7 fields|Yes|||||Digital|51962|Topcon 50EX
+1379|575|104 week|||736|||7 fields|Yes|||||Digital|62807|Topcon 50IX
+135|811|Baseline|||0|||7 fields|Yes|||||Digital|39661|Topcon 50DX
+778|811|52 week|1|Other|||||||||||51745|
+1374|811|104 week|||723|||7 fields|Yes|||||Digital|62728|Topcon 50DX
+15|846|Baseline|||0|||||||7 fields|Yes|Digital|37457|Topcon 50EX
+672|846|52 week|||364|||||||7 fields|Yes|Digital|48769|Topcon 50EX
+1294|846|104 week|||736|||||||7 fields|Yes|Digital|60606|Topcon 50EX
+25|679|Baseline|||0|||||||7 fields|Yes|Digital|37700|Topcon 50EX
+683|679|52 week|||364|||||||7 fields|Yes|Digital|49092|Topcon 50EX
+1346|679|104 week|||784|||||||7 fields|Yes|Digital|62215|Topcon 50EX
+116|361|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39401|Topcon 50EX
+764|361|52 week|||364|||||||7 fields|Yes|Digital|51543|Topcon 50EX
+1363|361|104 week|||728|||||||7 fields|Yes|Digital|62564|Topcon 50EX
+160|106|Baseline|||0|||||||7 fields|Yes|Digital|40133|Topcon 50EX
+809|106|52 week|||364|||||||7 fields|Yes|Digital|52481|Topcon 50EX
+1417|106|104 week|||735|||||||7 fields|Yes|Digital|63529|Topcon 50EX
+313|688|Baseline|||0|||7 fields|Yes|||||Digital|42161|Topcon 50EX
+289|58|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41766|Zeiss FF4
+935|58|52 week|||366|||7 fields|Yes|||||Digital|54395|Zeiss FF4
+1520|58|104 week|||730|||7 fields|Yes|||||Digital|64701|Zeiss FF4
+429|355|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43877|Zeiss FF4
+1036|355|52 week|||357|||||||7 fields|Yes|Digital|56240|Zeiss FF4
+1611|355|104 week|||721|||||||7 fields|Yes|Digital|65947|Zeiss FF4
+6|693|Baseline|||0|||7 fields|Yes|||||Digital|37110|Topcon 50IX
+664|693|52 week|||364|||7 fields|Yes|||||Digital|48184|Topcon 50IX
+1279|693|104 week|||728|||7 fields|Yes|||||Digital|59906|Topcon 50IX
+162|689|Baseline|||0|||7 fields|Yes|||||Digital|40167|Topcon 50IX
+830|689|52 week|||372|||7 fields|Yes|||||Digital|52864|Topcon 50IX
+1418|689|104 week|||735|||7 fields|Yes|||||Digital|63537|Topcon 50IX
+344|748|Baseline|||0|||7 fields|Yes|||||Digital|42541|Topcon 50IX
+985|748|52 week|||370|||7 fields|Yes|||||Digital|55334|Topcon 50IX
+1565|748|104 week|||734|||7 fields|Yes|||||Digital|65304|Topcon 50IX
+385|503|Baseline|||0|||||||7 fields|Yes|Digital|43228|Topcon 50IX
+1021|503|52 week|||370|||||||7 fields|Yes|Digital|56008|Topcon 50IX
+1596|503|104 week|||727|||||||7 fields|Yes|Digital|65642|Topcon 50IX
+432|205|Baseline|||0|||||||7 fields|Yes|Digital|43910|Topcon 50IX
+1042|205|52 week|||358|||||||7 fields|Yes|Digital|56314|Topcon 50IX
+1617|205|104 week|||723|||||||7 fields|Yes|Digital|67013|Topcon 50IX
+458|455|Baseline|1|Other|||||||||||44269|
+1079|455|52 week|||365|||||||7 fields|No|Digital|56829|Topcon 50EX
+485|190|Baseline|||0|||7 fields|No|||||Digital|44720|Topcon 50EX
+1114|190|52 week|||368|||7 fields|Yes|||||Digital|57275|Topcon 50EX
+1690|190|104 week|||735|||7 fields|Yes|||||Digital|67859|Topcon 50EX
+507|82|Baseline|||0|||||||7 fields|No|Digital|45142|Topcon 50EX
+1116|82|52 week|||357|||||||7 fields|Yes|Digital|57306|Topcon 50EX
+1692|82|104 week|||724|||||||7 fields|Yes|Digital|67871|Topcon 50EX
+571|155|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46295|Topcon 50EX
+1179|155|52 week|||359|||||||7 fields|Yes|Digital|58325|Topcon 50EX
+1739|155|104 week|||721|||||||7 fields|Yes|Digital|68469|Topcon 50EX
+590|790|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46566|Topcon 50EX
+1197|790|52 week|||362|||7 fields|Yes|||||Digital|58558|Topcon 50EX
+1765|790|104 week|||728|||7 fields|Yes|||||Digital|68711|Topcon 50EX
+494|700|Baseline|||0|||7 fields|Yes|||||Digital|44876|Topcon 50DX
+1118|700|52 week|||364|||7 fields|Yes|||||Digital|57310|Topcon 50DX
+1683|700|104 week|||728|||7 fields|Yes|||||Digital|67781|Topcon 50DX
+439|398|Baseline|||-8|||7 fields|Yes|||7 fields|Yes|Digital|44025|Topcon 50EX
+1095|398|52 week|1|Other|||||||||||56983|
+1640|398|104 week|||728|||||||7 fields|Yes|Digital|67216|Topcon 50EX
+437|269|Baseline|||-8|||7 fields|Yes|||7 fields|Yes|Digital|43998|Topcon 50EX
+1076|269|52 week|1|Other|||||||||||56800|
+1702|269|104 week|||763|||7 fields|No|||||Digital|68012|Topcon 50EX
+204|730|Baseline|||-1|||||||7 fields|Yes|Digital|40797|Zeiss FF450-plus
+858|730|52 week|||369|||||||7 fields|Yes|Digital|53338|Zeiss FF450-plus
+1578|730|104 week|||798|||||||7 fields|Yes|Digital|65498|Zeiss FF450-plus
+235|714|Baseline|||0|||||||7 fields|Yes|Digital|41140|Zeiss FF450-plus
+275|756|Baseline|||0|||7 fields|Yes|||||Digital|41585|Zeiss FF450-plus
+293|401|Baseline|||0|||||||7 fields|Yes|Digital|41869|Zeiss FF450-plus
+937|401|52 week|||364|||||||7 fields|Yes|Digital|54430|Zeiss FF450-plus
+1521|401|104 week|||728|||||||7 fields|Yes|Digital|64731|Zeiss FF450-plus
+303|772|Baseline|||0|||7 fields|Yes|||||Digital|42023|Zeiss FF450-plus
+960|772|52 week|||370|||7 fields|Yes|||||Digital|54835|Zeiss FF450-plus
+1525|772|104 week|||727|||7 fields|Yes|||||Digital|64804|Zeiss FF450-plus
+167|595|Baseline|||-6|||||||7 fields|Yes|Digital|40304|Zeiss FF4
+810|595|52 week|||358|||||||7 fields|Yes|Digital|52484|Zeiss FF4
+1440|595|104 week|||722|||||||7 fields|Yes|Digital|63835|Zeiss FF4
+284|477|Baseline|||0|||||||7 fields|Yes|Digital|41681|Zeiss FF4
+939|477|52 week|||371|||||||7 fields|Yes|Digital|54464|Zeiss FF4
+1523|477|104 week|||735|||||||7 fields|Yes|Digital|64763|Zeiss FF4
+401|163|Baseline|||0|||7 fields|Yes|1|Other|||Digital|43474|Zeiss FF4
+1026|163|52 week|||364|||7 fields|Yes|||||Digital|56062|Zeiss FF4
+1574|163|104 week|||712|||7 fields|Yes|||||Digital|65432|Zeiss FF4
+182|180|Baseline|||0|||7 fields|Yes|||||Digital|40480|Topcon 50EX
+821|180|52 week|||361|||7 fields|No|||||Digital|52746|Topcon 50EX
+1432|180|104 week|||734|||7 fields|Yes|||||Digital|63771|Topcon 50EX
+193|23|Baseline|||0|||7 fields|Yes|||||Digital|40622|Topcon 50EX
+819|23|52 week|||355|||7 fields|No|||||Digital|52723|Topcon 50EX
+1441|23|104 week|||733|||7 fields|Yes|||||Digital|63836|Topcon 50EX
+245|266|Baseline|||-7|||||||7 fields|Yes|Digital|41264|Topcon 50EX
+907|266|52 week|||370|||||||7 fields|Yes|Digital|53948|Topcon 50EX
+1487|266|104 week|||733|||||||7 fields|Yes|Digital|64360|Topcon 50EX
+241|214|Baseline|||0|||7 fields|Yes|||||Digital|41189|Topcon 50EX
+246|414|Baseline|||0|||7 fields|Yes|||||Digital|41268|Topcon 50EX
+886|414|52 week|||363|||7 fields|No|||||Digital|53728|Topcon 50EX
+1481|414|104 week|||732|||7 fields|Yes|||||Digital|64328|Topcon 50EX
+12|708|Baseline|||0|||7 fields|Yes|||||Digital|37432|Topcon 50EX
+673|708|52 week|||365|||7 fields|Yes|||||Digital|48788|Topcon 50EX
+1283|708|104 week|||721|||7 fields|Yes|||||Digital|60078|Topcon 50EX
+23|639|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|37652|Topcon 50EX
+688|639|52 week|||371|||||||7 fields|Yes|Digital|49275|Topcon 50EX
+1295|639|104 week|||729|||||||7 fields|Yes|Digital|60643|Topcon 50EX
+142|385|Baseline|||0|||7 fields|Yes|||||Digital|39732|Topcon 50EX
+772|385|52 week|||357|||7 fields|Yes|||||Digital|51712|Topcon 50EX
+1383|385|104 week|||726|||7 fields|Yes|||||Digital|62845|Topcon 50EX
+504|449|Baseline|||0|||7 fields|Yes|||||Digital|45060|Topcon 50EX
+1135|449|52 week|||367|||7 fields|Yes|||||Digital|57626|Topcon 50EX
+1697|449|104 week|||729|||7 fields|Yes|||||Digital|67927|Topcon 50EX
+546|374|Baseline|||0|||7 fields|Yes|||||Digital|45892|Topcon 50EX
+1161|374|52 week|||364|||7 fields|Yes|||||Digital|58093|Topcon 50EX
+1725|374|104 week|||723|||7 fields|Yes|||||Digital|68283|Topcon 50EX
+119|802|Baseline|||0|||||||7 fields|Yes|Digital|39445|Kowa VX-10 A
+766|802|52 week|||364|||||||7 fields|Yes|Digital|51614|Kowa VX-10 A
+1365|802|104 week|||728|||||||7 fields|Yes|Digital|62593|Kowa VX-10 A
+130|85|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39558|Kowa VX-10 A
+783|85|52 week|||368|||||||7 fields|Yes|Digital|51874|Kowa VX-10 A
+1376|85|104 week|||728|||||||7 fields|Yes|Digital|62750|Kowa VX-10 A
+151|754|Baseline|||0|||7 fields|Yes|||||Digital|39888|Kowa VX-10 A
+800|754|52 week|||370|||7 fields|Yes|||||Digital|52293|Kowa VX-10 A
+1422|754|104 week|||749|||7 fields|Yes|||||Digital|63614|Kowa VX-10 A
+157|784|Baseline|||0|||||||7 fields|Yes|Digital|39949|Kowa VX-10 A
+811|784|52 week|||370|||||||7 fields|Yes|Digital|52488|Kowa VX-10 A
+1407|784|104 week|||734|||||||7 fields|Yes|Digital|63283|Kowa VX-10 A
+164|310|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|40234|Kowa VX-10 A
+818|310|52 week|||367|||||||7 fields|Yes|Digital|52664|Kowa VX-10 A
+1415|310|104 week|||731|||||||7 fields|Yes|Digital|63438|Kowa VX-10 A
+471|623|Baseline|||0|||7 fields|Yes|||||Digital|44467|Kowa VX-10 A
+1092|623|52 week|||364|||7 fields|Yes|||||Digital|56978|Kowa VX-10 A
+1663|623|104 week|||727|||7 fields|Yes|||||Digital|67450|Kowa VX-10 A
+526|706|Baseline|||0|||4-wide|Yes|||||Digital|45452|Kowa VX-10i
+1145|706|52 week|||364|||4-wide|Yes|||||Digital|57791|Kowa VX-10i
+1814|706|104 week|||783|||4-wide|Yes|||||Digital|69231|Kowa VX-10i
+549|191|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|45968|Kowa VX-10i
+1176|191|52 week|||371|||||||4-wide|Yes|Digital|58315|Kowa VX-10i
+1734|191|104 week|||728|||||||4-wide|Yes|Digital|68412|Kowa VX-10i
+651|781|Baseline|||0|||7 fields|Yes|||||Digital|47493|Kowa VX-10 A
+1262|781|52 week|||369|||7 fields|Yes|||||Digital|59485|Kowa VX-10 A
+656|226|Baseline|||0|||7 fields|Yes|||||Digital|47581|Kowa VX-10 A
+1280|226|52 week|||384|||7 fields|Yes|||||Digital|59959|Kowa VX-10 A
+1821|226|104 week|||728|||7 fields|Yes|||||Digital|69307|Kowa VX-10 A
+511|799|Baseline|||-1|||7 fields|Yes|||||Digital|45165|Topcon 50DX
+465|397|Baseline|||-5|||7 fields|Yes|||7 fields|Yes|Digital|44381|Topcon 50DX
+1101|397|52 week|||366|||7 fields|Yes|||||Digital|57037|Topcon 50DX
+1650|397|104 week|||722|||7 fields|Yes|||||Digital|67318|Topcon 50DX
+538|404|Baseline|||-23|||7 fields|Yes|||7 fields|Yes|Digital|45784|Topcon 50DX
+1153|404|52 week|||363|||7 fields|Yes|||||Digital|57971|Topcon 50DX
+1772|404|104 week|||755|||7 fields|Yes|||||Digital|68803|Topcon 50DX
+628|658|Baseline|||-13|||7 fields|Yes|||7 fields|Yes|Digital|47186|Topcon 50DX
+1268|658|52 week|||378|||7 fields|Yes|||||Digital|59545|Topcon 50DX
+1835|658|104 week|1|No View|||||||||||69614|
+102|749|Baseline|||0|||||||4-wide|Yes|Digital|39036|Topcon 50EX
+754|749|52 week|||364|||||||4-wide|Yes|Digital|51246|Visucam NM/FA
+1358|749|104 week|||735|||||||4-wide|Yes|Digital|62449|Visucam NM/FA
+366|721|Baseline|||0|||4-wide|Yes|||||Digital|42962|Topcon 50IX
+989|721|52 week|||357|||4-wide|Yes|||||Digital|55404|Topcon 50IX
+1580|721|104 week|||728|||4-wide|Yes|||||Digital|65507|Topcon 50IX
+414|258|Baseline|||0|||||||4-wide|Yes|Digital|43674|Topcon 50IX
+1025|258|52 week|||357|||||||4-wide|Yes|Digital|56054|Topcon 50IX
+469|481|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|44434|Topcon 50IX
+1069|481|52 week|||357|||||||4-wide|Yes|Digital|56721|Topcon 50DX
+1651|481|104 week|||721|||||||4-wide|Yes|Digital|67320|Topcon 50IX
+547|396|Baseline|||0|||4-wide|Yes|||||Digital|45921|Topcon 50IX
+1155|396|52 week|||359|||4-wide|Yes|||||Digital|57996|Topcon 50DX
+1726|396|104 week|||727|||4-wide|Yes|||||Digital|68292|Topcon 50IX
+75|201|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38662|Zeiss FF450-plus
+745|201|52 week|||371|||||||7 fields|Yes|Digital|50884|Zeiss FF450-plus
+1339|201|104 week|1|Machine Malfunction|||||||||||62033|
+120|105|Baseline|||0|1|Other|||||7 fields|Yes|Digital|39448|Zeiss FF450-plus
+793|105|52 week|||375|||||||7 fields|Yes|Digital|52096|Zeiss FF450-plus
+1387|105|104 week|||737|||||||7 fields|Yes|Digital|62962|Zeiss FF450-plus
+96|1|Baseline|||-7|||7 fields|Yes|||||Digital|38919|Zeiss FF450-plus
+750|1|52 week|||371|||7 fields|Yes|||||Digital|51199|Zeiss FF450-plus
+92|86|Baseline|||0|||7 fields|Yes|||||Digital|38867|Zeiss FF450-plus
+743|86|52 week|||363|||7 fields|Yes|||||Digital|50868|Zeiss FF450-plus
+1341|86|104 week|||728|||7 fields|Yes|||||Digital|62073|Zeiss FF450-plus
+150|164|Baseline|||0|||||||7 fields|Yes|Digital|39866|Zeiss FF450-plus
+801|164|52 week|||371|||||||7 fields|Yes|Digital|52299|Zeiss FF450-plus
+1403|164|104 week|||734|||||||7 fields|Yes|Digital|63150|Canon SD Mark III
+152|290|Baseline|||0|||7 fields|Yes|||||Digital|39891|Zeiss FF450-plus
+802|290|52 week|||371|||7 fields|Yes|||||Digital|52308|Zeiss FF450-plus
+1413|290|104 week|||742|||7 fields|Yes|||||Digital|63390|Canon SD Mark III
+249|702|Baseline|||0|||7 fields|Yes|||||Digital|41281|Zeiss FF450-plus
+896|702|52 week|||367|||7 fields|Yes|||||Digital|53821|Zeiss FF450-plus
+1474|702|104 week|||727|||7 fields|Yes|||||Digital|64246|Canon SD Mark III
+357|274|Baseline|||0|||7 fields|Yes|||||Digital|42791|Zeiss FF450-plus
+405|80|Baseline|||0|||7 fields|Yes|||||Digital|43511|Zeiss FF450-plus
+1034|80|52 week|||368|||7 fields|Yes|||||Digital|56200|Zeiss FF450-plus
+1620|80|104 week|||735|||7 fields|Yes|||||Digital|67017|Zeiss FF450-plus
+74|371|Baseline|||0|||||||7 fields|Yes|Digital|38653|Zeiss FF450-plus
+726|371|52 week|||363|||||||7 fields|Yes|Digital|50534|Zeiss FF450-plus
+1338|371|104 week|||734|||||||7 fields|Yes|Digital|61976|Zeiss FF450-plus
+39|72|Baseline|||-10|||||||7 fields|Yes|Digital|38000|Zeiss FF450-plus
+696|72|52 week|||362|||||||7 fields|Yes|Digital|49535|Zeiss FF450-plus
+1304|72|104 week|||721|||||||7 fields|No|Digital|60860|Zeiss FF450-plus
+61|39|Baseline|||-14|||||||7 fields|Yes|Digital|38326|Zeiss FF450-plus
+720|39|52 week|||370|||||||7 fields|Yes|Digital|50291|Zeiss FF450-plus
+1322|39|104 week|||734|||||||7 fields|No|Digital|61561|Zeiss FF450-plus
+110|716|Baseline|||-7|||7 fields|Yes|||||Digital|39352|Zeiss FF450-plus
+762|716|52 week|||364|||7 fields|Yes|||||Digital|51482|Zeiss FF450-plus
+1359|716|104 week|||727|||7 fields|Yes|||||Digital|62487|Zeiss FF450-plus
+127|59|Baseline|||0|||||||7 fields|Yes|Digital|39543|Zeiss FF450-plus
+773|59|52 week|||363|||||||7 fields|Yes|Digital|51717|Zeiss FF450-plus
+1371|59|104 week|||727|||||||7 fields|Yes|Digital|62707|Zeiss FF450-plus
+355|399|Baseline|||0|||7 fields|Yes|||||Digital|42772|Zeiss FF450-plus
+991|399|52 week|||364|||7 fields|Yes|||||Digital|55428|Zeiss FF450-plus
+1561|399|104 week|||725|||7 fields|Yes|||||Digital|65278|Zeiss FF450-plus
+481|614|Baseline|||0|||7 fields|Yes|||||Digital|44657|Zeiss FF450-plus
+1096|614|52 week|||358|||7 fields|Yes|||||Digital|57002|Zeiss FF450-plus
+1680|614|104 week|||729|||7 fields|Yes|||||Digital|67680|Zeiss FF450-plus
+87|348|Baseline|||0|||||||4-wide|Yes|Digital|38816|Topcon 50DX
+742|348|52 week|||363|||||||4-wide|Yes|Digital|50857|Topcon 50DX
+1352|348|104 week|||739|||||||4-wide|Yes|Digital|62318|Topcon 50DX
+149|789|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|39856|Topcon 50DX
+797|789|52 week|||364|||4-wide|Yes|||||Digital|52184|Topcon 50DX
+1389|789|104 week|||721|||4-wide|Yes|||||Digital|62987|Topcon 50DX
+177|810|Baseline|||0|||4-wide|No|||||Digital|40432|Topcon 50DX
+837|810|52 week|||370|||4-wide|Yes|||||Digital|53029|Topcon 50DX
+1412|810|104 week|||719|||4-wide|Yes|||||Digital|63368|Topcon 50DX
+190|596|Baseline|||0|||4-wide|Yes|||||Digital|40585|Topcon 50DX
+835|596|52 week|||363|||4-wide|Yes|||||Digital|52999|Topcon 50DX
+1444|596|104 week|||734|||4-wide|Yes|||||Digital|63857|Topcon 50DX
+263|185|Baseline|||0|||4-wide|Yes|||||Digital|41481|Topcon 50DX
+915|185|52 week|||369|||4-wide|Yes|||||Digital|54102|Topcon 50DX
+1483|185|104 week|||726|||4-wide|Yes|||||Digital|64344|Topcon 50DX
+408|464|Baseline|||0|||4-wide|Yes|||||Digital|43593|Topcon 50DX
+1048|464|52 week|||367|||4-wide|Yes|||||Digital|56340|Topcon 50DX
+1618|464|104 week|||731|||4-wide|Yes|||||Digital|67014|Topcon 50DX
+434|608|Baseline|||0|||||||7 fields|Yes|Digital|43949|Topcon 50EX
+521|421|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45342|Topcon 50EX
+1138|421|52 week|||361|||7 fields|Yes|||||Digital|57652|Topcon 50EX
+1711|421|104 week|||730|||7 fields|Yes|||||Digital|68107|Topcon 50EX
+531|479|Baseline|||0|||||||7 fields|Yes|Digital|45597|Topcon 50EX
+1160|479|52 week|||371|||||||7 fields|Yes|Digital|58081|Topcon 50EX
+1710|479|104 week|||723|||||||7 fields|Yes|Digital|68104|Topcon 50EX
+26|515|Baseline|||0|1|Other|||||7 fields|Yes|Digital|37716|Topcon 50DX
+687|515|52 week|||369|||||||7 fields|No|Digital|49246|Topcon 50DX
+1302|515|104 week|||734|||||||7 fields|Yes|Digital|60803|Topcon 50DX
+50|115|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|38197|Topcon 50DX
+701|115|52 week|1|Machine Malfunction|||||||||||49752|
+53|841|Baseline|||0|1|Other|||||7 fields|Yes|Digital|38231|Topcon 50DX
+709|841|52 week|||364|||||||7 fields|Yes|Digital|49973|Topcon 50DX
+1314|841|104 week|||728|||||||7 fields|No|Digital|61293|Topcon 50DX
+59|736|Baseline|||0|||7 fields|Yes|1|Other|||Digital|38291|Topcon 50DX
+70|692|Baseline|||0|||7 fields|Yes|1|Other|||Digital|38544|Topcon 50DX
+806|692|52 week|||427|||7 fields|Yes|||||Digital|52385|Topcon 50DX
+1427|692|104 week|||807|||7 fields|Yes|||||Digital|63720|Topcon 50DX
+115|837|Baseline|||-17|1|Other|||||7 fields|Yes|Digital|39390|Topcon 50DX
+106|783|Baseline|||0|1|Other|||||7 fields|Yes|Digital|39117|Topcon 50DX
+395|793|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43379|Topcon 50DX
+1028|793|52 week|||368|||7 fields|Yes|||||Digital|56153|Topcon 50DX
+1601|793|104 week|||728|||7 fields|No|||||Digital|65747|Topcon 50DX
+589|359|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46548|Topcon 50DX
+1215|359|52 week|||371|||7 fields|Yes|||||Digital|58883|Topcon 50DX
+635|590|Baseline|||0|1|Other|||||7 fields|Yes|Digital|47282|Topcon 50DX
+1241|590|52 week|||364|||||||7 fields|Yes|Digital|59195|Topcon 50DX
+1788|590|104 week|||721|||||||7 fields|No|Digital|68979|Topcon 50DX
+183|75|Baseline|||0|||7 fields|Yes|||||Digital|40507|Topcon 50EX
+871|75|52 week|||384|||7 fields|Yes|||||Digital|53503|Topcon 50EX
+189|319|Baseline|||0|||||||7 fields|Yes|Digital|40584|Topcon 50EX
+853|319|52 week|||371|||||||7 fields|Yes|Digital|53247|Topcon 50EX
+1434|319|104 week|||730|||||||7 fields|Yes|Digital|63784|Topcon 50EX
+281|591|Baseline|||0|||7 fields|Yes|||||Digital|41641|Topcon 50EX
+930|591|52 week|||366|||7 fields|Yes|||||Digital|54278|Topcon 50EX
+1488|591|104 week|||721|||7 fields|Yes|||||Digital|64373|Topcon 50EX
+285|771|Baseline|||0|||||||7 fields|Yes|Digital|41689|Topcon 50EX
+938|771|52 week|||370|||||||7 fields|Yes|Digital|54441|Topcon 50EX
+1526|771|104 week|||738|||||||7 fields|Yes|Digital|64814|Topcon 50EX
+294|208|Baseline|||0|||7 fields|Yes|||||Digital|41878|Topcon 50EX
+927|208|52 week|||358|||7 fields|Yes|||||Digital|54260|Topcon 50EX
+1543|208|104 week|||741|||7 fields|Yes|||||Digital|65063|Topcon 50EX
+506|96|Baseline|||0|||7 fields|Yes|||||Digital|45139|Topcon 50EX
+1130|96|52 week|||364|||7 fields|Yes|||||Digital|57516|Topcon 50EX
+1691|96|104 week|||724|||7 fields|Yes|||||Digital|67870|Topcon 50EX
+17|422|Baseline|||0|||||||7 fields|Yes|Digital|37543|Topcon 50IX
+686|422|52 week|||371|||||||7 fields|Yes|Digital|49115|Topcon 50IX
+1285|422|104 week|||722|||||||7 fields|Yes|Digital|60240|Topcon 50IX
+168|640|Baseline|||-7|||7 fields|Yes|||||Digital|40305|Topcon 50IX
+817|640|52 week|||363|||7 fields|Yes|||||Digital|52663|Topcon 50IX
+1424|640|104 week|||735|||7 fields|Yes|||||Digital|63696|Topcon 50IX
+473|259|Baseline|||0|||||||7 fields|Yes|Digital|44475|Topcon 50IX
+1087|259|52 week|||364|||||||7 fields|Yes|Digital|56947|Topcon 50IX
+1655|259|104 week|||723|||||||7 fields|Yes|Digital|67371|Topcon 50IX
+517|795|Baseline|||0|||||||7 fields|Yes|Digital|45266|Topcon 50IX
+1163|795|52 week|||382|||||||7 fields|Yes|Digital|58125|Topcon 50IX
+1694|795|104 week|||724|||||||7 fields|Yes|Digital|67882|Topcon 50IX
+597|436|Baseline|||0|||||||7 fields|Yes|Digital|46689|Topcon 50IX
+1217|436|52 week|||369|||||||7 fields|Yes|Digital|58895|Topcon 50IX
+1800|436|104 week|||740|||||||7 fields|Yes|Digital|69075|Topcon 50IX
+368|817|Baseline|||-2|||7 fields|Yes|||||Digital|43000|Topcon 50EX
+995|817|52 week|||358|||7 fields|Yes|||||Digital|55488|Topcon 50EX
+1584|817|104 week|||728|||7 fields|Yes|||||Digital|65563|Topcon 50EX
+464|680|Baseline|||-5|||7 fields|Yes|||||Digital|44356|Topcon 50EX
+1077|680|52 week|||361|||7 fields|Yes|||||Digital|56803|Topcon 50EX
+1644|680|104 week|||721|||7 fields|Yes|||||Digital|67249|Topcon 50EX
+497|695|Baseline|||0|||7 fields|Yes|||||Digital|44929|Topcon 50EX
+1125|695|52 week|||366|||7 fields|Yes|||||Digital|57415|Topcon 50EX
+1789|695|104 week|||784|||7 fields|Yes|||||Digital|68985|Topcon 50EX
+522|376|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45354|Topcon 50EX
+1150|376|52 week|||371|||7 fields|Yes|||||Digital|57908|Topcon 50EX
+1699|376|104 week|||722|||7 fields|Yes|||||Digital|67947|Topcon 50EX
+557|827|Baseline|||0|||4-wide|Yes|||||Digital|46097|Topcon 50DX
+1185|827|52 week|||367|||4-wide|Yes|||||Digital|58403|Topcon 50DX
+611|761|Baseline|||0|||||||4-wide|Yes|Digital|46899|Topcon 50DX
+1222|761|52 week|||364|||||||4-wide|Yes|Digital|58958|Topcon 50DX
+1805|761|104 week|||729|||||||4-wide|Yes|Digital|69110|Topcon 50DX
+77|611|Baseline|||0|||||||7 fields|Yes|Digital|38669|Topcon 50EX
+744|611|52 week|||371|||||||7 fields|Yes|Digital|50871|Topcon 50EX
+1327|611|104 week|||726|||||||7 fields|Yes|Digital|61699|Topcon 50EX
+76|121|Baseline|||0|||7 fields|Yes|||||Digital|38667|Topcon 50EX
+724|121|52 week|||362|||7 fields|Yes|||||Digital|50496|Topcon 50EX
+1334|121|104 week|||733|||7 fields|Yes|||||Digital|61911|Topcon 50EX
+114|403|Baseline|||0|||||||7 fields|Yes|Digital|39383|Topcon 50EX
+779|403|52 week|||371|||||||7 fields|Yes|Digital|51751|Topcon 50EX
+1361|403|104 week|||728|||||||7 fields|Yes|Digital|62506|Topcon 50EX
+131|759|Baseline|||0|||7 fields|Yes|||||Digital|39559|Topcon 50EX
+761|759|52 week|1|Other|||||||||||51477|
+1367|759|104 week|||726|||4-wide|Yes|||||Digital|62661|Topcon 50IX
+129|543|Baseline|||0|||||||7 fields|Yes|Digital|39556|Topcon 50EX
+782|543|52 week|||368|||||||7 fields|Yes|Digital|51844|Topcon 50EX
+1382|543|104 week|||732|||||||7 fields|Yes|Digital|62838|Topcon 50EX
+178|518|Baseline|||0|||||||7 fields|Yes|Digital|40440|Topcon 50EX
+833|518|52 week|||368|||||||7 fields|Yes|Digital|52959|Topcon 50EX
+1416|518|104 week|||725|||||||7 fields|Yes|Digital|63446|Topcon 50EX
+243|195|Baseline|||0|||7 fields|Yes|||||Digital|41228|Topcon 50EX
+875|195|52 week|||361|||7 fields|Yes|||||Digital|53550|Topcon 50EX
+1516|195|104 week|||747|||7 fields|Yes|||||Digital|64664|Topcon 50EX
+297|661|Baseline|||-1|||7 fields|Yes|||||Digital|41921|Topcon 50EX
+296|670|Baseline|||-1|||||||7 fields|Yes|Digital|41919|Topcon 50EX
+933|670|52 week|||361|||||||7 fields|Yes|Digital|54356|Topcon 50EX
+1546|670|104 week|||727|||||||7 fields|Yes|Digital|65071|Topcon 50EX
+330|54|Baseline|||0|||||||7 fields|Yes|Digital|42359|Topcon 50EX
+971|54|52 week|||368|||||||7 fields|Yes|Digital|55067|Topcon 50EX
+1551|54|104 week|1|Other|||||||||||65103|
+331|488|Baseline|||0|||||||7 fields|Yes|Digital|42370|Topcon 50EX
+974|488|52 week|||369|||||||7 fields|Yes|Digital|55107|Topcon 50EX
+1539|488|104 week|1|Other|||||||||||65038|
+354|394|Baseline|||0|||||||7 fields|Yes|Digital|42764|Topcon 50EX
+997|394|52 week|||369|||||||7 fields|Yes|Digital|55556|Topcon 50EX
+1564|394|104 week|||726|||||||7 fields|Yes|Digital|65300|Topcon 50EX
+367|317|Baseline|||0|||7 fields|Yes|||||Digital|42992|Topcon 50EX
+1009|317|52 week|||368|||7 fields|Yes|||||Digital|55774|Topcon 50EX
+1572|317|104 week|||720|||7 fields|Yes|||||Digital|65404|Topcon 50EX
+369|365|Baseline|||0|||||||7 fields|Yes|Digital|43019|Topcon 50EX
+1016|365|52 week|||371|||||||7 fields|Yes|Digital|55865|Topcon 50EX
+1582|365|104 week|||728|||||||7 fields|Yes|Digital|65547|Topcon 50EX
+640|10|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|47335|Topcon 50EX
+1234|10|52 week|||361|||7 fields|Yes|||||Digital|59087|Topcon 50EX
+1799|10|104 week|||725|||7 fields|Yes|||||Digital|69072|Topcon 50EX
+79|604|Baseline|||0|||||||4-wide|Yes|Digital|38691|Zeiss FF450
+34|148|Baseline|||-6|||||||7 fields|Yes|Digital|37825|Topcon 50IA
+692|148|52 week|||364|||||||7 fields|Yes|Digital|49323|Topcon 50IA
+73|183|Baseline|||0|||7 fields|Yes|||||Digital|38647|Topcon 50IA
+728|183|52 week|||364|||7 fields|Yes|||||Digital|50571|Topcon 50IA
+1325|183|104 week|||726|||7 fields|Yes|||||Digital|61658|Topcon 50IA
+304|832|Baseline|||-14|||7 fields|Yes|||7 fields|Yes|Digital|42048|Topcon 50IA
+947|832|52 week|||364|||7 fields|Yes|||||Digital|54703|Topcon 50IA
+1541|832|104 week|||734|||7 fields|Yes|||||Digital|65046|Topcon 50IA
+378|423|Baseline|||0|||7 fields|Yes|||||Digital|43113|Topcon 50IA
+1015|423|52 week|||367|||7 fields|Yes|||||Digital|55864|Topcon 50IA
+1606|423|104 week|||736|||7 fields|Yes|||||Digital|65793|Topcon 50IA
+71|349|Baseline|||-7|||4-wide|Yes|||4-wide|Yes|Digital|38573|Topcon 50IX
+723|349|52 week|||364|||4-wide|Yes|||||Digital|50459|Topcon 50IX
+85|231|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|38782|Topcon 50IX
+735|231|52 week|||363|||4-wide|Yes|||||Digital|50764|Topcon 50IX
+1348|231|104 week|||736|||4-wide|Yes|||||Digital|62250|Topcon 50IX
+214|298|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40890|Topcon 50IX
+854|298|52 week|||359|||||||7 fields|Yes|Digital|53269|Topcon 50IX
+1465|298|104 week|||735|||||||4-wide|Yes|Digital|64135|Topcon 50IX
+205|686|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40800|Topcon 50IX
+893|686|52 week|||383|||4-wide|Yes|||||Digital|53795|Topcon 50IX
+1445|686|104 week|||728|||4-wide|Yes|||||Digital|63886|Topcon 50IX
+179|197|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|40441|Topcon 50IX
+838|197|52 week|||370|||4-wide|Yes|||||Digital|53036|Topcon 50IX
+1426|197|104 week|||733|||4-wide|Yes|||||Digital|63712|Topcon 50IX
+236|478|Baseline|||-7|||4-wide|Yes|||4-wide|Yes|Digital|41150|Topcon 50IX
+879|478|52 week|||364|||||||4-wide|Yes|Digital|53612|Topcon 50IX
+1455|478|104 week|||722|||||||4-wide|Yes|Digital|64012|Topcon 50IX
+317|389|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|42219|Topcon 50IX
+942|389|52 week|||357|||||||4-wide|Yes|Digital|54536|Topcon 50IX
+1544|389|104 week|||730|||||||4-wide|Yes|Digital|65068|Topcon 50IX
+340|240|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|42480|Topcon 50IX
+976|240|52 week|||365|||4-wide|Yes|||||Digital|55157|Topcon 50IX
+1567|240|104 week|||735|||4-wide|Yes|||||Digital|65333|Topcon 50IX
+381|540|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|43169|Topcon 50IX
+1011|540|52 week|||364|||||||4-wide|Yes|Digital|55793|Topcon 50IX
+1590|540|104 week|||727|||||||4-wide|Yes|Digital|65610|Topcon 50IX
+492|353|Baseline|||0|||4-wide|Yes|||4-wide|Yes|Digital|44848|Topcon 50IX
+1120|353|52 week|||365|||||||4-wide|Yes|Digital|57349|Topcon 50IX
+1687|353|104 week|1|Other|||||||||||67814|
+654|272|Baseline|||-20|||||||4-wide|Yes|Digital|47506|Topcon 50IX
+1266|272|52 week|||370|||||||4-wide|Yes|Digital|59522|Topcon 50IX
+1823|272|104 week|||733|||||||4-wide|Yes|Digital|69360|Topcon 50IX
+132|405|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|39561|Topcon 50DX
+791|405|52 week|||371|||7 fields|No|||||Digital|52055|Topcon 50DX
+1392|405|104 week|||736|||7 fields|No|||||Digital|63019|Topcon 50DX
+147|209|Baseline|||0|||7 fields|Yes|||||Digital|39806|Topcon 50DX
+792|209|52 week|||364|||7 fields|No|||||Digital|52092|Topcon 50DX
+1380|209|104 week|||724|||7 fields|No|||||Digital|62816|Topcon 50DX
+598|740|Baseline|||0|||||||7 fields|No|Digital|46698|Topcon 50DX
+1228|740|52 week|||372|||||||7 fields|No|Digital|59027|Topcon 50DX
+1766|740|104 week|||727|||||||7 fields|No|Digital|68756|Topcon 50DX
+644|412|Baseline|||0|||||||7 fields|No|Digital|47353|Topcon 50DX
+1255|412|52 week|||370|||||||7 fields|No|Digital|59406|Topcon 50DX
+1816|412|104 week|||733|||||||7 fields|No|Digital|69255|Topcon 50DX
+298|170|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|41932|Kowa VX-10 A
+957|170|52 week|||371|||||||7 fields|Yes|Digital|54793|Kowa VX-10 A
+1534|170|104 week|||734|||||||7 fields|Yes|Digital|64936|Kowa VX-10 A
+309|144|Baseline|||0|||||||7 fields|Yes|Digital|42079|Kowa VX-10 A
+954|144|52 week|||365|||||||7 fields|Yes|Digital|54755|Kowa VX-10 A
+1527|144|104 week|||727|||||||7 fields|Yes|Digital|64844|Kowa VX-10 A
+482|292|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44660|Kowa VX-10 A
+1109|292|52 week|||366|||7 fields|Yes|||||Digital|57212|Kowa VX-10 A
+1682|292|104 week|||733|||7 fields|Yes|||||Digital|67746|Kowa VX-10 A
+335|120|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42440|Kowa VX-10 A
+970|120|52 week|||364|||7 fields|Yes|||||Digital|55048|Kowa VX-10 A
+1563|120|104 week|||735|||7 fields|Yes|||||Digital|65283|Kowa VX-10 A
+360|116|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|42832|Kowa VX-10 A
+1005|116|52 week|||371|||||||7 fields|Yes|Digital|55747|Kowa VX-10 A
+1576|116|104 week|||731|||||||7 fields|Yes|Digital|65449|Kowa VX-10 A
+459|724|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44289|Kowa VX-10 A
+1080|724|52 week|||367|||||||7 fields|Yes|Digital|56852|Kowa VX-10 A
+1647|724|104 week|||725|||||||7 fields|Yes|Digital|67292|Kowa VX-10 A
+413|833|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|43658|Kowa VX-10 A
+1059|833|52 week|||373|||7 fields|Yes|||||Digital|56524|Kowa VX-10 A
+1612|833|104 week|||728|||7 fields|Yes|||||Digital|65952|Kowa VX-10 A
+453|445|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|44202|Kowa VX-10 A
+1094|445|52 week|||371|||||||7 fields|Yes|Digital|56981|Kowa VX-10 A
+1636|445|104 week|||722|||||||7 fields|Yes|Digital|67190|Kowa VX-10 A
+525|31|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45397|Kowa VX-10 A
+1142|31|52 week|||364|||||||7 fields|Yes|Digital|57719|Kowa VX-10 A
+1718|31|104 week|||734|||||||7 fields|Yes|Digital|68191|Kowa VX-10 A
+512|123|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45191|Kowa VX-10 A
+582|427|Baseline|||-6|||7 fields|Yes|||7 fields|Yes|Digital|46433|Kowa VX-10 A
+1208|427|52 week|||370|||7 fields|Yes|||||Digital|58728|Kowa VX-10 A
+587|746|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46506|Kowa VX-10 A
+1213|746|52 week|||370|||||||7 fields|Yes|Digital|58812|Kowa VX-10 A
+1759|746|104 week|||722|||||||7 fields|Yes|Digital|68599|Kowa VX-10 A
+612|843|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|46900|Kowa VX-10 A
+1235|843|52 week|||370|||7 fields|Yes|||||Digital|59119|Kowa VX-10 A
+1802|843|104 week|||734|||7 fields|Yes|||||Digital|69083|Kowa VX-10 A
+626|97|Baseline|||-1|||7 fields|Yes|||7 fields|Yes|Digital|47161|Kowa VX-10 A
+1249|97|52 week|||370|||7 fields|Yes|||||Digital|59310|Kowa VX-10 A
+1840|97|104 week|||778|||7 fields|Yes|||||Digital|70159|Kowa VX-10 A
+498|677|Baseline|||0|||||||7 fields|Yes|Digital|44979|Topcon 50IX
+1119|677|52 week|||363|||||||7 fields|Yes|Digital|57343|Topcon 50IX
+1695|677|104 week|||732|||||||7 fields|Yes|Digital|67895|Topcon 50IX
+520|758|Baseline|||0|||7 fields|Yes|||7 fields|Yes|Digital|45337|Topcon 50IX
+1148|758|52 week|||368|||7 fields|Yes|||||Digital|57862|Topcon 50IX
+1714|758|104 week|||732|||7 fields|Yes|||||Digital|68155|Topcon 50IX
+532|476|Baseline|||0|||||||7 fields|Yes|Digital|45666|Topcon 50IX
+1146|476|52 week|||358|||||||7 fields|Yes|Digital|57800|Topcon 50IX
+1730|476|104 week|||733|||||||7 fields|Yes|Digital|68345|Topcon 50IX
+573|542|Baseline|||0|||||||7 fields|Yes|Digital|46351|Topcon 50IX
+1194|542|52 week|||365|||||||7 fields|Yes|Digital|58536|Topcon 50IX
+1769|542|104 week|||735|||||||7 fields|Yes|Digital|68774|Topcon 50IX
+655|117|Baseline|||0|||7 fields|Yes|||||Digital|47558|Topcon 50IX
+1272|117|52 week|||371|||7 fields|Yes|||||Digital|59631|Topcon 50IX
+1830|117|104 week|||736|||7 fields|Yes|||||Digital|69487|Topcon 50IX
+418|792|Baseline|||0|||4-wide|Yes|||||Digital|43711|Zeiss FF450-plus
+1050|792|52 week|||365|||4-wide|Yes|||||Digital|56360|Zeiss FF450-plus
+1623|792|104 week|||729|||4-wide|Yes|||||Digital|67033|Zeiss FF450-plus
+527|133|Baseline|||0|||||||4-wide|Yes|Digital|45481|Zeiss FF450-plus
+1139|133|52 week|||362|||||||4-wide|Yes|Digital|57688|Zeiss FF450-plus
+1713|133|104 week|||729|||||||4-wide|Yes|Digital|68145|Zeiss FF450-plus
+553|728|Baseline|||0|||||||4-wide|Yes|Digital|46060|Zeiss FF450-plus
+1212|728|52 week|||359|||||||4-wide|Yes|Digital|58802|Zeiss FF450-plus
+1736|728|104 week|||723|||||||4-wide|Yes|Digital|68432|Zeiss FF450-plus
+603|262|Baseline|||-16|||4-wide|Yes|||||Digital|46741|Zeiss FF450-plus
+1216|262|52 week|||366|||4-wide|Yes|||||Digital|58890|Zeiss FF450-plus
+1790|262|104 week|||735|||4-wide|Yes|||||Digital|68997|Zeiss FF450-plus
+620|697|Baseline|||0|||4-wide|Yes|||||Digital|47028|Zeiss FF450-plus
+1232|697|52 week|||364|||4-wide|Yes|||||Digital|59049|Zeiss FF450-plus
+1782|697|104 week|||725|||4-wide|Yes|||||Digital|68932|Zeiss FF450-plus

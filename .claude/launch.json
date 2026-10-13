@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "streamlit",
+      "runtimeExecutable": "C:/Users/Admin/Desktop/aiml project/equipoise/.venv/Scripts/streamlit.exe",
+      "runtimeArgs": ["run", "C:/Users/Admin/Desktop/aiml project/equipoise/app/streamlit_app.py", "--server.port=8501", "--server.headless=true"],
+      "port": 8501
+    },
+    {
+      "name": "streamlit-ui",
+      "runtimeExecutable": "C:/Users/Admin/Desktop/aiml project/equipoise/.venv/Scripts/streamlit.exe",
+      "runtimeArgs": ["run", "C:/Users/Admin/Desktop/aiml project/equipoise/app/streamlit_app.py", "--server.port=8502", "--server.headless=true"],
+      "port": 8502,
+      "autoPort": false,
+      "cwd": "C:/Users/Admin/Desktop/aiml project/equipoise"
+    },
+    {
+      "name": "api",
+      "runtimeExecutable": "C:/Users/Admin/Desktop/aiml project/equipoise/.venv/Scripts/uvicorn.exe",
+      "runtimeArgs": ["api.main:app", "--app-dir", "C:/Users/Admin/Desktop/aiml project/equipoise", "--port", "8000"],
+      "port": 8000
+    }
+  ]
+}

@@ -1,0 +1,1774 @@
+RecID|PtID|Visit|UrineNotDone|UrineDtDaysFromEnroll|Creatinine|Albumin|AlbCreatRatio|AssayDtDaysFromEnroll|ParentLoginVisitID
+1|504|Baseline||0|142|19|13.38|8|36893
+2|181|Baseline||0|46|701|1523.91|6|36901
+3|341|Baseline||0|63|6|9.52|6|36953
+4|395|Baseline||0|28|5|17.86|6|36959
+5|181|2-3 Day Post Injection (Randomization)||2|21|284|1352.38|6|36968
+6|341|2-3 Day Post Injection (Randomization)||3|163|7|4.29|6|36988
+7|220|Baseline||0|71|6|8.45|11|37093
+8|693|Baseline||0|47|1||2|37110
+9|220|2-3 Day Post Injection (Randomization)||4|136|16|11.76|11|37114
+10|615|Baseline||-5|179|12|6.70|6|37139
+11|693|2-3 Day Post Injection (Randomization)||2|19|1||9|37191
+12|615|2-3 Day Post Injection (Randomization)||2|109|12|11.01|20|37196
+13|65|Baseline||0|293|319|108.87|6|37230
+14|12|Baseline||0|54|946|1751.85|8|37241
+15|65|2-3 Day Post Injection (Randomization)||4|27|67|248.15|6|37283
+16|12|2-3 Day Post Injection (Randomization)||2|105|1680|1600.00|8|37344
+17|578|Baseline||0|44|1140|2590.91|6|37390
+18|79|Baseline||0|18|23|127.78|11|37400
+19|578|2-3 Day Post Injection (Randomization)||3|51|1330|2607.84|6|37414
+20|708|Baseline||0|94|599|637.23|3|37432
+21|538|Baseline||0|161|2150|1335.40|10|37434
+22|567|Baseline||0|89|7|7.87|8|37439
+23|846|Baseline||0|49|5|10.20|2|37457
+24|489|Baseline||0|48|6|12.50|8|37497
+25|422|Baseline||0|130|14|10.77|7|37543
+26|567|2-3 Day Post Injection (Randomization)||3|106|7|6.60|8|37547
+27|79|2-3 Day Post Injection (Randomization)||3|18|23|127.78|11|37551
+28|708|2-3 Day Post Injection (Randomization)||3|82|549|669.51|8|37555
+29|846|2-3 Day Post Injection (Randomization)||3|50|8|16.00|9|37562
+30|605|Baseline||0|39|302|774.36|6|37565
+31|158|Baseline||0|127|4970|3913.39|11|37583
+32|422|2-3 Day Post Injection (Randomization)||4|92|11|11.96|7|37607
+33|605|2-3 Day Post Injection (Randomization)||3|86|582|676.74|6|37613
+34|199|Baseline||0|42|8|19.05|10|37621
+35|218|Baseline||0|51|40|78.43|2|37633
+36|158|2-3 Day Post Injection (Randomization)||4|133|6170|4639.10|11|37634
+37|453|Baseline||0|118|450|381.36|2|37644
+38|639|Baseline||0|35|1||2|37652
+39|354|Baseline||0|71|4|5.63|20|37685
+40|679|Baseline||0|58|4|6.90|6|37700
+41|515|Baseline||0|399|41|10.28|7|37716
+42|254|Baseline||0|133|8150|6127.82|7|37734
+43|552|Baseline||0|167|1810|1083.83|7|37735
+44|218|2-3 Day Post Injection (Randomization)||3|61|30|49.18|9|37745
+45|838|Baseline||0|48|15|31.25|6|37746
+46|354|2-3 Day Post Injection (Randomization)||2|55|5|9.09|20|37749
+47|366|Baseline||0|40|338|845.00|6|37760
+48|639|2-3 Day Post Injection (Randomization)||2|65|5|7.69|7|37765
+49|552|2-3 Day Post Injection (Randomization)||4|59|969|1642.37|7|37773
+50|515|2-3 Day Post Injection (Randomization)||4|133|10|7.52|7|37774
+51|254|2-3 Day Post Injection (Randomization)||4|90|6310|7011.11|7|37776
+52|20|Baseline||0|15|14|93.33|9|37797
+53|701|Baseline||0|81|1700|2098.77|9|37809
+54|765|Baseline||0|71|17|23.94|6|37824
+55|148|Baseline||-6|171|36|21.05|6|37825
+56|20|2-3 Day Post Injection (Randomization)||2|21|11|52.38|9|37855
+57|701|2-3 Day Post Injection (Randomization)||2|75|2390|3186.67|9|37856
+58|46|Baseline||0|94|12|12.77|5|37868
+59|279|Baseline||0|143|16|11.19|7|37876
+60|765|2-3 Day Post Injection (Randomization)||2|124|43|34.68|8|37888
+61|46|2-3 Day Post Injection (Randomization)||4|26|3|11.54|7|37916
+62|270|Baseline||0|79|7100|8987.34|2|37944
+63|270|2-3 Day Post Injection (Randomization)||2|113|7210|6380.53|7|37995
+64|653|Baseline||0|89|26|29.21|7|37999
+65|72|Baseline||0|93|56|60.22|5|38000
+66|196|Baseline||0|109|18|16.51|6|38031
+67|268|Baseline||0|205|84|40.98|6|38035
+68|76|Baseline||0|18|1||6|38050
+69|268|2-3 Day Post Injection (Randomization)||3|135|146|108.15|6|38055
+70|127|Baseline||0|60|9|15.00|3|38060
+71|563|Baseline||0|125|7|5.60|2|38099
+72|762|Baseline||0|27|1||9|38105
+73|196|2-3 Day Post Injection (Randomization)||5|106|93|87.74|6|38137
+74|156|Baseline||-6|57|6|10.53|0|38162
+75|563|2-3 Day Post Injection (Randomization)||2|275|22|8.00|7|38166
+76|627|Baseline||0|74|2|2.70|33|38188
+77|497|Baseline||0|108|8|7.41|32|38192
+78|641|Baseline||0|108|3880|3592.59|6|38194
+79|115|Baseline||0|195|607|311.28|11|38197
+80|762|2-3 Day Post Injection (Randomization)||3|327|21|6.42|9|38212
+81|641|2-3 Day Post Injection (Randomization)||3|105|4900|4666.67|6|38215
+82|213|Baseline||0|28|36|128.57|3|38217
+83|696|Baseline||0|96|35|36.46|3|38218
+84|841|Baseline||0|382|1810|473.82|8|38231
+85|115|2-3 Day Post Injection (Randomization)||3|161|82|50.93|11|38232
+86|433|Baseline||0|82|1940|2365.85|8|38233
+87|671|Baseline||0|124|18|14.52|8|38234
+88|271|Baseline||0|118|4670|3957.63|7|38258
+89|30|Baseline||0|44|76|172.73|9|38267
+90|5|Baseline||0|27|1||8|38286
+91|736|Baseline||0|67|2710|4044.78|6|38291
+92|819|Baseline||0|62|46|74.19|8|38309
+93|39|Baseline||0|69|620|898.55|5|38326
+94|213|2-3 Day Post Injection (Randomization)||2|18|25|138.89|10|38329
+95|30|2-3 Day Post Injection (Randomization)||2|59|122|206.78|9|38336
+96|5|2-3 Day Post Injection (Randomization)||2|18|1||8|38362
+97|769|Baseline||0|88|112|127.27|13|38374
+98|109|Baseline||0|85|3300|3882.35|6|38389
+99|109|2-3 Day Post Injection (Randomization)||4|78|2580|3307.69|6|38412
+100|841|2-3 Day Post Injection (Randomization)||2|81|2400|2962.96|22|38417
+101|718|Baseline||0|119|576|484.03|7|38424
+102|395|2-3 Day Post Injection (8 week)||67|67|17|25.37|74|38426
+103|222|Baseline||0|42|114|271.43|6|38450
+104|662|Baseline||0|149|23|15.44|6|38458
+105|831|Baseline||0|45|702|1560.00|5|38466
+106|236|Baseline||0|41|1||5|38468
+107|199|2-3 Day Post Injection (4 week)||38|88|44|50.00|52|38484
+108|718|2-3 Day Post Injection (Randomization)||2|34|202|594.12|9|38492
+109|222|2-3 Day Post Injection (Randomization)||2|81|369|455.56|8|38498
+110|662|2-3 Day Post Injection (Randomization)||2|77|34|44.16|8|38502
+111|679|2-3 Day Post Injection (4 week)||37|156|18|11.54|43|38509
+112|148|2-3 Day Post Injection (4 week)||30|62|16|25.81|36|38515
+113|301|Baseline||0|93|8|8.60|3|38534
+114|236|2-3 Day Post Injection (Randomization)||4|15|1||7|38536
+115|692|Baseline||0|58|2220|3827.59|8|38544
+116|349|Baseline||-7|108|1080|1000.00|2|38573
+117|491|Baseline||0|34|363|1067.65|23|38611
+118|183|Baseline||0|68|263|386.76|8|38647
+119|371|Baseline||0|76|8|10.53|5|38653
+120|201|Baseline||0|126|492|390.48|7|38662
+121|121|Baseline||0|150|6540|4360.00|12|38667
+122|611|Baseline||0|152|24|15.79|12|38669
+123|349|2-3 Day Post Injection (Randomization)||3|75|787|1049.33|9|38684
+124|238|Baseline||0|143|54|37.76|6|38685
+125|604|Baseline||0|22|117|531.82|6|38691
+126|692|2-3 Day Post Injection (Randomization)||4|68|2520|3705.88|8|38693
+127|238|2-3 Day Post Injection (Randomization)||3|99|20|20.20|6|38694
+128|604|2-3 Day Post Injection (Randomization)||3|18|71|394.44|6|38700
+129|50|Baseline||0|34|3|8.82|3|38712
+130|506|Baseline||0|87|2100|2413.79|2|38724
+131|74|Baseline||0|95|3|3.16|7|38736
+132|277|Baseline||0|38|4310|11342.11|1|38760
+133|565|Baseline||0|151|3680|2437.09|13|38763
+134|231|Baseline||0|28|1||6|38782
+136|583|Baseline||0|99|662|668.69|12|38808
+137|348|Baseline||0|51|6|11.76|5|38816
+138|618|Baseline||0|151|571|378.15|12|38825
+139|565|2-3 Day Post Injection (Randomization)||2|167|4110|2461.08|13|38833
+140|675|Baseline||0|105|155|147.62|4|38849
+141|607|Baseline||0|95|48|50.53|11|38853
+142|634|Baseline||0|27|1470|5444.44|4|38860
+143|86|Baseline||0|78|59|75.64|4|38867
+144|231|2-3 Day Post Injection (Randomization)||2|124|8|6.45|6|38869
+145|536|Baseline||0|31|4|12.90|4|38877
+146|780|Baseline||0|117|301|257.26|11|38878
+147|506|2-3 Day Post Injection (Randomization)||3|103|2680|2601.94|14|38886
+148|821|Baseline||-3|58|550|948.28|4|38893
+149|618|2-3 Day Post Injection (Randomization)||4|187|427|228.34|14|38906
+150|634|2-3 Day Post Injection (Randomization)||3|19|952|5010.53|11|38913
+151|1|Baseline||-7|80|741|926.25|-4|38919
+153|607|2-3 Day Post Injection (Randomization)||4|86|17|19.77|13|38946
+154|247|Baseline||0|23|1||7|38951
+155|16|Baseline||0|56|4|7.14|7|38967
+156|102|Baseline||0|19|47|247.37|8|38998
+157|603|Baseline||0|19|1450|7631.58|8|39005
+158|613|Baseline||0|84|3180|3785.71|7|39032
+159|749|Baseline||0|11|6|54.55|7|39036
+160|511|Baseline||0|24|11|45.83|7|39038
+161|68|Baseline||0|118|4|3.39|7|39043
+162|809|Baseline||0|79|150|189.87|2|39051
+163|831|2-3 Day Post Injection (4 week)||27|49|615|1255.10|33|39087
+164|613|2-3 Day Post Injection (Randomization)||1|73|3200|4383.56|7|39101
+165|783|Baseline||0|73|5100|6986.30|6|39117
+166|39|2-3 Day Post Injection (4 week)||35|40|408|1020.00|40|39127
+167|809|2-3 Day Post Injection (Randomization)||2|66|125|189.39|7|39130
+168|603|2-3 Day Post Injection (Randomization)||3|34|2540|7470.59|8|39139
+169|749|2-3 Day Post Injection (Randomization)||2|65|23|35.38|7|39156
+170|68|2-3 Day Post Injection (Randomization)||3|145|7|4.83|16|39179
+171|783|2-3 Day Post Injection (Randomization)||2|49|3560|7265.31|6|39193
+172|511|2-3 Day Post Injection (Randomization)||3|45|5|11.11|14|39198
+173|279|2-3 Day Post Injection (8 week)||60|105|14|13.33|61|39215
+174|577|Baseline||0|40|36|90.00|2|39267
+175|659|Baseline||0|314|5890|1875.80|2|39279
+176|176|Baseline||0|61|1780|2918.03|2|39290
+177|577|2-3 Day Post Injection (Randomization)||2|103|37|35.92|7|39351
+178|716|Baseline||0|242|56|23.14|5|39352
+179|201|2-3 Day Post Injection (4 week)||28|146|501|343.15|33|39353
+180|575|Baseline||0|53|3|5.66|5|39359
+181|547|Baseline||0|79|2060|2607.59|5|39362
+182|72|2-3 Day Post Injection (8 week)||56|46|11|23.91|61|39373
+183|491|2-3 Day Post Injection (4 week)||30|36|189|525.00|35|39374
+184|735|Baseline||0|81|573|707.41|5|39382
+185|403|Baseline||0|55|4|7.27|7|39383
+186|837|Baseline||0|25|1||4|39390
+187|176|2-3 Day Post Injection (Randomization)||3|84|1540|1833.33|9|39391
+188|361|Baseline||0|80|716|895.00|6|39401
+189|183|2-3 Day Post Injection (4 week)||30|52|89|171.15|36|39408
+190|299|Baseline||0|132|457|346.21|6|39412
+191|735|2-3 Day Post Injection (Randomization)||1|100|770|770.00|7|39414
+192|547|2-3 Day Post Injection (Randomization)||4|60|1890|3150.00|14|39419
+193|361|2-3 Day Post Injection (Randomization)||3|155|1330|858.06|6|39420
+194|139|Baseline||0|31|1590|5129.03|10|39430
+195|611|2-3 Day Post Injection (4 week)||32|113|10|8.85|35|39432
+196|121|2-3 Day Post Injection (4 week)||32|36|1720|4777.78|35|39435
+197|403|2-3 Day Post Injection (Randomization)||4|69|9|13.04|7|39438
+198|802|Baseline||0|64|690|1078.13|3|39445
+199|105|Baseline||0|97|25|25.77|3|39448
+200|299|2-3 Day Post Injection (Randomization)||4|60|198|330.00|6|39456
+201|295|Baseline||0|122|4200|3442.62|9|39463
+202|620|Baseline||0|113|22|19.47|2|39492
+203|778|Baseline||0|89|49|55.06|8|39500
+204|357|Baseline||0|122|6|4.92|8|39518
+205|139|2-3 Day Post Injection (Randomization)||2|43|1820|4232.56|10|39523
+206|204|Baseline||-7|90|493|547.78|8|39530
+207|581|Baseline||0|148|9|6.08|8|39533
+208|59|Baseline||0|104|5|4.81|7|39543
+209|35|Baseline||0|143|287|200.70|7|39553
+210|543|Baseline||0|135|27|20.00|7|39556
+211|85|Baseline||0|116|16|13.79|7|39558
+212|759|Baseline||0|52|1||7|39559
+213|405|Baseline||0|138|31|22.46|7|39561
+214|778|2-3 Day Post Injection (Randomization)||2|60|20|33.33|8|39575
+215|295|2-3 Day Post Injection (Randomization)||3|74|3770|5094.59|9|39576
+216|277|2-3 Day Post Injection (4 week)||30|37|2210|5972.97|36|39577
+217|16|2-3 Day Post Injection (4 week)||24|61|7|11.48|30|39579
+218|247|2-3 Day Post Injection (4 week)||24|38|1||30|39586
+219|581|2-3 Day Post Injection (Randomization)||2|116|5|4.31|8|39589
+220|35|2-3 Day Post Injection (Randomization)||4|145|246|169.66|7|39608
+221|108|Baseline||0|66|15|22.73|3|39618
+222|77|Baseline||0|130|73|56.15|3|39623
+223|696|2-3 Day Post Injection (8 week)||57|121|84|69.42|65|39658
+224|759|2-3 Day Post Injection (Randomization)||4|187|12|6.42|7|39659
+225|543|2-3 Day Post Injection (Randomization)||4|190|47|24.74|7|39660
+226|811|Baseline||0|84|35|41.67|2|39661
+227|456|Baseline||0|104|13|12.50|8|39663
+228|513|Baseline||0|93|379|407.53|2|39671
+229|780|2-3 Day Post Injection (4 week)||32|172|621|361.05|34|39672
+230|796|Baseline||0|98|152|155.10|8|39677
+231|599|Baseline||0|82|3|3.66|8|39693
+232|27|Baseline||0|112|13|11.61|7|39713
+233|21|Baseline||0|93|3450|3709.68|8|39714
+234|385|Baseline||0|22|111|504.55|7|39732
+235|456|2-3 Day Post Injection (Randomization)||2|112|10|8.93|8|39751
+236|811|2-3 Day Post Injection (Randomization)||2|47|16|34.04|8|39752
+237|297|Baseline||0|190|11|5.79|14|39757
+238|583|2-3 Day Post Injection (4 week)||35|129|1160|899.22|41|39761
+239|796|2-3 Day Post Injection (Randomization)||2|45|73|162.22|8|39764
+240|360|Baseline||0|124|8910|7185.48|7|39788
+241|313|Baseline||0|171|376|219.88|6|39789
+242|307|Baseline||0|79|419|530.38|14|39795
+243|209|Baseline||0|49|593|1210.20|18|39806
+244|385|2-3 Day Post Injection (Randomization)||2|62|133|214.52|7|39835
+246|347|Baseline||0|72|548|761.11|8|39844
+247|789|Baseline||0|132|97|73.48|7|39856
+248|164|Baseline||0|95|1640|1726.32|12|39866
+249|671|2-3 Day Post Injection (8 week)||62|134|25|18.66|73|39877
+250|754|Baseline||0|75|108|144.00|11|39888
+251|290|Baseline||0|140|7|5.00|11|39891
+252|726|Baseline||0|47|32|68.09|6|39913
+253|192|Baseline||0|114|1120|982.46|6|39916
+254|294|Baseline||0|96|1520|1583.33|6|39927
+255|610|Baseline||0|16|6|37.50|8|39929
+256|784|Baseline||0|89|194|217.98|5|39949
+257|716|2-3 Day Post Injection (4 week)||29|248|245|98.79|35|39983
+258|525|Baseline||0|56|12|21.43|6|39990
+259|138|Baseline||0|31|1||11|40016
+260|105|2-3 Day Post Injection (4 week)||28|109|21|19.27|31|40035
+261|138|2-3 Day Post Injection (Randomization)||3|41|4|9.76|13|40055
+262|610|2-3 Day Post Injection (Randomization)||2|19|3|15.79|8|40108
+263|106|Baseline||0|84|128|152.38|6|40133
+264|48|Baseline||0|136|45|33.09|6|40161
+265|689|Baseline||0|213|3|1.41|8|40167
+266|770|Baseline||0|85|18|21.18|5|40194
+267|301|2-3 Day Post Injection (8 week)||63|72|4|5.56|71|40202
+268|106|2-3 Day Post Injection (Randomization)||2|153|248|162.09|8|40219
+269|310|Baseline||0|298|136|45.64|4|40234
+270|787|Baseline||0|57|20|35.09|4|40244
+271|689|2-3 Day Post Injection (Randomization)||2|178|8|4.49|8|40250
+272|209|2-3 Day Post Injection (4 week)||24|88|720|818.18|31|40259
+273|85|2-3 Day Post Injection (4 week)||32|137|39|28.47|35|40261
+274|310|2-3 Day Post Injection (Randomization)||3|65|139|213.85|6|40272
+275|787|2-3 Day Post Injection (Randomization)||3|39|8|20.51|6|40277
+276|321|Baseline||0|123|193|156.91|3|40293
+277|595|Baseline||0|193|1330|689.12|2|40304
+278|640|Baseline||-7|43|128|297.67|6|40305
+279|619|Baseline||-7|59|420|711.86|2|40312
+280|715|Baseline||0|32|386|1206.25|2|40323
+281|177|Baseline||0|248|99|39.92|6|40332
+282|499|Baseline||0|67|161|240.30|9|40333
+283|302|Baseline||0|139|174|125.18|6|40342
+284|159|Baseline||0|74|1550|2094.59|8|40379
+285|321|2-3 Day Post Injection (Randomization)||2|168|243|144.64|7|40387
+286|572|Baseline||0|137|93|67.88|5|40395
+287|595|2-3 Day Post Injection (Randomization)|1||||||40406
+288|619|2-3 Day Post Injection (Randomization)||2|195|1030|528.21|9|40416
+289|86|2-3 Day Post Injection (8 week)||62|120|81|67.50|69|40417
+290|177|2-3 Day Post Injection (Randomization)||2|231|103|44.59|6|40424
+291|312|Baseline||0|128|287|224.22|4|40431
+292|810|Baseline||0|43|3|6.98|4|40432
+293|518|Baseline||0|185|852|460.54|7|40440
+294|197|Baseline||0|95|2830|2978.95|4|40441
+295|444|Baseline||0|69|14|20.29|7|40442
+296|561|Baseline||0|92|3|3.26|7|40452
+297|302|2-3 Day Post Injection (Randomization)||2|186|330|177.42|6|40461
+298|180|Baseline||0|136|13|9.56|11|40480
+299|444|2-3 Day Post Injection (Randomization)||1|55|5|9.09|7|40483
+300|715|2-3 Day Post Injection (Randomization)||3|70|1130|1614.29|9|40495
+301|159|2-3 Day Post Injection (Randomization)||2|145|3200|2206.90|8|40496
+302|75|Baseline||0|97|15|15.46|11|40507
+303|572|2-3 Day Post Injection (Randomization)||2|43|35|81.40|13|40512
+304|518|2-3 Day Post Injection (Randomization)||4|156|793|508.33|7|40516
+305|768|Baseline||0|75|2450|3266.67|3|40522
+306|50|2-3 Day Post Injection (8 week)||66|67|7|10.45|73|40533
+307|821|2-3 Day Post Injection (8 week)||66|54|555|1027.78|74|40536
+308|197|2-3 Day Post Injection (Randomization)||4|38|1370|3605.26|7|40538
+309|420|Baseline||0|103|48|46.60|2|40554
+310|432|Baseline||0|15|4|26.67|2|40561
+311|41|Baseline||0|116|219|188.79|2|40565
+312|263|Baseline||-5|115|48|41.74|7|40570
+313|319|Baseline||0|145|9990|6889.66|6|40584
+314|596|Baseline||0|153|24|15.69|6|40585
+315|357|2-3 Day Post Injection (4 week)||38|142|7|4.93|48|40586
+316|637|Baseline||0|84|1080|1285.71|6|40591
+317|768|2-3 Day Post Injection (Randomization)||2|88|2490|2829.55|8|40601
+318|527|Baseline||0|55|3|5.45|6|40602
+319|420|2-3 Day Post Injection (Randomization)||2|171|123|71.93|7|40614
+320|23|Baseline||0|55|3|5.45|7|40622
+321|405|2-3 Day Post Injection (4 week)||42|68|34|50.00|49|40623
+322|636|Baseline||0|61|29|47.54|5|40635
+323|165|Baseline||0|175|367|209.71|5|40637
+324|305|Baseline||-2|94|2810|2989.36|6|40663
+325|47|Baseline||0|197|543|275.63|6|40664
+326|102|2-3 Day Post Injection (8 week)||60|23|14|60.87|73|40680
+327|527|2-3 Day Post Injection (Randomization)||2|92|6|6.52|8|40682
+328|347|2-3 Day Post Injection (4 week)||30|68|545|801.47|36|40685
+329|192|2-3 Day Post Injection (4 week)||23|54|639|1183.33|29|40688
+330|636|2-3 Day Post Injection (Randomization)||4|114|65|57.02|7|40692
+331|599|2-3 Day Post Injection (4 week)||41|35|1||49|40697
+332|305|2-3 Day Post Injection (Randomization)||3|79|3390|4291.14|11|40715
+333|47|2-3 Day Post Injection (Randomization)||4|134|332|247.76|6|40735
+334|188|Baseline||0|121|2830|2338.84|2|40737
+335|179|Baseline||0|117|5|4.27|2|40753
+336|345|Baseline||0|34|10|29.41|7|40754
+337|818|Baseline||0|205|11300|5512.20|2|40756
+338|3|Baseline||0|223|102|45.74|9|40760
+339|125|Baseline||0|113|89|78.76|2|40768
+340|730|Baseline||0|132|643|487.12|6|40797
+341|686|Baseline||0|103|39|37.86|6|40800
+342|36|Baseline||0|63|143|226.98|6|40802
+343|112|Baseline||0|74|2080|2810.81|6|40818
+344|179|2-3 Day Post Injection (Randomization)||2|113|5|4.42|9|40828
+345|730|2-3 Day Post Injection (Randomization)||1|93|559|601.08|6|40829
+346|3|2-3 Day Post Injection (Randomization)||2|187|132|70.59|9|40830
+347|776|Baseline||0|19|3|15.79|14|40832
+348|743|Baseline||0|123|4|3.25|7|40834
+349|683|Baseline||0|231|268|116.02|7|40836
+350|345|2-3 Day Post Injection (Randomization)||2|102|26|25.49|7|40839
+351|237|Baseline||-3|106|652|615.09|5|40844
+352|212|Baseline||0|57|85|149.12|5|40845
+353|686|2-3 Day Post Injection (Randomization)||2|95|42|44.21|8|40851
+354|125|2-3 Day Post Injection (Randomization)||3|69|58|84.06|9|40859
+355|63|Baseline||0|17|2|11.76|8|40868
+356|188|2-3 Day Post Injection (Randomization)||2|100|3330|3330.00|9|40880
+357|237|2-3 Day Post Injection (Randomization)||4|40|250|625.00|7|40882
+358|112|2-3 Day Post Injection (Randomization)||2|48|1250|2604.17|8|40885
+359|298|Baseline||0|504|59|11.71|3|40890
+360|683|2-3 Day Post Injection (Randomization)||4|387|286|73.90|7|40892
+361|459|Baseline||0|104|4360|4192.31|2|40897
+362|373|Baseline||-4|109|2180|2000.00|2|40901
+363|184|Baseline||0|99|7|7.07|2|40908
+364|505|Baseline||0|59|94|159.32|2|40916
+365|369|Baseline||0|79|37|46.84|9|40918
+366|406|Baseline||0|134|7420|5537.31|9|40930
+367|462|Baseline||0|76|29|38.16|2|40934
+368|227|Baseline||-7|27|857|3174.07|2|40939
+369|51|Baseline||0|66|490|742.42|8|40953
+370|745|Baseline||0|93|614|660.22|8|40961
+371|33|Baseline||0|84|18|21.43|6|40962
+372|507|Baseline||0|30|66|220.00|6|40968
+373|184|2-3 Day Post Injection (Randomization)||2|116|7|6.03|7|40976
+374|373|2-3 Day Post Injection (Randomization)||2|93|1850|1989.25|9|40977
+375|800|Baseline||0|99|3140|3171.72|7|40997
+376|406|2-3 Day Post Injection (Randomization)||2|29|1770|6103.45|9|41000
+377|386|Baseline||0|330|1280|387.88|7|41002
+378|227|2-3 Day Post Injection (Randomization)||2|34|488|1435.29|7|41008
+379|298|2-3 Day Post Injection (Randomization)||3|247|78|31.58|8|41023
+380|487|Baseline||0|116|27|23.28|7|41026
+381|745|2-3 Day Post Injection (Randomization)||2|72|400|555.56|8|41031
+382|837|2-3 Day Post Injection (8 week)||63|39|2|5.13|83|41032
+383|462|2-3 Day Post Injection (Randomization)||3|68|7|10.29|13|41034
+384|17|Baseline||0|83|4|4.82|6|41042
+385|507|2-3 Day Post Injection (Randomization)||2|65|73|112.31|12|41046
+386|369|2-3 Day Post Injection (Randomization)||3|155|66|42.58|9|41051
+387|775|Baseline||0|145|62|42.76|25|41052
+388|459|2-3 Day Post Injection (Randomization)||3|84|2900|3452.38|7|41062
+389|800|2-3 Day Post Injection (Randomization)||1|22|909|4131.82|7|41067
+390|770|2-3 Day Post Injection (4 week)||29|68|11|16.18|35|41070
+391|162|Baseline||0|110|8|7.27|6|41072
+392|17|2-3 Day Post Injection (Randomization)||3|114|8|7.02|6|41091
+393|162|2-3 Day Post Injection (Randomization)||3|132|12|9.09|6|41118
+394|356|Baseline||0|46|1540|3347.83|16|41130
+395|703|Baseline||0|237|7590|3202.53|6|41137
+396|714|Baseline||0|55|12|21.82|2|41140
+397|478|Baseline||-7|121|1680|1388.43|6|41150
+398|660|Baseline||-4|49|4680|9551.02|2|41164
+399|468|Baseline||0|75|37|49.33|6|41165
+400|129|Baseline||0|79|10|12.66|5|41183
+401|131|Baseline||0|29|43|148.28|5|41188
+402|214|Baseline||0|81|39|48.15|13|41189
+403|557|Baseline||0|64|393|614.06|5|41191
+404|195|Baseline||0|20|698|3490.00|14|41228
+405|574|Baseline||0|42|53|126.19|4|41229
+406|468|2-3 Day Post Injection (Randomization)||2|50|23|46.00|6|41234
+407|478|2-3 Day Post Injection (Randomization)||3|244|772|316.39|8|41256
+408|557|2-3 Day Post Injection (Randomization)||2|78|368|471.79|7|41257
+409|266|Baseline||0|149|492|330.20|11|41264
+410|414|Baseline||0|65|309|475.38|11|41268
+411|812|Baseline||0|73|53|72.60|5|41273
+412|687|Baseline||0|63|9|14.29|5|41276
+413|131|2-3 Day Post Injection (Randomization)||2|44|58|131.82|5|41278
+414|574|2-3 Day Post Injection (Randomization)||1|47|45|95.74|6|41279
+415|702|Baseline||0|18|2|11.11|5|41281
+416|490|Baseline||0|113|15|13.27|5|41297
+417|660|2-3 Day Post Injection (Randomization)||3|72|6680|9277.78|16|41302
+418|682|Baseline||0|40|12|30.00|2|41313
+419|315|Baseline||0|48|4|8.33|2|41315
+420|499|2-3 Day Post Injection (4 week)||34|113|112|99.12|36|41318
+421|195|2-3 Day Post Injection (Randomization)||4|19|801|4215.79|14|41324
+422|687|2-3 Day Post Injection (Randomization)||3|42|5|11.90|5|41332
+423|812|2-3 Day Post Injection (Randomization)||3|126|190|150.79|5|41333
+424|559|Baseline||0|180|13|7.22|2|41335
+425|461|Baseline||0|231|448|193.94|7|41351
+426|834|Baseline||0|105|2300|2190.48|7|41353
+427|594|Baseline||-6|120|23|19.17|1|41362
+428|443|Baseline||0|133|7560|5684.21|9|41383
+429|235|Baseline||0|113|34|30.09|8|41418
+430|284|Baseline||0|38|51|134.21|6|41426
+431|559|2-3 Day Post Injection (Randomization)||2|137|9|6.57|8|41431
+432|432|2-3 Day Post Injection (4 week)||29|91|25|27.47|37|41436
+433|729|Baseline||0|61|15|24.59|8|41446
+434|834|2-3 Day Post Injection (Randomization)||2|94|1870|1989.36|9|41458
+435|334|Baseline||0|104|4|3.85|7|41468
+436|281|Baseline||0|68|60|88.24|5|41469
+437|185|Baseline||0|23|1||5|41481
+438|466|Baseline||0|29|1880|6482.76|7|41482
+439|461|2-3 Day Post Injection (Randomization)||2|198|664|335.35|9|41484
+440|281|2-3 Day Post Injection (Randomization)||1|30|41|136.67|7|41488
+441|319|2-3 Day Post Injection (4 week)||30|98|10200|10408.16|36|41489
+442|75|2-3 Day Post Injection (4 week)||35|78|29|37.18|41|41498
+443|446|Baseline||0|90|23|25.56|6|41499
+444|594|2-3 Day Post Injection (Randomization)||3|139|15|10.79|9|41500
+445|70|Baseline||0|68|23|33.82|6|41508
+446|763|Baseline||0|105|4|3.81|3|41530
+447|147|Baseline||0|94|157|167.02|3|41531
+448|465|Baseline||0|128|1900|1484.38|3|41533
+449|707|Baseline||0|89|867|974.16|3|41534
+450|172|Baseline||0|138|3030|2195.65|3|41544
+451|546|Baseline||0|137|8260|6029.20|3|41545
+452|435|Baseline||0|141|139|98.58|7|41551
+453|621|Baseline||0|66|18|27.27|7|41576
+454|756|Baseline||0|43|80|186.05|2|41585
+455|234|Baseline||0|138|159|115.22|2|41588
+456|37|Baseline||0|128|12|9.38|2|41594
+457|635|Baseline||0|114|27|23.68|2|41595
+458|215|Baseline||0|122|185|151.64|2|41596
+459|210|Baseline||0|83|3|3.61|6|41608
+460|513|2-3 Day Post Injection (8 week)||70|36|178|494.44|72|41611
+461|707|2-3 Day Post Injection (Randomization)||2|90|1150|1277.78|3|41613
+462|147|2-3 Day Post Injection (Randomization)||2|78|72|92.31|3|41618
+463|621|2-3 Day Post Injection (Randomization)||1|16|12|75.00|7|41636
+464|591|Baseline||0|86|4|4.65|8|41641
+465|172|2-3 Day Post Injection (Randomization)||2|128|2260|1765.63|3|41642
+466|328|Baseline||0|28|20|71.43|1|41645
+467|234|2-3 Day Post Injection (Randomization)||2|126|133|105.56|7|41650
+468|763|2-3 Day Post Injection (Randomization)||3|108|6|5.56|8|41657
+469|742|Baseline||-6|51|1860|3647.06|5|41664
+470|212|2-3 Day Post Injection (4 week)||28|92|93|101.09|33|41668
+471|477|Baseline||0|169|2270|1343.20|5|41681
+472|771|Baseline||0|122|19|15.57|6|41689
+473|164|2-3 Day Post Injection (8 week)||64|118|1100|932.20|70|41692
+474|477|2-3 Day Post Injection (Randomization)||1|122|1630|1336.07|5|41709
+475|215|2-3 Day Post Injection (Randomization)||3|56|120|214.29|9|41713
+476|635|2-3 Day Post Injection (Randomization)||3|48|6|12.50|9|41714
+477|546|2-3 Day Post Injection (Randomization)||4|65|3920|6030.77|10|41717
+478|216|Baseline||0|61|1790|2934.43|3|41738
+479|413|Baseline||0|103|9|8.74|3|41764
+480|528|Baseline||0|140|251|179.29|3|41765
+481|58|Baseline||0|79|9|11.39|4|41766
+482|524|Baseline||0|223|2430|1089.69|4|41767
+483|764|Baseline||0|115|46|40.00|2|41781
+484|413|2-3 Day Post Injection (Randomization)||1|78|4|5.13|3|41787
+485|591|2-3 Day Post Injection (Randomization)||2|89|6|6.74|8|41791
+486|814|Baseline||0|39|4|10.26|3|41798
+487|216|2-3 Day Post Injection (Randomization)||2|122|4170|3418.03|4|41809
+488|58|2-3 Day Post Injection (Randomization)||2|119|7|5.88|4|41835
+489|528|2-3 Day Post Injection (Randomization)||3|251|212|84.46|10|41857
+490|401|Baseline||0|101|7|6.93|5|41869
+491|208|Baseline||0|100|3|3.00|11|41878
+492|311|Baseline||0|33|172|521.21|7|41883
+493|33|2-3 Day Post Injection (4 week)||30|74|16|21.62|34|41889
+494|814|2-3 Day Post Injection (Randomization)||3|14|1||9|41891
+495|505|2-3 Day Post Injection (4 week)||31|107|79|73.83|37|41893
+496|776|2-3 Day Post Injection (4 week)||36|90|10|11.11|42|41899
+497|670|Baseline||-1|49|3|6.12|18|41919
+498|661|Baseline||-1|147|2740|1863.95|6|41921
+499|170|Baseline||0|69|1240|1797.10|6|41932
+500|290|2-3 Day Post Injection (8 week)||73|143|7|4.90|76|41934
+501|401|2-3 Day Post Injection (Randomization)||4|91|5|5.49|7|41941
+502|775|2-3 Day Post Injection (4 week)||31|186|211|113.44|34|41950
+503|661|2-3 Day Post Injection (Randomization)||3|133|3400|2556.39|6|41959
+504|110|Baseline||0|122|12|9.84|3|41975
+505|384|Baseline||0|78|17|21.79|3|41977
+506|170|2-3 Day Post Injection (Randomization)||3|75|1400|1866.67|10|41986
+507|384|2-3 Day Post Injection (Randomization)||1|143|34|23.78|3|41999
+508|509|Baseline||0|125|12|9.60|2|42002
+509|264|Baseline||0|27|206|762.96|6|42011
+510|772|Baseline||0|203|38|18.72|2|42023
+511|110|2-3 Day Post Injection (Randomization)||2|156|32|20.51|7|42040
+512|832|Baseline||0|58|1960|3379.31|5|42048
+513|548|Baseline||0|58|47|81.03|5|42058
+514|351|Baseline||0|24|1||5|42066
+515|391|Baseline||0|82|11|13.41|8|42071
+516|586|Baseline||0|36|12|33.33|5|42072
+517|144|Baseline||0|41|8|19.51|5|42079
+518|709|Baseline||0|77|2840|3688.31|5|42082
+519|703|2-3 Day Post Injection (4 week)||30|170|7410|4358.82|37|42101
+520|171|Baseline||0|80|33|41.25|7|42115
+521|509|2-3 Day Post Injection (Randomization)||2|194|16|8.25|6|42116
+522|612|Baseline||0|57|5|8.77|7|42141
+523|688|Baseline||0|47|117|248.94|6|42161
+524|521|Baseline||0|118|31|26.27|6|42162
+525|144|2-3 Day Post Injection (Randomization)||2|37|28|75.68|5|42163
+526|597|Baseline||0|29|4|13.79|6|42176
+527|264|2-3 Day Post Injection (Randomization)||3|69|482|698.55|9|42180
+528|267|Baseline||-3|71|766|1078.87|6|42182
+529|729|2-3 Day Post Injection (4 week)||23|104|9|8.65|29|42188
+530|597|2-3 Day Post Injection (Randomization)||3|78|27|34.62|6|42203
+531|612|2-3 Day Post Injection (Randomization)||4|32|3|9.38|7|42217
+532|389|Baseline||0|138|44|31.88|3|42219
+533|11|Baseline||0|114|38|33.33|8|42220
+534|561|2-3 Day Post Injection (8 week)||60|139|3|2.16|63|42227
+535|521|2-3 Day Post Injection (Randomization)||4|81|15|18.52|11|42237
+536|688|2-3 Day Post Injection (Randomization)||4|204|79|38.73|6|42242
+537|267|2-3 Day Post Injection (Randomization)||4|79|806|1020.25|11|42262
+538|126|Baseline||0|81|22|27.16|2|42269
+539|242|Baseline||0|63|4|6.35|2|42274
+540|485|Baseline||0|93|41|44.09|7|42276
+541|564|Baseline||0|141|328|232.62|7|42285
+542|344|Baseline||0|20|76|380.00|6|42295
+543|7|Baseline||0|235|1270|540.43|6|42316
+544|186|Baseline||-2|123|41|33.33|6|42327
+545|15|Baseline||-2|159|172|108.18|5|42333
+546|11|2-3 Day Post Injection (Randomization)||3|139|58|41.73|8|42335
+547|844|Baseline||0|136|6|4.41|7|42342
+548|486|Baseline||0|79|8|10.13|5|42343
+549|681|Baseline||0|90|626|695.56|5|42348
+550|242|2-3 Day Post Injection (Randomization)||2|39|3|7.69|7|42355
+551|54|Baseline||0|295|211|71.53|19|42359
+552|126|2-3 Day Post Injection (Randomization)||2|66|14|21.21|7|42360
+553|488|Baseline||0|144|40|27.78|19|42370
+554|485|2-3 Day Post Injection (Randomization)||3|104|35|33.65|7|42377
+555|344|2-3 Day Post Injection (Randomization)||2|74|487|658.11|6|42379
+556|334|2-3 Day Post Injection (4 week)||29|74|7|9.46|33|42381
+557|223|Baseline||0|105|13|12.38|4|42390
+558|41|2-3 Day Post Injection (8 week)||59|122|294|240.98|63|42396
+559|185|2-3 Day Post Injection (4 week)||29|32|3|9.38|35|42404
+560|193|Baseline||0|123|326|265.04|4|42413
+561|186|2-3 Day Post Injection (Randomization)||3|209|91|43.54|6|42417
+562|742|2-3 Day Post Injection (4 week)||25|24|770|3208.33|26|42418
+563|223|2-3 Day Post Injection (Randomization)||3|87|8|9.20|4|42424
+564|589|Baseline||0|81|4450|5493.83|1|42432
+565|120|Baseline||0||||1|42440
+566|486|2-3 Day Post Injection (Randomization)||4|190|11|5.79|5|42447
+567|510|Baseline||0|148|2830|1912.16|9|42449
+568|446|2-3 Day Post Injection (4 week)||31|100|16|16.00|32|42451
+569|336|Baseline||0|54|2100|3888.89|1|42454
+570|535|Baseline||0|180|79|43.89|9|42460
+571|580|Baseline||0|170|792|465.88|8|42475
+572|240|Baseline||0|91|3|3.30|2|42480
+573|61|Baseline||0|76|98|128.95|8|42486
+574|844|2-3 Day Post Injection (Randomization)||4|131|16|12.21|7|42499
+575|309|Baseline||0|50|1350|2700.00|8|42502
+576|120|2-3 Day Post Injection (Randomization)||2|63|3|4.76|9|42522
+577|178|Baseline||0|137|16|11.68|7|42539
+578|748|Baseline||0|14|6|42.86|7|42541
+579|175|Baseline||0|147|912|620.41|7|42548
+580|240|2-3 Day Post Injection (Randomization)||2|66|2|3.03|8|42553
+581|637|2-3 Day Post Injection (8 week)||64|136|556|408.82|70|42555
+582|465|2-3 Day Post Injection (4 week)||31|126|2190|1738.10|38|42566
+583|589|2-3 Day Post Injection (Randomization)||3|148|8740|5905.41|9|42575
+584|328|2-3 Day Post Injection (4 week)||29|112|45|40.18|35|42579
+585|37|2-3 Day Post Injection (4 week)||30|156|11|7.05|36|42585
+586|535|2-3 Day Post Injection (Randomization)||3|99|25|25.25|9|42594
+587|160|Baseline||-1|175|456|260.57|6|42596
+588|580|2-3 Day Post Injection (Randomization)||3|166|1040|626.51|8|42598
+589|178|2-3 Day Post Injection (Randomization)||2|183|16|8.74|7|42612
+590|756|2-3 Day Post Injection (4 week)||31|88|149|169.32|37|42613
+591|296|Baseline||0|98|11|11.22|5|42615
+592|731|Baseline||0|92|42|45.65|5|42618
+593|160|2-3 Day Post Injection (Randomization)||1|121|158|130.58|6|42626
+594|175|2-3 Day Post Injection (Randomization)||2|60|266|443.33|7|42627
+595|304|Baseline||0|194|15|7.73|6|42628
+596|309|2-3 Day Post Injection (Randomization)||3|54|1910|3537.04|8|42629
+597|731|2-3 Day Post Injection (Randomization)||3|131|41|31.30|5|42633
+598|296|2-3 Day Post Injection (Randomization)||3|191|23|12.04|6|42663
+599|467|Baseline||0|154|2700|1753.25|2|42674
+600|134|Baseline||0|182|35|19.23|2|42687
+601|767|Baseline||0|59|7|11.86|2|42688
+602|474|Baseline||27|139|59|42.45|36|42745
+603|394|Baseline||0|132|18|13.64|5|42764
+604|399|Baseline||0|111|2710|2441.44|5|42772
+605|135|Baseline||0|103|157|152.43|5|42785
+606|274|Baseline||0|202|11|5.45|5|42791
+607|129|2-3 Day Post Injection (8 week)||51|75|14|18.67|57|42803
+608|771|2-3 Day Post Injection (4 week)||35|172|29|16.86|41|42808
+609|22|Baseline||0|126|1970|1563.49|6|42816
+610|566|Baseline||0|20|10|50.00|11|42824
+611|116|Baseline||0|116|8290|7146.55|4|42832
+612|22|2-3 Day Post Injection (Randomization)||3|110|1760|1600.00|6|42842
+613|670|2-3 Day Post Injection (4 week)||31|112|10|8.93|34|42847
+614|616|Baseline||-4|85|153|180.00|3|42849
+615|394|2-3 Day Post Injection (Randomization)||4|71|28|39.44|7|42858
+616|208|2-3 Day Post Injection (4 week)||32|70|17|24.29|35|42859
+617|791|Baseline|1||||||42880
+618|434|Baseline||0|80|17|21.25|2|42914
+619|380|Baseline||0|34|1320|3882.35|2|42930
+620|63|2-3 Day Post Injection (8 week)||65|126|16|12.70|71|42947
+621|644|Baseline||0|44|13|29.55|6|42958
+622|721|Baseline||0|72|4|5.56|8|42962
+623|616|2-3 Day Post Injection (Randomization)||3|89|113|126.97|8|42985
+624|317|Baseline||0|185|17|9.19|7|42992
+625|817|Baseline||0|80|61|76.25|12|43000
+626|832|2-3 Day Post Injection (4 week)||29|82|1440|1756.10|36|43008
+627|365|Baseline||0|136|2830|2080.88|7|43019
+628|791|2-3 Day Post Injection (Randomization)|1||||||43020
+629|573|Baseline||0|66|369|559.09|7|43024
+630|253|Baseline||0|143|288|201.40|7|43028
+631|721|2-3 Day Post Injection (Randomization)||2|40|1||8|43045
+632|442|Baseline||-2|6|4|66.67|6|43050
+633|230|Baseline||0|25|1||4|43058
+634|488|2-3 Day Post Injection (4 week)||22|273|88|32.23|28|43060
+635|387|Baseline||0|28|1780|6357.14|4|43063
+636|443|2-3 Day Post Injection (8 week)||52|107|6700|6261.68|58|43064
+637|253|2-3 Day Post Injection (Randomization)||1|119|685|575.63|7|43069
+638|644|2-3 Day Post Injection (Randomization)||2|29|36|124.14|8|43073
+639|317|2-3 Day Post Injection (Randomization)||4|129|10|7.75|7|43076
+640|365|2-3 Day Post Injection (Randomization)||4|137|3800|2773.72|7|43077
+641|54|2-3 Day Post Injection (4 week)||25|474|377|79.54|28|43078
+642|224|Baseline||0|76|9|11.84|3|43093
+643|442|2-3 Day Post Injection (Randomization)||3|14|4|28.57|6|43095
+644|169|Baseline||0|119|24|20.17|3|43099
+645|727|Baseline||0|70|4|5.71|8|43112
+646|423|Baseline||0|172|17|9.88|3|43113
+647|685|Baseline||0|41|3|7.32|3|43118
+648|318|Baseline||0|143|6|4.20|2|43144
+649|230|2-3 Day Post Injection (Randomization)||4|22|1||11|43146
+650|540|Baseline||0|69|78|113.04|7|43169
+651|632|Baseline||0|117|3|2.56|2|43172
+652|702|2-3 Day Post Injection (8 week)||61|26|1||67|43190
+653|568|Baseline||0|85|51|60.00|9|43211
+654|145|Baseline||0|110|20|18.18|6|43224
+655|503|Baseline||0|36|4|11.11|6|43228
+656|817|2-3 Day Post Injection (Randomization)||4|162|98|60.49|12|43244
+657|540|2-3 Day Post Injection (Randomization)||2|132|74|56.06|7|43267
+658|25|Baseline||0|69|251|363.77|5|43270
+659|564|2-3 Day Post Injection (4 week)||30|128|606|473.44|35|43275
+660|256|Baseline||-3|143|8|5.59|26|43276
+661|145|2-3 Day Post Injection (Randomization)||1|73|13|17.81|6|43283
+662|389|2-3 Day Post Injection (4 week)||31|80|14|17.50|36|43293
+663|265|Baseline||0|37|51|137.84|5|43295
+664|318|2-3 Day Post Injection (Randomization)||2|66|9|13.64|7|43305
+665|423|2-3 Day Post Injection (Randomization)||3|132|17|12.88|8|43314
+666|568|2-3 Day Post Injection (Randomization)||2|226|116|51.33|9|43318
+667|503|2-3 Day Post Injection (Randomization)||2|52|||6|43319
+668|691|Baseline||0|130|9|6.92|4|43322
+669|633|Baseline||0|87|293|336.78|4|43335
+670|529|Baseline||0|103|2250|2184.47|4|43345
+671|753|Baseline||0|68|52|76.47|4|43347
+672|691|2-3 Day Post Injection (Randomization)||3|87|13|14.94|4|43354
+673|779|Baseline||0|109|4830|4431.19|1|43360
+674|91|Baseline||0|101|9|8.91|1|43369
+675|793|Baseline||0|100|299|299.00|1|43379
+676|306|Baseline||0|309|590|190.94|1|43382
+677|777|Baseline||0|95|325|342.11|1|43396
+678|741|Baseline||0|41|553|1348.78|3|43405
+679|500|Baseline||0|55|5170|9400.00|3|43419
+680|669|Baseline||0|198|728|367.68|7|43443
+681|793|2-3 Day Post Injection (Randomization)||2|94|162|172.34|4|43446
+682|163|Baseline|1||||||43474
+683|654|Baseline||0|247|8|3.24|6|43477
+684|81|Baseline||0|287|142|49.48|6|43478
+685|15|2-3 Day Post Injection (4 week)||35|148|162|109.46|40|43486
+686|81|2-3 Day Post Injection (Randomization)||1|229|146|63.76|6|43491
+687|654|2-3 Day Post Injection (Randomization)||1|103|3|2.91|6|43493
+688|820|Baseline||0|75|2070|2760.00|7|43499
+689|61|2-3 Day Post Injection (4 week)||30|123|310|252.03|37|43504
+690|80|Baseline||0|115|181|157.39|5|43511
+691|748|2-3 Day Post Injection (4 week)||29|53|13|24.53|41|43515
+692|669|2-3 Day Post Injection (Randomization)||2|74|76|102.70|7|43517
+693|741|2-3 Day Post Injection (Randomization)||3|38|365|960.53|9|43524
+694|500|2-3 Day Post Injection (Randomization)||3|64|5740|8968.75|9|43527
+695|163|2-3 Day Post Injection (Randomization)||2|53|49|92.45|8|43529
+696|7|2-3 Day Post Injection (4 week)||37|199|860|432.16|43|43530
+697|673|Baseline||0|140|155|110.71|4|43549
+698|502|Baseline||0|61|165|270.49|3|43568
+699|464|Baseline||0|13|1||3|43593
+700|225|Baseline||0|36|369|1025.00|3|43599
+701|137|Baseline||0|92|189|205.43|3|43603
+702|6|Baseline||0|153|269|175.82|2|43629
+703|788|Baseline||0|47|2440|5191.49|2|43649
+704|137|2-3 Day Post Injection (Randomization)||1|174|164|94.25|3|43651
+705|833|Baseline||0|60|2830|4716.67|2|43658
+706|502|2-3 Day Post Injection (Randomization)||2|65|180|276.92|10|43664
+707|258|Baseline||0|55|1320|2400.00|8|43674
+708|464|2-3 Day Post Injection (Randomization)||2|44|3|6.82|8|43679
+709|690|Baseline||0|76|86|113.16|6|43681
+710|225|2-3 Day Post Injection (Randomization)||2|91|468|514.29|10|43683
+711|514|Baseline||0|27|309|1144.44|6|43701
+712|392|Baseline||0|98|5|5.10|8|43706
+713|792|Baseline||0|82|6|7.32|6|43711
+714|690|2-3 Day Post Injection (Randomization)||1|136|38|27.94|6|43715
+715|549|Baseline||-2|73|139|190.41|5|43729
+716|625|Baseline||0|77|53|68.83|5|43732
+717|399|2-3 Day Post Injection (4 week)||28|90|2150|2388.89|33|43736
+718|833|2-3 Day Post Injection (Randomization)||2|67|2690|4014.93|7|43741
+719|750|Baseline||0|54|2130|3944.44|5|43746
+720|304|2-3 Day Post Injection (4 week)||34|226|104|46.02|41|43747
+721|699|Baseline||0|107|11|10.28|7|43762
+722|494|Baseline||0|25|1260|5040.00|5|43764
+723|258|2-3 Day Post Injection (Randomization)||2|96|1500|1562.50|8|43770
+724|524|2-3 Day Post Injection (8 week)||60|82|1130|1378.05|66|43772
+725|6|2-3 Day Post Injection (Randomization)||3|136|314|230.88|9|43773
+726|494|2-3 Day Post Injection (Randomization)||1|26|1160|4461.54|7|43780
+727|519|Baseline||0|86|48|55.81|6|43789
+728|734|Baseline||0|27|18|66.67|6|43796
+729|622|Baseline||0|74|93|125.68|6|43808
+730|788|2-3 Day Post Injection (Randomization)||3|66|3120|4727.27|7|43809
+731|514|2-3 Day Post Injection (Randomization)||2|97|855|881.44|8|43814
+732|792|2-3 Day Post Injection (Randomization)||2|160|34|21.25|8|43817
+733|332|Baseline||0|58|1530|2637.93|11|43818
+734|750|2-3 Day Post Injection (Randomization)||4|60|1790|2983.33|7|43819
+735|519|2-3 Day Post Injection (Randomization)||3|51|45|88.24|6|43820
+736|622|2-3 Day Post Injection (Randomization)||3|90|164|182.22|6|43821
+737|549|2-3 Day Post Injection (Randomization)||4|76|212|278.95|7|43823
+738|625|2-3 Day Post Injection (Randomization)||4|82|75|91.46|7|43828
+739|88|Baseline||0|48|852|1775.00|2|43867
+740|355|Baseline||0|99|65|65.66|7|43877
+741|734|2-3 Day Post Injection (Randomization)||4|45|30|66.67|11|43886
+742|249|Baseline||0|122|150|122.95|7|43888
+743|291|Baseline||0|53|379|715.09|7|43904
+744|205|Baseline||0|19|1||9|43910
+745|482|Baseline||0|23|4|17.39|6|43930
+746|608|Baseline||0|59|9|15.25|6|43949
+747|355|2-3 Day Post Injection (Randomization)||2|111|82|73.87|7|43963
+748|380|2-3 Day Post Injection (4 week)||30|45|||35|43965
+749|249|2-3 Day Post Injection (Randomization)||2|155|143|92.26|9|43975
+750|104|Baseline||0|306|||5|43979
+751|291|2-3 Day Post Injection (Randomization)||2|62|381|614.52|7|43994
+752|773|Baseline||0|80|14|17.50|12|43995
+753|269|Baseline||-8|73|6|8.22|11|43998
+754|88|2-3 Day Post Injection (Randomization)||3|100|1220|1220.00|9|44000
+755|283|Baseline||0|117|17|14.53|6|44010
+756|482|2-3 Day Post Injection (Randomization)||2|112|27|24.11|8|44014
+757|398|Baseline||-8|47|1850|3936.17|11|44025
+758|219|Baseline||0|66|100|151.52|11|44033
+759|205|2-3 Day Post Injection (Randomization)||3|26|3|11.54|9|44036
+760|187|Baseline||-1|81|310|382.72|6|44043
+761|173|Baseline||0|99|1140|1151.52|6|44045
+762|495|Baseline||0|52|1960|3769.23|6|44047
+763|104|2-3 Day Post Injection (Randomization)||4|176|379|215.34|7|44051
+764|269|2-3 Day Post Injection (Randomization)||3|191|29|15.18|11|44052
+765|398|2-3 Day Post Injection (Randomization)||3|28|603|2153.57|11|44055
+766|283|2-3 Day Post Injection (Randomization)||3|99|9|9.09|6|44059
+767|219|2-3 Day Post Injection (Randomization)||3|84|180|214.29|11|44063
+768|187|2-3 Day Post Injection (Randomization)||3|30|42|140.00|6|44075
+769|664|Baseline||0|85|3080|3623.53|8|44087
+770|556|Baseline||0|29|221|762.07|3|44090
+771|556|2-3 Day Post Injection (Randomization)||1|22|106|481.82|3|44114
+772|383|Baseline||0|58|908|1565.52|2|44115
+773|387|2-3 Day Post Injection (4 week)||32|62|2800|4516.13|34|44128
+774|89|Baseline||0|159|732|460.38|2|44140
+775|582|Baseline||0|74|37|50.00|2|44153
+776|168|Baseline||0|63|20|31.75|6|44168
+777|600|Baseline||0|145|97|66.90|6|44176
+778|839|Baseline||0|154|88|57.14|7|44198
+779|651|Baseline||0|71|27|38.03|6|44199
+780|445|Baseline||0|57|205|359.65|6|44202
+781|558|Baseline||0|105|933|888.57|6|44209
+782|383|2-3 Day Post Injection (Randomization)||2|63|813|1290.48|7|44221
+783|674|Baseline||0|151|39|25.83|5|44234
+784|779|2-3 Day Post Injection (4 week)||24|110|3930|3572.73|29|44235
+785|132|Baseline||0|22|3|13.64|5|44247
+786|322|Baseline||0|21|3|14.29|5|44251
+787|455|Baseline||0|84|10|11.90|28|44269
+788|608|2-3 Day Post Injection (Randomization)||2|202|62|30.69|13|44270
+789|89|2-3 Day Post Injection (Randomization)||3|43|319|741.86|8|44272
+790|777|2-3 Day Post Injection (4 week)||24|141|623|441.84|29|44273
+791|674|2-3 Day Post Injection (Randomization)||1|94|85|90.43|6|44274
+792|445|2-3 Day Post Injection (Randomization)||2|70|188|268.57|6|44282
+793|724|Baseline||0|96|4180|4354.17|4|44289
+794|471|Baseline|1||||||44293
+795|657|Baseline||0|61|659|1080.33|5|44295
+796|839|2-3 Day Post Injection (Randomization)||2|274|147|53.65|7|44301
+797|585|Baseline||0|178|21|11.80|5|44305
+798|322|2-3 Day Post Injection (Randomization)||4|102|3|2.94|6|44310
+799|657|2-3 Day Post Injection (Randomization)||3|60|443|738.33|5|44320
+800|379|Baseline||0|35|769|2197.14|2|44338
+801|25|2-3 Day Post Injection (4 week)||32|61|211|345.90|34|44342
+802|680|Baseline||-5|192|51|26.56|2|44356
+803|585|2-3 Day Post Injection (Randomization)||4|78|22|28.21|11|44360
+804|397|Baseline||0|68|48|70.59|1|44381
+805|388|Baseline||0|231|1180|510.82|9|44419
+806|331|Baseline||0|37|3|8.11|7|44420
+807|719|Baseline||0|125|1520|1216.00|6|44428
+808|481|Baseline||0|123|100|81.30|8|44434
+809|169|2-3 Day Post Injection (4 week)||37|137|24|17.52|43|44435
+810|680|2-3 Day Post Injection (Randomization)||2|179|67|37.43|17|44450
+811|439|Baseline||0|177|7|3.95|6|44461
+812|623|Baseline||0|200|126|63.00|6|44467
+813|628|Baseline||0|68|12|17.65|8|44474
+814|259|Baseline||0|45|1||6|44475
+815|38|Baseline||0|50|1||7|44499
+816|280|Baseline||0|87|809|929.89|5|44505
+817|390|Baseline||0|44|42|95.45|5|44510
+818|379|2-3 Day Post Injection (Randomization)||3|59|945|1601.69|8|44511
+819|390|2-3 Day Post Injection (Randomization)||1|99|91|91.92|7|44540
+820|481|2-3 Day Post Injection (Randomization)||2|86|86|100.00|8|44542
+821|820|2-3 Day Post Injection (4 week)||29|109|1230|1128.44|35|44546
+822|719|2-3 Day Post Injection (Randomization)||2|72|1060|1472.22|8|44548
+823|38|2-3 Day Post Injection (Randomization)||1|122|6|4.92|7|44556
+824|429|Baseline||0|194|7|3.61|11|44558
+825|545|Baseline||0|111|6|5.41|6|44563
+826|259|2-3 Day Post Injection (Randomization)||2|52|3|5.77|8|44565
+827|350|Baseline||0|80|5000|6250.00|3|44577
+828|545|2-3 Day Post Injection (Randomization)||4|122|11|9.02|6|44613
+829|66|Baseline||0|46|61|132.61|2|44635
+830|614|Baseline||0|142|27|19.01|6|44657
+831|292|Baseline||0|178|357|200.56|6|44660
+832|67|Baseline||0|32|7|21.88|6|44672
+833|393|Baseline||0|29|6|20.69|5|44695
+834|190|Baseline||0|142|201|141.55|14|44720
+835|767|2-3 Day Post Injection (8 week)||58|17|3|17.65|63|44727
+836|668|Baseline||0|88|13|14.77|5|44728
+837|438|Baseline||0|159|5420|3408.81|7|44731
+838|292|2-3 Day Post Injection (Randomization)||2|111|126|113.51|6|44741
+839|350|2-3 Day Post Injection (Randomization)||4|63|3730|5920.63|8|44743
+840|67|2-3 Day Post Injection (Randomization)||2|123|70|56.91|8|44750
+841|325|Baseline||-1|44|385|875.00|6|44759
+842|539|Baseline||0|47|28|59.57|6|44764
+843|676|Baseline||0|22|323|1468.18|3|44793
+844|325|2-3 Day Post Injection (Randomization)||3|38|319|839.47|6|44796
+845|393|2-3 Day Post Injection (Randomization)||4|22|1||7|44798
+846|333|Baseline||0|200|23|11.50|8|44804
+847|668|2-3 Day Post Injection (Randomization)||4|142|15|10.56|7|44815
+848|190|2-3 Day Post Injection (Randomization)||4|87|101|116.09|14|44816
+849|438|2-3 Day Post Injection (Randomization)||4|112|4090|3651.79|7|44821
+850|539|2-3 Day Post Injection (Randomization)||3|147|40|27.21|6|44822
+851|353|Baseline||0|86|86|100.00|2|44848
+852|631|Baseline||0|225|791|351.56|7|44874
+853|700|Baseline||0|81|12|14.81|7|44876
+854|42|Baseline||0|97|3|3.09|6|44906
+855|847|Baseline||0|94|19|20.21|6|44922
+856|695|Baseline||0|70|38|54.29|8|44929
+857|676|2-3 Day Post Injection (Randomization)||3|26|276|1061.54|10|44953
+858|631|2-3 Day Post Injection (Randomization)||2|199|645|324.12|7|44967
+859|173|2-3 Day Post Injection (4 week)||27|53|838|1581.13|32|44970
+860|677|Baseline||0|185|48|25.95|12|44979
+861|558|2-3 Day Post Injection (4 week)||22|108|670|620.37|27|44984
+862|695|2-3 Day Post Injection (Randomization)||1|201|75|37.31|8|44985
+863|353|2-3 Day Post Injection (Randomization)||2|197|80|40.61|7|44989
+864|287|Baseline||0|21|12|57.14|12|44992
+865|454|Baseline||0|73|151|206.85|7|44994
+866|434|2-3 Day Post Injection (8 week)||59|77|8|10.39|65|45003
+867|684|Baseline||0|45|48|106.67|11|45024
+868|14|Baseline||0|122|30|24.59|13|45025
+869|677|2-3 Day Post Injection (Randomization)||4|164|30|18.29|12|45043
+870|648|Baseline||0|72|5|6.94|3|45056
+871|449|Baseline||0|37|235|635.14|3|45060
+872|495|2-3 Day Post Injection (4 week)||31|75|1820|2426.67|34|45063
+873|332|2-3 Day Post Injection (4 week)||38|55|3430|6236.36|46|45082
+874|454|2-3 Day Post Injection (Randomization)||4|74|69|93.24|12|45104
+875|62|Baseline||0|135|1560|1155.56|2|45108
+876|96|Baseline||0|110|7150|6500.00|2|45139
+877|82|Baseline||0|137|56|40.88|14|45142
+878|346|Baseline||0|58|1400|2413.79|7|45145
+879|128|Baseline||0|130|942|724.62|7|45146
+880|418|Baseline||0|139|110|79.14|8|45162
+881|799|Baseline||0|45|24|53.33|6|45165
+882|449|2-3 Day Post Injection (Randomization)||2|216|241|111.57|8|45179
+883|123|Baseline||0|83|14900|17951.81|6|45191
+884|92|Baseline||0|26|68|261.54|8|45201
+885|418|2-3 Day Post Injection (Randomization)||1|130|91|70.00|8|45204
+886|533|Baseline||0|174|24|13.79|7|45225
+887|346|2-3 Day Post Injection (Randomization)||2|100|1540|1540.00|7|45239
+888|804|Baseline||0|34|9|26.47|5|45244
+889|56|Baseline||0|248|168|67.74|5|45252
+890|648|2-3 Day Post Injection (Randomization)||3|176|11|6.25|10|45261
+891|132|2-3 Day Post Injection (4 week)||29|110|12|10.91|35|45264
+892|795|Baseline||0|103|3120|3029.13|6|45266
+893|306|2-3 Day Post Injection (8 week)||53|101|78|77.23|59|45271
+894|96|2-3 Day Post Injection (Randomization)||3|87|4670|5367.82|9|45275
+895|457|Baseline||0|49|872|1779.59|6|45287
+896|664|2-3 Day Post Injection (4 week)||32|28|950|3392.86|38|45288
+897|522|Baseline||0|55|330|600.00|6|45289
+898|62|2-3 Day Post Injection (Randomization)||3|99|1460|1474.75|9|45292
+899|727|2-3 Day Post Injection (8 week)||60|60|2|3.33|66|45304
+900|799|2-3 Day Post Injection (Randomization)||2|80|11|13.75|8|45305
+901|123|2-3 Day Post Injection (Randomization)||2|86|16100|18720.93|8|45309
+902|92|2-3 Day Post Injection (Randomization)||2|77|105|136.36|8|45310
+903|795|2-3 Day Post Injection (Randomization)||3|89|3270|3674.16|6|45313
+904|457|2-3 Day Post Injection (Randomization)||3|67|1320|1970.15|6|45314
+905|82|2-3 Day Post Injection (Randomization)||6|108|6|5.56|14|45319
+906|522|2-3 Day Post Injection (Randomization)||3|98|708|722.45|11|45327
+907|758|Baseline||0|205|303|147.80|8|45337
+908|421|Baseline||-7|57|3|5.26|-4|45342
+909|56|2-3 Day Post Injection (Randomization)||4|78|104|133.33|7|45347
+910|376|Baseline||0|195|88|45.13|8|45354
+911|804|2-3 Day Post Injection (Randomization)||4|125|45|36.00|7|45358
+912|103|Baseline||0|242|480|198.35|2|45381
+913|419|Baseline||0|108|7|6.48|7|45386
+914|31|Baseline||0|73|7|9.59|2|45397
+915|376|2-3 Day Post Injection (Randomization)||1|160|80|50.00|8|45426
+916|706|Baseline||0|31|828|2670.97|6|45452
+917|91|2-3 Day Post Injection (8 week)||58|69|6|8.70|64|45454
+918|133|Baseline||0|111|12|10.81|6|45481
+919|103|2-3 Day Post Injection (Randomization)||2|114|208|182.46|7|45502
+920|705|Baseline||0|75|182|242.67|5|45523
+921|520|Baseline||0|18|551|3061.11|7|45524
+922|582|2-3 Day Post Injection (4 week)||37|165|6|3.64|44|45525
+923|133|2-3 Day Post Injection (Randomization)||2|140|34|24.29|6|45532
+924|706|2-3 Day Post Injection (Randomization)||2|69|1390|2014.49|8|45537
+925|256|2-3 Day Post Injection (8 week)||64|165|6|3.64|70|45565
+926|80|2-3 Day Post Injection (8 week)||60|227|79|34.80|63|45584
+927|289|Baseline||0|307|29|9.45|3|45585
+928|705|2-3 Day Post Injection (Randomization)|1||||||45587
+929|479|Baseline||0|71|12|16.90|3|45597
+930|289|2-3 Day Post Injection (Randomization)||2|330|34|10.30|8|45654
+931|476|Baseline||0|242|166|68.60|6|45666
+932|370|Baseline||0|54|1950|3611.11|6|45678
+933|794|Baseline||0|172|125|72.67|6|45685
+934|723|Baseline||0|172|256|148.84|6|45699
+935|566|2-3 Day Post Injection (8 week)||62|63|27|42.86|88|45738
+936|447|Baseline||0|77|23|29.87|5|45742
+937|628|2-3 Day Post Injection (4 week)||36|40|10|25.00|41|45749
+938|288|Baseline||0|276|14|5.07|5|45759
+939|404|Baseline||0|42|398|947.62|5|45784
+940|516|Baseline||0|207|363|175.36|5|45803
+941|840|Baseline||-3|55|1150|2090.91|5|45805
+942|447|2-3 Day Post Injection (Randomization)||1|33|10|30.30|5|45808
+943|333|2-3 Day Post Injection (4 week)||25|97|16|16.49|29|45817
+944|337|Baseline||0|93|3|3.23|13|45828
+945|723|2-3 Day Post Injection (Randomization)||2|232|275|118.53|6|45829
+946|652|Baseline||0|225|119|52.89|7|45837
+947|828|Baseline||0|132|522|395.45|4|45843
+948|516|2-3 Day Post Injection (Randomization)||1|365|503|137.81|5|45849
+949|431|Baseline|1||||||45871
+950|828|2-3 Day Post Injection (Randomization)||3|173|527|304.62|4|45872
+951|824|Baseline||0|168|10|5.95|4|45873
+952|840|2-3 Day Post Injection (Randomization)||4|122|2010|1647.54|5|45880
+953|652|2-3 Day Post Injection (Randomization)||3|127|84|66.14|7|45885
+954|374|Baseline||0|105|11|10.48|1|45892
+955|396|Baseline||0|102|12|11.76|9|45921
+956|293|Baseline||0|192|1||8|45955
+957|191|Baseline||0|265|5180|1954.72|8|45968
+958|374|2-3 Day Post Injection (Randomization)||2|164|27|16.46|10|45970
+959|14|2-3 Day Post Injection (4 week)||26|93|17|18.28|39|45974
+960|684|2-3 Day Post Injection (4 week)||26|54|58|107.41|34|45978
+961|191|2-3 Day Post Injection (Randomization)||2|51|1060|2078.43|8|45993
+962|824|2-3 Day Post Injection (Randomization)||4|93|7|7.53|15|45998
+963|136|Baseline||0|48|4|8.33|3|46019
+964|339|Baseline||0|179|198|110.61|3|46035
+965|757|Baseline||0|90|2|2.22|3|46057
+966|728|Baseline||0|97|110|113.40|3|46060
+967|303|Baseline||0|43|693|1611.63|8|46061
+968|663|Baseline||0|29|9|31.03|2|46063
+969|107|Baseline||0|54|973|1801.85|7|46082
+970|827|Baseline||0|53|23|43.40|7|46097
+971|786|Baseline||0|123|37|30.08|2|46098
+972|166|Baseline||0|84|25|29.76|2|46104
+973|95|Baseline||0|89|52|58.43|7|46118
+974|24|Baseline||0|227|135|59.47|7|46122
+975|314|Baseline||0|140|19|13.57|6|46135
+976|330|Baseline||0|49|4|8.16|6|46145
+977|815|Baseline||0|237|34|14.35|6|46150
+978|90|Baseline||0|54|1650|3055.56|6|46169
+979|593|Baseline||0|57|329|577.19|8|46176
+980|439|2-3 Day Post Injection (8 week)||50|274|13|4.74|55|46178
+981|136|2-3 Day Post Injection (Randomization)||3|181|31|17.13|15|46179
+982|827|2-3 Day Post Injection (Randomization)||2|103|36|34.95|7|46185
+983|24|2-3 Day Post Injection (Randomization)||2|46|45|97.83|7|46199
+984|728|2-3 Day Post Injection (Randomization)||3|21|23|109.52|8|46216
+985|303|2-3 Day Post Injection (Randomization)||3|145|992|684.14|8|46225
+986|314|2-3 Day Post Injection (Randomization)||2|148|12|8.11|8|46230
+987|330|2-3 Day Post Injection (Randomization)||2|123|11|8.94|13|46233
+988|377|Baseline||0|144|53|36.81|11|46234
+989|335|Baseline||0|47|10|21.28|6|46252
+990|150|Baseline||0|28|3|10.71|6|46264
+991|593|2-3 Day Post Injection (Randomization)||2|99|315|318.18|8|46273
+992|93|Baseline||-3|123|140|113.82|11|46275
+993|335|2-3 Day Post Injection (Randomization)||3|53|12|22.64|6|46290
+994|155|Baseline||0|48|8|16.67|24|46295
+995|367|Baseline||0|120|8|6.67|8|46302
+996|542|Baseline||0|68|872|1282.35|9|46351
+997|140|Baseline||0|123|291|236.59|9|46359
+998|248|Baseline||0|74|30|40.54|7|46387
+999|372|Baseline||0|230|33|14.35|6|46390
+1000|2|Baseline||0|65|141|216.92|6|46398
+1001|649|Baseline||0|338|57|16.86|6|46411
+1002|239|Baseline||0|122|6|4.92|8|46420
+1003|655|Baseline||0|94|5|5.32|6|46423
+1004|816|Baseline||0|109|288|264.22|8|46432
+1005|427|Baseline||-6|50|2760|5520.00|6|46433
+1006|785|Baseline||-6|87|31|35.63|5|46462
+1007|554|Baseline||0|91|1820|2000.00|5|46483
+1008|421|2-3 Day Post Injection (4 week)||31|131|9|6.87|36|46493
+1009|372|2-3 Day Post Injection (Randomization)||1|121|3|2.48|8|46498
+1010|553|Baseline||0|43|23|53.49|7|46499
+1011|52|Baseline||0|64|6|9.38|7|46501
+1012|746|Baseline||0|87|12|13.79|5|46506
+1013|140|2-3 Day Post Injection (Randomization)||3|139|262|188.49|9|46524
+1014|427|2-3 Day Post Injection (Randomization)||2|17|1100|6470.59|6|46530
+1015|411|Baseline||0|28|232|828.57|11|46544
+1016|359|Baseline||0|88|30|34.09|6|46548
+1017|239|2-3 Day Post Injection (Randomization)||2|113|9|7.96|8|46556
+1018|331|2-3 Day Post Injection (8 week)||59|38|4|10.53|79|46560
+1019|790|Baseline||0|56|15|26.79|20|46566
+1020|655|2-3 Day Post Injection (Randomization)||2|103|11|10.68|8|46567
+1021|31|2-3 Day Post Injection (4 week)||31|77|7|9.09|35|46572
+1022|808|Baseline||0|20|8|40.00|3|46580
+1023|746|2-3 Day Post Injection (Randomization)||4|107|11|10.28|7|46584
+1024|758|2-3 Day Post Injection (4 week)||35|278|594|213.67|38|46589
+1025|642|Baseline||0|38|3290|8657.89|3|46598
+1026|751|Baseline||0|242|36|14.88|8|46599
+1027|411|2-3 Day Post Injection (Randomization)||3|60|617|1028.33|11|46607
+1028|455|2-3 Day Post Injection (8 week)||67|122|20|16.39|84|46613
+1029|359|2-3 Day Post Injection (Randomization)||3|86|16|18.60|6|46616
+1030|663|2-3 Day Post Injection (Randomization)||13|115|47|40.87|16|46617
+1031|84|Baseline||0|129|1070|829.46|3|46618
+1032|329|Baseline||0|55|3|5.45|7|46647
+1033|111|Baseline||0|66|2910|4409.09|2|46665
+1034|436|Baseline||0|154|8|5.19|6|46689
+1035|740|Baseline||0|98|3|3.06|8|46698
+1036|560|Baseline||0|441|213|48.30|8|46711
+1037|55|Baseline||0|31|46|148.39|8|46728
+1038|642|2-3 Day Post Injection (Randomization)||2|37|2670|7216.22|10|46734
+1039|358|Baseline||-2|126|33|26.19|6|46738
+1040|650|Baseline||0|65|172|264.62|6|46740
+1041|262|Baseline||0|138|35|25.36|6|46741
+1042|101|Baseline||0|162|52|32.10|7|46759
+1043|551|Baseline||0|68|10|14.71|5|46769
+1044|623|2-3 Day Post Injection (8 week)||64|112|64|57.14|69|46782
+1045|388|2-3 Day Post Injection (8 week)||65|160|372|232.50|77|46784
+1046|275|Baseline||0|29|4|13.79|12|46793
+1047|40|Baseline||0|79|8|10.13|5|46794
+1048|609|Baseline||0|89|832|934.83|12|46803
+1049|436|2-3 Day Post Injection (Randomization)||2|184|13|7.07|6|46807
+1050|740|2-3 Day Post Injection (Randomization)||2|129|4|3.10|8|46811
+1051|262|2-3 Day Post Injection (Randomization)||2|127|32|25.20|6|46812
+1052|211|Baseline||0|48|5|10.42|13|46817
+1053|794|2-3 Day Post Injection (4 week)||30|195|84|43.08|36|46823
+1054|55|2-3 Day Post Injection (Randomization)||2|120|113|94.17|8|46836
+1055|417|Baseline||0|41|13|31.71|7|46895
+1056|761|Baseline||0|91|21|23.08|2|46899
+1057|843|Baseline||0|120|156|130.00|2|46900
+1058|151|Baseline||0|43|2360|5488.37|2|46901
+1059|501|Baseline||0|80|13|16.25|7|46905
+1060|806|Baseline||0|111|2790|2513.51|7|46921
+1061|122|Baseline||0|63|447|709.52|7|46933
+1062|588|Baseline||0|56|340|607.14|6|46951
+1063|501|2-3 Day Post Injection (Randomization)||1|81|14|17.28|7|46967
+1064|428|Baseline||0|57|498|873.68|6|46978
+1065|417|2-3 Day Post Injection (Randomization)||2|69|14|20.29|7|46989
+1066|836|Baseline||0|97|29|29.90|5|46999
+1067|843|2-3 Day Post Injection (Randomization)||2|132|131|99.24|7|47001
+1068|761|2-3 Day Post Injection (Randomization)||2|44|22|50.00|7|47005
+1069|122|2-3 Day Post Injection (Randomization)||2|117|676|577.78|14|47024
+1070|697|Baseline||0|190|49|25.79|5|47028
+1071|257|Baseline||0|126|51|40.48|6|47046
+1072|806|2-3 Day Post Injection (Randomization)||3|319|4760|1492.16|14|47061
+1073|78|Baseline||0|72|1610|2236.11|6|47066
+1074|469|Baseline||0|136|2390|1757.35|6|47071
+1075|203|Baseline||0|202|10|4.95|3|47089
+1076|469|2-3 Day Post Injection (Randomization)||3|101|1940|1920.79|6|47092
+1077|697|2-3 Day Post Injection (Randomization)||4|152|43|28.29|7|47102
+1078|757|2-3 Day Post Injection (4 week)||28|650|28|4.31|31|47108
+1079|409|Baseline||0|47|25|53.19|3|47119
+1080|97|Baseline||-1|183|620|338.80|2|47161
+1081|93|2-3 Day Post Injection (4 week)||25|97|126|129.90|34|47167
+1082|153|Baseline||0|119|88|73.95|2|47180
+1083|658|Baseline||0|59|29|49.15|7|47186
+1084|375|Baseline||0|130|6|4.62|7|47213
+1085|712|Baseline||0|137|47|34.31|9|47218
+1086|203|2-3 Day Post Injection (Randomization)||2|256|29|11.33|8|47220
+1087|645|Baseline||0|76|86|113.16|6|47239
+1088|409|2-3 Day Post Injection (Randomization)||2|65|71|109.23|8|47265
+1089|194|Baseline||0|95|173|182.11|6|47266
+1090|842|Baseline||0|40|92|230.00|6|47274
+1091|530|Baseline||0|134|493|367.91|6|47279
+1092|590|Baseline||0|156|41|26.28|6|47282
+1093|584|Baseline||0|102|6|5.88|6|47284
+1094|189|Baseline||0|55|862|1567.27|6|47286
+1095|807|Baseline||0|82|779|950.00|7|47323
+1096|174|Baseline||0|43|4200|9767.44|12|47334
+1097|10|Baseline||0|29|2260|7793.10|7|47335
+1098|364|Baseline||0|120|11|9.17|12|47336
+1099|732|Baseline||0|102|433|424.51|1|47337
+1100|630|Baseline||0|125|188|150.40|7|47343
+1101|377|2-3 Day Post Injection (4 week)||28|126|115|91.27|34|47344
+1102|530|2-3 Day Post Injection (Randomization)||2|149|723|485.23|8|47346
+1103|412|Baseline||0|203|11|5.42|6|47353
+1104|87|Baseline||0|54|17|31.48|6|47357
+1105|10|2-3 Day Post Injection (Randomization)||4|57|3660|6421.05|7|47358
+1106|412|2-3 Day Post Injection (Randomization)||3|122|6|4.92|6|47376
+1107|87|2-3 Day Post Injection (Randomization)||3|343|214|62.39|6|47390
+1108|245|Baseline||0|140|129|92.14|3|47402
+1109|245|2-3 Day Post Injection (Randomization)||1|108|97|89.81|3|47410
+1110|252|Baseline||0|50|27|54.00|2|47439
+1111|816|2-3 Day Post Injection (4 week)||27|117|169|144.44|29|47451
+1112|44|Baseline||0|56|10|17.86|9|47452
+1113|550|Baseline||0|124|2250|1814.52|2|47454
+1114|402|Baseline||0|129|14|10.85|7|47468
+1115|781|Baseline||0|73|281|384.93|6|47493
+1116|246|Baseline||0|78|7|8.97|6|47495
+1117|323|Baseline||0|149|9|6.04|6|47502
+1118|272|Baseline||0|334|390|116.77|6|47506
+1119|252|2-3 Day Post Injection (Randomization)||2|69|84|121.74|7|47554
+1120|117|Baseline||0|104|8|7.69|5|47558
+1121|323|2-3 Day Post Injection (Randomization)||1|66|5|7.58|6|47575
+1122|226|Baseline||0|35|1||5|47581
+1123|647|Baseline||0|21|77|366.67|18|47597
+1124|272|2-3 Day Post Injection (Randomization)||2|88|21|23.86|8|47599
+1125|44|2-3 Day Post Injection (Randomization)||3|17|9|52.94|9|47601
+1126|358|2-3 Day Post Injection (4 week)||23|70|24|34.29|29|47617
+1127|532|Baseline||0|152|14|9.21|3|47660
+1128|790|2-3 Day Post Injection (4 week)||28|426|83|19.48|39|47711
+1129|647|2-3 Day Post Injection (Randomization)||3|70|241|344.29|6|47720
+1130|367|2-3 Day Post Injection (4 week)||37|97|5|5.15|43|47762
+1131|329|2-3 Day Post Injection (4 week)||29|78|5|6.41|42|47796
+1132|111|2-3 Day Post Injection (4 week)||29|73|1930|2643.84|35|47800
+1133|532|2-3 Day Post Injection (Randomization)||2|173|21|12.14|8|47801
+1134|84|2-3 Day Post Injection (4 week)||30|91|586|643.96|36|47813
+1135|181|52 week||365|42|342|814.29|372|47830
+1136|650|2-3 Day Post Injection (4 week)||30|70|106|151.43|36|47891
+1137|118|Baseline||0|84|106|126.19|6|47895
+1138|504|52 week||366|94|9|9.57|377|47896
+1139|479|2-3 Day Post Injection (8 week)||63|64|4|6.25|66|47916
+1140|118|2-3 Day Post Injection (Randomization)||3|88|109|123.86|25|47958
+1141|130|Baseline||0|29|4|13.79|6|47998
+1142|130|2-3 Day Post Injection (Randomization)||2|19|3|15.79|13|48081
+1143|65|52 week|1||||||48118
+1144|693|52 week||364|54|1||371|48184
+1145|615|52 week||364|77|9|11.69|370|48211
+1146|395|52 week||376|51|6|11.76|382|48223
+1147|341|52 week||377|356|620|174.16|382|48303
+1148|78|2-3 Day Post Injection (4 week)||35|165|3410|2066.67|41|48319
+1149|220|52 week||371|144|11|7.64|382|48353
+1150|194|2-3 Day Post Injection (4 week)||30|33|67|203.03|36|48357
+1151|712|2-3 Day Post Injection (4 week)||31|91|107|117.58|37|48358
+1152|375|2-3 Day Post Injection (4 week)||34|139|12|8.63|37|48428
+1153|645|2-3 Day Post Injection (4 week)||35|142|98|69.01|41|48508
+1154|246|2-3 Day Post Injection (4 week)||29|78|8|10.26|34|48588
+1155|97|2-3 Day Post Injection (4 week)||38|74|921|1244.59|42|48681
+1156|578|52 week||367|99|1730|1747.47|370|48690
+1157|117|2-3 Day Post Injection (4 week)||32|223|149|66.82|35|48691
+1158|605|52 week||360|42|487|1159.52|363|48695
+1159|226|2-3 Day Post Injection (4 week)||32|108|15|13.89|35|48715
+1160|12|52 week||371|22|1120|5090.91|374|48724
+1161|846|52 week||364|111|15|13.51|366|48769
+1162|708|52 week||365|85|58|68.24|367|48788
+1163|79|52 week||369|26|34|130.77|375|48848
+1164|354|52 week||357|52|18|34.62|363|48857
+1165|567|52 week||366|106|34|32.08|372|48874
+1166|402|2-3 Day Post Injection (4 week)||30|35|3|8.57|42|48875
+1167|275|2-3 Day Post Injection (8 week)||56|70|11|15.71|63|48902
+1168|785|2-3 Day Post Injection (8 week)||63|118|32|27.12|70|48904
+1169|366|52 week||357|61|1030|1688.52|363|48950
+1170|248|2-3 Day Post Injection (8 week)||66|21|6|28.57|72|48958
+1171|254|52 week||361|81|5670|7000.00|364|48990
+1172|199|52 week||364|117|23|19.66|367|48991
+1173|538|52 week||371|89|1460|1640.45|374|49000
+1174|218|52 week||364|221|16|7.24|366|49017
+1175|489|52 week||371|216|15|6.94|379|49067
+1176|679|52 week||364|9|3|33.33|370|49092
+1177|20|52 week||359|41|46|112.20|366|49107
+1178|453|52 week||366|130|522|401.54|378|49111
+1179|422|52 week||371|109|14|12.84|376|49115
+1180|101|2-3 Day Post Injection (8 week)||64|88|15|17.05|70|49163
+1181|515|52 week||369|146|14|9.59|378|49246
+1182|639|52 week||371|92|15|16.30|378|49275
+1183|732|2-3 Day Post Injection (8 week)||55|76|159|209.21|61|49276
+1184|765|52 week||364|130|27|20.77|370|49287
+1185|838|52 week||369|68|164|241.18|375|49292
+1186|46|52 week||363|54|11|20.37|369|49295
+1187|148|52 week||364|280|206|73.57|370|49323
+1188|588|2-3 Day Post Injection (8 week)||64|282|187|66.31|71|49376
+1189|196|52 week||357|96|76|79.17|382|49409
+1190|807|2-3 Day Post Injection (8 week)||57|38|457|1202.63|63|49416
+1191|781|2-3 Day Post Injection (8 week)||54|30|202|673.33|57|49448
+1192|174|2-3 Day Post Injection (8 week)||60|55|4440|8072.73|68|49450
+1193|653|52 week||361|134|9|6.72|371|49470
+1194|552|52 week||376|184|451|245.11|378|49495
+1195|72|52 week||362|44|16|36.36|364|49535
+1196|158|52 week||382|92|5580|6065.22|389|49547
+1197|270|52 week||366|44|4350|9886.36|371|49650
+1198|279|52 week||371|161|53|32.92|383|49659
+1199|364|2-3 Day Post Injection (8 week)||64|131|8|6.11|70|49661
+1200|762|52 week||360|153|10|6.54|366|49672
+1201|115|52 week||360|76|50|65.79|368|49752
+1202|76|52 week||368|10|2|20.00|375|49773
+1203|268|52 week||370|117|73|62.39|375|49872
+1204|213|52 week||361|34|14|41.18|367|49915
+1205|30|52 week||363|92|541|588.04|366|49942
+1206|641|52 week||367|36|3630|10083.33|370|49953
+1207|271|52 week||363|44|2120|4818.18|366|49958
+1208|127|52 week|1||||||49964
+1209|841|52 week||364|163|2450|1503.07|374|49973
+1210|563|52 week||371|154|16|10.39|378|50040
+1211|156|52 week||370|96|14|14.58|376|50061
+1212|819|52 week||365|161|11|6.83|386|50126
+1213|627|52 week||371|76|3|3.95|376|50134
+1214|497|52 week||371|21|2|9.52|384|50156
+1215|696|52 week||371|178|43|24.16|374|50193
+1216|433|52 week||371|223|9960|4466.37|379|50195
+1217|671|52 week||371|69|6|8.70|379|50213
+1218|769|52 week||368|159|237|149.06|375|50255
+1219|5|52 week||371|47|1||377|50272
+1220|39|52 week||370|61|145|237.70|376|50291
+1221|831|52 week||368|119|2560|2151.26|378|50407
+1222|236|52 week||369|13|1||371|50450
+1223|349|52 week||364|112|2550|2276.79|371|50459
+1224|121|52 week||362|117|11400|9743.59|369|50496
+1225|277|52 week||357|42|2800|6666.67|363|50529
+1226|371|52 week||363|87|19|21.84|369|50534
+1227|222|52 week||371|79|107|135.44|377|50560
+1228|183|52 week||364|77|151|196.10|370|50571
+1229|662|52 week||371|100|11|11.00|377|50575
+1230|301|52 week||368|67|6|8.96|374|50670
+1231|618|52 week||361|69|64|92.75|364|50738
+1232|50|52 week||364|78|11|14.10|372|50750
+1233|718|52 week||378|131|614|468.70|385|50757
+1234|506|52 week||364|151|5350|3543.05|366|50760
+1235|231|52 week||363|30|3|10.00|365|50764
+1236|74|52 week||364|154|5|3.25|373|50774
+1237|247|52 week||357|27|1||359|50775
+1238|701|52 week||406|87|1660|1908.05|408|50794
+1239|491|52 week||371|84|453|539.29|373|50805
+1240|238|52 week||369|49|3|6.12|375|50834
+1241|565|52 week||364|46|548|1191.30|370|50840
+1242|348|52 week||363|84|15|17.86|369|50857
+1243|86|52 week||363|284|145|51.06|368|50868
+1244|611|52 week||371|68|6|8.82|376|50871
+1245|201|52 week||371|68|559|822.06|376|50884
+1246|613|52 week||358|88|1680|1909.09|380|51005
+1247|607|52 week||370|95|12|12.63|375|51048
+1248|675|52 week||370|62|34|54.84|375|51081
+1249|780|52 week||371|72|575|798.61|375|51141
+1250|1|52 week||371|84|281|334.52|372|51199
+1251|603|52 week||365|42|3370|8023.81|372|51221
+1252|16|52 week||371|36|8|22.22|387|51235
+1253|68|52 week||364|104|4|3.85|371|51239
+1254|749|52 week||364|40|18|45.00|371|51246
+1255|102|52 week||371|41|41|100.00|374|51335
+1256|299|52 week|1||||||51351
+1257|583|52 week||383|106|1110|1047.17|392|51386
+1258|511|52 week||371|46|5|10.87|380|51390
+1259|809|52 week||371|72|157|218.06|373|51392
+1260|139|52 week||359|40|502|1255.00|367|51411
+1261|759|52 week||357|136|31|22.79|371|51477
+1262|716|52 week||364|241|78|32.37|371|51482
+1263|536|52 week||384|46|5|10.87|391|51529
+1264|361|52 week||364|115|1780|1547.83|370|51543
+1265|295|52 week||363|86|3960|4604.65|366|51586
+1266|802|52 week||364|54|438|811.11|367|51614
+1267|659|52 week||370|144|4110|2854.17|373|51615
+1268|620|52 week||364|155|10|6.45|366|51651
+1269|176|52 week||371|102|1990|1950.98|380|51664
+1270|796|52 week||357|99|440|444.44|363|51667
+1271|778|52 week||364|170|34|20.00|369|51686
+1272|385|52 week||357|69|1180|1710.14|362|51712
+1273|59|52 week||363|127|8|6.30|368|51717
+1274|204|52 week||364|104|594|571.15|369|51727
+1275|735|52 week||370|75|2730|3640.00|375|51731
+1276|581|52 week||364|94|9|9.57|369|51737
+1277|547|52 week||371|82|455|554.88|375|51743
+1278|811|52 week||359|65|59|90.77|373|51745
+1279|403|52 week||371|29|3|10.34|378|51751
+1280|513|52 week||359|176|367|208.52|363|51761
+1281|599|52 week||359|34|2|5.88|373|51762
+1282|543|52 week||368|128|58|45.31|371|51844
+1283|85|52 week||368|152|18|11.84|371|51874
+1284|77|52 week||364|124|135|108.87|367|51885
+1285|456|52 week||364|145|17|11.72|366|51920
+1286|297|52 week|1||||||51934
+1287|575|52 week||376|103|4|3.88|389|51962
+1288|357|52 week||371|78|4|5.13|379|51989
+1289|347|52 week||357|84|1030|1226.19|365|52006
+1290|307|52 week||363|80|560|700.00|371|52013
+1291|405|52 week||371|55|8|14.55|382|52055
+1292|209|52 week||364|94|1030|1095.74|374|52092
+1293|105|52 week||375|126|13|10.32|381|52096
+1294|313|52 week||365|175|80|45.71|371|52124
+1295|108|52 week||371|107|46|42.99|379|52142
+1296|525|52 week||356|106|20|18.87|360|52180
+1297|789|52 week||364|35|96|274.29|376|52184
+1298|27|52 week||376|33|1||379|52215
+1299|360|52 week||375|69|1950|2826.09|383|52243
+1300|754|52 week||370|67|85|126.87|375|52293
+1301|164|52 week||371|274|1100|401.46|376|52299
+1302|290|52 week||371|84|4|4.76|377|52308
+1303|610|52 week||366|32|35|109.38|372|52311
+1304|821|52 week||413|139|469|337.41|427|52342
+1305|192|52 week||369|75|2690|3586.67|372|52372
+1306|692|52 week||427|84|2470|2940.48|430|52385
+1307|138|52 week||368|28|8|28.57|370|52412
+1308|321|52 week||358|158|175|110.76|373|52430
+1309|106|52 week||364|215|395|183.72|370|52481
+1310|595|52 week||358|46|400|869.57|364|52484
+1311|784|52 week||370|80|186|232.50|376|52488
+1312|294|52 week||371|192|1470|765.63|377|52492
+1313|21|52 week||385|62|2320|3741.94|394|52521
+1314|577|52 week|1||||||52553
+1315|35|52 week||392|193|600|310.88|397|52561
+1316|48|52 week||365|44|51|115.91|372|52598
+1317|640|52 week||363|68|134|197.06|367|52663
+1318|310|52 week||367|105|234|222.86|371|52664
+1319|23|52 week||355|172|11|6.40|357|52723
+1320|619|52 week||364|113|914|808.85|367|52731
+1321|180|52 week||361|223|19|8.52|363|52746
+1322|302|52 week||364|171|366|214.04|367|52754
+1323|159|52 week||364|108|4340|4018.52|371|52795
+1324|818|52 week|1||||||52806
+1325|770|52 week||370|79|18|22.78|377|52816
+1326|726|52 week||378|20|80|400.00|379|52818
+1327|561|52 week||363|53|1||370|52821
+1328|572|52 week||364|43|14|32.56|377|52827
+1329|499|52 week||366|100|88|88.00|372|52847
+1330|689|52 week||372|99|4|4.04|378|52864
+1331|444|52 week||364|43|5|11.63|370|52867
+1332|787|52 week||371|91|74|81.32|376|52914
+1333|518|52 week||368|91|1560|1714.29|370|52959
+1334|41|52 week||364|84|342|407.14|365|52988
+1335|596|52 week||363|77|11|14.29|364|52999
+1336|637|52 week||364|43|2240|5209.30|370|53022
+1337|810|52 week||370|47|1||376|53029
+1338|197|52 week||370|102|7700|7549.02|376|53036
+1339|527|52 week||364|179|17|9.50|370|53050
+1340|312|52 week||371|318|1020|320.75|383|53060
+1341|768|52 week|1||||||53082
+1342|345|52 week||359|72|35|48.61|371|53085
+1343|212|52 week||357|101|96|95.05|364|53093
+1344|47|52 week||364|197|782|396.95|368|53101
+1345|636|52 week||365|237|65|27.43|371|53102
+1346|420|52 week||370|93|26|27.96|373|53167
+1347|305|52 week||368|69|6500|9420.29|375|53197
+1348|3|52 week||364|108|224|207.41|373|53203
+1349|263|52 week||371|61|158|259.02|378|53206
+1350|177|52 week||378|41|122|297.56|385|53214
+1351|432|52 week||371|147|38|25.85|385|53222
+1352|36|52 week||364|145|878|605.52|370|53242
+1353|319|52 week||371|76|2550|3355.26|377|53247
+1354|298|52 week||359|175|29|16.57|365|53269
+1355|237|52 week||364|99|189|190.91|369|53304
+1356|683|52 week||368|90|263|292.22|371|53332
+1357|184|52 week||363|93|15|16.13|366|53334
+1358|730|52 week||369|73|1130|1547.95|372|53338
+1359|188|52 week||370|27|1750|6481.48|373|53346
+1360|179|52 week||371|168|75|44.64|373|53380
+1361|369|52 week||364|94|71|75.53|366|53388
+1362|125|52 week||371|46|29|63.04|373|53405
+1363|776|52 week||369|175|18|10.29|376|53406
+1364|660|52 week||357|53|6010|11339.62|364|53422
+1365|557|52 week||365|86|417|484.88|372|53436
+1366|112|52 week||371|70|1610|2300.00|377|53459
+1367|743|52 week||371|124|106|85.48|385|53471
+1368|487|52 week|1||||||53477
+1369|800|52 week||364|247|7940|3214.57|371|53478
+1370|406|52 week||366|113|4660|4123.89|373|53488
+1371|75|52 week||384|119|33|27.73|391|53503
+1372|687|52 week||357|51|10|19.61|363|53518
+1373|227|52 week||367|59|1750|2966.10|373|53531
+1374|490|52 week||357|65|13|20.00|363|53535
+1375|195|52 week||361|58|1850|3189.66|368|53550
+1376|682|52 week||357|166|62|37.35|360|53554
+1377|63|52 week||371|43|3|6.98|374|53558
+1378|17|52 week||367|84|6|7.14|377|53593
+1379|478|52 week||364|307|594|193.49|366|53612
+1380|505|52 week||371|145|24|16.55|373|53624
+1381|594|52 week||357|129|41|31.78|363|53633
+1382|462|52 week||371|70|58|82.86|377|53656
+1383|129|52 week||364|92|21|22.83|377|53668
+1384|507|52 week||371|182|22|12.09|376|53674
+1385|386|52 week||371|299|1050|351.17|383|53722
+1386|414|52 week||363|25|59|236.00|375|53728
+1387|162|52 week||370|40|2|5.00|382|53735
+1388|315|52 week||361|88|17|19.32|367|53753
+1389|33|52 week||373|49|15|30.61|376|53767
+1390|812|52 week||364|146|122|83.56|370|53775
+1391|775|52 week||371|71|133|187.32|374|53777
+1392|707|52 week||357|132|1160|878.79|360|53794
+1393|686|52 week||383|350|47|13.43|386|53795
+1394|147|52 week||357|122|33|27.05|360|53804
+1395|703|52 week||370|87|6630|7620.69|373|53808
+1396|702|52 week||367|31|4|12.90|370|53821
+1397|468|52 week||370|63|27|42.86|373|53829
+1398|356|52 week||371|89|2660|2988.76|373|53834
+1399|443|52 week||364|70|3510|5014.29|371|53863
+1400|51|52 week||378|71|608|856.34|384|53875
+1401|234|52 week||358|253|403|159.29|364|53894
+1402|461|52 week||366|265|390|147.17|373|53920
+1403|131|52 week||372|25|100|400.00|377|53922
+1404|334|52 week||364|75|106|141.33|369|53924
+1405|574|52 week||371|111|46|41.44|376|53926
+1406|715|52 week|1||||||53942
+1407|266|52 week||370|109|204|187.16|375|53948
+1408|70|52 week||364|80|14|17.50|370|53989
+1409|435|52 week||363|53|59|111.32|366|54002
+1410|281|52 week||368|204|18|8.82|371|54013
+1411|763|52 week||364|100|5|5.00|372|54014
+1412|165|52 week||396|139|220|158.27|399|54015
+1413|559|52 week||371|88|5|5.68|374|54048
+1414|459|52 week||385|86|2950|3430.23|387|54087
+1415|185|52 week||369|67|2|2.99|371|54102
+1416|528|52 week||358|310|265|85.48|360|54110
+1417|37|52 week||364|139|13|9.35|371|54113
+1418|834|52 week||372|82|2330|2841.46|378|54139
+1419|210|52 week||364|36|1||370|54140
+1420|729|52 week||371|48|19|39.58|377|54159
+1421|235|52 week||371|188|13|6.91|377|54167
+1422|621|52 week|1||||||54181
+1423|465|52 week||367|161|2860|1776.40|372|54202
+1424|466|52 week||371|22|1||376|54207
+1425|635|52 week||366|301|228|75.75|371|54225
+1426|172|52 week||368|162|2910|1796.30|372|54252
+1427|208|52 week||358|25|12|48.00|362|54260
+1428|446|52 week||371|49|14|28.57|377|54262
+1429|742|52 week||365|43|2180|5069.77|376|54267
+1430|591|52 week||366|116|8|6.90|370|54278
+1431|546|52 week||371|43|3030|7046.51|379|54310
+1432|215|52 week||371|44|674|1531.82|378|54337
+1433|670|52 week||361|56|14|25.00|368|54356
+1434|814|52 week||365|15|1||371|54367
+1435|58|52 week||366|86|24|27.91|372|54395
+1436|328|52 week||371|25|7|28.00|377|54403
+1437|401|52 week||364|132|12|9.09|369|54430
+1438|771|52 week||370|138|17|12.32|375|54441
+1439|477|52 week||371|181|1570|867.40|378|54464
+1440|216|52 week||371|79|1930|2443.04|374|54521
+1441|413|52 week||371|36|4|11.11|374|54528
+1442|389|52 week||357|72|15|20.83|360|54536
+1443|242|52 week||357|85|4|4.71|359|54627
+1444|264|52 week||365|91|341|374.73|371|54691
+1445|709|52 week||364|75|1110|1480.00|372|54692
+1446|612|52 week||363|59|9|15.25|376|54698
+1447|832|52 week||364|76|3890|5118.42|370|54703
+1448|681|52 week||357|65|2040|3138.46|362|54718
+1449|548|52 week||365|46|29|63.04|370|54726
+1450|586|52 week||365|54|22|40.74|370|54729
+1451|110|52 week||367|99|20|20.20|379|54733
+1452|171|52 week||364|68|164|241.18|371|54734
+1453|391|52 week||365|50|69|138.00|372|54749
+1454|144|52 week||365|112|119|106.25|370|54755
+1455|844|52 week||358|131|8|6.11|364|54767
+1456|597|52 week||364|96|8|8.33|370|54770
+1457|170|52 week||371|58|1200|2068.97|375|54793
+1458|384|52 week||371|152|39|25.66|374|54831
+1459|509|52 week||370|155|12|7.74|373|54834
+1460|772|52 week||370|100|15|15.00|373|54835
+1461|126|52 week||364|49|13|26.53|366|54880
+1462|351|52 week||371|29|1||377|54905
+1463|344|52 week||364|70|326|465.71|370|54914
+1464|486|52 week||364|56|64|114.29|369|54956
+1465|267|52 week||370|30|670|2233.33|377|54967
+1466|11|52 week||367|78|14|17.95|372|54968
+1467|564|52 week||366|123|323|262.60|373|54977
+1468|160|52 week||357|157|69|43.95|364|54998
+1469|296|52 week||357|202|73|36.14|363|55014
+1470|120|52 week||364|144|8|5.56|367|55048
+1471|54|52 week||368|276|472|171.01|376|55067
+1472|186|52 week||369|131|333|254.20|377|55077
+1473|61|52 week||364|142|263|185.21|366|55093
+1474|488|52 week||369|181|88|48.62|376|55107
+1475|485|52 week||371|119|10|8.40|380|55115
+1476|240|52 week||365|40|2|5.00|371|55157
+1477|175|52 week||364|129|1740|1348.84|372|55177
+1478|223|52 week||370|97|9|9.28|375|55192
+1479|616|52 week||357|67|728|1086.57|360|55291
+1480|791|52 week|1||||||55299
+1481|304|52 week||367|136|14|10.29|375|55316
+1482|336|52 week||371|62|5090|8209.68|374|55319
+1483|535|52 week||371|185|60|32.43|379|55321
+1484|467|52 week||364|103|1650|1601.94|378|55328
+1485|748|52 week||370|68|14|20.59|372|55334
+1486|767|52 week||364|15|1||366|55342
+1487|309|52 week||371|56|1800|3214.29|373|55375
+1488|135|52 week||363|75|258|344.00|369|55399
+1489|721|52 week||357|105|4|3.81|363|55404
+1490|178|52 week||371|145|19|13.10|379|55413
+1491|399|52 week||364|78|2260|2897.44|369|55428
+1492|434|52 week||359|268|27|10.07|364|55431
+1493|22|52 week||364|50|1230|2460.00|375|55474
+1494|731|52 week||371|96|42|43.75|377|55480
+1495|817|52 week||358|141|176|124.82|369|55488
+1496|134|52 week||371|100|60|60.00|373|55552
+1497|394|52 week||369|183|24|13.11|376|55556
+1498|15|52 week||383|150|323|215.33|385|55557
+1499|442|52 week||361|10|4|40.00|368|55575
+1500|644|52 week||364|8|3|37.50|370|55642
+1501|224|52 week||360|64|6|9.38|365|55681
+1502|573|52 week|1||||||55695
+1503|566|52 week||371|60|29|48.33|384|55732
+1504|387|52 week||364|33|1550|4696.97|370|55734
+1505|116|52 week||371|103|6830|6631.07|375|55747
+1506|318|52 week||363|123|14|11.38|366|55761
+1507|169|52 week|1||||||55763
+1508|685|52 week||364|117|8|6.84|367|55770
+1509|317|52 week||368|201|39|19.40|371|55774
+1510|727|52 week||364|115|22|19.13|367|55780
+1511|540|52 week||364|125|518|414.40|366|55793
+1512|145|52 week||364|51|23|45.10|372|55826
+1513|380|52 week||372|37|1780|4810.81|380|55841
+1514|230|52 week||369|67|3|4.48|377|55849
+1515|423|52 week||367|156|10|6.41|374|55864
+1516|365|52 week||371|130|2090|1607.69|378|55865
+1517|256|52 week||364|86|158|183.72|371|55894
+1518|25|52 week||364|56|642|1146.43|371|55904
+1519|529|52 week||364|117|4030|3444.44|370|55926
+1520|777|52 week||364|162|654|403.70|366|56005
+1521|503|52 week||370|122|55|45.08|372|56008
+1522|500|52 week||364|29|2860|9862.07|366|56010
+1523|753|52 week||368|80|104|130.00|370|56031
+1524|669|52 week||364|234|694|296.58|371|56041
+1525|258|52 week||357|100|4830|4830.00|363|56054
+1526|163|52 week||364|35|49|140.00|370|56062
+1527|820|52 week||364|83|902|1086.75|369|56108
+1528|793|52 week||368|78|164|210.26|379|56153
+1529|81|52 week||366|204|106|51.96|377|56154
+1530|633|52 week||371|30|145|483.33|384|56163
+1531|91|52 week||371|169|14|8.28|379|56185
+1532|779|52 week||371|110|8550|7772.73|372|56191
+1533|788|52 week||363|107|6620|6186.92|364|56199
+1534|80|52 week||368|130|22|16.92|369|56200
+1535|549|52 week||362|123|595|483.74|369|56228
+1536|355|52 week||357|115|161|140.00|364|56240
+1537|625|52 week||362|91|40|43.96|369|56248
+1538|673|52 week||369|65|48|73.85|375|56273
+1539|392|52 week||364|73|17|23.29|370|56289
+1540|741|52 week||371|30|345|1150.00|378|56297
+1541|502|52 week||366|187|323|172.73|372|56306
+1542|205|52 week||358|25|11|44.00|364|56314
+1543|137|52 week||367|136|203|149.26|372|56323
+1544|750|52 week||364|39|961|2464.10|369|56325
+1545|690|52 week||365|50|108|216.00|370|56328
+1546|6|52 week||366|89|511|574.16|378|56336
+1547|632|52 week||380|156|5|3.21|387|56338
+1548|464|52 week||367|51|4|7.84|372|56340
+1549|332|52 week||363|97|6630|6835.05|368|56350
+1550|792|52 week||365|187|96|51.34|370|56360
+1551|734|52 week||364|84|4|4.76|370|56369
+1552|514|52 week||366|27|96|355.56|372|56377
+1553|556|52 week||357|43|1200|2790.70|360|56409
+1554|311|52 week||425|56|165|294.64|427|56443
+1555|482|52 week||363|50|14|28.00|372|56465
+1556|699|52 week||369|154|10|6.49|376|56467
+1557|773|52 week||363|128|9|7.03|369|56486
+1558|622|52 week||369|41|111|270.73|375|56498
+1559|833|52 week||373|67|3490|5208.96|378|56524
+1560|249|52 week||366|207|527|254.59|371|56532
+1561|173|52 week||364|178|701|393.82|370|56557
+1562|219|52 week||364|16|47|293.75|375|56558
+1563|495|52 week||364|70|2590|3700.00|368|56574
+1564|306|52 week||385|103|206|200.00|388|56597
+1565|104|52 week||368|248|37|14.92|371|56607
+1566|519|52 week||375|59|35|59.32|377|56653
+1567|283|52 week||368|82|8|9.76|370|56664
+1568|291|52 week||371|56|207|369.64|373|56666
+1569|481|52 week||357|132|444|336.36|365|56721
+1570|651|52 week||364|20|56|280.00|370|56728
+1571|839|52 week||364|132|232|175.76|372|56730
+1572|132|52 week||364|53|8|15.09|369|56757
+1573|654|52 week||386|130|3|2.31|393|56781
+1574|383|52 week||366|54|2030|3759.26|371|56782
+1575|582|52 week||366|81|188|232.10|373|56785
+1576|269|52 week|1||||||56800
+1577|680|52 week||361|246|103|41.87|367|56803
+1578|719|52 week||359|169|3370|1994.08|365|56817
+1579|455|52 week||365|65|93|143.08|371|56829
+1580|724|52 week||367|60|1400|2333.33|370|56852
+1581|657|52 week||368|89|1310|1471.91|382|56885
+1582|225|52 week||386|65|220|338.46|388|56892
+1583|89|52 week||371|72|1030|1430.56|373|56901
+1584|674|52 week||369|50|27|54.00|371|56910
+1585|545|52 week||361|104|7|6.73|363|56918
+1586|168|52 week||371|358|45|12.57|372|56938
+1587|259|52 week||364|24|1||365|56947
+1588|280|52 week||363|177|1810|1022.60|364|56954
+1589|600|52 week||371|153|553|361.44|372|56955
+1590|390|52 week||363|78|85|108.97|364|56975
+1591|558|52 week||371|87|554|636.78|377|56976
+1592|623|52 week||364|113|177|156.64|365|56978
+1593|628|52 week||364|76|15|19.74|370|56979
+1594|445|52 week||371|41|1370|3341.46|372|56981
+1595|398|52 week|1||||||56983
+1596|614|52 week||358|48|5|10.42|363|57002
+1597|350|52 week|1||||||57009
+1598|322|52 week||371|37|1||376|57012
+1599|585|52 week||370|79|19|24.05|377|57018
+1600|38|52 week||364|20|22|110.00|369|57024
+1601|397|52 week||366|129|196|151.94|373|57037
+1602|471|52 week||371|97|182|187.63|377|57047
+1603|331|52 week||371|123|10|8.13|378|57109
+1604|388|52 week||371|108|425|393.52|378|57110
+1605|439|52 week||371|161|7|4.35|377|57115
+1606|325|52 week||362|49|198|404.08|368|57148
+1607|42|52 week||358|83|3|3.61|363|57158
+1608|67|52 week||365|114|63|55.26|377|57175
+1609|292|52 week||366|267|415|155.43|370|57212
+1610|676|52 week||364|113|1080|955.75|367|57231
+1611|333|52 week||364|108|12|11.11|374|57249
+1612|287|52 week||361|16|11|68.75|364|57268
+1613|684|52 week||360|55|82|149.09|363|57274
+1614|190|52 week||368|303|285|94.06|376|57275
+1615|539|52 week||367|131|97|74.05|370|57276
+1616|82|52 week||357|23|2|8.70|364|57306
+1617|631|52 week||364|130|1200|923.08|371|57309
+1618|700|52 week||364|128|88|68.75|373|57310
+1619|677|52 week||363|167|35|20.96|369|57343
+1620|353|52 week||365|26|2|7.69|371|57349
+1621|668|52 week||370|64|16|25.00|376|57354
+1622|454|52 week||364|112|115|102.68|371|57397
+1623|393|52 week||371|95|6|6.32|376|57400
+1624|438|52 week||371|234|9620|4111.11|378|57402
+1625|695|52 week||366|101|67|66.34|372|57415
+1626|379|52 week||385|51|1330|2607.84|388|57454
+1627|62|52 week||364|55|1570|2854.55|366|57491
+1628|419|52 week||357|62|13|20.97|359|57495
+1629|346|52 week||364|199|1300|653.27|366|57505
+1630|96|52 week||364|43|4260|9906.98|366|57516
+1631|92|52 week||363|69|219|317.39|370|57523
+1632|522|52 week||362|59|261|442.37|375|57558
+1633|847|52 week||371|36|11|30.56|379|57579
+1634|804|52 week||364|41|16|39.02|369|57612
+1635|449|52 week||367|58|40|68.97|372|57626
+1636|418|52 week||366|162|168|103.70|377|57643
+1637|457|52 week||364|42|1960|4666.67|368|57648
+1638|421|52 week||361|58|4|6.90|372|57652
+1639|133|52 week||362|146|52|35.62|365|57688
+1640|648|52 week||371|37|6|16.22|379|57691
+1641|533|52 week||369|43|4|9.30|376|57705
+1642|31|52 week||364|25|1||366|57719
+1643|128|52 week||371|94|828|880.85|378|57748
+1644|664|52 week||401|50|3410|6820.00|407|57774
+1645|706|52 week||364|36|849|2358.33|370|57791
+1646|476|52 week||358|484|2150|444.21|363|57800
+1647|705|52 week||364|87|566|650.57|369|57830
+1648|758|52 week||368|42|97|230.95|374|57862
+1649|520|52 week||368|25|1550|6200.00|371|57902
+1650|376|52 week||371|102|59|57.84|374|57908
+1651|794|52 week||364|143|54|37.76|370|57949
+1652|370|52 week||364|74|2110|2851.35|370|57967
+1653|404|52 week||363|215|726|337.67|369|57971
+1654|516|52 week||363|247|318|128.74|369|57988
+1655|396|52 week||359|128|41|32.03|364|57996
+1656|723|52 week||365|161|87|54.04|370|58015
+1657|840|52 week||364|207|1590|768.12|371|58033
+1658|289|52 week||371|371|59|15.90|372|58069
+1659|431|52 week||364|74|3610|4878.38|365|58078
+1660|479|52 week||371|141|18|12.77|372|58081
+1661|374|52 week||364|104|66|63.46|367|58093
+1662|447|52 week||369|36|111|308.33|371|58118
+1663|795|52 week||382|153|6870|4490.20|384|58125
+1664|103|52 week||378|191|147|76.96|380|58135
+1665|652|52 week||369|172|121|70.35|370|58165
+1666|429|52 week||404|274|105|38.32|412|58168
+1667|828|52 week||370|59|125|211.86|377|58194
+1668|337|52 week||370|155|24|15.48|377|58207
+1669|824|52 week||371|47|1||381|58246
+1670|757|52 week||364|158|10|6.33|367|58248
+1671|335|52 week||361|80|20|25.00|363|58262
+1672|377|52 week||361|123|68|55.28|367|58263
+1673|303|52 week||365|65|454|698.46|371|58296
+1674|293|52 week||371|69|39|56.52|376|58304
+1675|330|52 week||364|102|13|12.75|372|58310
+1676|191|52 week||371|100|273|273.00|376|58315
+1677|239|52 week||357|140|7|5.00|362|58318
+1678|663|52 week||365|13|4|30.77|370|58324
+1679|155|52 week||359|150|40|26.67|367|58325
+1680|593|52 week||364|45|98|217.78|369|58331
+1681|90|52 week||364|43|1960|4558.14|369|58339
+1682|288|52 week||378|179|5|2.79|382|58358
+1683|107|52 week||366|47|651|1385.11|370|58364
+1684|95|52 week||366|151|89|58.94|370|58381
+1685|827|52 week||367|144|97|67.36|373|58403
+1686|93|52 week||364|106|38|35.85|375|58418
+1687|136|52 week||371|81|181|223.46|379|58427
+1688|815|52 week||370|92|12|13.04|372|58475
+1689|140|52 week||364|31|101|325.81|366|58478
+1690|248|52 week||364|54|53|98.15|366|58494
+1691|785|52 week||362|122|105|86.07|369|58509
+1692|166|52 week||371|68|8|11.76|385|58513
+1693|24|52 week||371|72|46|63.89|378|58528
+1694|542|52 week||365|32|401|1253.13|371|58536
+1695|2|52 week||364|92|307|333.70|370|58541
+1696|339|52 week||373|421|159|37.77|379|58542
+1697|790|52 week||362|114|38|33.33|370|58558
+1698|655|52 week||364|188|14|7.45|370|58565
+1699|111|52 week||358|113|3620|3203.54|364|58577
+1700|314|52 week||373|248|73|29.44|379|58641
+1701|150|52 week|1||||||58662
+1702|816|52 week||367|47|354|753.19|372|58668
+1703|372|52 week||369|90|4|4.44|372|58674
+1704|411|52 week||367|46|616|1339.13|370|58681
+1705|751|52 week||364|93|12|12.90|372|58705
+1706|609|52 week||362|75|598|797.33|369|58722
+1707|52|52 week||369|114|15|13.16|371|58723
+1708|427|52 week||370|69|3470|5028.99|372|58728
+1709|367|52 week||372|117|14|11.97|379|58755
+1710|808|52 week||366|224|52|23.21|372|58786
+1711|358|52 week||364|51|60|117.65|370|58798
+1712|728|52 week||371|25|53|212.00|394|58802
+1713|746|52 week||370|172|49|28.49|376|58812
+1714|275|52 week||363|74|3|4.05|369|58813
+1715|359|52 week||371|70|25|35.71|377|58883
+1716|262|52 week||366|67|11|16.42|372|58890
+1717|436|52 week||369|132|7|5.30|372|58895
+1718|588|52 week||362|86|224|260.47|365|58898
+1719|151|52 week||364|37|1220|3297.30|372|58938
+1720|417|52 week||364|151|32|21.19|366|58955
+1721|329|52 week||371|117|39|33.33|379|58956
+1722|761|52 week||364|141|32|22.70|366|58958
+1723|806|52 week||364|97|974|1004.12|366|58961
+1724|55|52 week||370|45|575|1277.78|378|58975
+1725|560|52 week||371|175|399|228.00|378|59002
+1726|122|52 week||365|122|194|159.02|372|59014
+1727|836|52 week||364|91|42|46.15|370|59022
+1728|740|52 week||372|100|3|3.00|378|59027
+1729|409|52 week||360|132|96|72.73|366|59031
+1730|551|52 week||371|38|7|18.42|377|59040
+1731|40|52 week||371|447|68|15.21|377|59046
+1732|697|52 week||364|273|58|21.25|370|59049
+1733|189|52 week||359|93|1400|1505.38|364|59073
+1734|10|52 week||361|74|13400|18108.11|369|59087
+1735|843|52 week||370|216|444|205.56|372|59119
+1736|469|52 week||367|91|1860|2043.96|369|59120
+1737|375|52 week||363|87|15|17.24|365|59121
+1738|78|52 week||368|134|3140|2343.28|369|59141
+1739|252|52 week||357|110|66|60.00|364|59164
+1740|194|52 week||363|64|105|164.06|370|59176
+1741|590|52 week||364|131|54|41.22|370|59195
+1742|428|52 week||371|46|952|2069.57|377|59211
+1743|174|52 week||364|54|2040|3777.78|371|59232
+1744|153|52 week||366|113|598|529.20|371|59248
+1745|402|52 week||359|114|31|27.19|366|59249
+1746|712|52 week||367|102|182|178.43|373|59279
+1747|245|52 week||364|141|683|484.40|365|59284
+1748|101|52 week||382|100|1700|1700.00|385|59303
+1749|97|52 week||370|108|1580|1462.96|371|59310
+1750|584|52 week||370|347|21|6.05|377|59329
+1751|842|52 week||370|46|73|158.70|372|59345
+1752|645|52 week||371|116|120|103.45|377|59368
+1753|530|52 week||371|79|165|208.86|377|59376
+1754|807|52 week||370|170|1500|882.35|378|59389
+1755|412|52 week||370|296|15|5.07|377|59406
+1756|364|52 week||371|167|9|5.39|376|59412
+1757|501|52 week||380|46|1||385|59417
+1758|732|52 week||372|111|1080|972.97|385|59440
+1759|257|52 week||378|145|95|65.52|384|59445
+1760|554|52 week||393|55|4120|7490.91|404|59457
+1761|550|52 week||367|79|5690|7202.53|378|59465
+1762|781|52 week||369|56|494|882.14|372|59485
+1763|87|52 week||374|574|151|26.31|382|59488
+1764|203|52 week||379|247|18|7.29|386|59518
+1765|272|52 week||370|137|75|54.74|372|59522
+1766|647|52 week||368|38|265|697.37|370|59532
+1767|658|52 week||378|24|6|25.00|380|59545
+1768|44|52 week||371|49|9|18.37|387|59562
+1769|323|52 week||371|91|9|9.89|377|59598
+1770|246|52 week||371|115|5|4.35|377|59614
+1771|117|52 week||371|265|37|13.96|376|59631
+1772|630|52 week||378|93|282|303.23|385|59641
+1773|532|52 week||371|126|10|7.94|374|59674
+1774|118|52 week||368|38|43|113.16|377|59751
+1775|130|52 week||370|30|4|13.33|377|59890
+1776|226|52 week||384|33|9|27.27|390|59959
