@@ -21,7 +21,11 @@ from equipoise.config import Config
 
 
 def available() -> bool:
-    return importlib.util.find_spec("autogluon.tabular") is not None
+    # find_spec on a dotted name imports the parent and raises if it is missing
+    try:
+        return importlib.util.find_spec("autogluon.tabular") is not None
+    except ModuleNotFoundError:
+        return False
 
 
 class AutoGluonTLearner(CATEModel):
