@@ -1,0 +1,2 @@
+chosen_learner,selection_rule,bundle,bootstrap_models_reported,bootstrap_models_in_bundle,registered_in_mlflow,tuned_gb_params
+Causal forest (CausalForestDML),exclude effects constant by construction (train SD <= 1e-06); exclude |average-effect bias| > 1.0 letters in any scenario; then lowest worst-case semi-synthetic PEHE,equipoise_bundle.joblib,200,50,True,"{'learning_rate': 0.01183868632641984, 'max_depth': 1, 'min_samples_leaf': 23, 'n_estimators': 343}"

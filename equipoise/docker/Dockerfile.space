@@ -1,0 +1,38 @@
+# Single-container image for Hugging Face Spaces (Docker SDK): the Streamlit app loads the
+# SYNTHETIC-data bundle itself (no API container, no DRCR data). See docs/deployment.md.
+# Needs models/synthetic/ built first: python -m equipoise causal --synthetic,
+# then longitudinal --synthetic and explain --synthetic.
+#   docker build -f docker/Dockerfile.space -t equipoise-space .
+#   docker run -p 7860:7860 equipoise-space
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PIP_NO_CACHE_DIR=1 \
+    EQUIPOISE_ROOT=/app MPLBACKEND=Agg EQUIPOISE_SYNTHETIC=1 \
+    EQUIPOISE_REQUEST_LOG=off STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt requirements-app.txt ./
+RUN pip install "$(grep '^torch==' requirements.txt)" \
+        --index-url https://download.pytorch.org/whl/cpu \
+    && pip install -r requirements.txt -r requirements-app.txt
+
+COPY pyproject.toml README.md ./
+COPY src ./src
+RUN pip install --no-deps .
+
+COPY config ./config
+COPY app ./app
+COPY reports ./reports
+COPY data/synthetic ./data/synthetic
+COPY models/synthetic ./models/synthetic
+
+# Spaces run the container as user 1000
+RUN useradd --create-home --uid 1000 equipoise && chown -R equipoise /app
+USER equipoise
+
+EXPOSE 7860
+CMD ["streamlit", "run", "app/streamlit_app.py", "--server.port=7860", \
+     "--server.address=0.0.0.0", "--server.headless=true"]

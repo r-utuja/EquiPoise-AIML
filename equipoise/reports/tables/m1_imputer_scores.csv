@@ -1,0 +1,37 @@
+imputer,feature,n_hidden,nrmse
+median,X_age,52,0.8632940005
+median,X_dbp,52,1.078530609
+median,X_diabetes_duration_yrs,52,0.9905692077
+median,X_dr_severity_rc,52,1.109444582
+median,X_fellow_va_letters,52,1.1228674
+median,X_iop,52,0.9838850347
+median,X_log_uacr,50,0.9815084326
+median,X_sbp,52,1.009822197
+median,X_va_letters,52,0.9439360347
+median,X_hba1c,52,0.9010090237
+median,X_bmi,48,1.290197894
+median,X_cst_um,52,0.8711876453
+kNN,X_age,52,0.814247939
+kNN,X_dbp,52,0.972914496
+kNN,X_diabetes_duration_yrs,52,1.073886834
+kNN,X_dr_severity_rc,52,0.9041547497
+kNN,X_fellow_va_letters,52,1.079388827
+kNN,X_iop,52,1.053771094
+kNN,X_log_uacr,50,0.992380286
+kNN,X_sbp,52,0.9583239448
+kNN,X_va_letters,52,0.7797427493
+kNN,X_hba1c,52,0.9428503743
+kNN,X_bmi,48,1.128043733
+kNN,X_cst_um,52,0.876340626
+MICE (single),X_age,52,0.780074792
+MICE (single),X_dbp,52,0.6175986027
+MICE (single),X_diabetes_duration_yrs,52,0.959787389
+MICE (single),X_dr_severity_rc,52,0.7078029865
+MICE (single),X_fellow_va_letters,52,1.065194937
+MICE (single),X_iop,52,0.9380620827
+MICE (single),X_log_uacr,50,0.9428626044
+MICE (single),X_sbp,52,0.746827361
+MICE (single),X_va_letters,52,0.5896411353
+MICE (single),X_hba1c,52,0.8706069552
+MICE (single),X_bmi,48,1.141486167
+MICE (single),X_cst_um,52,0.8333757584

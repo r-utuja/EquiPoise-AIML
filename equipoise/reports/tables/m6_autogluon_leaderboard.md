@@ -1,0 +1,23 @@
+| model               |   score_val | eval_metric             |   stack_level | can_infer   |   fit_order |   arm_code |
+|:--------------------|------------:|:------------------------|--------------:|:------------|------------:|-----------:|
+| WeightedEnsemble_L2 |       -9.14 | root_mean_squared_error |             2 | True        |           7 |          0 |
+| NeuralNetTorch      |       -9.14 | root_mean_squared_error |             1 | True        |           5 |          0 |
+| LightGBMLarge       |      -10.3  | root_mean_squared_error |             1 | True        |           6 |          0 |
+| LightGBM            |      -10.5  | root_mean_squared_error |             1 | True        |           2 |          0 |
+| LightGBMXT          |      -10.6  | root_mean_squared_error |             1 | True        |           1 |          0 |
+| ExtraTreesMSE       |      -12.4  | root_mean_squared_error |             1 | True        |           4 |          0 |
+| RandomForestMSE     |      -13.2  | root_mean_squared_error |             1 | True        |           3 |          0 |
+| WeightedEnsemble_L2 |       -6.78 | root_mean_squared_error |             2 | True        |           7 |          1 |
+| ExtraTreesMSE       |       -6.79 | root_mean_squared_error |             1 | True        |           4 |          1 |
+| LightGBMXT          |       -7.41 | root_mean_squared_error |             1 | True        |           1 |          1 |
+| RandomForestMSE     |       -7.62 | root_mean_squared_error |             1 | True        |           3 |          1 |
+| NeuralNetTorch      |       -7.71 | root_mean_squared_error |             1 | True        |           5 |          1 |
+| LightGBM            |       -7.82 | root_mean_squared_error |             1 | True        |           2 |          1 |
+| LightGBMLarge       |       -7.89 | root_mean_squared_error |             1 | True        |           6 |          1 |
+| WeightedEnsemble_L2 |       -8.38 | root_mean_squared_error |             2 | True        |           7 |          2 |
+| NeuralNetTorch      |       -8.4  | root_mean_squared_error |             1 | True        |           5 |          2 |
+| ExtraTreesMSE       |       -8.98 | root_mean_squared_error |             1 | True        |           4 |          2 |
+| LightGBM            |       -9.35 | root_mean_squared_error |             1 | True        |           2 |          2 |
+| RandomForestMSE     |       -9.53 | root_mean_squared_error |             1 | True        |           3 |          2 |
+| LightGBMXT          |       -9.56 | root_mean_squared_error |             1 | True        |           1 |          2 |
+| LightGBMLarge       |      -10.1  | root_mean_squared_error |             1 | True        |           6 |          2 |

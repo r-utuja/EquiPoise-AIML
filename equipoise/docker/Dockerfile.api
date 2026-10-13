@@ -1,0 +1,35 @@
+# Equipoise API (FastAPI). Build from the repository root:
+#   docker build -f docker/Dockerfile.api -t equipoise-api .
+# The model bundle is NOT baked in: mount models/ at /app/models (see docker-compose.yml),
+# or set EQUIPOISE_SYNTHETIC=1 to serve the synthetic demo bundle in models/synthetic/.
+FROM python:3.11-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PIP_NO_CACHE_DIR=1 \
+    EQUIPOISE_ROOT=/app MPLBACKEND=Agg
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends libgomp1 curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# CPU-only torch first (same pinned version as requirements.txt), then the pinned core deps
+COPY requirements.txt ./
+RUN pip install "$(grep '^torch==' requirements.txt)" \
+        --index-url https://download.pytorch.org/whl/cpu \
+    && pip install -r requirements.txt
+
+COPY pyproject.toml README.md ./
+COPY src ./src
+RUN pip install --no-deps .
+
+COPY config ./config
+COPY api ./api
+# aggregate stage metrics (e.g. the early model's CV error shown with its forecast)
+COPY reports/metrics ./reports/metrics
+
+RUN useradd --create-home equipoise && mkdir -p /app/logs && chown -R equipoise /app/logs
+USER equipoise
+
+EXPOSE 8000
+HEALTHCHECK --interval=30s --timeout=5s --start-period=120s \
+    CMD curl -fsS http://localhost:8000/health || exit 1
+CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]

@@ -1,0 +1,48 @@
+Feature,Data Type,Description,Role,Missing allowed
+pt_id,integer,DRCR patient ID,identifier / randomized arm,no
+treatment,"categorical (Aflibercept, Bevacizumab, Ranibizumab)",Randomized arm,identifier / randomized arm,no
+study_eye,"categorical (OD, OS)",Randomized eye (OD right / OS left),identifier / randomized arm,no
+X_age,"integer [18, 100]",Age at enrollment (years),model input (baseline X_),no
+X_bmi,"continuous [12, 80]",Body-mass index (kg/m^2),model input (baseline X_),yes
+X_cad,binary (0/1),Coronary artery disease,model input (baseline X_),no
+X_cst_um,"continuous [150, 1200]","Central subfield thickness, machine units (um)",model input (baseline X_),yes
+X_dbp,"continuous [30, 150]",Diastolic blood pressure (mmHg),model input (baseline X_),no
+X_diabetes_duration_yrs,"integer [0, 90]",Diabetes duration (years),model input (baseline X_),no
+X_diabetes_type,"categorical (Type 2, Type 1, Uncertain)",Diabetes type,model input (baseline X_),no
+X_dr_severity_clinical,"categorical (Microaneurysms only, Mild/moderate NPDR, Severe NPDR, ...)",Clinical DR severity,model input (baseline X_),yes
+X_dr_severity_rc,"integer [1, 10]",Reading-centre DR severity (ETDRS recoded 1-10),model input (baseline X_),yes
+X_epiretinal_membrane,binary (0/1),Epiretinal membrane on OCT,model input (baseline X_),yes
+X_fellow_va_letters,"integer [0, 100]",Fellow-eye visual acuity (letters),model input (baseline X_),no
+X_female,binary (0/1),Female sex,model input (baseline X_),no
+X_hba1c,"continuous [3, 20]",HbA1c (%),model input (baseline X_),yes
+X_hispanic,binary (0/1),Hispanic or Latino,model input (baseline X_),no
+X_hypertension,binary (0/1),Hypertension,model input (baseline X_),no
+X_insulin,binary (0/1),Uses insulin,model input (baseline X_),no
+X_iop,"integer [0, 60]",Intra-ocular pressure (mmHg),model input (baseline X_),no
+X_log_uacr,"continuous [0, 15]",log(1 + urine albumin/creatinine ratio),model input (baseline X_),yes
+X_oct_machine,"categorical (Zeiss Stratus, Zeiss Cirrus, Heidelberg Spectralis)",OCT machine used at baseline,model input (baseline X_),yes
+X_prior_antivegf,binary (0/1),Prior anti-VEGF for DME in study eye,model input (baseline X_),no
+X_prior_dme_trt,binary (0/1),Any prior DME treatment in study eye,model input (baseline X_),no
+X_prior_focal_laser,binary (0/1),Prior focal/grid laser in study eye,model input (baseline X_),no
+X_prior_mi,binary (0/1),Prior myocardial infarction,model input (baseline X_),no
+X_prior_prp,binary (0/1),Prior panretinal photocoagulation in study eye,model input (baseline X_),no
+X_prior_stroke,binary (0/1),Prior stroke,model input (baseline X_),no
+X_pseudophakic,binary (0/1),Pseudophakic study eye,model input (baseline X_),no
+X_race,"categorical (White, Black/African American, Asian, ...)",Race,model input (baseline X_),yes
+X_renal_disease,binary (0/1),Renal disease,model input (baseline X_),no
+X_sbp,"continuous [60, 250]",Systolic blood pressure (mmHg),model input (baseline X_),no
+X_smoker_current,binary (0/1),Current smoker,model input (baseline X_),no
+X_subretinal_fluid,binary (0/1),Subretinal fluid in centre subfield,model input (baseline X_),yes
+X_va_below_69,binary (0/1),Baseline vision 20/50 or worse (< 69 letters),model input (baseline X_),no
+X_va_letters,"integer [24, 78]",Baseline study-eye visual acuity (letters),model input (baseline X_),no
+Y_cst_change_wk104,"continuous [-1000, 600]",CST change at 2 years (um),target only (Y_),yes
+Y_cst_change_wk52,"continuous [-1000, 600]",CST change at 1 year (um),target only (Y_),yes
+Y_laser_any,binary (0/1),Rescue laser at any time,target only (Y_),no
+Y_laser_yr1,binary (0/1),Rescue laser before the 1-year visit,target only (Y_),no
+Y_n_inj_total,"integer [0, 30]",Study-eye injections over 2 years,target only (Y_),no
+Y_n_inj_yr1,"integer [0, 14]",Study-eye injections before 1-year visit,target only (Y_),no
+Y_va_change_wk104,"integer [-100, 100]",Vision change at 2 years (letters),target only (Y_),yes
+Y_va_change_wk52,"integer [-100, 100]","Vision change at 1 year (letters), primary outcome",target only (Y_),yes
+M_final_status,"categorical (Completed, DropPostOutcome, DropPreOutcome)",Final study status,bookkeeping (M_),no
+M_has_wk104,binary (0/1),Has 2-year vision,bookkeeping (M_),no
+M_has_wk52,binary (0/1),Has 1-year vision,bookkeeping (M_),no

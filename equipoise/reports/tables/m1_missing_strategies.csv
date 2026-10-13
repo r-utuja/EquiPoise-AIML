@@ -1,0 +1,7 @@
+strategy,comparison,estimate,se,ci_low,ci_high,n,df,note
+complete-case,Aflibercept - Bevacizumab,3.954279789,1.070038314,1.852894202,6.055665375,616,613,
+complete-case,Ranibizumab - Bevacizumab,1.818627451,1.075220127,-0.2929343964,3.930189298,616,613,
+kNN (single imputation),Aflibercept - Bevacizumab,4.008846658,1.004535577,2.036359389,5.981333927,660,657,SE ignores imputation uncertainty
+kNN (single imputation),Ranibizumab - Bevacizumab,1.996330275,1.011330709,0.01050021199,3.982160338,660,657,SE ignores imputation uncertainty
+"MICE (m=20, Rubin)",Aflibercept - Bevacizumab,3.831607066,1.076628236,1.716537201,5.946676932,660,520.5910412,fraction of missing information 0.07
+"MICE (m=20, Rubin)",Ranibizumab - Bevacizumab,1.968917304,1.066311353,-0.1252804761,4.063115083,660,594.1616109,fraction of missing information 0.04

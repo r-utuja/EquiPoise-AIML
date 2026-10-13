@@ -1,0 +1,36 @@
+# Replication targets from README section 9.1 (Arms order: Aflibercept, Bevacizumab, Ranibizumab).
+# `published`: Protocol T 1-year report (Wells et al., NEJM 2015) and 2-year report
+#              (Wells et al., Ophthalmology 2016; the README gives these 2-year values as "about").
+# `our_table`: values the M0 analysis table reproduces; tests/test_stats_replication.py checks
+#              the M2 output against these (letters within stats.replication_tolerance_letters,
+#              injection medians and laser % exactly after rounding).
+# Population: completers at that horizon (M_has_wk52 = 1 for year 1, M_has_wk104 = 1 for year 2).
+
+year1:
+  mean_letters_gained:
+    published: [13.3, 9.7, 11.2]
+    our_table: [13.3, 9.4, 11.2]
+  mean_letters_gained_va_below_69:      # baseline 20/50 or worse
+    published: [18.9, 11.8, 14.2]
+    our_table: [19.1, 11.8, 14.2]
+  mean_letters_gained_va_69_or_better:  # baseline 20/32-20/40
+    published: [8.0, 7.5, 8.3]
+    our_table: [7.8, 7.0, 8.3]
+  median_injections:
+    published: [9, 10, 10]
+    our_table: [9, 10, 10]
+  laser_pct:
+    published: [37, 56, 46]
+    our_table: [37, 56, 47]
+  mean_cst_change_um:
+    published: [-169, -101, -147]
+    our_table: [-165, -98, -147]
+
+year2:
+  mean_letters_gained:
+    published: [12.8, 10.0, 12.3]
+    our_table: [12.9, 9.6, 12.2]
+  median_injections:
+    our_table: [15, 16, 15]
+  laser_pct:
+    our_table: [41, 64, 52]

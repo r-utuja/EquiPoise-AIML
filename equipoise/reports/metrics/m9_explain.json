@@ -1,0 +1,7 @@
+{
+  "n_subgroups": 10.0,
+  "n_unreliable_subgroups": 1.0,
+  "shap_additivity_ok": 1.0,
+  "shap_rank_va_letters": 2.0,
+  "shap_top_feature_is_vision": 0.0
+}

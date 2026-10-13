@@ -1,0 +1,4 @@
+optimizer,epochs_run,best_epoch,best_val_loss,final_train_loss
+SGD,32,7,0.5416104198,0.5207923687
+Adam,30,5,0.5420706868,0.5200072527
+RMSprop,26,1,0.5409383774,0.5147371164

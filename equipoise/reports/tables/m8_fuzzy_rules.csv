@@ -1,0 +1,11 @@
+rule,text
+1,IF benefit is negligible THEN strength is weak
+2,IF certainty is low THEN strength is weak
+3,IF benefit is NOT large AND extra cost is high THEN strength is weak
+4,IF benefit is NOT large AND burden is more THEN strength is weak
+5,IF benefit is NOT negligible AND certainty is medium AND extra cost is NOT high THEN strength is moderate
+6,IF benefit is NOT negligible AND benefit is NOT large AND certainty is high THEN strength is moderate
+7,IF benefit is large AND certainty is high AND extra cost is NOT high THEN strength is strong
+8,IF benefit is large AND certainty is high AND extra cost is high THEN strength is moderate
+9,IF benefit is large AND certainty is medium THEN strength is moderate
+10,IF benefit is large AND burden is fewer AND certainty is NOT low THEN strength is strong

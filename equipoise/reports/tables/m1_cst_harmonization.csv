@@ -1,0 +1,10 @@
+version,machine,n,mean,sd,median
+"Raw (machine units, um)",Zeiss Stratus,26,433.3846154,125.7381651,426
+"Raw (machine units, um)",Zeiss Cirrus,322,452.5062112,128.9227169,425
+"Raw (machine units, um)",Heidelberg Spectralis,303,466.9141914,126.756425,439
+"Stratus-equivalent, median offset (um)",Zeiss Stratus,26,433.3846154,125.7381651,426
+"Stratus-equivalent, median offset (um)",Zeiss Cirrus,322,409.5062112,128.9227169,382
+"Stratus-equivalent, median offset (um)",Heidelberg Spectralis,303,399.9141914,126.756425,372
+Within-machine z-score (SD units),Zeiss Stratus,26,0.03395207423,0.9736478892,-0.02323036658
+Within-machine z-score (SD units),Zeiss Cirrus,322,0.04169752804,1.046532557,-0.1815846538
+Within-machine z-score (SD units),Heidelberg Spectralis,303,-0.006333547706,0.9976808068,-0.226041961

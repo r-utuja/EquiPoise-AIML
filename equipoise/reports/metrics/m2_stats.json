@@ -1,0 +1,12 @@
+{
+  "anova_yr1_p": 0.001146,
+  "mean_gain_yr1_aflibercept": 13.331731,
+  "mean_gain_yr1_bevacizumab": 9.377451,
+  "mean_gain_yr1_ranibizumab": 11.196078,
+  "multiple_R": 0.502855,
+  "p_interaction_va_below_69": 0.005132,
+  "p_interaction_va_letters": 0.000337,
+  "partial_r_va_gain": -0.418687,
+  "table1_n_p_below_alpha": 0.0,
+  "table1_n_tested": 33.0
+}

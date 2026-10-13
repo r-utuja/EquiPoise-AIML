@@ -1,0 +1,4 @@
+cluster,n,mean_gain_wk12,mean_gain_wk52,silhouette_overall
+fast responders,76,20.23218682,26.00886025,0.3295315893
+slow responders,250,8.710206254,12.49241541,0.3295315893
+non-responders,162,1.267336333,1.796644133,0.3295315893

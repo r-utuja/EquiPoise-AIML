@@ -1,0 +1,23 @@
+learner,comparison,mean_effect,sd_effect,mean_effect_va_below_69,mean_effect_va_69_or_better
+Constant effect (difference in means),Aflibercept - Bevacizumab,3.896407186,8.881784197e-16,3.896407186,3.896407186
+Constant effect (difference in means),Ranibizumab - Bevacizumab,2.259509202,1.33226763e-15,2.259509202,2.259509202
+S-learner (GB),Aflibercept - Bevacizumab,1.64184029,0.5842306174,1.942732096,1.340948484
+S-learner (GB),Ranibizumab - Bevacizumab,0.7661386137,0.3611341308,0.8386116762,0.6936655513
+S-learner (Ridge),Aflibercept - Bevacizumab,2.991854858,1.19738189e-15,2.991854858,2.991854858
+S-learner (Ridge),Ranibizumab - Bevacizumab,1.156596729,1.153099119e-15,1.156596729,1.156596729
+T-learner (GB),Aflibercept - Bevacizumab,4.607643496,6.003529109,6.926922979,2.288364014
+T-learner (GB),Ranibizumab - Bevacizumab,2.585530705,4.972352135,2.855150764,2.315910646
+T-learner (Ridge),Aflibercept - Bevacizumab,3.310000782,5.093921293,4.969220911,1.650780652
+T-learner (Ridge),Ranibizumab - Bevacizumab,1.270041996,4.516089287,1.244916869,1.295167122
+X-learner (GB),Aflibercept - Bevacizumab,4.382328189,4.966429572,6.095876444,2.668779934
+X-learner (GB),Ranibizumab - Bevacizumab,2.325721038,3.754395534,2.232033286,2.41940879
+X-learner (Ridge),Aflibercept - Bevacizumab,3.31978048,4.706338129,4.817004166,1.822556795
+X-learner (Ridge),Ranibizumab - Bevacizumab,1.203986819,4.147374039,1.06041737,1.347556269
+DR-learner (GB),Aflibercept - Bevacizumab,4.527556979,6.639864352,6.091598258,2.9635157
+DR-learner (GB),Ranibizumab - Bevacizumab,1.96240718,6.163471536,1.29846218,2.62635218
+DR-learner (Ridge),Aflibercept - Bevacizumab,3.45409267,5.180053412,5.273439676,1.634745663
+DR-learner (Ridge),Ranibizumab - Bevacizumab,1.182793391,4.862248316,1.101533233,1.26405355
+Causal forest (CausalForestDML),Aflibercept - Bevacizumab,3.171893365,1.238892171,3.756545861,2.58724087
+Causal forest (CausalForestDML),Ranibizumab - Bevacizumab,1.242800054,0.746524406,1.34534352,1.140256587
+TARNet (RMSprop),Aflibercept - Bevacizumab,1.186455488,2.041398048,2.019450426,0.3534607291
+TARNet (RMSprop),Ranibizumab - Bevacizumab,-0.02846994065,2.205067635,-0.8916254044,0.8346856236

@@ -1,0 +1,9 @@
+{
+  "n_test_images": 968.0,
+  "n_train_images": 3097.0,
+  "resnet_best_epoch": 4.0,
+  "resnet_test_accuracy": 0.948347,
+  "resnet_test_macro_f1": 0.948139,
+  "yolo_test_accuracy": 0.987603,
+  "yolo_test_macro_f1": 0.987603
+}

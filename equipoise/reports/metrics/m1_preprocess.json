@@ -1,0 +1,16 @@
+{
+  "dbscan_eps": 4.625935,
+  "diff_complete-case_aflibercept": 3.95428,
+  "diff_complete-case_ranibizumab": 1.818627,
+  "diff_knn_aflibercept": 4.008847,
+  "diff_knn_ranibizumab": 1.99633,
+  "diff_mice_aflibercept": 3.831607,
+  "diff_mice_ranibizumab": 1.968917,
+  "n_output_features": 42.0,
+  "nrmse_knn": 0.96467,
+  "nrmse_median": 1.012188,
+  "nrmse_mice": 0.849443,
+  "outliers_dbscan": 5.0,
+  "outliers_iqr": 17.0,
+  "outliers_isolation_forest": 38.0
+}

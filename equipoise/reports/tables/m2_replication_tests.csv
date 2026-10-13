@@ -1,0 +1,41 @@
+horizon_years,subgroup,outcome,test,comparison,statistic,p,p_holm,difference,ci_low,ci_high
+1,all,letters,one-way ANOVA,all arms,6.846468375,0.001146408134,,,,
+1,all,letters,Welch t-test,Aflibercept - Bevacizumab,,0.0005464591306,0.001639377392,3.954279789,1.723411566,6.185148011
+1,all,letters,Welch t-test,Ranibizumab - Bevacizumab,,0.08064113466,0.08064113466,1.818627451,-0.2227549531,3.860009855
+1,all,letters,Welch t-test,Aflibercept - Ranibizumab,,0.03998725623,0.07997451247,2.135652338,0.09814153187,4.173163144
+1,va_below_69,letters,one-way ANOVA,all arms,10.35012645,4.500832478e-05,,,,
+1,va_below_69,letters,Welch t-test,Aflibercept - Bevacizumab,,2.608891929e-05,7.826675788e-05,7.236944283,3.922166443,10.55172212
+1,va_below_69,letters,Welch t-test,Ranibizumab - Bevacizumab,,0.1422475252,0.1422475252,2.368316832,-0.8016541109,5.538287774
+1,va_below_69,letters,Welch t-test,Aflibercept - Ranibizumab,,0.00244953425,0.004899068499,4.868627451,1.740084967,7.997169935
+1,va_69_or_better,letters,one-way ANOVA,all arms,0.646723439,0.5244642662,,,,
+1,va_69_or_better,letters,Welch t-test,Aflibercept - Bevacizumab,,0.5144178619,1,0.8404469683,-1.6973704,3.378264336
+1,va_69_or_better,letters,Welch t-test,Ranibizumab - Bevacizumab,,0.2757795284,0.8273385853,1.336818521,-1.076357917,3.749994959
+1,va_69_or_better,letters,Welch t-test,Aflibercept - Ranibizumab,,0.6316570383,1,-0.496371553,-2.534775305,1.542032199
+1,all,cst_um,one-way ANOVA,all arms,14.31934803,8.410268807e-07,,,,
+1,all,cst_um,Welch t-test,Aflibercept - Bevacizumab,,2.636632143e-07,7.90989643e-07,-67.24070822,-92.47802638,-42.00339006
+1,all,cst_um,Welch t-test,Ranibizumab - Bevacizumab,,0.0001273077206,0.0002546154413,-49.37820946,-74.46207297,-24.29434594
+1,all,cst_um,Welch t-test,Aflibercept - Ranibizumab,,0.1860931919,0.1860931919,-17.86249877,-44.37513329,8.650135758
+1,all,injections,Mann-Whitney U,Aflibercept - Bevacizumab,18097,0.009219500453,0.02765850136,-1,,
+1,all,injections,Mann-Whitney U,Ranibizumab - Bevacizumab,19232,0.1820548,0.3641096,0,,
+1,all,injections,Mann-Whitney U,Aflibercept - Ranibizumab,19621,0.1827288109,0.3641096,-1,,
+1,all,laser,chi-square,all arms,14.73587036,0.0006311700859,,,,
+2,all,letters,one-way ANOVA,all arms,3.355098832,0.03560774832,,,,
+2,all,letters,Welch t-test,Aflibercept - Bevacizumab,,0.01979233165,0.05937699496,3.301313196,0.5276047594,6.075021632
+2,all,letters,Welch t-test,Ranibizumab - Bevacizumab,,0.05319442346,0.1063888469,2.604131636,-0.03606201293,5.244325285
+2,all,letters,Welch t-test,Aflibercept - Ranibizumab,,0.5795627549,0.5795627549,0.69718156,-1.775006042,3.169369162
+2,va_below_69,letters,one-way ANOVA,all arms,3.299906433,0.03835267366,,,,
+2,va_below_69,letters,Welch t-test,Aflibercept - Bevacizumab,,0.01428708368,0.04286125103,5.502721088,1.113726531,9.891715646
+2,va_below_69,letters,Welch t-test,Ranibizumab - Bevacizumab,,0.1785612279,0.3571224558,2.955555556,-1.363360534,7.274471645
+2,va_below_69,letters,Welch t-test,Aflibercept - Ranibizumab,,0.217022011,0.3571224558,2.547165533,-1.509585536,6.603916602
+2,va_69_or_better,letters,one-way ANOVA,all arms,1.492002836,0.2266854929,,,,
+2,va_69_or_better,letters,Welch t-test,Aflibercept - Bevacizumab,,0.4143886721,0.646279004,1.228049179,-1.734822674,4.190921031
+2,va_69_or_better,letters,Welch t-test,Ranibizumab - Bevacizumab,,0.09535986318,0.2860795895,2.373509469,-0.4208114411,5.16783038
+2,va_69_or_better,letters,Welch t-test,Aflibercept - Ranibizumab,,0.323139502,0.646279004,-1.145460291,-3.426412312,1.135491731
+2,all,cst_um,one-way ANOVA,all arms,5.159788455,0.006024147277,,,,
+2,all,cst_um,Welch t-test,Aflibercept - Bevacizumab,,0.001547606472,0.004642819415,-46.99201959,-75.96421051,-18.01982867
+2,all,cst_um,Welch t-test,Ranibizumab - Bevacizumab,,0.07016306255,0.1403261251,-27.13133583,-56.50832938,2.24565772
+2,all,cst_um,Welch t-test,Aflibercept - Ranibizumab,,0.172933117,0.172933117,-19.86068376,-48.46155575,8.74018823
+2,all,injections,Mann-Whitney U,Aflibercept - Bevacizumab,15590,0.02345226896,0.07035680688,-1,,
+2,all,injections,Mann-Whitney U,Ranibizumab - Bevacizumab,15854,0.4280491416,0.4280491416,-1,,
+2,all,injections,Mann-Whitney U,Aflibercept - Ranibizumab,16786.5,0.1592339566,0.3184679132,0,,
+2,all,laser,chi-square,all arms,19.88850773,4.80026729e-05,,,,

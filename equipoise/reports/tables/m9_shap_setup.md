@@ -1,0 +1,3 @@
+| explainer                                 |   background |   explained_patients |   base_value_letters | additivity_holds_within_1e-6   |
+|:------------------------------------------|-------------:|---------------------:|---------------------:|:-------------------------------|
+| permutation (model-agnostic) on effect(X) |          100 |                  132 |                 3.03 | True                           |

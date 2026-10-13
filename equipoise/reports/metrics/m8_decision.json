@@ -1,0 +1,7 @@
+{
+  "newton_brentq_max_diff_benefit": 0.0,
+  "prices_demo": 1.0,
+  "share_equipoise": 1.0,
+  "share_recommend_bevacizumab": 1.0,
+  "typical_patient_fuzzy_strength_afl": 17.051282
+}

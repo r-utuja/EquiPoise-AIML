@@ -1,0 +1,313 @@
+# Equipoise default configuration. All paths are relative to the repository root.
+# Loaded through src/equipoise/config.py; do not hard-code these values elsewhere.
+
+seed: 42
+
+paths:
+  raw_dir: "data/raw/Data Tables - Text files"
+  analysis_table: data/protocolT_analysis.csv
+  visits_table: data/protocolT_visits.csv
+  synthetic_dir: data/synthetic
+  splits_file: data/splits.json
+  cst_quality_table: data/protocolT_cst_quality.csv
+  models_dir: models
+  figures_dir: reports/figures
+  tables_dir: reports/tables
+  logs_dir: logs
+  derived_dir: data/derived     # patient-level derived files (never committed)
+  metrics_dir: reports/metrics  # small per-stage JSON summaries tracked by DVC
+
+split:
+  test_fraction: 0.2          # one fixed held-out test set, touched only for final reporting
+  stratify_by: treatment
+
+cv:
+  n_folds: 5                  # cross-validation / cross-fitting inside the 80% training set
+
+trial:
+  arms: [Aflibercept, Bevacizumab, Ranibizumab]
+  arm_sizes: {Aflibercept: 224, Bevacizumab: 218, Ranibizumab: 218}
+  n_patients: 660
+  n_missing_wk52: 44
+  reference_arm: Bevacizumab  # cheapest; effects reported as arm - Bevacizumab
+  primary_outcome: Y_va_change_wk52
+  va_eligibility_letters: [24, 78]
+
+visits:
+  # Visit-table build (scripts/build_protocolT_visits.py). OCT, injection and laser records
+  # are joined to visits by the exact DRCR visit key (ParentLoginVisitID); these windows are
+  # sanity checks on the recorded dates and the build fails if any record falls outside.
+  oct_window_days: 14         # |OCT scan date - visit date|
+  treatment_window_days: 28   # injection / laser date - visit date (same visit, max one cycle)
+  cross_check_tolerance_letters: 0.5
+
+effects:
+  mcid_letters: 5             # minimal clinically important difference = one chart line
+  mcid_sensitivity_letters: [3]   # also report the equipoise call at these thresholds (M8)
+
+preprocess:
+  imputer: median             # imputer inside build_preprocessor: median | knn | iterative
+  knn_neighbors: 5
+  mice_imputations: 20        # multiple imputations pooled with Rubin's rules
+  mice_max_iter: 10
+  imputation_mask_fraction: 0.1   # share of observed feature values hidden to score imputers
+  log_features: [X_hba1c, X_bmi]  # right-skewed on the training split (skew > 1)
+  cst:
+    method: zscore            # zscore (default) | offset | equations
+    # Bressler et al., JAMA Ophthalmol 2014;132:1113-22, doi:10.1001/jamaophthalmol.2014.1698:
+    # median CST difference vs Stratus was +43 um (Cirrus) and +67 um (Spectralis).
+    offset_um: {Zeiss Stratus: 0, Zeiss Cirrus: 43, Heidelberg Spectralis: 67}
+    # TEAM: the paper's Table 3 gives linear Stratus-equivalent equations
+    # (Stratus = intercept + slope * SD value). Fill both and cite before using method: equations.
+    equations:
+      Zeiss Cirrus: {intercept: null, slope: null}
+      Heidelberg Spectralis: {intercept: null, slope: null}
+    # Reading-centre quality flags ("Unacceptable" central subfield). keep = primary analysis
+    # (as M0 / published); missing = sensitivity analysis (flagged CST treated as missing).
+    quality_policy: keep
+  outliers:
+    iqr_k: 1.5
+    iqr_min_features: 2       # patient flagged when >= this many features fall outside IQR fences
+    isolation_contamination: 0.05
+    dbscan_min_samples: 10
+    dbscan_eps_quantile: 0.95 # eps = this quantile of the k-distance curve
+  bands:                      # discretization for association rules (M3); right-open intervals
+    X_hba1c: {edges: [0, 7, 8, 9, 100], labels: ["<7", "7-8", "8-9", ">=9"]}
+    X_va_letters:             # 24-53 = 20/320-20/100, 54-68 = 20/80-20/50, 69-78 = 20/40-20/32
+      edges: [0, 54, 69, 100]
+      labels: ["20/100 or worse", "20/50-20/80", "20/32-20/40"]
+    X_age: {edges: [0, 50, 60, 70, 200], labels: ["<50", "50-59", "60-69", ">=70"]}
+  gain_threshold_letters: 15  # "gained >= 15 letters" (3 lines), used by M3 and M5
+
+stats:
+  ci_level: 0.95
+  alpha: 0.05
+  skew_threshold: 1.0         # |skew| above this -> median [IQR] and Kruskal-Wallis in Table 1
+  regression_covariates: [X_va_letters, X_cst_um, X_hba1c, X_age, X_prior_antivegf]
+  multiple_correlation_features: [X_va_letters, X_cst_um, X_hba1c, X_age, X_diabetes_duration_yrs,
+                                  X_prior_antivegf, X_subretinal_fluid, X_fellow_va_letters]
+  replication_tolerance_letters: 0.2
+
+bootstrap:
+  n_reps: 200
+
+mlflow:
+  # MLflow >= 3.x refuses the plain-folder backend, so runs live in a local SQLite file and
+  # artifacts (figures, tables, models) in mlruns/. Browse with:
+  #   mlflow ui --backend-store-uri sqlite:///mlflow.db
+  tracking_uri: sqlite:///mlflow.db
+  artifact_dir: mlruns
+  experiment_prefix: equipoise
+
+synthetic:
+  n_patients: 660
+  seed: 42
+  # Planted, known treatment effects (ETDRS letters at week 52, relative to bevacizumab).
+  # Aflibercept helps more when X_va_below_69 = 1 (mirrors the published subgroup finding).
+  effect_aflibercept_va_below_69: 7.0
+  effect_aflibercept_va_at_or_above_69: 0.5
+  effect_ranibizumab: 2.0
+  outcome_noise_sd: 9.0
+
+represent:                    # M3 (exploratory; training patients only)
+  n_components_plot: 15       # components shown in the scree plot
+  variance_target: 0.8        # report how many components reach this share of variance
+  k_range: [2, 8]             # k-means / Ward candidates; k chosen by best silhouette
+  dendrogram_truncate: 25     # leaves shown in the truncated dendrogram
+  apriori:
+    min_support: 0.08
+    min_confidence: 0.4
+    max_len: 3
+    top_n: 10
+    binary_items: [X_prior_antivegf, X_prior_focal_laser, X_prior_prp, X_subretinal_fluid,
+                   X_pseudophakic, X_insulin, X_hypertension, X_female, X_epiretinal_membrane]
+
+supervised:                   # M5 (CV on training split; held-out test reported once)
+  knn_neighbors: 15
+  knn_timing_repeats: 7
+  tree: {max_depth: 4, min_samples_leaf: 20}
+  random_forest: {n_estimators: 300, min_samples_leaf: 10, max_features: 0.33}
+  gradient_boosting: {n_estimators: 200, learning_rate: 0.05, max_depth: 2, subsample: 0.8}
+  ridge_alphas: [0.01, 0.1, 1, 10, 100, 1000]
+  lasso_n_alphas: 50
+  logistic_C: 1.0
+  irls: {max_iter: 50, tol: 1.0e-8}
+  classification_threshold: 0.5
+  poisson_alpha: 1.0e-4
+  hist_gb_poisson: {max_iter: 200, learning_rate: 0.05, max_depth: 3, min_samples_leaf: 20}
+  one_hot_min_frequency: 10   # rarer categories pooled, so unpenalized models stay estimable
+
+search:                       # M4 (training completers only; same budget + seeds for all)
+  ridge_alpha: 10.0           # fixed Ridge penalty inside the objective
+  feature_penalty: 0.02       # letters of RMSE charged per selected raw feature
+  budget: 1500                # unique objective evaluations per algorithm run
+  seed_offsets: [0, 1, 2]     # each algorithm runs once per seed (cfg.seed + offset)
+  beam: {width: 5}
+  tabu: {tenure: 7}
+  ga: {population: 30, crossover_rate: 0.9, two_point_share: 0.5, elite: 2,
+       patience_generations: 25}   # bit-flip mutation rate = 1 / n_features
+  pso: {particles: 20, inertia: 0.7, c1: 1.5, c2: 1.5, v_max: 4.0}
+  filter_top_k: 10
+  rfe_n_features: 12
+  lasso_path_alphas: 60
+
+causal:                       # M6 counterfactual engine (training split; test = final report)
+  cv_folds: 5                 # cross-fitting folds inside econml learners
+  base_learners:
+    gb: {n_estimators: 150, learning_rate: 0.05, max_depth: 2, min_samples_leaf: 20,
+         subsample: 0.8}
+    ridge: {alpha: 10.0}
+  causal_forest: {n_estimators: 500, min_samples_leaf: 10, max_depth: null}
+  tarnet:
+    shared: [64, 64]
+    head: [32]
+    dropout: 0.1
+    weight_decay: 1.0e-4
+    batch_size: 64
+    max_epochs: 300
+    patience: 25
+    validation_fraction: 0.2
+    learning_rates: {SGD: 0.01, Adam: 0.001, RMSprop: 0.001}
+    momentum: 0.9
+  semi_synthetic:
+    replications: 10
+    eval_fraction: 0.25       # share of training patients held out to score PEHE
+    noise_scale: 1.0          # x the noise SD fitted to real data (1.0 for all reported results)
+    # (a) null: constant effects (letters) = overall trial differences, no heterogeneity
+    null_effects: {Aflibercept: 3.9, Ranibizumab: 1.8}
+    # (b) published-like (Wells 2015 subgroup means; afl/ran minus bev)
+    published_effects:
+      va_below_69: {Aflibercept: 7.1, Ranibizumab: 2.4}
+      va_69_or_better: {Aflibercept: 0.5, Ranibizumab: 0.8}
+    # (c) nonlinear: smooth step in baseline vision x CST, threshold in HbA1c
+    nonlinear: {amplitude: 8.0, va_centre: 60.0, va_scale: 4.0, hba1c_cut: 8.5,
+                hba1c_effect: 3.0, ranibizumab_share: 0.4}
+  heterogeneity_rule: tertile_gap   # "finds heterogeneity" if top-bottom tertile gap > MCID
+  selection:                  # how the final learner is chosen (never by test-set fit)
+    # 1. drop models whose predicted effects cannot vary by patient (spread ~0 on training X)
+    constant_effect_sd: 1.0e-6
+    # 2. drop learners with systematic average-effect bias in any semi-synthetic scenario
+    max_abs_ate_bias: 1.0
+    # 3. pick the lowest worst-case (max over scenarios) PEHE
+    criterion: worst_case_pehe
+  tuning:
+    trials: 30                # same budget for grid, Optuna (TPE) and PSO
+    pso_particles: 6
+  bootstrap_reps: 200         # per-patient intervals for the chosen learner (reported)
+  bundle_bootstrap_models: 50 # replicates kept in the model bundle (size; app intervals)
+  policy:
+    # letters a patient would trade for one price unit. With DEMO prices (relative units)
+    # this is illustrative only; set it again when real rupee prices are filled in.
+    lambda_letters_per_cost_unit: 0.05
+  automl:
+    time_limit_s: 120         # per arm, AutoGluon T-learner
+    presets: medium_quality
+
+longitudinal:                 # M7 (visit table; models fitted on training patients)
+  grid_max_week: 104
+  grid_step_weeks: 1          # weekly grid for the 3-D tensor
+  ts_step_weeks: 4            # arm-mean series for time-series models
+  ts_fit_until_week: 52       # fit on weeks 0-52, forecast 56-104
+  arima_orders: {p: [0, 1, 2], d: [0, 1], q: [0, 1, 2]}
+  ma_window: 3
+  lagrange: {short_points: 5, long_points: 12}
+  hmm: {n_states: 3, n_iter: 200, covariance_type: diag, tol: 1.0e-4}
+  early_weeks: [4, 8, 12]     # vision allowed in the early-response model (and only there)
+  early_ridge_alpha: 10.0
+  trajectory_k: 3             # fast / slow / non-responders
+  trajectory_until_week: 52
+
+decision:                     # M8 (decision-support logic, not clinical guidance)
+  value_of_vision_k: 0.05     # U(letters) = 1 - exp(-k * letters): concave, saturating
+  newton: {tol: 1.0e-10, max_iter: 50, fd_step: 1.0e-4}
+  fuzzy:
+    benefit_universe: [-5, 15]      # predicted letters vs cheapest
+    burden_universe: [-4, 4]        # injection difference vs cheapest (year 1)
+    output_resolution: 101
+  rules:
+    net_benefit_margin: 0.0   # recommend the dearer drug only if its net benefit exceeds this
+  example_patient: training_median  # worked example built from training medians / modes
+
+explain:                      # M9
+  shap_background: 100        # training patients used as SHAP background
+  subgroup_min_n: 40          # smaller subgroups are flagged as unreliable
+  subgroups: [X_female, X_race, X_diabetes_type, X_va_below_69]
+
+serving:                      # M11 API + app (Phase 8)
+  request_log: requests.jsonl # under paths.logs_dir; baseline features only, no identifiers
+  bundle_env_var: EQUIPOISE_BUNDLE        # optional path to a bundle file
+  synthetic_env_var: EQUIPOISE_SYNTHETIC  # "1" -> serve models/synthetic/ (public demo)
+  request_log_env_var: EQUIPOISE_REQUEST_LOG  # optional log path; "off" disables logging
+  api_url_env_var: API_URL    # the app calls this API when set, else loads the bundle itself
+  request_timeout_s: 60
+  shap_background_clusters: 10    # k-means centroids of training X (aggregate, no patients;
+                                  # each centroid costs ~0.4 s of SHAP time per request)
+  shap_top_features: 10           # contributions shown in the per-patient waterfall
+  breakeven_curve_points: 41
+  breakeven_curve_max_multiple: 3.0   # price grid up to this x max(current, break-even) price
+
+ui:                           # Streamlit app presentation (app/presenters.py); no model logic
+  letters_per_line: 5         # one eye-chart line = 5 letters
+  lines_step: 0.5             # round lines to this step ("about 1.5 lines")
+  # Confidence in the headline's own claim: P(benefit > 1 line) of the suggested costlier
+  # drug when there is a clear winner, 1 - P(...) of the best costlier drug when there is not.
+  confidence:
+    fairly: 0.8               # >= this -> "We're fairly confident"
+    somewhat: 0.6             # >= this -> "We're somewhat confident"; below -> "close call"
+  may_benefit_p: 0.5          # no clear winner but P(best costlier drug > 1 line) >= this ->
+                              # one extra line saying it may give a small extra benefit
+  strength:                   # fuzzy strength (0-100) -> "Weak / Moderate / Strong case for
+    moderate: 40              # paying more"; shown only when real prices are set
+    strong: 70
+  factor_size_letters: {small: 0.25, medium: 1.0}  # |SHAP| words: slightly / a little / clearly
+  snellen:                    # eye-chart dropdown: 20/x feet and the 6 m equivalent
+    - [32, "6/9.5"]
+    - [40, "6/12"]
+    - [50, "6/15"]
+    - [63, "6/19"]
+    - [80, "6/24"]
+    - [100, "6/30"]
+    - [125, "6/38"]
+    - [160, "6/48"]
+    - [200, "6/60"]
+    - [250, "6/75"]
+    - [320, "6/95"]
+  snellen_display_extra:      # for showing results outside the trial's range (not in the dropdown)
+    - [16, "6/4.8"]
+    - [20, "6/6"]
+    - [25, "6/7.5"]
+    - [400, "6/120"]
+  essential_features: [X_va_letters, X_cst_um, X_oct_machine, X_hba1c,
+                       X_diabetes_duration_yrs, X_female, X_age, X_sbp, X_dbp]
+  examples_file: app_examples.json   # under paths.derived_dir (patient-level, never committed)
+  examples: [poorer, moderate, good] # order of the "Try an example" buttons
+  explain_on_compare: false   # step 2 skips the per-patient explanation (loaded on step 3)
+
+monitor:                      # M11 drift monitoring (python -m equipoise monitor)
+  drift_share: 0.5            # dataset drift when >= this share of features drift (Evidently)
+  min_requests: 30            # fewer logged requests are too few to test
+  output_dir: monitoring      # reports/monitoring/ (git-ignored: depends on local traffic)
+  simulate:                   # scripts/simulate_requests.py (demo traffic from held-out patients)
+    n_requests: 120
+    shifted_share: 0.5        # share of simulated requests drawn from a shifted population
+    shift: {X_age: 8.0, X_hba1c: 1.0, X_va_letters: -6.0}   # added to each shifted request
+
+vision:                       # M10 OCT screening (optional; Kermany et al. 2018, NOT Protocol T)
+  kaggle_dataset: paultimothymooney/kermany2018
+  kaggle_prefix: "OCT2017 /"  # folder inside the Kaggle dataset (note the space)
+  classes: [CNV, DME, DRUSEN, NORMAL]
+  raw_dir: data/external/kermany_oct  # subset downloaded by scripts/download_oct_subset.py (not committed)
+  per_class_train: 1000       # balanced subset from the official train split
+  use_official_test: true     # all images of the official test split (disjoint patients)
+  val_fraction: 0.2           # validation split inside the training subset, grouped by patient
+  download_workers: 8
+  preprocess:
+    image_size: 224
+    denoise: median           # used for model inputs (fast); nlm shown in the before/after figure
+    median_kernel: 3
+    nlm_h: 10                 # non-local means strength (shown in the before/after figure)
+    clahe_clip: 2.0
+    clahe_grid: 8
+  resnet: {epochs: 5, batch_size: 32, lr: 1.0e-3, weight_decay: 1.0e-4, freeze_backbone_epochs: 1}
+  yolo: {checkpoint: yolo11n-cls.pt, epochs: 5, batch_size: 32, patience: 5}
+  gradcam_examples: 2         # per class

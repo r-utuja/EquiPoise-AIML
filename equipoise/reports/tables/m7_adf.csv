@@ -1,0 +1,7 @@
+series,transform,n,adf_statistic,p,stationary_at_0.05
+Aflibercept,level,14,-3.325561839,0.01377381488,True
+Aflibercept,first difference,13,-4.959959689,2.661975927e-05,True
+Bevacizumab,level,14,-1.815960396,0.3725670831,False
+Bevacizumab,first difference,13,-2.79389011,0.05915183649,False
+Ranibizumab,level,14,-2.033181964,0.2722160919,False
+Ranibizumab,first difference,13,-4.594201406,0.0001323860439,True

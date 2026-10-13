@@ -1,0 +1,23 @@
+# Build context = repository root. Never ship DRCR data or local experiment state.
+.git
+.venv
+venv
+**/__pycache__
+.pytest_cache
+.ruff_cache
+.dvc/cache
+.dvc/tmp
+data/*
+!data/synthetic/
+models/*
+!models/synthetic/
+models/synthetic/autogluon
+mlruns
+mlflow.db
+logs
+reports/synthetic
+notebooks
+*.egg-info
+kaggle.json
+.kaggle
+.env

@@ -1,0 +1,48 @@
+# --- data: DRCR terms forbid redistribution; only synthetic data is committed
+/data/*
+!/data/synthetic/
+!/data/.gitignore
+# DVC pointer files for data are fine to commit
+!/data/*.dvc
+
+# --- artifacts
+/models/
+/mlruns/
+mlflow.db
+/logs/
+/reports/**/*.html
+/reports/synthetic/
+
+# --- python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# --- credentials
+kaggle.json
+.kaggle/
+.env
+
+# --- OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- local assistant tooling
+.claude/
+# drift reports depend on local request logs
+/reports/monitoring/
+
+# Ultralytics downloads checkpoints into the working directory
+/yolo*.pt

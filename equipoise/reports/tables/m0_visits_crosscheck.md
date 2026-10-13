@@ -1,0 +1,10 @@
+| outcome            |   n_compared |   n_missing_mismatch |   n_value_mismatch |   max_abs_diff |
+|:-------------------|-------------:|---------------------:|-------------------:|---------------:|
+| Y_va_change_wk52   |          616 |                    0 |                  0 |              0 |
+| Y_cst_change_wk52  |          604 |                    0 |                  0 |              0 |
+| Y_va_change_wk104  |          564 |                    0 |                  0 |              0 |
+| Y_cst_change_wk104 |          553 |                    0 |                  0 |              0 |
+| Y_n_inj_yr1        |          660 |                    0 |                  0 |              0 |
+| Y_n_inj_total      |          660 |                    0 |                  0 |              0 |
+| Y_laser_yr1        |          660 |                    0 |                  0 |              0 |
+| Y_laser_any        |          660 |                    0 |                  0 |              0 |

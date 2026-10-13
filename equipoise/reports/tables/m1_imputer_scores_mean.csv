@@ -1,0 +1,4 @@
+imputer,nrmse
+MICE (single),0.8494433976
+kNN,0.9646704712
+median,1.012187672

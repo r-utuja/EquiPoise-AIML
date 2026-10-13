@@ -1,0 +1,44 @@
+| output_feature                                         | block   |
+|:-------------------------------------------------------|:--------|
+| numeric__X_hba1c                                       | numeric |
+| numeric__X_bmi                                         | numeric |
+| numeric__X_cst_harmonized_zscore                       | numeric |
+| numeric__X_dr_severity_clinical                        | numeric |
+| numeric__X_age                                         | numeric |
+| numeric__X_dbp                                         | numeric |
+| numeric__X_diabetes_duration_yrs                       | numeric |
+| numeric__X_dr_severity_rc                              | numeric |
+| numeric__X_fellow_va_letters                           | numeric |
+| numeric__X_iop                                         | numeric |
+| numeric__X_log_uacr                                    | numeric |
+| numeric__X_sbp                                         | numeric |
+| numeric__X_va_letters                                  | numeric |
+| nominal__X_race_American Indian/Alaskan Native         | nominal |
+| nominal__X_race_Asian                                  | nominal |
+| nominal__X_race_Black/African American                 | nominal |
+| nominal__X_race_More than one race                     | nominal |
+| nominal__X_race_Native Hawaiian/Other Pacific Islander | nominal |
+| nominal__X_race_White                                  | nominal |
+| nominal__X_diabetes_type_Type 1                        | nominal |
+| nominal__X_diabetes_type_Type 2                        | nominal |
+| nominal__X_diabetes_type_Uncertain                     | nominal |
+| nominal__X_oct_machine_Heidelberg Spectralis           | nominal |
+| nominal__X_oct_machine_Zeiss Cirrus                    | nominal |
+| nominal__X_oct_machine_Zeiss Stratus                   | nominal |
+| binary__X_cad                                          | binary  |
+| binary__X_epiretinal_membrane                          | binary  |
+| binary__X_female                                       | binary  |
+| binary__X_hispanic                                     | binary  |
+| binary__X_hypertension                                 | binary  |
+| binary__X_insulin                                      | binary  |
+| binary__X_prior_antivegf                               | binary  |
+| binary__X_prior_dme_trt                                | binary  |
+| binary__X_prior_focal_laser                            | binary  |
+| binary__X_prior_mi                                     | binary  |
+| binary__X_prior_prp                                    | binary  |
+| binary__X_prior_stroke                                 | binary  |
+| binary__X_pseudophakic                                 | binary  |
+| binary__X_renal_disease                                | binary  |
+| binary__X_smoker_current                               | binary  |
+| binary__X_subretinal_fluid                             | binary  |
+| binary__X_va_below_69                                  | binary  |

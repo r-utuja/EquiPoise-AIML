@@ -1,0 +1,3 @@
+|   max_abs_diff_components |   max_abs_diff_explained_variance |   max_abs_diff_scores |
+|--------------------------:|----------------------------------:|----------------------:|
+|                         0 |                                 0 |              3.55e-15 |

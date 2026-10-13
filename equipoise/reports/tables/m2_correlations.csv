@@ -1,0 +1,3 @@
+analysis,n,partial_r,partial_p,raw_r,raw_p,k,R,R2,R2_adj,F,p
+partial correlation: gain ~ baseline VA | CST (within-machine z),608,-0.4186866474,3.676768929e-27,-0.4402002287,3.311279796e-30,,,,,,
+multiple correlation: gain ~ baseline features,603,,,,,8,0.5028546216,0.2528627705,0.2428003162,25.12933363,1.863822201e-33

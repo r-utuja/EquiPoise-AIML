@@ -1,0 +1,1388 @@
+schema: '2.0'
+stages:
+  build_analysis:
+    cmd: python scripts/build_protocolT_table.py "data/raw/Data Tables - Text 
+      files" data/protocolT_analysis.csv
+    deps:
+    - path: data/raw
+      hash: md5
+      md5: 40c879bd0786da1464a0c5ae447f1c68.dir
+      size: 27035396
+      nfiles: 68
+    - path: scripts/build_protocolT_table.py
+      hash: md5
+      md5: 2fa50727d674e962087a23250c7cb44b
+      size: 10285
+    outs:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+  build_visits:
+    cmd: python scripts/build_protocolT_visits.py "data/raw/Data Tables - Text 
+      files" data/protocolT_visits.csv
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/raw
+      hash: md5
+      md5: 40c879bd0786da1464a0c5ae447f1c68.dir
+      size: 27035396
+      nfiles: 68
+    - path: scripts/build_protocolT_table.py
+      hash: md5
+      md5: 2fa50727d674e962087a23250c7cb44b
+      size: 10285
+    - path: scripts/build_protocolT_visits.py
+      hash: md5
+      md5: 7ee1c34c8b81f579440509933e3232d4
+      size: 8958
+    - path: src/equipoise/data/crosscheck.py
+      hash: md5
+      md5: f0c558bd89959cf7f9c6a156463bafc7
+      size: 2847
+    - path: src/equipoise/data/schema.py
+      hash: md5
+      md5: 578e0e90a4204da30e1127726e32ea77
+      size: 14361
+    params:
+      config/default.yaml:
+        visits:
+          oct_window_days: 14
+          treatment_window_days: 28
+          cross_check_tolerance_letters: 0.5
+    outs:
+    - path: data/protocolT_visits.csv
+      hash: md5
+      md5: da8f61df0d8633c965ea136127e84f07
+      size: 875082
+    - path: reports/tables/m0_visits_crosscheck.csv
+      hash: md5
+      md5: 144576f270846465efc7098fbdcb207b
+      size: 270
+    - path: reports/tables/m0_visits_crosscheck.md
+      hash: md5
+      md5: 4174a96735e92f177ed5bebbe8e7ed73
+      size: 990
+  split:
+    cmd: python -m equipoise split
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: src/equipoise/data/splits.py
+      hash: md5
+      md5: 8d8f0acf2ef3b717f89a23edcbb9a505
+      size: 4287
+    params:
+      config/default.yaml:
+        seed: 42
+        split:
+          test_fraction: 0.2
+          stratify_by: treatment
+    outs:
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+  synthetic:
+    cmd: python scripts/make_synthetic_data.py && python -m equipoise split 
+      --synthetic
+    deps:
+    - path: scripts/make_synthetic_data.py
+      hash: md5
+      md5: 8a400dbc5ac29784f1be3fc6e1f11d57
+      size: 16844
+    - path: src/equipoise/data/schema.py
+      hash: md5
+      md5: 578e0e90a4204da30e1127726e32ea77
+      size: 14361
+    - path: src/equipoise/data/splits.py
+      hash: md5
+      md5: 8d8f0acf2ef3b717f89a23edcbb9a505
+      size: 4287
+    params:
+      config/default.yaml:
+        seed: 42
+        split:
+          test_fraction: 0.2
+          stratify_by: treatment
+        synthetic:
+          n_patients: 660
+          seed: 42
+          effect_aflibercept_va_below_69: 7.0
+          effect_aflibercept_va_at_or_above_69: 0.5
+          effect_ranibizumab: 2.0
+          outcome_noise_sd: 9.0
+    outs:
+    - path: data/synthetic/protocolT_analysis.csv
+      hash: md5
+      md5: 55f5cb5322ad2f9d9e00c83e15d9f899
+      size: 140007
+    - path: data/synthetic/protocolT_cst_quality.csv
+      hash: md5
+      md5: acb3cd2c9af6afff50c6de19959c3cd3
+      size: 8104
+    - path: data/synthetic/protocolT_truth.csv
+      hash: md5
+      md5: fc3e3742464edf620abe0fbbcd4e910e
+      size: 18936
+    - path: data/synthetic/protocolT_visits.csv
+      hash: md5
+      md5: cbaa8ab4ac8d11a27aa6a4088c3f7fa8
+      size: 854681
+    - path: data/synthetic/splits.json
+      hash: md5
+      md5: 86668d1b539bd0ca6226912971d4bfe1
+      size: 6159
+  build_cst_quality:
+    cmd: python scripts/build_cst_quality.py "data/raw/Data Tables - Text files"
+      data/protocolT_cst_quality.csv
+    deps:
+    - path: data/raw
+      hash: md5
+      md5: 40c879bd0786da1464a0c5ae447f1c68.dir
+      size: 27035396
+      nfiles: 68
+    - path: scripts/build_cst_quality.py
+      hash: md5
+      md5: 212670dd9a09c6770a482fecc2da3ad9
+      size: 2668
+    - path: src/equipoise/data/schema.py
+      hash: md5
+      md5: 578e0e90a4204da30e1127726e32ea77
+      size: 14361
+    outs:
+    - path: data/protocolT_cst_quality.csv
+      hash: md5
+      md5: 1ee703de5c08e63799639a8288220231
+      size: 7917
+  preprocess:
+    cmd: python -m equipoise preprocess
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/protocolT_cst_quality.csv
+      hash: md5
+      md5: 1ee703de5c08e63799639a8288220231
+      size: 7917
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: src/equipoise/data
+      hash: md5
+      md5: ee3fd26fc02275fdb3b5b239e06d7697.dir
+      size: 23993
+      nfiles: 5
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess
+      hash: md5
+      md5: 196318a52865bd809e6c6437f73ff1e9.dir
+      size: 38440
+      nfiles: 9
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        preprocess:
+          imputer: median
+          knn_neighbors: 5
+          mice_imputations: 20
+          mice_max_iter: 10
+          imputation_mask_fraction: 0.1
+          log_features:
+          - X_hba1c
+          - X_bmi
+          cst:
+            method: zscore
+            offset_um:
+              Zeiss Stratus: 0
+              Zeiss Cirrus: 43
+              Heidelberg Spectralis: 67
+            equations:
+              Zeiss Cirrus:
+                intercept:
+                slope:
+              Heidelberg Spectralis:
+                intercept:
+                slope:
+            quality_policy: keep
+          outliers:
+            iqr_k: 1.5
+            iqr_min_features: 2
+            isolation_contamination: 0.05
+            dbscan_min_samples: 10
+            dbscan_eps_quantile: 0.95
+          bands:
+            X_hba1c:
+              edges:
+              - 0
+              - 7
+              - 8
+              - 9
+              - 100
+              labels:
+              - <7
+              - 7-8
+              - 8-9
+              - '>=9'
+            X_va_letters:
+              edges:
+              - 0
+              - 54
+              - 69
+              - 100
+              labels:
+              - 20/100 or worse
+              - 20/50-20/80
+              - 20/32-20/40
+            X_age:
+              edges:
+              - 0
+              - 50
+              - 60
+              - 70
+              - 200
+              labels:
+              - <50
+              - 50-59
+              - 60-69
+              - '>=70'
+          gain_threshold_letters: 15
+        seed: 42
+    outs:
+    - path: data/derived/m1_outlier_flags.csv
+      hash: md5
+      md5: 3a614cfdd8263c24bcbdc7200950d0ab
+      size: 28511
+    - path: reports/metrics/m1_preprocess.json
+      hash: md5
+      md5: 8360bc90bf5ecc59e31dc90be5250861
+      size: 459
+  stats:
+    cmd: python -m equipoise stats
+    deps:
+    - path: config/replication_targets.yaml
+      hash: md5
+      md5: b58f238436a203fd1bca4ebc7c8d2fc6
+      size: 1419
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/protocolT_cst_quality.csv
+      hash: md5
+      md5: 1ee703de5c08e63799639a8288220231
+      size: 7917
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess/cst_quality.py
+      hash: md5
+      md5: fef6cefebf3488418193e014620342fc
+      size: 1499
+    - path: src/equipoise/preprocess/harmonize.py
+      hash: md5
+      md5: 7ca5696322a5bdc9b0e0311e9b6f63b8
+      size: 4368
+    - path: src/equipoise/stats
+      hash: md5
+      md5: 9b60a2271b23da5ddef5caba294c33b0.dir
+      size: 29078
+      nfiles: 5
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        preprocess.cst:
+          method: zscore
+          offset_um:
+            Zeiss Stratus: 0
+            Zeiss Cirrus: 43
+            Heidelberg Spectralis: 67
+          equations:
+            Zeiss Cirrus:
+              intercept:
+              slope:
+            Heidelberg Spectralis:
+              intercept:
+              slope:
+          quality_policy: keep
+        seed: 42
+        stats:
+          ci_level: 0.95
+          alpha: 0.05
+          skew_threshold: 1.0
+          regression_covariates:
+          - X_va_letters
+          - X_cst_um
+          - X_hba1c
+          - X_age
+          - X_prior_antivegf
+          multiple_correlation_features:
+          - X_va_letters
+          - X_cst_um
+          - X_hba1c
+          - X_age
+          - X_diabetes_duration_yrs
+          - X_prior_antivegf
+          - X_subretinal_fluid
+          - X_fellow_va_letters
+          replication_tolerance_letters: 0.2
+    outs:
+    - path: reports/metrics/m2_stats.json
+      hash: md5
+      md5: 6cee4428e0bfba67d360c3ef9521da09
+      size: 356
+  represent:
+    cmd: python -m equipoise represent
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess
+      hash: md5
+      md5: 196318a52865bd809e6c6437f73ff1e9.dir
+      size: 38440
+      nfiles: 9
+    - path: src/equipoise/represent
+      hash: md5
+      md5: 72e570ae0207229f1d6abcbc7722a18f.dir
+      size: 19795
+      nfiles: 5
+    - path: src/equipoise/stats/replication.py
+      hash: md5
+      md5: c4700925b76c0b2fe6e6ff0e32777129
+      size: 8819
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        preprocess:
+          imputer: median
+          knn_neighbors: 5
+          mice_imputations: 20
+          mice_max_iter: 10
+          imputation_mask_fraction: 0.1
+          log_features:
+          - X_hba1c
+          - X_bmi
+          cst:
+            method: zscore
+            offset_um:
+              Zeiss Stratus: 0
+              Zeiss Cirrus: 43
+              Heidelberg Spectralis: 67
+            equations:
+              Zeiss Cirrus:
+                intercept:
+                slope:
+              Heidelberg Spectralis:
+                intercept:
+                slope:
+            quality_policy: keep
+          outliers:
+            iqr_k: 1.5
+            iqr_min_features: 2
+            isolation_contamination: 0.05
+            dbscan_min_samples: 10
+            dbscan_eps_quantile: 0.95
+          bands:
+            X_hba1c:
+              edges:
+              - 0
+              - 7
+              - 8
+              - 9
+              - 100
+              labels:
+              - <7
+              - 7-8
+              - 8-9
+              - '>=9'
+            X_va_letters:
+              edges:
+              - 0
+              - 54
+              - 69
+              - 100
+              labels:
+              - 20/100 or worse
+              - 20/50-20/80
+              - 20/32-20/40
+            X_age:
+              edges:
+              - 0
+              - 50
+              - 60
+              - 70
+              - 200
+              labels:
+              - <50
+              - 50-59
+              - 60-69
+              - '>=70'
+          gain_threshold_letters: 15
+        represent:
+          n_components_plot: 15
+          variance_target: 0.8
+          k_range:
+          - 2
+          - 8
+          dendrogram_truncate: 25
+          apriori:
+            min_support: 0.08
+            min_confidence: 0.4
+            max_len: 3
+            top_n: 10
+            binary_items:
+            - X_prior_antivegf
+            - X_prior_focal_laser
+            - X_prior_prp
+            - X_subretinal_fluid
+            - X_pseudophakic
+            - X_insulin
+            - X_hypertension
+            - X_female
+            - X_epiretinal_membrane
+        seed: 42
+    outs:
+    - path: reports/metrics/m3_represent.json
+      hash: md5
+      md5: 2414809f60d25da16a689e190197d191
+      size: 298
+  supervised:
+    cmd: python -m equipoise supervised
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: src/equipoise/data/splits.py
+      hash: md5
+      md5: 8d8f0acf2ef3b717f89a23edcbb9a505
+      size: 4287
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess
+      hash: md5
+      md5: 196318a52865bd809e6c6437f73ff1e9.dir
+      size: 38440
+      nfiles: 9
+    - path: src/equipoise/supervised
+      hash: md5
+      md5: 177b10ab25d09db07921c0f878b6f224.dir
+      size: 30163
+      nfiles: 5
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        cv:
+          n_folds: 5
+        preprocess:
+          imputer: median
+          knn_neighbors: 5
+          mice_imputations: 20
+          mice_max_iter: 10
+          imputation_mask_fraction: 0.1
+          log_features:
+          - X_hba1c
+          - X_bmi
+          cst:
+            method: zscore
+            offset_um:
+              Zeiss Stratus: 0
+              Zeiss Cirrus: 43
+              Heidelberg Spectralis: 67
+            equations:
+              Zeiss Cirrus:
+                intercept:
+                slope:
+              Heidelberg Spectralis:
+                intercept:
+                slope:
+            quality_policy: keep
+          outliers:
+            iqr_k: 1.5
+            iqr_min_features: 2
+            isolation_contamination: 0.05
+            dbscan_min_samples: 10
+            dbscan_eps_quantile: 0.95
+          bands:
+            X_hba1c:
+              edges:
+              - 0
+              - 7
+              - 8
+              - 9
+              - 100
+              labels:
+              - <7
+              - 7-8
+              - 8-9
+              - '>=9'
+            X_va_letters:
+              edges:
+              - 0
+              - 54
+              - 69
+              - 100
+              labels:
+              - 20/100 or worse
+              - 20/50-20/80
+              - 20/32-20/40
+            X_age:
+              edges:
+              - 0
+              - 50
+              - 60
+              - 70
+              - 200
+              labels:
+              - <50
+              - 50-59
+              - 60-69
+              - '>=70'
+          gain_threshold_letters: 15
+        seed: 42
+        supervised:
+          knn_neighbors: 15
+          knn_timing_repeats: 7
+          tree:
+            max_depth: 4
+            min_samples_leaf: 20
+          random_forest:
+            n_estimators: 300
+            min_samples_leaf: 10
+            max_features: 0.33
+          gradient_boosting:
+            n_estimators: 200
+            learning_rate: 0.05
+            max_depth: 2
+            subsample: 0.8
+          ridge_alphas:
+          - 0.01
+          - 0.1
+          - 1
+          - 10
+          - 100
+          - 1000
+          lasso_n_alphas: 50
+          logistic_C: 1.0
+          irls:
+            max_iter: 50
+            tol: 1e-08
+          classification_threshold: 0.5
+          poisson_alpha: 0.0001
+          hist_gb_poisson:
+            max_iter: 200
+            learning_rate: 0.05
+            max_depth: 3
+            min_samples_leaf: 20
+          one_hot_min_frequency: 10
+    outs:
+    - path: reports/metrics/m5_supervised.json
+      hash: md5
+      md5: e24fa4ba0ca16baf388f9ecbb302ac6f
+      size: 503
+  search:
+    cmd: python -m equipoise search
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess
+      hash: md5
+      md5: 196318a52865bd809e6c6437f73ff1e9.dir
+      size: 38440
+      nfiles: 9
+    - path: src/equipoise/search
+      hash: md5
+      md5: 3f26de64b5893117f4632f8590d7f149.dir
+      size: 35142
+      nfiles: 5
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        cv:
+          n_folds: 5
+        preprocess:
+          imputer: median
+          knn_neighbors: 5
+          mice_imputations: 20
+          mice_max_iter: 10
+          imputation_mask_fraction: 0.1
+          log_features:
+          - X_hba1c
+          - X_bmi
+          cst:
+            method: zscore
+            offset_um:
+              Zeiss Stratus: 0
+              Zeiss Cirrus: 43
+              Heidelberg Spectralis: 67
+            equations:
+              Zeiss Cirrus:
+                intercept:
+                slope:
+              Heidelberg Spectralis:
+                intercept:
+                slope:
+            quality_policy: keep
+          outliers:
+            iqr_k: 1.5
+            iqr_min_features: 2
+            isolation_contamination: 0.05
+            dbscan_min_samples: 10
+            dbscan_eps_quantile: 0.95
+          bands:
+            X_hba1c:
+              edges:
+              - 0
+              - 7
+              - 8
+              - 9
+              - 100
+              labels:
+              - <7
+              - 7-8
+              - 8-9
+              - '>=9'
+            X_va_letters:
+              edges:
+              - 0
+              - 54
+              - 69
+              - 100
+              labels:
+              - 20/100 or worse
+              - 20/50-20/80
+              - 20/32-20/40
+            X_age:
+              edges:
+              - 0
+              - 50
+              - 60
+              - 70
+              - 200
+              labels:
+              - <50
+              - 50-59
+              - 60-69
+              - '>=70'
+          gain_threshold_letters: 15
+        search:
+          ridge_alpha: 10.0
+          feature_penalty: 0.02
+          budget: 1500
+          seed_offsets:
+          - 0
+          - 1
+          - 2
+          beam:
+            width: 5
+          tabu:
+            tenure: 7
+          ga:
+            population: 30
+            crossover_rate: 0.9
+            two_point_share: 0.5
+            elite: 2
+            patience_generations: 25
+          pso:
+            particles: 20
+            inertia: 0.7
+            c1: 1.5
+            c2: 1.5
+            v_max: 4.0
+          filter_top_k: 10
+          rfe_n_features: 12
+          lasso_path_alphas: 60
+        seed: 42
+        supervised.random_forest:
+          n_estimators: 300
+          min_samples_leaf: 10
+          max_features: 0.33
+    outs:
+    - path: reports/metrics/m4_search.json
+      hash: md5
+      md5: 23fe466a96d60bd5ba820a7f0f040894
+      size: 399
+    - path: reports/tables/m4_selected_features.csv
+      hash: md5
+      md5: 00710fbcdc63269aaef573552838740f
+      size: 910
+  causal:
+    cmd: python -m equipoise causal
+    deps:
+    - path: config/costs.yaml
+      hash: md5
+      md5: 2c5714b8e1df92cde0a8f84a0ba2cb0c
+      size: 1428
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: reports/tables/m4_selected_features.csv
+      hash: md5
+      md5: 00710fbcdc63269aaef573552838740f
+      size: 910
+    - path: src/equipoise/causal
+      hash: md5
+      md5: 14b9ba4742f5fa79abb0e9f0bee7109c.dir
+      size: 68898
+      nfiles: 10
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess
+      hash: md5
+      md5: 196318a52865bd809e6c6437f73ff1e9.dir
+      size: 38440
+      nfiles: 9
+    - path: src/equipoise/search/algorithms.py
+      hash: md5
+      md5: 85a37f6d2383df063e4abc1dbede8335
+      size: 11563
+    - path: src/equipoise/supervised/models.py
+      hash: md5
+      md5: 29acbeeda29eea2e734a02899d72dbea
+      size: 4616
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        bootstrap:
+          n_reps: 200
+        causal:
+          cv_folds: 5
+          base_learners:
+            gb:
+              n_estimators: 150
+              learning_rate: 0.05
+              max_depth: 2
+              min_samples_leaf: 20
+              subsample: 0.8
+            ridge:
+              alpha: 10.0
+          causal_forest:
+            n_estimators: 500
+            min_samples_leaf: 10
+            max_depth:
+          tarnet:
+            shared:
+            - 64
+            - 64
+            head:
+            - 32
+            dropout: 0.1
+            weight_decay: 0.0001
+            batch_size: 64
+            max_epochs: 300
+            patience: 25
+            validation_fraction: 0.2
+            learning_rates:
+              SGD: 0.01
+              Adam: 0.001
+              RMSprop: 0.001
+            momentum: 0.9
+          semi_synthetic:
+            replications: 10
+            eval_fraction: 0.25
+            noise_scale: 1.0
+            null_effects:
+              Aflibercept: 3.9
+              Ranibizumab: 1.8
+            published_effects:
+              va_below_69:
+                Aflibercept: 7.1
+                Ranibizumab: 2.4
+              va_69_or_better:
+                Aflibercept: 0.5
+                Ranibizumab: 0.8
+            nonlinear:
+              amplitude: 8.0
+              va_centre: 60.0
+              va_scale: 4.0
+              hba1c_cut: 8.5
+              hba1c_effect: 3.0
+              ranibizumab_share: 0.4
+          heterogeneity_rule: tertile_gap
+          selection:
+            constant_effect_sd: 1e-06
+            max_abs_ate_bias: 1.0
+            criterion: worst_case_pehe
+          tuning:
+            trials: 30
+            pso_particles: 6
+          bootstrap_reps: 200
+          bundle_bootstrap_models: 50
+          policy:
+            lambda_letters_per_cost_unit: 0.05
+          automl:
+            time_limit_s: 120
+            presets: medium_quality
+        cv:
+          n_folds: 5
+        effects.mcid_letters: 5
+        preprocess:
+          imputer: median
+          knn_neighbors: 5
+          mice_imputations: 20
+          mice_max_iter: 10
+          imputation_mask_fraction: 0.1
+          log_features:
+          - X_hba1c
+          - X_bmi
+          cst:
+            method: zscore
+            offset_um:
+              Zeiss Stratus: 0
+              Zeiss Cirrus: 43
+              Heidelberg Spectralis: 67
+            equations:
+              Zeiss Cirrus:
+                intercept:
+                slope:
+              Heidelberg Spectralis:
+                intercept:
+                slope:
+            quality_policy: keep
+          outliers:
+            iqr_k: 1.5
+            iqr_min_features: 2
+            isolation_contamination: 0.05
+            dbscan_min_samples: 10
+            dbscan_eps_quantile: 0.95
+          bands:
+            X_hba1c:
+              edges:
+              - 0
+              - 7
+              - 8
+              - 9
+              - 100
+              labels:
+              - <7
+              - 7-8
+              - 8-9
+              - '>=9'
+            X_va_letters:
+              edges:
+              - 0
+              - 54
+              - 69
+              - 100
+              labels:
+              - 20/100 or worse
+              - 20/50-20/80
+              - 20/32-20/40
+            X_age:
+              edges:
+              - 0
+              - 50
+              - 60
+              - 70
+              - 200
+              labels:
+              - <50
+              - 50-59
+              - 60-69
+              - '>=70'
+          gain_threshold_letters: 15
+        seed: 42
+        supervised:
+          knn_neighbors: 15
+          knn_timing_repeats: 7
+          tree:
+            max_depth: 4
+            min_samples_leaf: 20
+          random_forest:
+            n_estimators: 300
+            min_samples_leaf: 10
+            max_features: 0.33
+          gradient_boosting:
+            n_estimators: 200
+            learning_rate: 0.05
+            max_depth: 2
+            subsample: 0.8
+          ridge_alphas:
+          - 0.01
+          - 0.1
+          - 1
+          - 10
+          - 100
+          - 1000
+          lasso_n_alphas: 50
+          logistic_C: 1.0
+          irls:
+            max_iter: 50
+            tol: 1e-08
+          classification_threshold: 0.5
+          poisson_alpha: 0.0001
+          hist_gb_poisson:
+            max_iter: 200
+            learning_rate: 0.05
+            max_depth: 3
+            min_samples_leaf: 20
+          one_hot_min_frequency: 10
+    outs:
+    - path: data/derived/m6_heldout_effects.csv
+      hash: md5
+      md5: deb666d85a8df5d599c3b5e0520e57ff
+      size: 25729
+    - path: models/equipoise_bundle.joblib
+      hash: md5
+      md5: 06e54fde68ce5ce16897c9d376426051
+      size: 118421101
+    - path: reports/metrics/m6_causal.json
+      hash: md5
+      md5: a499d81eeda6091c17701addb6d13f5a
+      size: 501
+  longitudinal:
+    cmd: python -m equipoise longitudinal
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/protocolT_visits.csv
+      hash: md5
+      md5: da8f61df0d8633c965ea136127e84f07
+      size: 875082
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: src/equipoise/features.py
+      hash: md5
+      md5: 93eb567c749ea2ce0e606eb03be6ee63
+      size: 2897
+    - path: src/equipoise/longitudinal
+      hash: md5
+      md5: 42a7341bf949465d10feb0e3849d9f53.dir
+      size: 41808
+      nfiles: 8
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/preprocess
+      hash: md5
+      md5: 196318a52865bd809e6c6437f73ff1e9.dir
+      size: 38440
+      nfiles: 9
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        cv:
+          n_folds: 5
+        longitudinal:
+          grid_max_week: 104
+          grid_step_weeks: 1
+          ts_step_weeks: 4
+          ts_fit_until_week: 52
+          arima_orders:
+            p:
+            - 0
+            - 1
+            - 2
+            d:
+            - 0
+            - 1
+            q:
+            - 0
+            - 1
+            - 2
+          ma_window: 3
+          lagrange:
+            short_points: 5
+            long_points: 12
+          hmm:
+            n_states: 3
+            n_iter: 200
+            covariance_type: diag
+            tol: 0.0001
+          early_weeks:
+          - 4
+          - 8
+          - 12
+          early_ridge_alpha: 10.0
+          trajectory_k: 3
+          trajectory_until_week: 52
+        preprocess:
+          imputer: median
+          knn_neighbors: 5
+          mice_imputations: 20
+          mice_max_iter: 10
+          imputation_mask_fraction: 0.1
+          log_features:
+          - X_hba1c
+          - X_bmi
+          cst:
+            method: zscore
+            offset_um:
+              Zeiss Stratus: 0
+              Zeiss Cirrus: 43
+              Heidelberg Spectralis: 67
+            equations:
+              Zeiss Cirrus:
+                intercept:
+                slope:
+              Heidelberg Spectralis:
+                intercept:
+                slope:
+            quality_policy: keep
+          outliers:
+            iqr_k: 1.5
+            iqr_min_features: 2
+            isolation_contamination: 0.05
+            dbscan_min_samples: 10
+            dbscan_eps_quantile: 0.95
+          bands:
+            X_hba1c:
+              edges:
+              - 0
+              - 7
+              - 8
+              - 9
+              - 100
+              labels:
+              - <7
+              - 7-8
+              - 8-9
+              - '>=9'
+            X_va_letters:
+              edges:
+              - 0
+              - 54
+              - 69
+              - 100
+              labels:
+              - 20/100 or worse
+              - 20/50-20/80
+              - 20/32-20/40
+            X_age:
+              edges:
+              - 0
+              - 50
+              - 60
+              - 70
+              - 200
+              labels:
+              - <50
+              - 50-59
+              - 60-69
+              - '>=70'
+          gain_threshold_letters: 15
+        seed: 42
+    outs:
+    - path: models/early_response_model.joblib
+      hash: md5
+      md5: ced95d121248d34b2e5f09c8e7047c96
+      size: 5089
+    - path: reports/metrics/m7_longitudinal.json
+      hash: md5
+      md5: db694a43777cc61efd48a51f924b3209
+      size: 336
+  explain:
+    cmd: python -m equipoise explain
+    deps:
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: models/equipoise_bundle.joblib
+      hash: md5
+      md5: 06e54fde68ce5ce16897c9d376426051
+      size: 118421101
+    - path: src/equipoise/decision/recommend.py
+      hash: md5
+      md5: fee9542441ed768718bcb33aec38aa8c
+      size: 9687
+    - path: src/equipoise/decision/run.py
+      hash: md5
+      md5: 1f3d3dca3f9e7f88a145cd80ba4bdef4
+      size: 15155
+    - path: src/equipoise/explain
+      hash: md5
+      md5: a20edea4c25d8bd5d212272058ef3aae.dir
+      size: 14911
+      nfiles: 4
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/serving/assets.py
+      hash: md5
+      md5: faad06768f26375a4c3291e22b8e0e1d
+      size: 1937
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        cv:
+          n_folds: 5
+        explain:
+          shap_background: 100
+          subgroup_min_n: 40
+          subgroups:
+          - X_female
+          - X_race
+          - X_diabetes_type
+          - X_va_below_69
+        seed: 42
+        serving.shap_background_clusters: 10
+    outs:
+    - path: models/serving_assets.joblib
+      hash: md5
+      md5: 8d1795aaa588e8bc519be2b97a42200b
+      size: 3270
+    - path: reports/metrics/m9_explain.json
+      hash: md5
+      md5: 0e671ca95ffa9a98f35fc4ea3318ea7f
+      size: 156
+  decision:
+    cmd: python -m equipoise decision
+    deps:
+    - path: config/costs.yaml
+      hash: md5
+      md5: 2c5714b8e1df92cde0a8f84a0ba2cb0c
+      size: 1428
+    - path: data/protocolT_analysis.csv
+      hash: md5
+      md5: 020849255705f8f0e052abfbfaeb9ad2
+      size: 166031
+    - path: data/splits.json
+      hash: md5
+      md5: af2efb33beac2818b38b85fe63ce1858
+      size: 5972
+    - path: models/equipoise_bundle.joblib
+      hash: md5
+      md5: 06e54fde68ce5ce16897c9d376426051
+      size: 118421101
+    - path: src/equipoise/decision
+      hash: md5
+      md5: c3d0d5e866eed0270668fc9d1d162bd5.dir
+      size: 48397
+      nfiles: 8
+    - path: src/equipoise/plotting.py
+      hash: md5
+      md5: e1de597898865aed846c9405d1d4863a
+      size: 1982
+    - path: src/equipoise/tracking.py
+      hash: md5
+      md5: 3ff36bd84b56cea845afbf4dca928ff5
+      size: 7360
+    params:
+      config/default.yaml:
+        decision:
+          value_of_vision_k: 0.05
+          newton:
+            tol: 1e-10
+            max_iter: 50
+            fd_step: 0.0001
+          fuzzy:
+            benefit_universe:
+            - -5
+            - 15
+            burden_universe:
+            - -4
+            - 4
+            output_resolution: 101
+          rules:
+            net_benefit_margin: 0.0
+          example_patient: training_median
+        effects:
+          mcid_letters: 5
+          mcid_sensitivity_letters:
+          - 3
+    outs:
+    - path: reports/metrics/m8_decision.json
+      hash: md5
+      md5: b0beb5ac4e50551b4b30125b070d1793
+      size: 181
+  report-assets:
+    cmd: python -m equipoise report-assets
+    deps:
+    - path: reports/metrics/m7_longitudinal.json
+      hash: md5
+      md5: db694a43777cc61efd48a51f924b3209
+      size: 336
+    - path: reports/metrics/m8_decision.json
+      hash: md5
+      md5: b0beb5ac4e50551b4b30125b070d1793
+      size: 181
+    - path: reports/metrics/m9_explain.json
+      hash: md5
+      md5: 0e671ca95ffa9a98f35fc4ea3318ea7f
+      size: 156
+    - path: src/equipoise/data/schema.py
+      hash: md5
+      md5: 578e0e90a4204da30e1127726e32ea77
+      size: 14361
+    - path: src/equipoise/report
+      hash: md5
+      md5: 3f100fcd2dcf07be3748637663b97191.dir
+      size: 25994
+      nfiles: 5
+    outs:
+    - path: reports/REPORT_ASSETS.md
+      hash: md5
+      md5: c496c110e8a22cb1029907b5f7532bfe
+      size: 14441
+    - path: reports/figures/flow_diagram.png
+      hash: md5
+      md5: 97a1afc3ae83d344d8c760f45f1e3d96
+      size: 116186
+    - path: reports/figures/m11_causal_dag.png
+      hash: md5
+      md5: 980d7677bce777648f0b0cb347723c65
+      size: 124075
+    - path: reports/metrics/m11_report-assets.json
+      hash: md5
+      md5: 7d3fbd54fef3ac0b76f47581fe9869ad
+      size: 82
+    - path: reports/tables/m11_experiments.csv
+      hash: md5
+      md5: 798e0a65ab11fa0b77418cf065707ea0
+      size: 8963
+    - path: reports/tables/m11_experiments.md
+      hash: md5
+      md5: 0631e3d073fa1f86265208c4cf5bf625
+      size: 21784
+    - path: reports/tables/m11_feature_description.csv
+      hash: md5
+      md5: b24ffae597446eb059ef624b0f4428d2
+      size: 4297
+    - path: reports/tables/m11_feature_description.md
+      hash: md5
+      md5: 5bf983d39fa35e610bba7f9e2d457b2b
+      size: 10045
+    - path: reports/tables/m11_tech_stack.csv
+      hash: md5
+      md5: b38bbaa2d1bfec56ffe3c6c60038c5aa
+      size: 3018
+    - path: reports/tables/m11_tech_stack.md
+      hash: md5
+      md5: 141ac590decb2e3880a9f51efdc5acab
+      size: 10208
+  vision:
+    cmd: python -m equipoise vision
+    deps:
+    - path: data/external/kermany_oct/manifest.csv
+      hash: md5
+      md5: 2728a461152e45a134071ccaf765e54d
+      size: 464507
+    - path: src/equipoise/vision
+      hash: md5
+      md5: e300a8aaf1f6d04a4cca160c89a244ea.dir
+      size: 27939
+      nfiles: 7
+    params:
+      config/default.yaml:
+        seed: 42
+        vision:
+          kaggle_dataset: paultimothymooney/kermany2018
+          kaggle_prefix: OCT2017 /
+          classes:
+          - CNV
+          - DME
+          - DRUSEN
+          - NORMAL
+          raw_dir: data/external/kermany_oct
+          per_class_train: 1000
+          use_official_test: true
+          val_fraction: 0.2
+          download_workers: 8
+          preprocess:
+            image_size: 224
+            denoise: median
+            median_kernel: 3
+            nlm_h: 10
+            clahe_clip: 2.0
+            clahe_grid: 8
+          resnet:
+            epochs: 5
+            batch_size: 32
+            lr: 0.001
+            weight_decay: 0.0001
+            freeze_backbone_epochs: 1
+          yolo:
+            checkpoint: yolo11n-cls.pt
+            epochs: 5
+            batch_size: 32
+            patience: 5
+          gradcam_examples: 2
+    outs:
+    - path: models/oct
+      hash: md5
+      md5: aada446c48272c4e6ac248c686c95c83.dir
+      size: 54366902
+      nfiles: 7
+    - path: reports/metrics/m10_vision.json
+      hash: md5
+      md5: 74dd3a1d90a11408063f3839c3a23276
+      size: 225
