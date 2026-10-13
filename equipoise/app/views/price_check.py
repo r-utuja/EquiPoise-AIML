@@ -22,7 +22,8 @@ def session_prices_form() -> None:
     with st.container(border=True):
         st.markdown(f"**{C.SESSION_PRICES_TITLE}**")
         st.caption(C.SESSION_PRICES_HELP)
-        with st.form("session_prices", border=False):
+        # form key must differ from services.SESSION_PRICES (form keys are read-only state)
+        with st.form("session_prices_form", border=False):
             cols = st.columns(2)
             vals = {}
             for i, drug in enumerate(P.CARD_ORDER):

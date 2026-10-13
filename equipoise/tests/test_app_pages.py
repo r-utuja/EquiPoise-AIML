@@ -103,6 +103,22 @@ def test_price_check_empty_state_then_session_prices(app_test) -> None:
     assert len(at.slider) == 1
 
 
+def test_price_check_form_submit(app_test) -> None:
+    """Typing prices and pressing the button stores them (the form key must not clash)."""
+    at = app_test()
+    at.switch_page("views/suggest.py").run()
+    at.button(key="ex_moderate").click().run()
+    at = click(at, C.BTN_COMPARE)
+    at.switch_page("views/price_check.py").run()
+    for box, value in zip(at.number_input, (2_000.0, 15_000.0, 30_000.0, 5_000.0),
+                          strict=True):
+        box.set_value(value)
+    at = click(at, C.BTN_USE_PRICES)
+    assert not at.exception, at.exception
+    assert at.session_state["session_prices"]["laser"] == 5_000.0
+    assert C.PRICES_SESSION in texts(at)
+
+
 def test_progress_check_forecast(app_test) -> None:
     at = app_test()
     at.switch_page("views/progress.py").run()
