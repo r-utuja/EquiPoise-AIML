@@ -11,6 +11,12 @@ from equipoise.config import Config, load_config
 from equipoise.data.load import load_analysis, load_visits
 
 
+@pytest.fixture(autouse=True)
+def _no_login(monkeypatch) -> None:
+    """App tests start past the demo login page (tests/test_auth.py switches it back on)."""
+    monkeypatch.setenv("EQUIPOISE_AUTH", "off")
+
+
 @pytest.fixture(scope="session")
 def cfg() -> Config:
     return load_config()

@@ -17,13 +17,19 @@ if str(ROOT) not in sys.path:          # so `from app import ...` works under `s
 
 import streamlit as st  # noqa: E402
 
+from app import auth, services  # noqa: E402
 from app import copy as C  # noqa: E402
-from app import services  # noqa: E402
 
 VIEWS = Path(__file__).resolve().parent / "views"
 
 st.set_page_config(page_title=C.APP_NAME, page_icon=":material/visibility:", layout="wide")
 services.apply_theme()
+
+if auth.enabled() and not auth.current_user():     # login page first, no navigation
+    st.navigation([st.Page(VIEWS / "login.py", title=C.AUTH_LOGIN,
+                           icon=":material/login:")], position="hidden").run()
+    services.footer()
+    st.stop()
 
 
 @st.cache_data(show_spinner=False)
@@ -48,5 +54,6 @@ if oct_available():
     review.append(st.Page(VIEWS / "oct.py", title=C.NAV_OCT, icon=":material/image:"))
 
 page = st.navigation({C.NAV_SECTION_MAIN: main, C.NAV_SECTION_REVIEW: review})
+auth.sidebar_profile()
 page.run()
 services.footer()

@@ -282,6 +282,12 @@ ui:                           # Streamlit app presentation (app/presenters.py); 
   examples_file: app_examples.json   # under paths.derived_dir (patient-level, never committed)
   examples: [poorer, moderate, good] # order of the "Try an example" buttons
   explain_on_compare: false   # step 2 skips the per-patient explanation (loaded on step 3)
+  auth:                       # demo login (app/auth.py); not real security
+    env_var: EQUIPOISE_AUTH   # set to "off" to skip the login (tests, screenshots)
+    users_file: data/app_users.json   # git-ignored; salted password hashes only
+    users_file_env_var: EQUIPOISE_USERS_FILE
+    min_password_length: 6
+    hash_iterations: 200000
 
 monitor:                      # M11 drift monitoring (python -m equipoise monitor)
   drift_share: 0.5            # dataset drift when >= this share of features drift (Evidently)
