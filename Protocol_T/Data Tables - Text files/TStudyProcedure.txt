@@ -1,0 +1,141 @@
+RecID|PtID|StdyEyeProcDtDaysFromEnroll|StdyProcEye|ProcedurePerf
+29|172|259|OS|Panretinal (Scatter) Photocoagulation
+118|500|643|OS|Panretinal (Scatter) Photocoagulation
+87|390|481|OS|Cataract extraction with IOL placement
+134|78|664|OS|Cataract extraction with IOL placement
+52|564|394|OD|Anterior chamber tap
+82|564|394|OD|Paracentesis
+45|687|377|OD|Cataract extraction with IOL placement
+112|687|689|OD|YAG capsulotomy
+14|335|24|OS|Laser iridotomy
+111|22|635|OS|Cataract extraction with IOL placement
+85|321|626|OS|Cataract extraction with IOL placement
+78|129|516|OD|Cataract extraction with IOL placement
+99|522|510|OS|Cataract extraction with IOL placement
+34|487|323|OS|Cataract extraction with IOL placement
+129|280|720|OS|Cataract extraction with IOL placement
+126|393|306|OS|Cataract extraction with IOL placement
+20|538|357|OD|Panretinal (Scatter) Photocoagulation
+1|254|41|OD|Vitrectomy with epiretinal membrane peel
+27|653|370|OS|Cataract extraction with IOL placement
+70|511|581|OD|Cataract extraction with IOL placement
+9|474|44|OS|YAG capsulotomy
+11|474|68|OS|Vitrectomy
+12|474|68|OS|Panretinal (Scatter) Photocoagulation
+110|283|565|OD|Cataract extraction with IOL placement
+15|482|99|OS|Cataract extraction with IOL placement
+40|676|260|OS|Cataract extraction with IOL placement
+88|136|465|OD|Panretinal (Scatter) Photocoagulation
+120|370|589|OD|Cataract extraction with IOL placement
+42|560|209|OS|Cataract extraction with IOL placement
+106|685|584|OS|Cataract extraction with IOL placement
+131|645|663|OD|Cataract extraction with IOL placement
+21|778|294|OD|Panretinal (Scatter) Photocoagulation
+101|520|503|OS|Cataract extraction with IOL placement
+49|613|498|OS|Intravitreal Ranibizumab Injection for Cystoid Macular Edema
+4|770|0|OD|Anterior chamber tap
+58|800|462|OD|intravitreal injection for neovascularization
+24|74|324|OS|Vitrectomy with epiretinal membrane peel
+18|546|203|OS|Panretinal (Scatter) Photocoagulation
+137|495|734|OD|Vitrectomy with epiretinal membrane peel
+138|495|734|OD|Panretinal (Scatter) Photocoagulation
+130|93|669|OD|Cataract extraction with IOL placement
+43|593|231|OS|Cataract extraction with IOL placement
+55|593|322|OS|Panretinal (Scatter) Photocoagulation
+47|358|252|OS|Panretinal (Scatter) Photocoagulation
+22|395|397|OD|Cataract extraction with IOL placement
+25|315|70|OD|Retinal Cryopexy
+97|315|556|OD|Cataract extraction with IOL placement
+140|550|380|OD|Cataract extraction with IOL placement
+100|130|391|OD|Cataract extraction with IOL placement
+66|788|426|OS|Intravitreal Injection - Antibiotics
+67|788|426|OS|Anterior chamber tap
+72|788|434|OS|Intravitreal dexamethasone
+105|38|561|OD|Panretinal (Scatter) Photocoagulation
+69|794|386|OD|Cataract extraction with IOL placement
+32|247|365|OD|Cataract extraction with IOL placement
+114|465|477|OS|Cataract extraction with IOL placement
+115|779|648|OS|YAG capsulotomy
+89|572|370|OS|ptosis repair
+119|664|630|OD|Panretinal (Scatter) Photocoagulation
+60|582|366|OD|Intravitreal Ranibizumab Injection for Cystoid Macular Edema
+61|582|401|OD|Intravitreal Ranibizumab Injection for Cystoid Macular Edema
+141|609|652|OS|Cataract extraction with IOL placement
+121|6|692|OS|vitrectomy with endolaser
+124|533|655|OD|Cataract extraction with IOL placement
+77|299|616|OD|vitrectomy with endolaser
+73|456|569|OS|Cataract extraction with IOL placement
+63|516|363|OS|Panretinal (Scatter) Photocoagulation
+113|632|599|OS|Cataract extraction with IOL placement
+81|633|507|OD|Laser Retinopexy
+90|633|542|OD|Vitrectomy
+91|633|542|OD|Retinal detachment repair-injection of air/gas
+76|294|595|OS|Paracentesis
+79|294|602|OS|Panretinal (Scatter) Photocoagulation
+31|616|182|OS|Panretinal (Scatter) Photocoagulation
+75|184|528|OD|YAG capsulotomy
+17|47|202|OD|Cataract extraction with IOL placement
+133|775|701|OD|Cataract extraction with IOL placement
+80|351|530|OS|YAG capsulotomy
+136|750|592|OS|Panretinal (Scatter) Photocoagulation
+127|585|665|OS|intravitreal injection for neovascularization
+128|585|595|OS|intravitreal injection for neovascularization
+16|594|203|OD|Focal/grid laser (non-center involved DME)
+98|442|570|OS|vitrectomy with endolaser
+116|442|676|OS|Focal/grid laser (non-center involved DME)
+84|773|470|OS|YAG capsulotomy
+2|846|80|OS|Paracentesis
+7|846|206|OS|Paracentesis
+3|106|0|OS|Paracentesis
+8|106|112|OS|Paracentesis
+10|106|140|OS|Paracentesis
+30|106|314|OS|Paracentesis
+46|106|443|OS|Paracentesis
+33|355|226|OS|Paracentesis
+36|355|251|OS|Paracentesis
+38|355|280|OS|Paracentesis
+41|355|308|OS|Paracentesis
+48|355|331|OS|Paracentesis
+51|355|357|OS|Paracentesis
+56|355|387|OS|Paracentesis
+13|730|181|OS|Panretinal (Scatter) Photocoagulation
+95|730|621|OS|Panretinal (Scatter) Photocoagulation
+96|730|572|OS|Vitreous tap
+39|401|335|OS|Cataract extraction with IOL placement
+26|595|279|OS|Paracentesis
+50|595|450|OS|Paracentesis
+54|595|477|OS|Paracentesis
+64|595|512|OS|Paracentesis
+65|595|541|OS|Paracentesis
+83|595|610|OS|Paracentesis
+86|595|632|OS|Paracentesis
+92|595|659|OS|Paracentesis
+103|595|687|OS|Paracentesis
+135|163|652|OD|Vitrectomy
+142|163|652|OD|Scleral buckle
+5|23|29|OD|Paracentesis
+71|754|572|OD|Cataract extraction with IOL placement
+139|658|741|OD|Cataract extraction with IOL placement
+6|348|89|OS|YAG capsulotomy
+59|789|399|OD|Laser Trabeculoplasty
+53|422|564|OS|Cataract extraction with IOL placement
+19|195|215|OD|Focal/grid laser (non-center involved DME)
+44|670|361|OS|Intravitreal Ranibizumab Injection for Cystoid Macular Edema
+57|317|406|OD|Cataract extraction with IOL placement
+74|365|480|OS|Panretinal (Scatter) Photocoagulation
+28|231|350|OD|Panretinal (Scatter) Photocoagulation
+37|353|212|OS|Cataract extraction with IOL placement
+107|170|634|OS|Vitrectomy
+108|170|634|OS|Endolaser
+109|170|634|OS|Total air-fluid exchange
+94|144|398|OS|Vitrectomy
+117|31|610|OS|Panretinal (Scatter) Photocoagulation
+123|31|655|OS|Panretinal (Scatter) Photocoagulation
+122|843|604|OD|Paracentesis
+125|843|636|OD|Paracentesis
+68|758|373|OD|YAG capsulotomy
+35|476|174|OS|Cataract extraction with IOL placement
+132|476|692|OS|YAG capsulotomy
+102|792|583|OD|Panretinal (Scatter) Photocoagulation
+104|133|517|OS|Cataract extraction with IOL placement
+62|697|328|OD|Panretinal (Scatter) Photocoagulation

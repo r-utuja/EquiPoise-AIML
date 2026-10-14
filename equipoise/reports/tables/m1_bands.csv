@@ -1,0 +1,12 @@
+feature,band,n
+X_hba1c,<7,185
+X_hba1c,7-8,178
+X_hba1c,8-9,123
+X_hba1c,>=9,168
+X_va_letters,20/100 or worse,105
+X_va_letters,20/50-20/80,224
+X_va_letters,20/32-20/40,331
+X_age,<50,91
+X_age,50-59,217
+X_age,60-69,237
+X_age,>=70,115

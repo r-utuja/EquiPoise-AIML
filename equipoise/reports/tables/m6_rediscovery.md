@@ -1,0 +1,5 @@
+| check                                                                                             |   below_69 |   69_or_better | passes   | top_feature   |
+|:--------------------------------------------------------------------------------------------------|-----------:|---------------:|:---------|:--------------|
+| predicted afl-bev larger when baseline < 69 letters (held-out)                                    |       3.76 |           2.59 | True     | X_cst_um      |
+| same on training patients                                                                         |       3.57 |           2.46 | True     | X_cst_um      |
+| baseline vision (va_letters or va_below_69) is the top driver of the predicted aflibercept effect |     nan    |         nan    | False    | X_cst_um      |

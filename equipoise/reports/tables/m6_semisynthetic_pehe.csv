@@ -1,0 +1,34 @@
+scenario,learner,pehe_mean,pehe_sd,ate_bias_mean,heterogeneity_found_rate,replications
+a_null,Causal forest (CausalForestDML),1.802862,0.6087502413,-0.4896727671,0,10
+a_null,Constant effect (difference in means),1.186199329,0.6666022145,-0.2136223286,0,10
+a_null,DR-learner (GB),9.079848029,0.9026658584,-0.5155567313,1,10
+a_null,DR-learner (Ridge),8.764665433,0.9904472487,-0.3799210725,1,10
+a_null,S-learner (GB),1.917897697,0.7347632884,-1.605490738,0,10
+a_null,S-learner (Ridge),1.42562706,0.8946215618,-0.7882469118,0,10
+a_null,T-learner (GB),7.536502638,0.783488502,-0.5747150518,1,10
+a_null,T-learner (Ridge),7.224256067,0.8057852203,-0.3700864251,1,10
+a_null,TARNet (RMSprop),4.371190626,1.557555376,-0.4935267463,0.9,10
+a_null,X-learner (GB),6.019477048,0.8520130488,-0.5458343802,1,10
+a_null,X-learner (Ridge),6.548855664,0.8202594893,-0.4293903227,1,10
+b_published_like,Causal forest (CausalForestDML),2.800567073,0.6890259025,0.075939545,0,10
+b_published_like,Constant effect (difference in means),2.881410785,0.5898636463,-0.2653107367,0,10
+b_published_like,DR-learner (GB),9.359137423,0.8088129145,-0.4705319785,1,10
+b_published_like,DR-learner (Ridge),8.621598992,0.8934691835,0.04271963899,1,10
+b_published_like,S-learner (GB),2.654434667,0.4803349948,-1.207875266,0,10
+b_published_like,S-learner (Ridge),2.500354761,0.4062158718,-0.05107634964,0,10
+b_published_like,T-learner (GB),7.375891833,0.4504896724,0.3204022297,1,10
+b_published_like,T-learner (Ridge),7.106065916,1.125516192,0.1607106721,1,10
+b_published_like,TARNet (RMSprop),5.279551621,1.762787584,-0.05391042663,1,10
+b_published_like,X-learner (GB),5.906186136,0.4963475824,0.2798915042,1,10
+b_published_like,X-learner (Ridge),6.467973013,1.082925016,0.1628911515,1,10
+c_nonlinear,Causal forest (CausalForestDML),2.435697957,0.6236221072,0.08210030064,0.1,10
+c_nonlinear,Constant effect (difference in means),2.506120652,0.4826941949,0.01474363848,0,10
+c_nonlinear,DR-learner (GB),9.327532251,0.8782319016,-0.2616735894,1,10
+c_nonlinear,DR-learner (Ridge),8.482456119,1.061990784,0.3978857124,1,10
+c_nonlinear,S-learner (GB),2.205127553,0.4615187717,-1.047208898,0,10
+c_nonlinear,S-learner (Ridge),2.301761366,0.4826804198,-0.02046023853,0,10
+c_nonlinear,T-learner (GB),7.502544802,0.552448998,-0.1925577331,1,10
+c_nonlinear,T-learner (Ridge),6.702520758,0.8311967734,0.3290640532,1,10
+c_nonlinear,TARNet (RMSprop),4.639242476,0.7972488254,0.6975721094,1,10
+c_nonlinear,X-learner (GB),6.089518858,0.604776896,-0.1657670051,1,10
+c_nonlinear,X-learner (Ridge),6.065605085,0.7236659805,0.342536634,1,10

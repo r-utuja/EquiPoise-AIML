@@ -1,0 +1,17 @@
+{
+  "false_heterogeneity_chosen_a": 0.0,
+  "pehe_b_autogluon_1rep": 5.40918,
+  "pehe_chosen_b": 2.800567,
+  "pehe_chosen_worst_case": 2.800567,
+  "pehe_constant_b": 2.881411,
+  "policy_all_afl_ipw": 14.872449,
+  "policy_all_bev_ipw": 11.749672,
+  "policy_model_aipw": 14.569303,
+  "policy_model_ipw": 14.872449,
+  "policy_published_ipw": 15.710639,
+  "prices_demo": 1.0,
+  "rediscovery_va_passes": 1.0,
+  "share_equipoise_afl": 1.0,
+  "tarnet_best_val_loss": 0.540938,
+  "top_driver_is_vision": 0.0
+}

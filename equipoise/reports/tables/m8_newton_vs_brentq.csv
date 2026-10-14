@@ -1,0 +1,10 @@
+check,value
+comparisons,264
+price: newton vs brentq (max abs diff),1.776356839e-15
+price: analytic vs finite-difference newton,8.881784197e-16
+benefit: newton vs brentq,2.557953849e-13
+benefit: analytic vs finite-difference newton,4.263256415e-14
+median newton iterations (price),2
+median newton iterations (benefit),5
+no-root cases (benefit),5
+no break-even price >= 0,0

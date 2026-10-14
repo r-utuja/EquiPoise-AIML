@@ -1,0 +1,9 @@
+methods,n_flagged,pct_of_patients
+iqr,17,2.575757576
+isolation_forest,38,5.757575758
+dbscan,5,0.7575757576
+iqr & isolation_forest,2,0.303030303
+iqr & dbscan,2,0.303030303
+isolation_forest & dbscan,5,0.7575757576
+all three,2,0.303030303
+any,53,8.03030303

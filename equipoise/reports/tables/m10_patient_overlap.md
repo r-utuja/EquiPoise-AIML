@@ -1,0 +1,5 @@
+| splits       |   shared_patients |
+|:-------------|------------------:|
+| train & val  |                 0 |
+| train & test |                 0 |
+| val & test   |                 0 |

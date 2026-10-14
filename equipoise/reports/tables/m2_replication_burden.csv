@@ -1,0 +1,7 @@
+horizon_years,arm,n,median_injections,q1_injections,q3_injections,mean_injections,laser_n,laser_pct
+1,Aflibercept,208,9,8,11,9.173076923,77,37.01923077
+1,Bevacizumab,204,10,8,12,9.681372549,114,55.88235294
+1,Ranibizumab,204,10,8,11,9.426470588,95,46.56862745
+2,Aflibercept,199,15,10.5,17,14.16080402,82,41.20603015
+2,Bevacizumab,181,16,12,20,15.27071823,116,64.08839779
+2,Ranibizumab,184,15,11,19,14.875,96,52.17391304

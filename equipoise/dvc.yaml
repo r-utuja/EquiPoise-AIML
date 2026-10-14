@@ -1,0 +1,341 @@
+# DVC pipeline. Run `dvc repro` with the project venv activated (it calls `python`).
+# data/raw is tracked with `dvc add` (data/raw.dvc); everything else here is a stage output.
+# Full pipeline: build -> preprocess -> stats -> represent -> supervised -> search -> causal
+# -> longitudinal -> decision -> explain -> report-assets. Parameters are read straight from
+# config/default.yaml (and config/costs.yaml as a dependency): one source of truth, so there is
+# no separate params.yaml; `dvc params diff` works on config/default.yaml.
+
+stages:
+  build_analysis:
+    desc: "M0: raw DRCR tables -> one row per patient (660 x 47)"
+    cmd: python scripts/build_protocolT_table.py "data/raw/Data Tables - Text files" data/protocolT_analysis.csv
+    deps:
+      - data/raw
+      - scripts/build_protocolT_table.py
+    outs:
+      - data/protocolT_analysis.csv
+
+  build_visits:
+    desc: "Visit table (study eye, one row per patient x visit), cross-checked against M0"
+    cmd: python scripts/build_protocolT_visits.py "data/raw/Data Tables - Text files" data/protocolT_visits.csv
+    deps:
+      - data/raw
+      - data/protocolT_analysis.csv
+      - scripts/build_protocolT_visits.py
+      - scripts/build_protocolT_table.py
+      - src/equipoise/data/crosscheck.py
+      - src/equipoise/data/schema.py
+    params:
+      - config/default.yaml:
+          - visits
+    outs:
+      - data/protocolT_visits.csv
+      - reports/tables/m0_visits_crosscheck.csv:
+          cache: false
+      - reports/tables/m0_visits_crosscheck.md:
+          cache: false
+
+  build_cst_quality:
+    desc: "Reading-centre CST quality flags per patient (M_ bookkeeping, sensitivity analysis)"
+    cmd: python scripts/build_cst_quality.py "data/raw/Data Tables - Text files" data/protocolT_cst_quality.csv
+    deps:
+      - data/raw
+      - scripts/build_cst_quality.py
+      - src/equipoise/data/schema.py
+    outs:
+      - data/protocolT_cst_quality.csv
+
+  split:
+    desc: "Fixed held-out test split (20%, stratified by arm) -> data/splits.json"
+    cmd: python -m equipoise split
+    deps:
+      - data/protocolT_analysis.csv
+      - src/equipoise/data/splits.py
+    params:
+      - config/default.yaml:
+          - seed
+          - split
+    outs:
+      - data/splits.json
+
+  synthetic:
+    desc: "Fake tables with the real schema (committed to git, used by tests and CI)"
+    cmd: python scripts/make_synthetic_data.py && python -m equipoise split --synthetic
+    deps:
+      - scripts/make_synthetic_data.py
+      - src/equipoise/data/schema.py
+      - src/equipoise/data/splits.py
+    params:
+      - config/default.yaml:
+          - synthetic
+          - seed
+          - split
+    outs:
+      - data/synthetic/protocolT_analysis.csv:
+          cache: false
+      - data/synthetic/protocolT_visits.csv:
+          cache: false
+      - data/synthetic/protocolT_truth.csv:
+          cache: false
+      - data/synthetic/splits.json:
+          cache: false
+      - data/synthetic/protocolT_cst_quality.csv:
+          cache: false
+
+  preprocess:
+    desc: "M1: missing data, CST harmonization, outliers, encoding, discretization"
+    cmd: python -m equipoise preprocess
+    deps:
+      - data/protocolT_analysis.csv
+      - data/protocolT_cst_quality.csv
+      - data/splits.json
+      - src/equipoise/preprocess
+      - src/equipoise/data
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - seed
+          - preprocess
+    outs:
+      - data/derived/m1_outlier_flags.csv
+    metrics:
+      - reports/metrics/m1_preprocess.json:
+          cache: false
+
+  stats:
+    desc: "M2: Table 1, replication at 1 and 2 years, hypothesis tests, plots"
+    cmd: python -m equipoise stats
+    deps:
+      - data/protocolT_analysis.csv
+      - data/protocolT_cst_quality.csv
+      - src/equipoise/stats
+      - src/equipoise/preprocess/cst_quality.py
+      - src/equipoise/preprocess/harmonize.py
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+      - config/replication_targets.yaml
+    params:
+      - config/default.yaml:
+          - seed
+          - stats
+          - preprocess.cst
+    metrics:
+      - reports/metrics/m2_stats.json:
+          cache: false
+
+  represent:
+    desc: "M3: PCA via SVD, clustering, per-cluster effects, association rules (exploratory)"
+    cmd: python -m equipoise represent
+    deps:
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - src/equipoise/represent
+      - src/equipoise/preprocess
+      - src/equipoise/stats/replication.py
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - seed
+          - represent
+          - preprocess
+    metrics:
+      - reports/metrics/m3_represent.json:
+          cache: false
+
+  supervised:
+    desc: "M5: regression, classification and count outcome models"
+    cmd: python -m equipoise supervised
+    deps:
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - src/equipoise/supervised
+      - src/equipoise/preprocess
+      - src/equipoise/data/splits.py
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - seed
+          - cv
+          - supervised
+          - preprocess
+    metrics:
+      - reports/metrics/m5_supervised.json:
+          cache: false
+
+  search:
+    desc: "M4: filter / embedded / wrapper rankings and the metaheuristic search arena"
+    cmd: python -m equipoise search
+    deps:
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - src/equipoise/search
+      - src/equipoise/preprocess
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - seed
+          - cv
+          - search
+          - preprocess
+          - supervised.random_forest
+    outs:
+      - reports/tables/m4_selected_features.csv:
+          cache: false
+    metrics:
+      - reports/metrics/m4_search.json:
+          cache: false
+
+  causal:
+    desc: "M6: CATE learners, semi-synthetic benchmark, policy value, uncertainty, bundle"
+    cmd: python -m equipoise causal
+    deps:
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - reports/tables/m4_selected_features.csv
+      - src/equipoise/causal
+      - src/equipoise/preprocess
+      - src/equipoise/supervised/models.py
+      - src/equipoise/search/algorithms.py
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+      - config/costs.yaml
+    params:
+      - config/default.yaml:
+          - seed
+          - cv
+          - causal
+          - effects.mcid_letters
+          - bootstrap
+          - preprocess
+          - supervised
+    outs:
+      - models/equipoise_bundle.joblib
+      - data/derived/m6_heldout_effects.csv
+    metrics:
+      - reports/metrics/m6_causal.json:
+          cache: false
+
+  longitudinal:
+    desc: "M7: trajectory tensor, interpolation, finite differences, ARIMA, HMM, early response"
+    cmd: python -m equipoise longitudinal
+    deps:
+      - data/protocolT_visits.csv
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - src/equipoise/longitudinal
+      - src/equipoise/preprocess
+      - src/equipoise/features.py
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - seed
+          - cv
+          - longitudinal
+          - preprocess
+    outs:
+      - models/early_response_model.joblib
+    metrics:
+      - reports/metrics/m7_longitudinal.json:
+          cache: false
+
+  decision:
+    desc: "M8: cost model, break-even (Newton), fuzzy system, expert system on held-out patients"
+    cmd: python -m equipoise decision
+    deps:
+      - models/equipoise_bundle.joblib
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - src/equipoise/decision
+      - config/costs.yaml
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - decision
+          - effects
+    metrics:
+      - reports/metrics/m8_decision.json:
+          cache: false
+
+  explain:
+    desc: "M9: SHAP for the effect model, subgroup checks with out-of-sample predictions"
+    cmd: python -m equipoise explain
+    deps:
+      - models/equipoise_bundle.joblib
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - src/equipoise/explain
+      - src/equipoise/serving/assets.py
+      - src/equipoise/decision/run.py
+      - src/equipoise/decision/recommend.py
+      - src/equipoise/tracking.py
+      - src/equipoise/plotting.py
+    params:
+      - config/default.yaml:
+          - seed
+          - cv
+          - explain
+          - serving.shap_background_clusters
+    outs:
+      - models/serving_assets.joblib
+    metrics:
+      - reports/metrics/m9_explain.json:
+          cache: false
+
+  report-assets:
+    desc: "M11: flow diagram, causal DAG, feature / experiment / tech-stack tables, REPORT_ASSETS.md"
+    cmd: python -m equipoise report-assets
+    # The experiment table is read from mlflow.db, which DVC does not track, so this stage
+    # always reruns (it takes seconds).
+    always_changed: true
+    deps:
+      - src/equipoise/report
+      - src/equipoise/data/schema.py
+      - reports/metrics/m9_explain.json
+      - reports/metrics/m8_decision.json
+      - reports/metrics/m7_longitudinal.json
+    outs:
+      - reports/figures/flow_diagram.png:
+          cache: false
+      - reports/figures/m11_causal_dag.png:
+          cache: false
+      - reports/tables/m11_feature_description.csv:
+          cache: false
+      - reports/tables/m11_feature_description.md:
+          cache: false
+      - reports/tables/m11_tech_stack.csv:
+          cache: false
+      - reports/tables/m11_tech_stack.md:
+          cache: false
+      - reports/tables/m11_experiments.csv:
+          cache: false
+      - reports/tables/m11_experiments.md:
+          cache: false
+      - reports/REPORT_ASSETS.md:
+          cache: false
+    metrics:
+      - reports/metrics/m11_report-assets.json:
+          cache: false
+
+  vision:
+    desc: "M10 (optional): OCT screening on a Kermany subset (NOT Protocol T); YOLO-cls vs ResNet18"
+    # data/external/kermany_oct is fetched by scripts/download_oct_subset.py (needs a Kaggle token, so it is
+    # not a DVC stage); add it with `dvc add data/external/kermany_oct` to version the subset.
+    cmd: python -m equipoise vision
+    deps:
+      - data/external/kermany_oct/manifest.csv
+      - src/equipoise/vision
+    params:
+      - config/default.yaml:
+          - seed
+          - vision
+    outs:
+      - models/oct
+    metrics:
+      - reports/metrics/m10_vision.json:
+          cache: false

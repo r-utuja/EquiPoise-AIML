@@ -1,0 +1,33 @@
+# Drug and laser prices used by the M8 cost model.
+#
+# Prices are deliberately left null: they must NOT be invented.
+# TEAM: fill with current Indian prices and cite the source
+#
+# While any price is null the code falls back to an explicit --prices override,
+# or to the clearly labelled DEMO set below, and every output says so.
+
+currency: INR
+
+price_per_injection_inr:
+  Aflibercept: null   # TEAM: fill with current Indian prices and cite the source
+  Bevacizumab: null   # TEAM: fill with current Indian prices and cite the source
+  Ranibizumab: null   # TEAM: fill with current Indian prices and cite the source
+
+laser_session_inr: null   # TEAM: fill with current Indian prices and cite the source
+
+# Willingness to pay for one unit of value-of-vision utility U(letters) = 1 - exp(-k letters)
+# (k in config/default.yaml, decision.value_of_vision_k). A value judgement in rupees, not a
+# market price: TEAM: set and justify it (or leave null to disable break-even outputs).
+willingness_to_pay_inr_per_utility: null
+
+sources: []   # TEAM: list one citation (URL + access date) per price above
+
+# DEMO prices: relative units, NOT rupees. Used only when the prices above are null.
+demo:
+  label: DEMO (relative units, not real prices)
+  price_per_injection:
+    Aflibercept: 10
+    Bevacizumab: 1
+    Ranibizumab: 5
+  laser_session: 2
+  willingness_to_pay_per_utility: 200   # illustrative, same relative units as the prices

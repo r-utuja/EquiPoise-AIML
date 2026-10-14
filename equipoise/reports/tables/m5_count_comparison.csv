@@ -1,0 +1,4 @@
+Model,CV Poisson deviance,CV MAE,CV RMSE,Test Poisson deviance,Test MAE,Test RMSE
+Baseline: arm mean,0.754 ± 0.078,1.982 ± 0.130,2.458 ± 0.138,0.5565550277,1.903984085,2.2392928
+Poisson GLM,0.735 ± 0.073,1.917 ± 0.121,2.428 ± 0.122,0.4704600071,1.726187999,2.054966347
+Gradient boosting (Poisson loss),0.754 ± 0.073,1.937 ± 0.118,2.460 ± 0.117,0.5224976224,1.811825862,2.155101718

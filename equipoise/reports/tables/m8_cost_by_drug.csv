@@ -1,0 +1,4 @@
+drug,mean_letters,mean_injections_yr1,mean_p_laser_yr1,mean_cost,prices
+Bevacizumab,8.800262186,9.489197128,0.5404933556,10.57018384,"DEMO (relative units, not real prices)"
+Aflibercept,12.00978055,8.931182971,0.3441383517,90.00010642,"DEMO (relative units, not real prices)"
+Ranibizumab,10.0629818,9.376106231,0.449372183,47.77927552,"DEMO (relative units, not real prices)"

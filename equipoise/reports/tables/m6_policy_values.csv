@@ -1,0 +1,7 @@
+policy,n,ipw_value,ipw_ci_low,ipw_ci_high,aipw_value,aipw_ci_low,aipw_ci_high,n_followed,share_Bevacizumab,share_Aflibercept,share_Ranibizumab,prices
+All Bevacizumab,126,11.74967235,8.096221057,17.10850808,11.13103459,8.325050578,14.5382755,44,1,0,0,"DEMO (relative units, not real prices)"
+All Aflibercept,126,14.87244898,9.654230442,20.65013818,14.56930333,11.48184073,17.69860262,41,0,1,0,"DEMO (relative units, not real prices)"
+All Ranibizumab,126,11.17300131,7.629477938,15.04450633,11.71629196,9.827908304,13.98246513,41,0,0,1,"DEMO (relative units, not real prices)"
+Published rule (<69 letters -> aflibercept),126,15.71063861,10.77751611,21.71398146,14.23507714,10.76180918,17.87660922,47,0.5,0.5,0,"DEMO (relative units, not real prices)"
+Model: most letters (Causal forest (CausalForestDML)),126,14.87244898,9.864105017,21.03071854,14.56930333,11.52586396,18.19271994,41,0,1,0,"DEMO (relative units, not real prices)"
+"Model: letters - lambda x cost (DEMO (relative units, not real prices))",126,14.58175357,9.930782605,20.51412813,12.86771401,9.479443415,17.10476604,45,0.6984126984,0.1746031746,0.126984127,"DEMO (relative units, not real prices)"

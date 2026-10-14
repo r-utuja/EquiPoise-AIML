@@ -1,0 +1,26 @@
+| measure    | arm         |   week |   mean_change |   ci_low |   ci_high |
+|:-----------|:------------|-------:|--------------:|---------:|----------:|
+| va_letters | Aflibercept |     12 |          9.7  |     8.51 |     10.9  |
+| va_letters | Aflibercept |     24 |         11.9  |    10.6  |     13.2  |
+| va_letters | Aflibercept |     52 |         13.2  |    11.6  |     14.8  |
+| va_letters | Aflibercept |    104 |         12.2  |     9.77 |     14.6  |
+| va_letters | Bevacizumab |     12 |          7.13 |     6.07 |      8.2  |
+| va_letters | Bevacizumab |     24 |          8.69 |     7.45 |      9.93 |
+| va_letters | Bevacizumab |     52 |          9.6  |     8.19 |     11    |
+| va_letters | Bevacizumab |    104 |         10.5  |     8.35 |     12.7  |
+| va_letters | Ranibizumab |     12 |          7.65 |     6.57 |      8.73 |
+| va_letters | Ranibizumab |     24 |          9.71 |     8.51 |     10.9  |
+| va_letters | Ranibizumab |     52 |         11.3  |    10    |     12.5  |
+| va_letters | Ranibizumab |    104 |         11.7  |     9.75 |     13.6  |
+| cst_um     | Aflibercept |     12 |       -133    |  -150    |   -116    |
+| cst_um     | Aflibercept |     24 |       -159    |  -177    |   -141    |
+| cst_um     | Aflibercept |     52 |       -165    |  -183    |   -146    |
+| cst_um     | Aflibercept |    104 |       -162    |  -184    |   -139    |
+| cst_um     | Bevacizumab |     12 |        -86.1  |  -101    |    -71.3  |
+| cst_um     | Bevacizumab |     24 |        -88.6  |  -105    |    -72.7  |
+| cst_um     | Bevacizumab |     52 |        -98.5  |  -115    |    -82    |
+| cst_um     | Bevacizumab |    104 |       -122    |  -148    |    -95.8  |
+| cst_um     | Ranibizumab |     12 |       -120    |  -137    |   -103    |
+| cst_um     | Ranibizumab |     24 |       -134    |  -151    |   -116    |
+| cst_um     | Ranibizumab |     52 |       -146    |  -164    |   -128    |
+| cst_um     | Ranibizumab |    104 |       -145    |  -169    |   -120    |

@@ -1,0 +1,3 @@
+| features                                                                |   corr_with_full_effect_afl |   mean_effect_afl_full |   mean_effect_afl_subset |   policy_ipw_full |   policy_ipw_subset |   same_assignment_share |
+|:------------------------------------------------------------------------|----------------------------:|-----------------------:|-------------------------:|------------------:|--------------------:|------------------------:|
+| epiretinal_membrane, prior_prp, age, va_letters, hispanic, race, female |                         0.5 |                   3.17 |                     3.31 |              14.9 |                15.6 |                   0.944 |

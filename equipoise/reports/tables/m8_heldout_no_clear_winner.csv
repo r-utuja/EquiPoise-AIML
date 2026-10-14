@@ -1,0 +1,16 @@
+quantity,value
+n_heldout,132
+mcid_letters,5
+n_no_clear_winner_mcid_5,132
+share_no_clear_winner_mcid_5,1
+n_no_clear_winner_mcid_3,132
+share_no_clear_winner_mcid_3,1
+n_best_costlier_is_Aflibercept,132
+p_gt_mcid_median,0.04
+p_gt_mcid_max,0.52
+n_p_gt_mcid_at_least_0.5,2
+effect_letters_median,3.095874164
+effect_letters_min,0.7194747644
+effect_letters_max,6.212457381
+effect_low_letters_max,2.413312678
+interval_width_letters_median,4.471487089

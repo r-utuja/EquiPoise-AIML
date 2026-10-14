@@ -1,0 +1,14 @@
+{
+  "best_beam_search": 9.386257,
+  "best_binary_pso": 9.43106,
+  "best_genetic_algorithm": 9.386257,
+  "best_hill_climbing": 9.386257,
+  "best_random_search": 9.542365,
+  "best_tabu_search": 9.386257,
+  "heldout_rmse_all": 9.471436,
+  "heldout_rmse_selected": 9.344491,
+  "hill_climb_distinct_optima": 2.0,
+  "n_selected": 7.0,
+  "objective_all_features": 10.129556,
+  "objective_best": 9.386257
+}

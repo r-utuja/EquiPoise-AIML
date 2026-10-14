@@ -1,0 +1,2 @@
+nominal_features,one_hot_columns,rows,non_zeros,density,dense_bytes,csr_bytes
+3,14,528,1584,0.2142857143,59136,21124

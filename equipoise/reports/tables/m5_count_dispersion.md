@@ -1,0 +1,3 @@
+| model       |   pearson_dispersion | interpretation                                                                                 |
+|:------------|---------------------:|:-----------------------------------------------------------------------------------------------|
+| Poisson GLM |                0.625 | < 1: less variable than Poisson (counts are bounded by the visit schedule); > 1: overdispersed |

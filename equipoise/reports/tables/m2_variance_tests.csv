@@ -1,0 +1,5 @@
+test,comparison,statistic,p,sd_Aflibercept,sd_Bevacizumab,sd_Ranibizumab
+Levene (Brown-Forsythe),all arms,1.862427414,0.1561728655,11.55539286,11.47924584,9.389270908
+Bartlett,all arms,10.75607538,0.004616872785,11.55539286,11.47924584,9.389270908
+F-test (variance ratio),Aflibercept / Bevacizumab,1.013310906,0.9250407773,11.55539286,11.47924584,9.389270908
+F-test (variance ratio),Ranibizumab / Bevacizumab,0.6690168036,0.004366794455,11.55539286,11.47924584,9.389270908

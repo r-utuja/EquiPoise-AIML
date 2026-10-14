@@ -1,0 +1,13 @@
+horizon_years,subgroup,outcome,arm,n,mean,sd,ci_low,ci_high,policy
+1,all,cst_um,Aflibercept,204,-164.872549,136.9555443,-183.7789787,-145.9661194,keep (primary)
+1,all,cst_um,Bevacizumab,201,-97.6318408,121.0084038,-114.4625168,-80.80116483,keep (primary)
+1,all,cst_um,Ranibizumab,199,-147.0100503,133.7794805,-165.7114333,-128.3086672,keep (primary)
+2,all,cst_um,Aflibercept,195,-166.6717949,141.548305,-186.6636545,-146.6799353,keep (primary)
+2,all,cst_um,Bevacizumab,178,-119.6797753,142.6509855,-140.7802627,-98.57928787,keep (primary)
+2,all,cst_um,Ranibizumab,180,-146.8111111,139.9479867,-167.3948713,-126.2273509,keep (primary)
+1,all,cst_um,Aflibercept,122,-150.4918033,124.5138146,-172.8095833,-128.1740232,missing (sensitivity)
+1,all,cst_um,Bevacizumab,114,-83.1754386,103.2260382,-102.3294988,-64.02137841,missing (sensitivity)
+1,all,cst_um,Ranibizumab,123,-145.6910569,130.9513819,-169.0651597,-122.3169542,missing (sensitivity)
+2,all,cst_um,Aflibercept,156,-153.6282051,120.9694292,-172.7604333,-134.4959769,missing (sensitivity)
+2,all,cst_um,Bevacizumab,134,-111.5820896,129.0392665,-133.6310069,-89.53317223,missing (sensitivity)
+2,all,cst_um,Ranibizumab,148,-149.1486486,138.98115,-171.725494,-126.5718033,missing (sensitivity)

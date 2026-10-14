@@ -1,0 +1,4 @@
+method,trials,best_cv_rmse,best_params,default_cv_rmse
+Grid search,30,9.931703784,"{'learning_rate': 0.05, 'max_depth': 1, 'min_samples_leaf': 10, 'n_estimators': 100}",10.21020054
+Optuna (TPE),30,9.864005459,"{'learning_rate': 0.01183868632641984, 'max_depth': 1, 'min_samples_leaf': 23, 'n_estimators': 343}",10.21020054
+PSO,30,9.874742276,"{'learning_rate': 0.011624283594266909, 'max_depth': 1, 'min_samples_leaf': 14, 'n_estimators': 399}",10.21020054

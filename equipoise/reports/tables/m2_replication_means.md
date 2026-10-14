@@ -1,0 +1,26 @@
+|   horizon_years | subgroup        | outcome   | arm         |   n |    mean |     sd |   ci_low |   ci_high |
+|----------------:|:----------------|:----------|:------------|----:|--------:|-------:|---------:|----------:|
+|               1 | all             | letters   | Aflibercept | 208 |   13.3  |  11.6  |    11.8  |     14.9  |
+|               1 | all             | letters   | Bevacizumab | 204 |    9.38 |  11.5  |     7.79 |     11    |
+|               1 | all             | letters   | Ranibizumab | 204 |   11.2  |   9.39 |     9.9  |     12.5  |
+|               1 | all             | cst_um    | Aflibercept | 204 | -165    | 137    |  -184    |   -146    |
+|               1 | all             | cst_um    | Bevacizumab | 201 |  -97.6  | 121    |  -114    |    -80.8  |
+|               1 | all             | cst_um    | Ranibizumab | 199 | -147    | 134    |  -166    |   -128    |
+|               1 | va_below_69     | letters   | Aflibercept | 102 |   19.1  |  11.9  |    16.7  |     21.4  |
+|               1 | va_below_69     | letters   | Bevacizumab | 101 |   11.8  |  12.1  |     9.45 |     14.2  |
+|               1 | va_below_69     | letters   | Ranibizumab | 100 |   14.2  |  10.7  |    12.1  |     16.3  |
+|               1 | va_69_or_better | letters   | Aflibercept | 106 |    7.81 |   8.07 |     6.26 |      9.37 |
+|               1 | va_69_or_better | letters   | Bevacizumab | 103 |    6.97 |  10.4  |     4.95 |      8.99 |
+|               1 | va_69_or_better | letters   | Ranibizumab | 104 |    8.31 |   6.87 |     6.97 |      9.64 |
+|               2 | all             | letters   | Aflibercept | 199 |   12.9  |  13.3  |    11.1  |     14.8  |
+|               2 | all             | letters   | Bevacizumab | 181 |    9.61 |  14.1  |     7.54 |     11.7  |
+|               2 | all             | letters   | Ranibizumab | 184 |   12.2  |  11.3  |    10.6  |     13.9  |
+|               2 | all             | cst_um    | Aflibercept | 195 | -167    | 142    |  -187    |   -147    |
+|               2 | all             | cst_um    | Bevacizumab | 178 | -120    | 143    |  -141    |    -98.6  |
+|               2 | all             | cst_um    | Ranibizumab | 180 | -147    | 140    |  -167    |   -126    |
+|               2 | va_below_69     | letters   | Aflibercept |  98 |   18.5  |  14.7  |    15.5  |     21.4  |
+|               2 | va_below_69     | letters   | Bevacizumab |  90 |   13    |  15.7  |     9.67 |     16.3  |
+|               2 | va_below_69     | letters   | Ranibizumab |  90 |   15.9  |  13.5  |    13.1  |     18.8  |
+|               2 | va_69_or_better | letters   | Aflibercept | 101 |    7.52 |   8.96 |     5.76 |      9.29 |
+|               2 | va_69_or_better | letters   | Bevacizumab |  91 |    6.3  |  11.5  |     3.9  |      8.7  |
+|               2 | va_69_or_better | letters   | Ranibizumab |  94 |    8.67 |   7.14 |     7.21 |     10.1  |

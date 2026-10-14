@@ -1,0 +1,42 @@
+# API + app. From the repository root:
+#   docker compose -f docker/docker-compose.yml up --build
+# API: http://localhost:8000/docs   App: http://localhost:8501
+# models/ (trained locally, never committed) is mounted read-only; request logs land in logs/.
+# Set EQUIPOISE_SYNTHETIC=1 (e.g. in a .env file next to this file) to serve the synthetic
+# demo bundle instead of the bundle trained on DRCR data.
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.api
+    image: equipoise-api
+    ports:
+      - "8000:8000"
+    environment:
+      EQUIPOISE_SYNTHETIC: ${EQUIPOISE_SYNTHETIC:-0}
+    volumes:
+      - ../models:/app/models:ro
+      - ../logs:/app/logs
+      - ../config/costs.yaml:/app/config/costs.yaml:ro
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:8000/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 20
+      start_period: 120s
+
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.app
+    image: equipoise-app
+    ports:
+      - "8501:8501"
+    environment:
+      API_URL: http://api:8000
+      EQUIPOISE_SYNTHETIC: ${EQUIPOISE_SYNTHETIC:-0}
+    volumes:
+      - ../config/costs.yaml:/app/config/costs.yaml:ro
+    depends_on:
+      api:
+        condition: service_healthy

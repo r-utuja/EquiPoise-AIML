@@ -1,0 +1,17 @@
+method,cluster,n_cluster,comparison,n_arm,n_reference,mean_baseline_va,difference,ci_low,ci_high,p,note
+k-means,0,99,Aflibercept - Bevacizumab,32,33,68.85858586,-1.860795455,-5.416091448,1.694500539,0.2992837223,exploratory; not pre-specified
+k-means,0,99,Ranibizumab - Bevacizumab,34,33,68.85858586,-1.189839572,-5.3612731,2.981593956,0.5708471638,exploratory; not pre-specified
+k-means,1,270,Aflibercept - Bevacizumab,93,89,69.07777778,3.792678507,0.578552099,7.006804914,0.02102950695,exploratory; not pre-specified
+k-means,1,270,Ranibizumab - Bevacizumab,88,89,69.07777778,2.622957099,-0.4475900977,5.693504296,0.09350470762,exploratory; not pre-specified
+k-means,2,121,Aflibercept - Bevacizumab,42,38,54.75206612,8.305764411,2.855591985,13.75593684,0.003279278475,exploratory; not pre-specified
+k-means,2,121,Ranibizumab - Bevacizumab,41,38,54.75206612,3.954428755,-1.214025947,9.122883457,0.1317211736,exploratory; not pre-specified
+Ward,0,286,Aflibercept - Bevacizumab,95,95,69.03146853,3.663157895,0.6359914196,6.69032437,0.01799007509,exploratory; not pre-specified
+Ward,0,286,Ranibizumab - Bevacizumab,96,95,69.03146853,2.892105263,0.05816800979,5.726042517,0.04553322128,exploratory; not pre-specified
+Ward,1,72,Aflibercept - Bevacizumab,25,25,68.27777778,-1.96,-6.212750807,2.292750807,0.3586237496,exploratory; not pre-specified
+Ward,1,72,Ranibizumab - Bevacizumab,22,25,68.27777778,-2.378181818,-7.655886376,2.899522739,0.368025298,exploratory; not pre-specified
+Ward,2,132,Aflibercept - Bevacizumab,47,40,56.31818182,7.092021277,1.349673976,12.83436858,0.01610371686,exploratory; not pre-specified
+Ward,2,132,Ranibizumab - Bevacizumab,45,40,56.31818182,3.030555556,-2.504922545,8.566033656,0.2793046323,exploratory; not pre-specified
+DBSCAN,-1,3,Aflibercept - Bevacizumab,1,1,39.66666667,,,,,exploratory; not pre-specified
+DBSCAN,-1,3,Ranibizumab - Bevacizumab,1,1,39.66666667,,,,,exploratory; not pre-specified
+DBSCAN,0,487,Aflibercept - Bevacizumab,166,159,65.6550308,4.07952565,1.618981626,6.540069673,0.001225588202,exploratory; not pre-specified
+DBSCAN,0,487,Ranibizumab - Bevacizumab,162,159,65.6550308,2.41940368,0.09077010348,4.748037257,0.04176396634,exploratory; not pre-specified

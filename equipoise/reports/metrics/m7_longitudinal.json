@@ -1,0 +1,11 @@
+{
+  "central_difference_order": 1.964068,
+  "early_cv_rmse_baseline": 9.43613,
+  "early_cv_rmse_with_early": 8.134451,
+  "early_test_r2_with_early": 0.420905,
+  "early_test_rmse_baseline": 9.471436,
+  "early_test_rmse_with_early": 8.213323,
+  "hmm_forward_matches": 1.0,
+  "hmm_state_injection_p": 0.0,
+  "hmm_viterbi_agreement": 1.0
+}

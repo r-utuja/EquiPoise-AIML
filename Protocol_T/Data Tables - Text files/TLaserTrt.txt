@@ -1,0 +1,694 @@
+RecID|PtID|ParentLogInVisitIDTrt|Visit|CorTrtEye|LaserTrtNotDone|TrtNotDoneCode|RandLasMissReas|LasTrtExamDtDaysFromEnroll|LasEyeTrt|LasTrtSittings|BurnSzUsed|BurnDur|AvePower|WaveLen|EstBurnNumRet|BurnNum|FlAngGuide|PtComps|MAWithFluorLeakTrt|MAWithOutFluorLeakTrt|SmallFocalFluorLeakTrt|GridTrtAppliedFluorLeak|GridTrtAppliedCapNonPerfusion
+144|391|48240|24 week|OS|1|No central edema present|Other||||||||||||||||
+171|391|49328|28 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+200|15|50220|32 week|OS||||222|OS|1|60 micron (PASCAL laser manual setting)|.05|110|Green|103|103|Yes|No|||||
+185|420|49469|36 week|OS||||260|OS|1|50 micron|.10|75|Green|27|27|Yes|No|||||
+416|420|54046|Post 52 week|OS|1|Subject missed treatment visit|Other||||||||||||||||
+441|420|55313|Post 52 week|OS||||433|OS|1|50 micron|.10|75|Green|112|112|Yes|No|1||||
+108|41|47329|28 week|OS||||204|OS|1|50 micron|.10|110|Green|80|80|Yes|No|||||
+113|125|47464|28 week|OD||||202|OD|1|50 micron|.10|120|Green|223|223|Yes|No|||||
+101|559|47289|24 week|OD||||170|OD|1|50 micron|.10|70|Green|52|52|Yes|No|||||
+252|559|50944|40 week|OD||||280|OD|1|50 micron|.10|70|Green|15|15|Yes|No|1||||
+650|559|63208|Post 52 week|OD||||693|OD|1|50 micron|.10|70|Green|50|50|Yes|No|1||||
+397|494|53543|40 week|OD|1|Adverse event precluding treatment|Adverse Event||||||||||||||||
+445|173|55478|48 week|OS||||329|OS|1|50 micron|.10|75|Green|100|100|Yes|No|1||||
+330|390|52462|32 week|OS|1|Adverse event precluding treatment|Adverse Event||||||||||||||||
+455|650|55371|36 week|OS||||260|OS|1|50 micron|.10|100|Green|41|41|Yes|No|1||||
+363|78|52985|24 week|OS||||178|OS|1|50 micron|.10|105|Green|92|92|Yes|No|1||||
+487|78|56704|40 week|OS||||285|OS|1|50 micron|.10|100|Green|111|111|Yes|No|1|1|||
+635|78|62070|Post 52 week|OS||||476|OS|1|50 micron|.10|135|Green|142|142|Yes|No|1|1|1||
+684|78|65510|Post 52 week|OS||||623|OS|1|50 micron|.10|90|Green|74|74|Yes|No|1|1|||
+156|564|48483|24 week|OD||||184|OD|1|50 micron|.10|130|Yellow|121|121|No|No|||||
+576|471|59786|Post 52 week|OS||||467|OS|1|50 micron|.01|100|Yellow|250|318|No|No|||||
+665|471|64270|Post 52 week|OS||||637|OS|1|50 micron|.07|100|Green|75|96|No|No|||||
+274|669|51528|32 week|OD||||226|OD|1|50 micron|.10|70|Green|110|139|Yes|No|1||1|1|
+310|303|52185|24 week|OS||||171|OS|1|50 micron|.10|70|Green|45|61|Yes|No|1||1||
+303|742|52010|40 week|OS||||295|OS|1|50 micron|.10|125|Green|70|77|No|No|||||
+407|61|54064|48 week|OS||||336|OS|1|60 micron (PASCAL laser manual setting)|.03|125|Green|16|16|No|No|||||
+519|61|57496|Post 52 week|OS||||448|OS|1|60 micron (PASCAL laser manual setting)|.03|125|Green|16|16|No|No|||||
+626|61|60956|Post 52 week|OS||||567|OS|1|60 micron (PASCAL laser manual setting)|.05|90|Green|11|11|No|No|||||
+145|134|48438|24 week|OD||||162|OD|1|60 micron (PASCAL laser manual setting)|.01|125|Green|55|55|No|No|||||
+435|134|54571|48 week|OD||||350|OD|1|60 micron (PASCAL laser manual setting)|.05|100|Green|21|21|No|No|||||
+559|134|59123|Post 52 week|OD||||490|OD|1|60 micron (PASCAL laser manual setting)|.02|175|Green|32|32|No|No|||||
+354|815|52979|28 week|OS|1|Adverse event precluding treatment|Other||||||||||||||||
+65|35|44691|24 week|OS|1|Subject missed treatment visit|Other||||||||||||||||
+73|35|45973|28 week|OS||||202|OS|1|50 micron|.10|90|Yellow|72|72|No|No|||||
+241|35|50162|44 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+126|192|47663|32 week|OD||||229|OD|1|50 micron|.10|85|Green|84|84|No|No|||||
+233|636|50596|40 week|OS||||287|OS|1|50 micron|.10|100|Green|89|89|No|No|||||
+408|323|54069|28 week|OS||||195|OS|1|50 micron|.10|105|Yellow|50|66|No|No|||||
+526|323|57921|44 week|OS||||314|OS|1|50 micron|.05|153|Yellow|40|79|No|No|||||
+618|323|61201|Post 52 week|OS||||439|OS|1|50 micron|.10|129|Yellow|30|49|No|No|||||
+664|323|63950|Post 52 week|OS||||546|OS|1|50 micron|.10|199|Yellow|22|44|No|No|||||
+27|718|43407|24 week|OS||||177|OS|1|50 micron|.10|100|Green|20|20|No|No|||||
+273|222|51532|Post 52 week|OD||||400|OD|1|50 micron|.10|120|Green|30|40|Yes|No|1|||1|
+100|662|47277|40 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+218|662|50575|52 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+390|137|53461|40 week|OD||||289|OD|1|50 micron|.10|100|Green|120|124|No|No|||||
+452|532|55481|32 week|OS||||234|OS|1|50 micron|.10|120|Green|180|192|Yes|No|1|||1|
+695|532|68735|Post 52 week|OS|1|Complete laser given|Other||||||||||||||||
+9|46|42350|24 week|OS||||168|OS|1|50 micron|.05|120|Green|50|61|No|No|||||
+237|46|50925|Post 52 week|OS||||410|OS|1|50 micron|.05|90|Green|53|64|No|No|||||
+481|46|56278|Post 52 week|OS||||581|OS|1|50 micron|.01|50|Green|51|57|No|No|||||
+17|563|42715|24 week|OD||||168|OD|1|50 micron|.05|80|Green|50|129|No|No|||||
+80|563|46511|40 week|OD||||275|OD|1|50 micron|.05|80|Green|20|20|No|No|||||
+195|563|50040|52 week|OD||||371|OD|1|50 micron|.05|65|Green|12|15|Yes|No|||||
+165|22|49141|24 week|OS||||175|OS|1|50 micron|.05|80|Green|88|88|No|No|||||
+495|22|56561|Post 52 week|OS||||406|OS|1|50 micron|.01|70|Green|55|65|No|No|||||
+622|22|60879|Post 52 week|OS||||553|OS|1|50 micron|.05|80|Green|30|39|No|No|||||
+448|321|55565|Post 52 week|OS||||449|OS|1|60 micron (PASCAL laser manual setting)|.02|225|Green|22|23|No|No|||||
+85|345|46490|24 week|OD||||170|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|18|18|No|No|||||
+427|386|53722|52 week|OS||||371|OS|1|60 micron (PASCAL laser manual setting)|.01|100|Green|25|27|No|No|||||
+523|386|56818|Post 52 week|OS||||463|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|39|41|No|No|||||
+86|129|46700|24 week|OD||||161|OD|1|50 micron|.02|225|Green|40|44|No|No|||||
+232|129|50830|40 week|OD||||273|OD|1|60 micron (PASCAL laser manual setting)|.01|225|Green|40|43|No|No|||||
+451|129|55601|Post 52 week|OD||||420|OD|1|60 micron (PASCAL laser manual setting)|.01|225|Green|39|41|No|No|||||
+158|612|48071|24 week|OD||||168|OD|1|60 micron (PASCAL laser manual setting)|.02|225|Green|30|32|No|No|||||
+359|612|51780|40 week|OD||||273|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|18|18|No|No|||||
+524|178|57004|Post 52 week|OD||||421|OD|1|60 micron (PASCAL laser manual setting)|.02|225|Green|29|32|No|No|||||
+529|25|57821|Post 52 week|OS||||427|OS|1|60 micron (PASCAL laser manual setting)|.02|200|Green|38|46|No|No|||||
+604|25|60476|Post 52 week|OS||||519|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|38|40|No|No|||||
+219|657|50615|24 week|OS||||174|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|14|14|No|No|||||
+423|657|54443|40 week|OS||||286|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|15|15|No|No|||||
+594|657|58363|Post 52 week|OS||||419|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|16|16|No|No|||||
+292|42|51910|28 week|OS||||195|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|45|47|No|No|||||
+470|42|56270|48 week|OS||||329|OS|1|60 micron (PASCAL laser manual setting)|.01|125|Green|29|31|No|No|||||
+566|42|59359|Post 52 week|OS||||434|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|30|31|No|No|||||
+270|522|51512|24 week|OS||||174|OS|1|60 micron (PASCAL laser manual setting)|.02|125|Green|31|32|No|No|||||
+590|522|60197|Post 52 week|OS|1|Adverse event precluding treatment|Adverse Event||||||||||||||||
+331|705|52569|28 week|OD||||203|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|33|36|No|No|||||
+491|705|56816|48 week|OD||||330|OD|1|60 micron (PASCAL laser manual setting)|.02|12|Green|45|50|No|No|||||
+643|705|63000|Post 52 week|OD||||546|OD|1|60 micron (PASCAL laser manual setting)|.02|125|Green|45|48|No|No|||||
+299|824|52073|24 week|OD||||171|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|25|27|No|No|||||
+506|824|56613|44 week|OD||||315|OD|1|60 micron (PASCAL laser manual setting)|.01|100|Green|41|43|No|No|||||
+634|824|62235|Post 52 week|OD||||507|OD|1|60 micron (PASCAL laser manual setting)|.02|150|Green|31|34|No|No|||||
+513|107|57595|48 week|OS||||338|OS|1|50 micron|.05|110|Green|95|95|No|No|||||
+459|95|54884|36 week|OS|1|Subject missed treatment visit|Other||||||||||||||||
+541|95|58381|52 week|OS||||366|OS|1|60 micron (PASCAL laser manual setting)|.02|200|Green|95|95|No|No|||||
+314|330|52257|24 week|OD||||174|OD|1|60 micron (PASCAL laser manual setting)|.02|125|Green|17|18|No|No|||||
+338|65|52628|Post 52 week|OS||||490|OS|1|50 micron|.10|150|Green|3|6|No|No|||||
+25|433|43107|24 week|OS||||182|OS|1|50 micron|.10|150|Green|5|5|No|No|||||
+234|393|50638|24 week|OS||||168|OS|1|50 micron|.10|100|Green|25|31|Yes|No|||||
+667|393|64412|Post 52 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+454|630|55713|36 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+41|489|43699|32 week|OD||||224|OD|1|50 micron|.07|80|Green|134|134|No|No|||||
+364|489|52769|Post 52 week|OD||||490|OD|1|50 micron|.07|70|Green|41|41|No|No|||||
+11|254|42158|24 week|OD||||176|OD|1|50 micron|.07|70|Yellow|138|138|No|No|||||
+570|254|59486|Post 52 week|OD||||693|OD|1|50 micron|.07|65|Yellow|85|92|No|No|||||
+1|838|38373|4 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+13|838|42287|24 week|OD||||180|OD|1|50 micron|.07|70|Green|152|152|No|No|||||
+327|838|51414|Post 52 week|OD||||439|OD|1|50 micron|.07|100|Green|141|141|No|No|||||
+471|838|55153|Post 52 week|OD||||551|OD|1|50 micron|.10|80|Green|115|134|No|No|||||
+555|838|58547|Post 52 week|OD||||663|OD|1|50 micron|.10|90|Green|56|62|No|No|||||
+16|653|42425|24 week|OS||||172|OS|1|50 micron|.07|75|Yellow|40|40|No|No|||||
+112|653|46582|40 week|OS||||291|OS|1|50 micron|.07|75|Yellow|35|35|No|No|||||
+320|653|51588|Post 52 week|OS||||431|OS|1|50 micron|.07|70|Yellow|35|35|No|No|||||
+458|653|55507|Post 52 week|OS||||550|OS|1|50 micron|.07|85|Yellow|25|29|Yes|No|1||||
+64|780|44761|28 week|OD||||203|OD|1|50 micron|.07|130|Yellow|237|237|No|No|||||
+243|780|50166|48 week|OD||||347|OD|1|50 micron|.10|100|Yellow|143|143|No|No|||||
+51|16|43906|24 week|OS||||175|OS|1|50 micron|.07|95|Green|132|132|No|No|||||
+103|768|46244|24 week|OS||||178|OS|1|50 micron|.07|75|Green|92|92|No|No|||||
+97|743|46445|24 week|OS||||182|OS|1|50 micron|.07|110|Green|22|22|No|No|||||
+114|17|46856|24 week|OS||||174|OS|1|50 micron|.07|75|Yellow|71|71|No|No|||||
+290|17|51074|40 week|OS||||290|OS|1|50 micron|.07|85|Yellow|51|51|No|No|||||
+457|17|55525|Post 52 week|OS||||430|OS|1|50 micron|.07|85|Yellow|60|65|Yes|No|1||||
+136|51|48011|28 week|OD||||210|OD|1|50 micron|.07|80|Green|107|107|No|No|||||
+122|235|47499|24 week|OS||||182|OS|1|50 micron|.07|80|Green|124|124|No|No|||||
+301|235|51423|40 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+466|235|55164|Post 52 week|OS||||406|OS|1|50 micron|.10|100|Green|85|98|Yes|No|1|1|1|1|1
+505|763|57176|Post 52 week|OD||||465|OD|1|50 micron|.07|75|Green|25|16|Yes|No|1|||1|
+447|336|55319|52 week|OD||||378|OD|1|50 micron|.07|70|Yellow|105|117|No|No|||||
+153|474|48805|24 week|OS||||168|OS|1|50 micron|.05|80|Green|107|107|No|No|||||
+205|573|49389|24 week|OD||||182|OD|1|50 micron|.05|110|Green|113|113|No|No|||||
+268|600|50538|24 week|OS||||182|OS|1|50 micron|.07|100|Green|147|147|No|No|||||
+404|600|53890|40 week|OS||||280|OS|1|50 micron|.07|100|Green|116|116|No|No|||||
+582|600|59373|Post 52 week|OS||||462|OS|1|50 micron|.10|80|Green|115|123|No|No|||||
+253|482|50262|24 week|OS||||184|OS|1|50 micron|.07|92|Green|27|27|No|No|||||
+315|62|52264|28 week|OS||||203|OS|1|50 micron|.05|90|Yellow|26|26|No|No|||||
+345|370|51700|24 week|OD||||177|OD|1|50 micron|.05|75|Green|121|121|No|No|||||
+500|370|56288|44 week|OD||||329|OD|1|50 micron|.07|75|Yellow|65|72|Yes|No|1|1|1|1|1
+676|370|64546|Post 52 week|OD|1|Adverse event precluding treatment|Adverse Event||||||||||||||||
+293|337|51815|24 week|OS||||168|OS|1|50 micron|.07|90|Yellow|177|177|No|No|||||
+285|293|51681|24 week|OS||||161|OS|1|50 micron|.07|90|Green|37|37|No|No|||||
+504|293|56548|44 week|OS||||315|OS|1|50 micron|.10|90|Yellow|92|92|No|No|||||
+316|663|52274|24 week|OS||||175|OS|1|50 micron|.05|90|Yellow|44|44|No|No|||||
+511|560|57335|44 week|OS||||322|OS|1|50 micron|.07|100|Green|65|58|No|No|||||
+671|560|64021|Post 52 week|OS||||574|OS|1|50 micron|.07|70|Green|40|48|Yes|No|1||1|1|
+406|409|53099|24 week|OD||||172|OD|1|50 micron|.07|80|Yellow|90|90|No|No|||||
+597|409|59031|52 week|OD||||367|OD|1|50 micron|.07|80|Green|50|55|Yes|No|1|1|1|1|1
+223|446|50666|36 week|OS||||259|OS|1|50 micron|.01|90|Green|237|237|No|No|||||
+516|446|57635|Post 52 week|OS||||476|OS|1|50 micron|.10|100|Green|88|88|No|No|||||
+106|70|47458|24 week|OD||||172|OD|1|50 micron|.10|70|Green|250|276|No|No|||||
+256|70|51284|40 week|OD||||278|OD|1|50 micron|.01|100|Green|117|117|No|No|||||
+210|685|50429|28 week|OS||||203|OS|1|50 micron|.10|100|Green|92|92|No|No|||||
+358|90|53034|28 week|OS||||196|OS|1|50 micron|.01|70|Green|90|90|No|No|||||
+357|645|53028|24 week|OD||||168|OD|1|50 micron|.01|90|Green|90|90|No|No|||||
+393|402|53356|24 week|OD||||181|OD|1|50 micron|.10|110|Green|80|87|Yes|No||||1|
+5|218|41992|24 week|OD||||168|OD|1|50 micron|.10|100|Green|20|19|Yes|No|||||
+78|218|46107|40 week|OD||||294|OD|1|50 micron|.10|100|Green|20|20|Yes|No|||||
+7|765|42286|24 week|OD||||168|OD|1|50 micron|.10|100|Green|30|28|Yes|No|||||
+35|176|44339|24 week|OD||||167|OD|1|50 micron|.10|110|Green|139|159|Yes|No|||||
+116|814|47729|24 week|OD||||168|OD|1|50 micron|.10|100|Green|35|35|Yes|No|||||
+533|147|58072|Post 52 week|OD||||490|OD|1|50 micron|.09|90|Yellow|55|85|No|No|||||
+259|707|51225|40 week|OS||||280|OS|1|50 micron|.09|100|Yellow|30|51|Yes|No|1||||
+151|216|48694|28 week|OD||||197|OD|1|50 micron|.07|70|Yellow|51|62|Yes|No|||||
+476|245|56414|36 week|OD||||266|OD|1|50 micron|.05|120|Yellow|50|50|No|No|||||
+614|245|61108|Post 52 week|OD||||427|OD|1|50 micron|.20|400|Yellow|101|101|No|No|||||
+24|831|43353|24 week|OS|1|No central edema present|Other||||||||||||||||
+385|831|53585|Post 52 week|OS||||466|OS|1|60 micron (PASCAL laser manual setting)|.01|200|Green|3|45|No|No|||||
+191|770|48680|36 week|OD|1|Subject refused|Patient Refuses||||||||||||||||
+192|770|49939|40 week|OD||||282|OD|1|60 micron (PASCAL laser manual setting)|.03|150|Green|2|19|No|No|||||
+395|770|53784|Post 52 week|OD||||401|OD|1|60 micron (PASCAL laser manual setting)|.10|150|Green|40|44|Yes|No|1||||
+550|770|57067|Post 52 week|OD|1|Subject refused|Patient Refuses||||||||||||||||
+551|770|58669|Post 52 week|OD||||555|OD|1|60 micron (PASCAL laser manual setting)|.20|125|Green|37|37|Yes|No|1||||
+118|800|46771|24 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+378|800|53478|52 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+179|524|49132|28 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+129|709|48020|24 week|OD||||168|OD|1|60 micron (PASCAL laser manual setting)|.03|100|Green|0|33|No|No|||||
+324|816|52425|24 week|OD||||174|OD|1|60 micron (PASCAL laser manual setting)|.10|150|Green|9|209|No|No|||||
+499|816|57066|44 week|OD||||311|OD|1|60 micron (PASCAL laser manual setting)|.20|275|Green|200|194|No|No|||||
+295|67|52000|28 week|OD|1|Adverse event precluding treatment|Other||||||||||||||||
+71|499|45980|24 week|OS||||169|OS|1|50 micron|.08|90|Green|89|92|Yes|No|||||
+239|499|50246|40 week|OS||||279|OS|1|50 micron|.01|175|Green|37|37|Yes|No|||||
+432|499|54722|Post 52 week|OS||||422|OS|1|50 micron|.08|110|Green|40|40|No|No|||||
+111|159|47176|28 week|OS||||211|OS|1|50 micron|.01|300|Green|67|67|No|No|||||
+302|159|51866|48 week|OS||||338|OS|1|50 micron|.07|110|Yellow|101|106|Yes|No|1|||1|
+588|159|59992|Post 52 week|OS||||601|OS|1|50 micron|.07|85|Yellow|40|42|No|No|||||
+104|561|47023|28 week|OD||||203|OD|1|50 micron|.07|100|Green|74|74|No|No|||||
+211|510|49734|28 week|OS||||207|OS|1|Other|.10|120|Green|6|6|No|No|||||
+175|135|49074|24 week|OD||||174|OD|1|50 micron|.10|175|Yellow|113|113|No|No|||||
+426|135|54390|48 week|OD||||341|OD|1|50 micron|.07|175|Green|46|46|No|No|||||
+540|135|58154|Post 52 week|OD||||462|OD|1|50 micron|.08|110|Yellow|35|36|No|No|||||
+620|135|61306|Post 52 week|OD||||574|OD|1|50 micron|.08|75|Green|40|44|No|No|||||
+282|545|51714|28 week|OS||||201|OS|1|50 micron|.08|75|Yellow|23|23|Yes|No|1|||1|
+467|545|55210|44 week|OS||||307|OS|1|50 micron|.08|65|Yellow|20|19|No|No|||||
+563|545|59206|Post 52 week|OS||||439|OS|1|50 micron|.07|90|Green|13|13|No|No|||||
+402|40|53306|28 week|OD||||201|OD|1|50 micron|.01|150|Green|50|46|No|No|||||
+8|279|42353|24 week|OD||||168|OD|1|50 micron|.07|85|Green|40|42|No|No|||||
+77|279|46229|40 week|OD||||280|OD|1|50 micron|.05|100|Green|50|50|Yes|No|||||
+212|279|50438|Post 52 week|OD||||396|OD|1|50 micron|.05|70|Green|40|44|Yes|No|||||
+412|279|54053|Post 52 week|OD||||511|OD|1|50 micron|.06|85|Green|90|86|No|No|||||
+530|279|57813|Post 52 week|OD||||630|OD|1|50 micron|.05|60|Green|32|30|No|No|||||
+74|696|45884|36 week|OS||||259|OS|1|60 micron (PASCAL laser manual setting)|.03|100|Green|67|67|Yes|No|||||
+250|696|51191|Post 52 week|OS||||399|OS|1|60 micron (PASCAL laser manual setting)|.02|125|Green|70|76|No|No|||||
+59|581|44652|24 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+76|204|45710|28 week|OS||||210|OS|1|50 micron|.05|100|Green|31|31|Yes|No|||||
+81|444|46223|24 week|OS||||182|OS|1|50 micron|.05|120|Green|28|32|Yes|No|||||
+135|660|47983|28 week|OS||||203|OS|1|50 micron|.04|110|Green|50|102|Yes|No|||||
+521|660|57581|Post 52 week|OS||||490|OS|1|50 micron|.03|80|Green|67|84|No|No|||||
+152|546|48393|28 week|OS||||203|OS|1|50 micron|.06|130|Green|36|72|Yes|No|||||
+460|729|55840|Post 52 week|OS||||420|OS|1|50 micron|.06|80|Green|50|54|No|No|||||
+569|729|59192|Post 52 week|OS||||546|OS|1|50 micron|.06|80|Green|70|66|No|No|||||
+172|264|49047|28 week|OS||||203|OS|1|50 micron|.05|120|Green|80|100|No|No|||||
+140|186|48360|24 week|OS||||170|OS|1|50 micron|.06|100|Green|13|20|Yes|No|||||
+155|160|48627|24 week|OD||||175|OD|1|50 micron|.05|120|Green|20|21|Yes|No|||||
+489|160|56790|Post 52 week|OD||||413|OD|1|50 micron|.06|100|Green|28|25|No|No|||||
+456|495|55748|48 week|OD||||336|OD|1|50 micron|.04|130|Green|100|91|No|No|||||
+673|495|64700|Post 52 week|OD||||672|OD|1|50 micron|.05|100|Green|80|77|No|No|||||
+344|331|52765|32 week|OS||||238|OS|1|60 micron (PASCAL laser manual setting)|.02|78|Green|40|36|No|No|||||
+305|539|52026|28 week|OD||||203|OD|1|50 micron|.05|160|Green|113|90|No|No|||||
+579|539|59699|Post 52 week|OD||||455|OD|1|50 micron|.05|120|Green|40|44|No|No|||||
+492|648|55947|44 week|OD||||315|OD|1|50 micron|.06|100|Green|25|35|No|No|||||
+289|840|51871|24 week|OS||||172|OS|1|50 micron|.05|87|Green|40|47|No|No|||||
+440|840|55226|40 week|OS||||273|OS|1|50 micron|.06|90|Green|40|36|No|No|||||
+306|93|52129|24 week|OD||||161|OD|1|60 micron (PASCAL laser manual setting)|.02|210|Green|50|57|No|No|||||
+463|93|55946|40 week|OD||||280|OD|1|50 micron|.08|150|Green|75|72|No|No|||||
+564|93|59280|Post 52 week|OD||||392|OD|1|50 micron|.01|50|Green|65|62|No|No|||||
+677|93|65135|Post 52 week|OD||||616|OD|1|50 micron|.02|225|Green|50|44|No|No|||||
+692|593|67155|Post 52 week|OS||||671|OS|1|50 micron|.05|80|Green|89|98|No|No|||||
+367|655|53270|28 week|OS||||196|OS|1|50 micron|.08|125|Green|45|41|No|No|||||
+501|655|56980|44 week|OS||||315|OS|1|50 micron|.06|120|Green|20|15|No|No|||||
+649|655|62501|Post 52 week|OS||||511|OS|1|50 micron|.07|100|Green|25|23|No|No|||||
+346|358|52537|24 week|OS||||175|OS|1|50 micron|.05|100|Green|40|47|No|No|||||
+479|358|56300|40 week|OS||||287|OS|1|50 micron|.05|90|Green|45|41|No|No|||||
+353|469|52922|24 week|OD||||171|OD|1|50 micron|.06|100|Green|42|53|No|No|||||
+422|375|53993|28 week|OS||||209|OS|1|50 micron|.05|130|Green|52|69|No|No|||||
+558|375|59121|52 week|OS||||363|OS|1|50 micron|.05|110|Green|16|21|Yes|No|1||||
+20|268|42894|24 week|OS||||179|OS|1|50 micron|.10|70|Green|12|37|No|No|||||
+21|605|42946|28 week|OS||||201|OS|1|50 micron|.10|70|Green|10|17|No|No|||||
+49|27|45077|24 week|OD||||173|OD|1|50 micron|.10|60|Green|10|13|No|No|||||
+311|27|52215|52 week|OD||||376|OD|1|50 micron|.10|70|Green|15|19|No|No|||||
+82|610|46579|28 week|OD||||201|OD|1|50 micron|.10|90|Green|25|31|No|No|||||
+538|610|57584|Post 52 week|OD||||526|OD|1|50 micron|.10|55|Green|47|55|No|No|||||
+63|48|45792|24 week|OD||||169|OD|1|50 micron|.10|60|Green|10|15|No|No|||||
+148|574|48199|28 week|OS||||202|OS|1|50 micron|.10|80|Green|43|48|No|No|||||
+132|311|48112|24 week|OD||||176|OD|1|50 micron|.10|70|Green|3|5|No|No|||||
+669|288|64564|Post 52 week|OS||||609|OS|1|50 micron|.10|110|Green|40|55|Yes|No|1|1|1|1|
+434|130|53849|24 week|OD|1|Subject refused|Other||||||||||||||||
+560|130|59145|48 week|OD|1|Adverse event precluding treatment|Adverse Event||||||||||||||||
+15|578|41760|24 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+30|578|42658|28 week|OS|1|Adverse event precluding treatment|Other||||||||||||||||
+548|552|58351|Post 52 week|OS||||658|OS|1|50 micron|.01|110|Green|105|105|No|No|||||
+89|618|46858|36 week|OS||||256|OS|1|50 micron|.06|70|Green|18|18|Yes|No|||||
+507|618|57244|Post 52 week|OS||||571|OS|1|50 micron|.10|110|Green|43|43|No|No|||||
+62|809|45781|32 week|OS||||212|OS|1|50 micron|.06|100|Green|25|25|No|No|||||
+168|809|49253|44 week|OS||||308|OS|1|50 micron|.01|120|Green|63|63|No|No|||||
+417|108|54283|Post 52 week|OS||||441|OS|1|50 micron|.10|50|Green|22|22|No|No|||||
+164|525|49125|36 week|OD||||265|OD|1|50 micron|.10|110|Green|38|38|No|No|||||
+462|787|55934|Post 52 week|OD||||462|OD|1|50 micron|.10|50|Green|18|18|No|No|||||
+333|691|52577|36 week|OD||||265|OD|1|50 micron|.01|240|Green|153|153|No|No|||||
+381|788|53499|40 week|OS||||282|OS|1|50 micron|.07|110|Green|19|19|No|No|||||
+568|788|58750|Post 52 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+599|788|60470|Post 52 week|OS||||506|OS|1|50 micron|.07|180|Green|115|115|Yes|No|1||||
+680|788|64576|Post 52 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+351|732|52931|24 week|OD||||165|OD|1|Other|.10|70|Green|36|38|No|No|||||
+514|732|57585|44 week|OD||||308|OD|1|50 micron|.10|120|Green|101|101|No|No|||||
+654|732|63665|Post 52 week|OD||||530|OD|1|50 micron|.01|150|Green|22|22|No|No|||||
+377|417|53130|24 week|OD||||189|OD|1|50 micron|.10|120|Green|90|92|Yes|No|1||1|1|
+562|417|58955|52 week|OD||||371|OD|1|50 micron|.07|80|Green|60|63|No|No|||||
+2|615|41417|24 week|OS||||168|OS|1|60 micron (PASCAL laser manual setting)|.07|125|Green|38|38|Yes|No|||||
+47|641|44809|32 week|OD||||227|OD|1|60 micron (PASCAL laser manual setting)|.05|100|Green|73|73|Yes|No|||||
+203|641|49953|52 week|OD||||376|OD|1|50 micron|.05|100|Green|41|41|No|No|||||
+469|641|56197|Post 52 week|OD||||556|OD|1|60 micron (PASCAL laser manual setting)|.05|125|Green|30|30|No|No|||||
+573|641|59613|Post 52 week|OD||||670|OD|1|60 micron (PASCAL laser manual setting)|.05|100|Green|33|33|No|No|||||
+297|213|51974|Post 52 week|OD|1|No central edema present|Other||||||||||||||||
+18|30|42841|24 week|OS||||167|OS|1|60 micron (PASCAL laser manual setting)|.05|150|Green|87|87|Yes|No|||||
+133|30|48086|44 week|OS||||311|OS|1|60 micron (PASCAL laser manual setting)|.05|150|Green|59|59|No|No|||||
+334|30|52547|Post 52 week|OS||||443|OS|1|60 micron (PASCAL laser manual setting)|.05|150|Green|58|58|No|No|||||
+98|139|46984|32 week|OD||||239|OD|1|60 micron (PASCAL laser manual setting)|.07|200|Green|63|63|Yes|No|||||
+502|139|56798|Post 52 week|OD||||529|OD|1|60 micron (PASCAL laser manual setting)|.01|138|Green|99|99|Yes|No|1|||1|
+68|619|45911|24 week|OS||||168|OS|1|Other|.02|100|Green|22|22|Yes|No|||||
+355|619|52731|52 week|OS|1|Adverse event precluding treatment|Adverse Event||||||||||||||||
+170|334|49346|32 week|OD||||224|OD|1|Other|.02|160|Green|60|70|No|No|||||
+169|344|49301|28 week|OD||||196|OD|1|Other|.03|260|Green|36|36|No|No|||||
+262|654|50934|28 week|OS||||212|OS|1|60 micron (PASCAL laser manual setting)|.05|125|Green|45|45|No|No|||||
+490|654|56781|52 week|OS||||386|OS|1|60 micron (PASCAL laser manual setting)|.05|100|Green|44|44|No|No|||||
+586|654|60070|Post 52 week|OS||||502|OS|1|60 micron (PASCAL laser manual setting)|.03|100|Green|20|20|No|No|||||
+196|502|49815|24 week|OS||||177|OS|1|60 micron (PASCAL laser manual setting)|.08|100|Green|39|39|Yes|No|||||
+204|674|50316|24 week|OS||||168|OS|1|60 micron (PASCAL laser manual setting)|.05|125|Green|68|68|Yes|No|||||
+226|558|50432|24 week|OS||||180|OS|1|60 micron (PASCAL laser manual setting)|.02|150|Green|106|106|No|No|||||
+410|558|54177|40 week|OS||||288|OS|1|60 micron (PASCAL laser manual setting)|.05|175|Green|62|62|No|No|||||
+517|558|57680|Post 52 week|OS||||397|OS|1|60 micron (PASCAL laser manual setting)|.06|200|Green|49|49|No|No|||||
+598|558|60467|Post 52 week|OS|1|No central edema present|Other||||||||||||||||
+631|558|62001|Post 52 week|OS||||551|OS|1|60 micron (PASCAL laser manual setting)|.04|125|Green|53|53|No|No|||||
+220|38|50619|24 week|OD||||168|OD|1|60 micron (PASCAL laser manual setting)|.05|250|Green|56|56|No|No|||||
+443|38|55441|44 week|OD||||315|OD|1|50 micron|.05|290|Green|50|65|No|No|||||
+583|38|60000|Post 52 week|OD||||469|OD|1|60 micron (PASCAL laser manual setting)|.10|140|Green|25|33|No|No|||||
+640|38|62744|Post 52 week|OD||||572|OD|1|60 micron (PASCAL laser manual setting)|.10|100|Green|40|47|No|No|||||
+375|794|53426|32 week|OD||||224|OD|1|60 micron (PASCAL laser manual setting)|.15|220|Green|41|44|No|No|||||
+602|794|60651|Post 52 week|OD||||456|OD|1|60 micron (PASCAL laser manual setting)|.15|150|Green|50|66|No|No|||||
+389|447|53608|32 week|OS||||229|OS|1|60 micron (PASCAL laser manual setting)|.09|125|Green|29|29|No|No|||||
+518|447|57292|48 week|OS||||350|OS|1|60 micron (PASCAL laser manual setting)|.04|150|Green|75|78|No|No|||||
+335|52|52298|24 week|OD|1|No central edema present|Other||||||||||||||||
+337|588|52602|24 week|OS||||163|OS|1|60 micron (PASCAL laser manual setting)|.01|112|Green|20|36|Yes|No|1||||
+19|271|42868|24 week|OS||||167|OS|1|60 micron (PASCAL laser manual setting)|.02|150|Green|35|40|No|No|||||
+124|271|47922|44 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+194|271|49958|52 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+424|271|54539|Post 52 week|OS||||503|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|16|25|Yes|No|1||||
+29|247|43620|24 week|OD||||161|OD|1|Other|.02|200|Green|21|29|No|No|||||
+150|247|47689|40 week|OD|1|Inadvertantly not done|Other||||||||||||||||
+162|247|48768|44 week|OD||||308|OD|1|Other|.10|74|Green|43|52|Yes|No|||||
+325|247|52428|Post 52 week|OD|1|Complete laser given|Other||||||||||||||||
+372|247|53385|Post 52 week|OD||||441|OD|1|60 micron (PASCAL laser manual setting)|.02|200|Green|12|15|Yes|No|1||||
+535|247|58089|Post 52 week|OD||||587|OD|1|60 micron (PASCAL laser manual setting)|.10|100|Green|12|14|Yes|No|1|1|||
+94|682|47144|24 week|OD||||169|OD|1|50 micron|.02|100|Green|25|39|No|No|||||
+249|682|51171|40 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+382|682|53554|52 week|OD||||357|OD|1|60 micron (PASCAL laser manual setting)|.02|125|Green|12|18|Yes|No|1||||
+139|284|48325|28 week|OS||||198|OS|1|50 micron|.06|100|Green|50|68|No|No|||||
+143|465|48140|28 week|OS||||197|OS|1|60 micron (PASCAL laser manual setting)|.02|175|Green|85|91|No|No|||||
+321|465|52355|44 week|OS||||315|OS|1|Other|.10|125|Green|60|93|Yes|No|1||1|1|1
+494|465|56838|Post 52 week|OS||||448|OS|1|60 micron (PASCAL laser manual setting)|.01|150|Green|60|97|No|No|||||
+584|465|60066|Post 52 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+642|465|62939|Post 52 week|OS||||660|OS|1|60 micron (PASCAL laser manual setting)|.20|100|Green|60|82|Yes|No|1||||
+138|586|48276|24 week|OD||||176|OD|1|50 micron|.10|134|Green|89|54|Yes|No|||||
+294|586|51767|40 week|OD||||280|OD|1|60 micron (PASCAL laser manual setting)|.05|175|Green|71|103|Yes|No|1|1|1||
+660|586|63989|Post 52 week|OD||||694|OD|1|60 micron (PASCAL laser manual setting)|.03|275|Green|20|55|Yes|No|1|1|1||
+362|318|52938|40 week|OD||||286|OD|1|60 micron (PASCAL laser manual setting)|.02|156|Green|28|36|Yes|No|1||||
+260|779|51297|32 week|OS|1|No view on OCT|Other||||||||||||||||
+339|779|52666|36 week|OS|1|No view on OCT|Other||||||||||||||||
+437|779|55043|48 week|OS|1|No view on OCT|Other||||||||||||||||
+600|779|60510|Post 52 week|OS|1|No view on OCT|Other||||||||||||||||
+224|306|50671|28 week|OS||||200|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|15|18|Yes|No|||||
+383|306|53582|40 week|OS||||294|OS|1|60 micron (PASCAL laser manual setting)|.03|100|Green|18|18|Yes|No|1||||
+384|431|53572|32 week|OS||||224|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|28|36|Yes|No|1||||
+616|431|61285|Post 52 week|OS||||476|OS|1|60 micron (PASCAL laser manual setting)|.05|100|Green|25|31|Yes|No|1|1|||
+691|431|67732|Post 52 week|OS||||700|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|54|54|Yes|No|1||||
+613|842|61014|Post 52 week|OD||||427|OD|1|60 micron (PASCAL laser manual setting)|.05|100|Green|16|31|Yes|No|1|1|||
+659|842|64024|Post 52 week|OD||||546|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|30|45|Yes|No|1|1|1||
+690|842|67631|Post 52 week|OD||||658|OD|1|60 micron (PASCAL laser manual setting)|.06|100|Green|5|22|Yes|No|1|1|1||
+369|246|53345|24 week|OD|1|Adverse event precluding treatment|Other||||||||||||||||
+93|177|46044|24 week|OS|1|No central edema present|Other||||||||||||||||
+201|177|50243|40 week|OS|1|Adverse event precluding treatment|Other||||||||||||||||
+396|252|53622|24 week|OD||||188|OD|1|50 micron|.10|100|Green|85|93|Yes|No|1|||1|
+561|252|59164|52 week|OD||||357|OD|1|50 micron|.08|160|Yellow|48|54|Yes|No|1|||1|
+361|174|53139|24 week|OD||||172|OD|1|50 micron|.01|90|Green|40|50|No|No|||||
+229|406|50781|40 week|OS|1|No central edema present|Other||||||||||||||||
+486|406|56534|Post 52 week|OS||||462|OS|1|50 micron|.07|100|Green|50|50|Yes|No|1||1||
+581|406|59900|Post 52 week|OS||||574|OS|1|50 micron|.10|270|Green|116|116|Yes|No|1|1|1||1
+657|406|63695|Post 52 week|OS||||714|OS|1|50 micron|.10|230|Green|34|34|Yes|No||||1|
+115|37|47733|24 week|OS|1|No central edema present|Other||||||||||||||||
+208|175|50099|28 week|OD||||210|OD|1|60 micron (PASCAL laser manual setting)|.01|100|Green|33|35|No|No|||||
+31|199|43582|32 week|OD||||220|OD|1|50 micron|.10|130|Green|90|90|No|No|||||
+352|199|52674|Post 52 week|OD||||483|OD|1|50 micron|.10|100|Green|120|139|No|No|||||
+468|199|56119|Post 52 week|OD||||581|OD|1|50 micron|.10|100|Green|100|109|No|No|||||
+236|566|50909|32 week|OD||||224|OD|1|50 micron|.05|150|Green|30|59|No|No|||||
+629|566|61843|Post 52 week|OD||||588|OD|1|50 micron|.05|110|Green|15|35|Yes|No|1||||
+349|92|51536|24 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+633|92|62172|Post 52 week|OD||||524|OD|1|50 micron|.10|70|Yellow|31|31|Yes|No|1||1||
+697|118|69250|Post 52 week|OD||||732|OD|1|50 micron|.01|100|Yellow|135|135|No|No|||||
+190|392|49917|24 week|OS||||170|OS|1|50 micron|.10|140|Green|30|33|Yes|No|||||
+371|388|52394|32 week|OD|1|Treatment missed in error|Other||||||||||||||||
+365|189|53173|24 week|OS||||173|OS|1|50 micron|.10|120|Green|14|14|No|No|||||
+206|230|50332|28 week|OS||||202|OS|1|60 micron (PASCAL laser manual setting)|.02|115|Green|30|39|No|No|||||
+405|230|53957|44 week|OS||||315|OS|1|60 micron (PASCAL laser manual setting)|.20|112|Green|30|43|No|No|||||
+592|230|60235|Post 52 week|OS||||518|OS|1|60 micron (PASCAL laser manual setting)|.05|110|Green|40|48|No|No|||||
+3|504|41038|24 week|OD|1|Treatment missed in error|Other||||||||||||||||
+48|504|44846|40 week|OD||||286|OD|1|60 micron (PASCAL laser manual setting)|.10|100|Green|49|49|No|No|||||
+269|504|51501|Post 52 week|OD||||470|OD|1|50 micron|.10|100|Green|60|60|No|No|||||
+58|138|45625|24 week|OS|1|Treatment missed in error|Other||||||||||||||||
+182|435|49711|32 week|OS||||230|OS|1|60 micron (PASCAL laser manual setting)|.01|175|Green|18|18|No|No|||||
+639|435|62584|Post 52 week|OS||||650|OS|1|60 micron (PASCAL laser manual setting)|.02|180|Green|12|16|No|No|||||
+366|153|52997|24 week|OS||||175|OS|1|60 micron (PASCAL laser manual setting)|.01|200|Green|123|120|No|No|||||
+183|256|49647|24 week|OS||||179|OS|1|60 micron (PASCAL laser manual setting)|.01|250|Green|39|39|No|No|||||
+612|256|60894|Post 52 week|OS||||537|OS|1|50 micron|.10|100|Yellow|10|16|Yes|No|1||||
+266|582|51388|28 week|OD||||203|OD|1|60 micron (PASCAL laser manual setting)|.02|150|Green|200|200|No|No|||||
+235|89|50641|24 week|OS||||184|OS|1|60 micron (PASCAL laser manual setting)|.10|100|Green|34|34|No|No|||||
+326|609|52435|24 week|OS||||166|OS|1|60 micron (PASCAL laser manual setting)|.07|125|Green|95|98|No|No|||||
+652|647|63606|Post 52 week|OS||||518|OS|1|50 micron|.10|60|Green|34|34|No|No|||||
+696|647|68701|Post 52 week|OS||||707|OS|1|50 micron|.10|60|Green|21|21|No|No|||||
+348|501|52837|24 week|OS||||170|OS|1|50 micron|.10|100|Green|34|34|No|No|||||
+105|263|46324|24 week|OS||||174|OS|1|50 micron|.10|150|Green|67|67|No|No|||||
+134|703|47156|24 week|OD||||175|OD|1|50 micron|.01|100|Green|50|60|No|No|||||
+493|703|55875|Post 52 week|OD||||429|OD|1|50 micron|.01|150|Green|50|37|No|No|||||
+578|703|58833|Post 52 week|OD||||527|OD|1|50 micron|.10|150|Green|50|37|No|No|||||
+184|91|49724|24 week|OD||||175|OD|1|50 micron|.10|150|Green|50|42|No|No|||||
+350|6|52724|36 week|OS||||259|OS|1|50 micron|.10|100|Green|50|43|No|No|||||
+230|699|50038|24 week|OD||||173|OD|1|50 micron|.01|110|Green|20|26|No|No|||||
+651|751|63235|Post 52 week|OD||||540|OD|1|50 micron|.05|200|Yellow|250|270|No|No|||||
+418|44|53630|24 week|OS||||182|OS|1|50 micron|.10|150|Green|50|56|No|No|||||
+161|812|48013|28 week|OS|1|Treatment missed in error|Other||||||||||||||||
+394|812|53775|52 week|OS||||364|OS|1|50 micron|.10|100|Yellow|45|55|Yes|No|1||||
+537|812|58205|Post 52 week|OS||||503|OS|1|50 micron|.10|80|Yellow|14|16|Yes|No|1|||1|1
+623|812|61835|Post 52 week|OS||||630|OS|1|50 micron|.10|120|Yellow|35|44|Yes|No|1||||
+319|457|52335|28 week|OS||||203|OS|1|50 micron|.10|100|Yellow|12|15|Yes|No|1||||
+496|457|56813|48 week|OS||||340|OS|1|50 micron|.10|100|Yellow|25|29|Yes|No|1||1||
+4|158|41916|24 week|OS|1|Treatment missed in error|Other||||||||||||||||
+176|158|49547|52 week|OS||||382|OS|1|60 micron (PASCAL laser manual setting)|.05|100|Green|62|62|Yes|No|||||
+543|158|58050|Post 52 week|OS||||657|OS|1|60 micron (PASCAL laser manual setting)|.03|125|Green|41|41|Yes|No|1||1||
+26|491|43432|24 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+202|491|50032|48 week|OS||||357|OS|1|60 micron (PASCAL laser manual setting)|.01|125|Green|161|161|Yes|No|||||
+374|491|53410|Post 52 week|OS||||455|OS|1|60 micron (PASCAL laser manual setting)|.03|125|Green|130|137|Yes|No|1|1|||
+542|491|58180|Post 52 week|OS||||611|OS|1|60 micron (PASCAL laser manual setting)|.04|125|Green|20|22|Yes|No|1||1||
+39|735|44526|24 week|OD||||168|OD|1|60 micron (PASCAL laser manual setting)|.08|100|Green|87|97|Yes|No|||||
+413|735|53909|Post 52 week|OD||||447|OD|1|60 micron (PASCAL laser manual setting)|.03|100|Green|45|45|Yes|No|1|1|||
+607|735|60682|Post 52 week|OD||||665|OD|1|60 micron (PASCAL laser manual setting)|.03|150|Green|34|34|Yes|No|1||||
+257|307|51285|48 week|OS||||342|OS|1|60 micron (PASCAL laser manual setting)|.02|225|Green|60|92|Yes|No|1||||
+421|307|54404|Post 52 week|OS||||440|OS|1|60 micron (PASCAL laser manual setting)|.02|150|Green|68|68|Yes|No|1|1|||
+547|307|58372|Post 52 week|OS||||573|OS|1|60 micron (PASCAL laser manual setting)|.03|125|Green|45|45|Yes|No|1|1|||
+619|307|61574|Post 52 week|OS||||678|OS|1|60 micron (PASCAL laser manual setting)|.05|100|Green|29|29|No|No|||||
+503|126|56898|Post 52 week|OS||||440|OS|1|50 micron|.05|50|Green|210|219|Yes|No|1|1|||
+399|242|53658|48 week|OD||||336|OD|1|60 micron (PASCAL laser manual setting)|.10|112|Green|50|54|Yes|No|1|1|1||
+552|242|58382|Post 52 week|OD||||486|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|34|34|Yes|No|1|1|||
+332|516|52536|28 week|OS||||195|OS|1|60 micron (PASCAL laser manual setting)|.04|100|Green|45|45|Yes|No|1||||
+625|516|61581|Post 52 week|OS||||498|OS|1|50 micron|.10|100|Green|8|8|No|No|||||
+531|24|57740|48 week|OD||||353|OD|1|60 micron (PASCAL laser manual setting)|.03|140|Green|25|28|Yes|No|1|1|1||
+429|839|53690|40 week|OS|1|Subject refused|Other||||||||||||||||
+656|839|62524|Post 52 week|OS|1|Treatment missed in error|Other||||||||||||||||
+66|196|45814|36 week|OD||||262|OD|1|50 micron|.05|100|Green|37|37|Yes|No|||||
+414|196|53156|Post 52 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+34|627|43900|28 week|OS||||204|OS|1|50 micron|.05|200|Green|37|37|Yes|No|||||
+43|497|44751|32 week|OS||||224|OS|1|50 micron|.05|240|Green|44|44|Yes|No|||||
+55|513|45122|24 week|OS||||182|OS|1|50 micron|.05|150|Green|45|45|Yes|No|||||
+207|165|50274|40 week|OD||||280|OD|1|50 micron|.05|300|Green|40|43|Yes|No|||||
+180|265|49652|24 week|OD||||175|OD|1|50 micron|.05|400|Green|168|168|Yes|No|||||
+304|633|51810|32 week|OD||||245|OD|1|50 micron|.05|200|Green|238|238|Yes|No|1||||
+688|166|67511|Post 52 week|OD||||680|OD|1|50 micron|.01|180|Green|58|58|Yes|No|1||||
+376|584|53143|24 week|OD||||181|OD|1|50 micron|.05|200|Green|37|37|Yes|No|1||||
+157|486|48583|24 week|OS||||182|OS|1|60 micron (PASCAL laser manual setting)|.02|175|Green|35|35|No|No|||||
+401|804|53489|32 week|OS||||252|OS|1|60 micron (PASCAL laser manual setting)|.01|100|Green|165|165|No|No|||||
+57|620|44598|24 week|OS||||168|OS|1|50 micron|.10|240|Green|100|114|No|No|||||
+187|620|49782|44 week|OS||||308|OS|1|50 micron|.10|150|Green|60|75|No|No|||||
+328|726|51435|48 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+119|507|47787|28 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+605|507|60806|Post 52 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+137|328|47523|24 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+428|380|54648|48 week|OD|1|Complete laser given|Other||||||||||||||||
+278|103|51384|24 week|OS||||174|OS|1|50 micron|.01|100|Green|70|84|No|No|||||
+439|103|55095|40 week|OS||||280|OS|1|50 micron|.10|100|Green|105|105|No|No|||||
+575|103|59715|Post 52 week|OS||||434|OS|1|50 micron|.08|100|Green|40|50|No|No|||||
+606|806|60624|Post 52 week|OS||||428|OS|1|50 micron|.10|100|Green|21|35|Yes|No|1|1|||
+681|806|65266|Post 52 week|OS||||605|OS|1|50 micron|.05|100|Green|100|100|No|No|||||
+347|530|52790|24 week|OD||||161|OD|1|50 micron|.10|140|Green|20|53|No|No|||||
+23|76|42905|24 week|OD||||186|OD|1|60 micron (PASCAL laser manual setting)|.01|250|Green|10|11|Yes|No|||||
+37|277|44444|28 week|OD||||189|OD|1|60 micron (PASCAL laser manual setting)|.05|100|Green|49|49|No|No|||||
+125|548|47920|24 week|OS||||166|OS|1|60 micron (PASCAL laser manual setting)|.01|200|Green|38|38|Yes|No|||||
+181|387|49423|24 week|OS||||182|OS|1|60 micron (PASCAL laser manual setting)|.01|225|Green|28|28|Yes|No|||||
+286|828|51779|24 week|OD||||167|OD|1|60 micron (PASCAL laser manual setting)|.01|325|Green|36|36|Yes|No|1||||
+430|554|54737|32 week|OD||||238|OD|1|60 micron (PASCAL laser manual setting)|.01|375|Green|37|37|No|No|||||
+128|796|47106|32 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+580|796|59924|Post 52 week|OS||||624|OS|1|50 micron|.10|140|Green|150|153|No|No|||||
+267|432|51331|44 week|OD||||314|OD|1|50 micron|.10|100|Yellow|60|59|No|No|||||
+127|305|47700|28 week|OS||||214|OS|1|50 micron|.01|70|Green|25|25|Yes|No|||||
+615|305|60954|Post 52 week|OS||||627|OS|1|50 micron|.10|100|Green|12|17|Yes|No|1||||
+102|557|47147|24 week|OS||||177|OS|1|50 micron|.01|100|Green|25|27|Yes|No|||||
+263|557|51007|40 week|OS||||286|OS|1|50 micron|.01|70|Green|17|39|Yes|No|1||||
+425|557|54476|Post 52 week|OS||||391|OS|1|60 micron (PASCAL laser manual setting)|.01|100|Green|10|14|Yes|No|1||1||
+217|171|50309|32 week|OD||||237|OD|1|50 micron|.10|100|Green|17|17|Yes|No|||||
+461|171|55836|Post 52 week|OD||||398|OD|1|50 micron|.10|100|Yellow|53|53|No|No|||||
+624|171|61575|Post 52 week|OD||||602|OD|1|50 micron|.10|100|Green|20|19|Yes|No|1||||
+228|519|49777|24 week|OD||||168|OD|1|60 micron (PASCAL laser manual setting)|.03|100|Green|40|86|Yes|No|||||
+398|519|53615|40 week|OD||||291|OD|1|60 micron (PASCAL laser manual setting)|.03|100|Green|60|81|Yes|No|1|1|||
+515|519|57488|Post 52 week|OD||||406|OD|1|60 micron (PASCAL laser manual setting)|.03|100|Green|58|79|No|No|||||
+641|519|62783|Post 52 week|OD||||592|OD|1|60 micron (PASCAL laser manual setting)|.03|100|Green|29|33|Yes|No|1||||
+167|509|49186|28 week|OS||||202|OS|1|60 micron (PASCAL laser manual setting)|.10|70|Green|30|30|Yes|No|||||
+637|203|62395|Unspecified Post 52 week|OS||||493|OS|1|60 micron (PASCAL laser manual setting)|.06|120|Green|60|52|Yes|No|1||||
+227|332|50747|28 week|OD||||192|OD|1|50 micron|.05|70|Yellow|30|46|Yes|No|||||
+238|291|50932|28 week|OS||||195|OS|1|50 micron|.01|50|Yellow|70|78|No|No|||||
+287|346|51365|24 week|OS||||185|OS|1|50 micron|.01|60|Green|110|110|No|No|||||
+663|346|63652|Post 52 week|OS|1|Subject missed treatment visit|Other||||||||||||||||
+666|346|64298|Post 52 week|OS||||612|OS|1|50 micron|.01|120|Yellow|14|14|No|No|||||
+90|227|46888|24 week|OS||||175|OS|1|60 micron (PASCAL laser manual setting)|.05|175|Green|84|84|No|No|||||
+553|227|58285|Post 52 week|OS||||525|OS|1|60 micron (PASCAL laser manual setting)|.02|225|Green|189|189|No|No|||||
+246|767|50767|32 week|OS||||231|OS|1|60 micron (PASCAL laser manual setting)|.01|225|Green|94|94|No|No|||||
+556|767|58729|Post 52 week|OS||||483|OS|1|60 micron (PASCAL laser manual setting)|.01|225|Green|51|51|Yes|No|1|||1|
+225|753|50699|28 week|OS||||203|OS|1|50 micron|.01|150|Green|31|31|No|No|||||
+248|529|51119|32 week|OS||||217|OS|1|60 micron (PASCAL laser manual setting)|.01|264|Green|116|116|No|No|||||
+317|248|52272|24 week|OS||||168|OS|1|60 micron (PASCAL laser manual setting)|.01|325|Yellow|150|150|No|No|||||
+32|567|42834|28 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+44|567|43812|32 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+87|567|45986|40 week|OD|1|Subject refused|Patient Refuses||||||||||||||||
+166|567|48874|52 week|OD||||374|OD|1|50 micron|.10|110|Yellow|33|33|No|No|||||
+449|567|55412|Post 52 week|OD||||564|OD|1|50 micron|.15|100|Green|12|12|No|No|||||
+28|238|43545|24 week|OD||||168|OD|1|50 micron|.15|70|Yellow|206|206|No|No|||||
+279|295|51586|52 week|OD||||364|OD|1|50 micron|.10|40|Yellow|262|262|No|No|||||
+474|295|56222|Post 52 week|OD||||507|OD|1|50 micron|.10|11|Green|175|179|No|No|||||
+610|295|60271|Post 52 week|OD||||651|OD|1|50 micron|.10|100|Yellow|125|125|No|No|||||
+92|302|46677|28 week|OS||||191|OS|1|50 micron|.10|100|Yellow|177|177|No|No|||||
+318|302|52160|48 week|OS||||350|OS|1|50 micron|.10|100|Yellow|79|79|No|No|||||
+497|302|56775|Post 52 week|OS||||490|OS|1|50 micron|.10|100|Yellow|198|198|No|No|||||
+589|302|59899|Post 52 week|OS||||602|OS|1|50 micron|.10|90|Yellow|91|91|No|No|||||
+329|47|52194|48 week|OD||||348|OD|1|50 micron|.10|70|Yellow|113|113|No|No|||||
+498|47|56053|Post 52 week|OD||||460|OD|1|50 micron|.15|80|Yellow|30|30|No|No|||||
+572|47|59443|Post 52 week|OD||||572|OD|1|50 micron|.15|50|Yellow|22|22|No|No|||||
+662|47|63385|Post 52 week|OD||||721|OD|1|50 micron|.10|50|Green|19|19|No|No|||||
+91|683|46636|24 week|OS||||180|OS|1|50 micron|.10|80|Yellow|106|106|No|No|||||
+386|683|53332|52 week|OS||||376|OS|1|50 micron|.10|120|Green|158|158|No|No|||||
+674|683|63679|Post 52 week|OS||||728|OS|1|50 micron|.10|1|Green|225|263|No|No|||||
+96|33|46732|24 week|OD||||177|OD|1|50 micron|.15|130|Yellow|132|132|No|No|||||
+254|33|50730|40 week|OD|1|Subject missed treatment visit|Other||||||||||||||||
+644|33|62716|Post 52 week|OD||||681|OD|1|50 micron|.15|130|Yellow|34|34|No|No|||||
+95|775|47044|24 week|OD||||175|OD|1|50 micron|.15|150|Yellow|156|156|No|No|||||
+277|775|51161|40 week|OD||||301|OD|1|50 micron|.15|160|Yellow|54|54|No|No|||||
+216|673|49814|24 week|OD||||180|OD|1|50 micron|.15|110|Yellow|275|275|No|No|||||
+411|673|53295|40 week|OD||||287|OD|1|50 micron|.15|100|Yellow|235|235|No|No|||||
+528|673|57119|Post 52 week|OD||||406|OD|1|50 micron|.15|70|Yellow|262|262|No|No|||||
+683|673|64770|Post 52 week|OD|1|Subject missed treatment visit|Other||||||||||||||||
+215|549|49980|24 week|OS||||180|OS|1|Other|.10|80|Green|68|68|No|No|||||
+388|549|53371|40 week|OS||||285|OS|1|50 micron|.10|100|Green|98|98|No|No|||||
+661|549|63467|Post 52 week|OS||||628|OS|1|Other|.10|1|Green|170|180|No|No|||||
+283|750|50953|28 week|OS||||208|OS|1|Other|.10|112|Green|296|296|No|No|||||
+450|750|54513|44 week|OS||||320|OS|1|50 micron|.10|110|Yellow|169|169|No|No|||||
+574|750|58936|Post 52 week|OS||||460|OS|1|50 micron|.10|80|Green|147|147|No|No|||||
+647|750|62631|Post 52 week|OS|1|Subject refused|Other||||||||||||||||
+687|750|65770|Post 52 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+271|383|50644|24 week|OS||||191|OS|1|Other|.10|130|Yellow|176|176|No|No|||||
+628|383|61263|Post 52 week|OS||||527|OS|1|50 micron|.10|120|Yellow|93|93|No|No|||||
+214|104|49988|24 week|OS||||180|OS|1|Other|.10|110|Yellow|91|91|No|No|||||
+343|350|52560|32 week|OD||||232|OD|1|50 micron|.10|100|Yellow|49|49|No|No|||||
+603|350|60104|Post 52 week|OD||||477|OD|1|50 micron|.10|80|Yellow|353|353|No|No|||||
+689|350|63671|Post 52 week|OD|1|Subject missed treatment visit|Other||||||||||||||||
+276|56|51210|24 week|OD||||175|OD|1|Other|.15|80|Yellow|145|145|No|No|||||
+387|289|53377|32 week|OD||||232|OD|1|50 micron|.10|120|Green|182|182|No|No|||||
+532|289|57282|48 week|OD||||351|OD|1|50 micron|.10|100|Yellow|171|171|No|No|||||
+611|289|60947|Post 52 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+638|289|62637|Post 52 week|OD|1|Edema too close to fovea to treat|Other||||||||||||||||
+648|289|63216|Post 52 week|OD|1|Edema too close to fovea to treat|Other||||||||||||||||
+670|289|63941|Post 52 week|OD|1|Edema too close to fovea to treat|Other||||||||||||||||
+682|289|64639|Post 52 week|OD|1|Edema too close to fovea to treat|Other||||||||||||||||
+50|769|44132|28 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+79|536|43862|24 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+69|77|45044|24 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+149|77|48693|40 week|OS||||273|OS|1|Other|.10|120|Green|14|14|No|No|||||
+608|77|60914|Post 52 week|OS||||658|OS|1|50 micron|.08|80|Green|22|22|No|No|||||
+109|297|47299|32 week|OD||||238|OD|1|60 micron (PASCAL laser manual setting)|.20|200|Green|22|21|No|No|||||
+258|297|51241|48 week|OD||||344|OD|1|Other|.01|120|Green|27|27|No|No|||||
+510|297|57504|Post 52 week|OD||||537|OD|1|Other|.10|100|Green|24|24|No|No|||||
+601|297|60565|Post 52 week|OD||||642|OD|1|50 micron|.01|120|Green|29|29|No|No|||||
+221|267|50327|32 week|OD||||237|OD|1|Other|.10|500|Yellow|300|678|Yes|No|||||
+472|267|56107|Post 52 week|OD|1|Treatment not needed per investigator|Other||||||||||||||||
+336|585|52292|32 week|OS||||237|OS|1|50 micron|.10|600|Yellow|172|236|Yes|No|1|1|1|1|1
+473|585|56131|48 week|OS|1|Treatment not needed per investigator|Other||||||||||||||||
+146|594|48500|28 week|OD||||203|OD|1|50 micron|.08|80|Green|90|90|No|No|||||
+356|594|53007|48 week|OD||||336|OD|1|50 micron|.09|90|Green|37|37|No|No|||||
+485|594|56712|Post 52 week|OD||||449|OD|1|50 micron|.09|90|Green|36|36|No|No|||||
+587|594|59904|Post 52 week|OD||||567|OD|1|50 micron|.08|80|Green|58|58|No|No|||||
+655|594|63700|Post 52 week|OD||||700|OD|1|50 micron|.09|90|Green|41|41|No|No|||||
+630|442|61941|Post 52 week|OS||||578|OS|1|50 micron|.09|90|Green|52|52|No|No|||||
+668|442|64481|Post 52 week|OS||||676|OS|1|50 micron|.08|80|Green|62|62|No|No|||||
+10|366|42400|24 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+99|366|46084|40 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+199|366|50147|Post 52 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+36|577|44119|24 week|OD||||168|OD|1|60 micron (PASCAL laser manual setting)|.01|550|Green|120|130|Yes|No|||||
+38|575|44204|24 week|OD||||167|OD|1|50 micron|.10|300|Green|70|72|Yes|No|||||
+52|811|44949|24 week|OD||||177|OD|1|60 micron (PASCAL laser manual setting)|.02|100|Green|18|18|Yes|No|||||
+242|811|50878|48 week|OD||||338|OD|1|Other|.02|150|Green|10|10|Yes|No|1||||
+22|846|43049|28 week|OS||||206|OS|1|50 micron|.10|200|Green|73|74|No|No|||||
+33|679|43941|32 week|OS||||224|OS|1|50 micron|.10|200|Green|50|50|No|No|||||
+163|679|49092|52 week|OS||||364|OS|1|50 micron|.10|200|Green|84|84|No|No|||||
+120|361|47806|36 week|OS||||257|OS|1|50 micron|.15|300|Green|95|95|No|No|||||
+444|361|55460|Post 52 week|OS||||483|OS|1|50 micron|.10|200|Green|30|33|No|No|||||
+117|106|46687|28 week|OS|1|Treatment missed in error|Other||||||||||||||||
+244|106|50973|44 week|OS||||317|OS|1|50 micron|.10|200|Green|185|200|No|No|||||
+186|748|49765|28 week|OD||||202|OD|1|50 micron|.10|100|Green|20|29|No|No|||||
+373|503|53137|40 week|OS||||294|OS|1|50 micron|.10|100|Green|180|203|Yes|No|1|||1|
+565|503|59325|Post 52 week|OS||||482|OS|1|50 micron|.10|70|Green|250|250|Yes|No|1|1||1|
+446|205|55483|48 week|OS||||332|OS|1|50 micron|.07|90|Green|105|111|No|No|||||
+546|205|58578|Post 52 week|OS||||435|OS|1|50 micron|.07|70|Green|205|220|No|No|||||
+484|82|55882|44 week|OS|1|Treatment missed in error|Other||||||||||||||||
+431|269|54375|44 week|OD||||307|OD|1|50 micron|.10|90|Green|45|56|Yes|No|1|||1|
+549|269|57860|Post 52 week|OD||||413|OD|1|50 micron|.10|100|Green|35|39|Yes|No|1|1||1|
+121|756|47626|24 week|OD||||176|OD|1|50 micron|.10|200|Yellow|90|88|Yes|No|||||
+154|401|47847|24 week|OS||||175|OS|1|50 micron|.10|100|Green|20|17|Yes|No|||||
+178|163|49620|24 week|OD||||169|OD|1|60 micron (PASCAL laser manual setting)|.01|200|Green|32|32|Yes|No|||||
+527|163|57849|Post 52 week|OD||||427|OD|1|50 micron|.08|400|Green|61|61|No|No|||||
+520|180|57726|Post 52 week|OD||||515|OD|1|Other|.20|263|Green|63|63|No|No|||||
+213|23|49501|36 week|OD|1|Treatment missed in error|Other||||||||||||||||
+174|214|48422|28 week|OD|1|Treatment missed in error|Other||||||||||||||||
+198|414|49244|32 week|OD|1|Subject missed treatment visit|Other||||||||||||||||
+67|708|45588|40 week|OD||||287|OD|1|Other|.10|210|Green|67|67|No|No|||||
+6|639|42258|24 week|OS||||175|OS|1|Other|.10|210|Green|34|34|No|No|||||
+312|374|52159|24 week|OD||||182|OD|1|Other|.10|210|Green|60|64|No|No|||||
+60|310|45687|24 week|OS||||166|OS|1|60 micron (PASCAL laser manual setting)|.01|200|Green|39|44|Yes|No|||||
+280|706|51674|24 week|OD||||174|OD|1|60 micron (PASCAL laser manual setting)|.01|100|Green|54|54|No|No|||||
+296|191|52014|24 week|OS||||168|OS|1|60 micron (PASCAL laser manual setting)|.01|100|Green|35|35|No|No|||||
+368|781|53339|24 week|OD||||173|OD|1|60 micron (PASCAL laser manual setting)|.02|150|Green|26|26|Yes|No|1||1||
+245|397|50783|24 week|OD||||183|OD|1|50 micron|.09|90|Green|42|65|Yes|No|1|1|||
+420|397|54082|40 week|OD||||288|OD|1|50 micron|.10|120|Green|26|29|Yes|No|1||||
+197|721|50070|28 week|OD||||196|OD|1|50 micron|.10|100|Yellow|27|29|Yes|No|||||
+400|721|53616|44 week|OD||||315|OD|1|50 micron|.07|100|Yellow|7|8|Yes|No|1||||
+391|258|53664|40 week|OS||||287|OS|1|50 micron|.07|100|Yellow|12|17|No|No|||||
+275|481|51498|28 week|OS||||197|OS|1|50 micron|.10|170|Yellow|36|40|Yes|No|1|||1|
+42|201|44517|28 week|OS||||203|OS|1|50 micron|.07|80|Green|111|111|Yes|No|||||
+482|201|56371|Post 52 week|OS||||547|OS|1|Other|.05|80|Green|98|98|Yes|No||||1|
+46|1|44812|28 week|OD|1|No central edema present|Other||||||||||||||||
+307|1|52125|Post 52 week|OD||||399|OD|1|50 micron|.05|70|Green|20|18|Yes|No||||1|
+72|86|45997|32 week|OD||||231|OD|1|50 micron|.05|70|Green|55|55|Yes|No|||||
+83|164|46331|28 week|OS||||207|OS|1|50 micron|.05|80|Green|41|41|Yes|No|||||
+189|80|49699|24 week|OD||||176|OD|1|50 micron|.06|70|Green|50|53|Yes|No|||||
+14|72|42564|24 week|OS||||168|OS|1|60 micron (PASCAL laser manual setting)|.10|250|Yellow|125|250|No|No|||||
+84|72|46676|40 week|OS||||285|OS|1|60 micron (PASCAL laser manual setting)|.10|150|Yellow|100|103|No|No|||||
+222|72|50493|Post 52 week|OS||||392|OS|1|60 micron (PASCAL laser manual setting)|.10|125|Yellow|88|88|Yes|No|||||
+40|716|44491|24 week|OD||||175|OD|1|60 micron (PASCAL laser manual setting)|.10|200|Yellow|60|172|Yes|No|||||
+284|716|51482|52 week|OD||||371|OD|1|60 micron (PASCAL laser manual setting)|.10|70|Yellow|120|149|No|No|||||
+512|716|57281|Post 52 week|OD||||553|OD|1|60 micron (PASCAL laser manual setting)|.10|150|Yellow|100|119|No|No|||||
+621|716|61388|Post 52 week|OD||||693|OD|1|60 micron (PASCAL laser manual setting)|.10|200|Yellow|47|87|No|No|||||
+45|348|43827|24 week|OS|1|Treatment missed in error|Other||||||||||||||||
+61|348|45776|32 week|OS||||224|OS|1|50 micron|.10|130|Green|120|135|Yes|No|||||
+54|789|45268|24 week|OD||||169|OD|1|Other|.10|90|Green|92|92|No|No|||||
+75|810|46102|24 week|OD||||173|OD|1|50 micron|.05|140|Green|18|18|No|No|||||
+141|185|48412|28 week|OD||||200|OD|1|50 micron|.10|120|Green|80|96|No|No|||||
+188|464|49874|24 week|OD||||171|OD|1|50 micron|.10|150|Green|40|50|Yes|No|||||
+419|421|54345|36 week|OD||||260|OD|1|50 micron|.10|130|Green|36|42|No|No|||||
+309|479|51869|24 week|OS||||182|OS|1|50 micron|.10|120|Green|40|47|Yes|No|1||1|1|
+480|479|56463|44 week|OS||||319|OS|1|50 micron|.10|130|Green|61|65|No|No|||||
+577|479|59537|Post 52 week|OS||||430|OS|1|50 micron|.01|130|Green|30|32|Yes|No|1|1||1|
+646|479|62949|Post 52 week|OS||||547|OS|1|50 micron|.10|130|Green|27|31|Yes|No|1||1||
+12|515|42315|24 week|OS||||180|OS|1|50 micron|.10|100|Green|16|16|Yes|No|||||
+478|515|52776|Post 52 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+522|515|56476|Post 52 week|OS||||587|OS|1|50 micron|.07|90|Green|32|32|Yes|No|1||||
+173|115|48661|48 week|OD||||350|OD|1|50 micron|.05|200|Green|16|16|No|No|||||
+340|115|52691|Post 52 week|OD|1|No central edema present|Other||||||||||||||||
+508|115|57465|Post 52 week|OD|1|Adverse event precluding treatment|Other||||||||||||||||
+56|692|44560|28 week|OD||||207|OD|1|50 micron|.10|150|Green|17|17|Yes|No|||||
+567|692|58237|Post 52 week|OD|1|Treatment missed in error|Other||||||||||||||||
+595|692|59487|Post 52 week|OD|1|Subject could not stay for treatment|Other||||||||||||||||
+209|793|49668|24 week|OD||||175|OD|1|50 micron|.01|150|Green|24|24|Yes|No|||||
+341|359|52638|24 week|OD||||178|OD|1|50 micron|.01|250|Green|102|102|Yes|No|1||||
+70|75|45982|24 week|OD||||166|OD|1|50 micron|.10|90|Green|11|11|Yes|No|||||
+379|75|51265|44 week|OD||||313|OD|1|50 micron|.10|90|Green|6|8|No|No|||||
+107|591|47519|24 week|OD||||168|OD|1|50 micron|.10|200|Green|5|51|Yes|No|||||
+272|591|51521|40 week|OD||||281|OD|1|50 micron|.10|150|Green|12|17|Yes|No|1||||
+240|208|51027|36 week|OD||||258|OD|1|50 micron|.10|100|Green|12|13|Yes|No|||||
+415|208|54260|52 week|OD||||358|OD|1|50 micron|.10|100|Green|18|22|Yes|No|1||||
+142|640|48167|32 week|OD||||238|OD|1|50 micron|.10|200|Green|48|48|Yes|No|||||
+281|795|51340|24 week|OS||||180|OS|1|50 micron|.01|100|Green|15|15|Yes|No|1||||
+264|680|51212|28 week|OD||||191|OD|1|60 micron (PASCAL laser manual setting)|.10|125|Green|12|12|Yes|No|1||||
+265|376|51282|24 week|OD||||163|OD|1|60 micron (PASCAL laser manual setting)|.10|100|Green|21|21|Yes|No|1||||
+593|376|59645|Post 52 week|OD||||436|OD|1|50 micron|.05|120|Green|30|30|Yes|No|1||||
+308|827|52071|24 week|OD||||167|OD|1|50 micron|.08|120|Yellow|50|82|Yes|No|1||||
+483|827|55879|40 week|OD||||282|OD|1|50 micron|.08|120|Yellow|20|70|Yes|No|1|1|||
+585|827|60074|Post 52 week|OD||||426|OD|1|50 micron|.08|120|Yellow|15|55|Yes|No|1|1|||
+536|761|57928|48 week|OS||||336|OS|1|50 micron|.08|70|Yellow|30|65|Yes|No|1|1|||
+617|761|61230|Post 52 week|OS||||451|OS|1|50 micron|.08|70|Yellow|25|59|Yes|No|1|1||1|
+159|403|48613|40 week|OS||||287|OS|1|60 micron (PASCAL laser manual setting)|.10|125|Green|190|200|No|No|||||
+442|403|55429|Post 52 week|OS||||483|OS|1|60 micron (PASCAL laser manual setting)|.10|125|Green|120|48|No|No|||||
+110|543|47538|36 week|OS||||245|OS|1|60 micron (PASCAL laser manual setting)|.01|125|Green|131|136|No|No|||||
+323|195|52246|44 week|OD||||326|OD|1|60 micron (PASCAL laser manual setting)|.10|100|Green|50|59|Yes|No|1||||
+160|661|48604|28 week|OD||||195|OD|1|60 micron (PASCAL laser manual setting)|.10|200|Green|250|274|No|No|||||
+123|670|47540|24 week|OS||||167|OS|1|60 micron (PASCAL laser manual setting)|.01|150|Green|140|222|Yes|No|||||
+251|54|50896|32 week|OS||||238|OS|1|60 micron (PASCAL laser manual setting)|.10|100|Green|50|57|No|No|||||
+291|488|51491|36 week|OS||||270|OS|1|60 micron (PASCAL laser manual setting)|.01|150|Green|120|128|Yes|No|1||||
+477|488|56029|Post 52 week|OS||||406|OS|1|60 micron (PASCAL laser manual setting)|.10|100|Green|46|64|Yes|No|1|||1|
+645|488|62651|Post 52 week|OS||||638|OS|1|60 micron (PASCAL laser manual setting)|.10|150|Green|38|34|No|No|||||
+177|394|49612|28 week|OS||||189|OS|1|60 micron (PASCAL laser manual setting)|.10|130|Green|100|123|No|No|||||
+509|394|57481|Post 52 week|OS||||432|OS|1|60 micron (PASCAL laser manual setting)|.10|275|Green|53|61|Yes|No|1|1|||
+288|365|51483|32 week|OS||||246|OS|1|60 micron (PASCAL laser manual setting)|.01|125|Green|20|22|Yes|No|1||||
+465|365|55865|52 week|OS||||376|OS|1|60 micron (PASCAL laser manual setting)|.10|125|Green|100|92|Yes|No|1|1|1||
+627|365|61951|Post 52 week|OS||||580|OS|1|60 micron (PASCAL laser manual setting)|.10|125|Green|120|104|No|No|||||
+298|832|52015|40 week|OD||||280|OD|1|Other|.05|80|Green|25|30|No|No|||||
+464|540|55793|52 week|OS||||371|OS|1|60 micron (PASCAL laser manual setting)|.10|100|Green|72|72|No|No|||||
+591|540|59991|Post 52 week|OS||||512|OS|1|60 micron (PASCAL laser manual setting)|.01|100|Green|44|44|No|No|||||
+672|540|64646|Post 52 week|OS||||696|OS|1|Other|.10|100|Green|76|76|No|No|||||
+255|353|50998|24 week|OS||||175|OS|1|60 micron (PASCAL laser manual setting)|.20|100|Green|53|47|Yes|No|1|1|||
+436|353|54603|40 week|OS||||289|OS|1|60 micron (PASCAL laser manual setting)|.01|125|Green|41|41|Yes|No|1||1||
+539|353|58133|Post 52 week|OS||||400|OS|1|60 micron (PASCAL laser manual setting)|.20|125|Green|39|39|Yes|No|1||1||
+632|353|61516|Post 52 week|OS||||520|OS|1|60 micron (PASCAL laser manual setting)|.01|100|Green|32|32|Yes|No|1||||
+675|353|64866|Post 52 week|OS||||652|OS|1|60 micron (PASCAL laser manual setting)|.02|100|Green|32|32|No|No|||||
+380|272|53126|24 week|OS||||176|OS|1|60 micron (PASCAL laser manual setting)|.10|100|Green|37|37|No|No|||||
+544|272|57633|44 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+545|272|58477|48 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+596|272|60315|Post 52 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+636|272|62746|Post 52 week|OS|1|Subject refused|Patient Refuses||||||||||||||||
+53|405|44977|24 week|OD||||181|OD|1|50 micron|.10|270|Green|200|233|Yes|No|||||
+360|405|53070|Post 52 week|OD||||410|OD|1|50 micron|.10|270|Green|100|121|Yes|No|||1|1|
+609|405|60718|Post 52 week|OD||||662|OD|1|50 micron|.01|300|Green|45|54|Yes|No|||1|1|
+131|209|47087|32 week|OD|1|Treatment missed in error|Other||||||||||||||||
+261|209|51129|48 week|OD||||346|OD|1|50 micron|.10|100|Green|60|61|No|No|||||
+438|209|55002|Post 52 week|OD||||458|OD|1|50 micron|.10|80|Green|115|117|Yes|No|1||1||
+403|740|53574|28 week|OS||||210|OS|1|50 micron|.10|50|Green|25|28|Yes|No|1||||
+678|740|64987|Post 52 week|OS||||607|OS|1|50 micron|.01|90|Green|24|27|Yes|No|1||||
+694|740|68370|Post 52 week|OS||||716|OS|1|50 micron|.01|100|Green|25|29|Yes|No|1||||
+370|412|53327|24 week|OS||||178|OS|1|50 micron|.10|120|Green|50|55|Yes|No|1||||
+571|412|59406|52 week|OS||||378|OS|1|50 micron|.02|120|Green|125|134|Yes|No|1||1||
+653|412|63613|Post 52 week|OS||||528|OS|1|50 micron|.01|100|Green|125|132|Yes|No|1||1||
+686|412|67242|Post 52 week|OS||||643|OS|1|50 micron|.01|80|Green|75|80|Yes|No|1||||
+475|170|56416|Post 52 week|OS||||423|OS|1|50 micron|.01|90|Green|71|75|No|No|||||
+247|292|51022|24 week|OD||||177|OD|1|50 micron|.03|80|Green|14|16|No|No|||||
+433|292|54498|40 week|OD||||292|OD|1|50 micron|.05|100|Green|38|44|Yes|No|1|1|1||
+557|292|59009|Post 52 week|OD||||427|OD|1|50 micron|.01|90|Green|21|25|No|No|||||
+193|116|49952|28 week|OS||||199|OS|1|50 micron|.04|50|Green|39|39|No|No|||||
+392|116|53707|44 week|OS||||313|OS|1|50 micron|.01|50|Green|49|76|Yes|No|1||1||
+313|724|52249|32 week|OS||||227|OS|1|50 micron|.01|70|Green|37|37|Yes|No|1|1|1||
+554|724|58684|Post 52 week|OS||||430|OS|1|50 micron|.05|1|Green|21|32|Yes|No|1||||
+231|445|50418|24 week|OS||||181|OS|1|50 micron|.01|80|Green|50|68|Yes|No|||||
+453|445|55020|44 week|OS||||317|OS|1|50 micron|.05|90|Green|34|40|Yes|No|1||||
+342|427|52696|24 week|OD||||181|OD|1|50 micron|.05|110|Green|70|94|Yes|No|1||1|1|
+322|746|52395|24 week|OS||||172|OS|1|50 micron|.01|80|Green|25|33|No|No|||||
+534|746|57874|48 week|OS||||344|OS|1|50 micron|.01|80|Green|40|44|No|No|||||
+685|843|65912|Post 52 week|OD||||645|OD|1|50 micron|.05|100|Green|31|35|Yes|No|1||||
+409|97|54114|28 week|OD||||203|OD|1|50 micron|.01|85|Green|100|103|No|No|||||
+525|117|57003|40 week|OD|1|Subject refused|Patient Refuses||||||||||||||||
+693|117|67238|Post 52 week|OD|1|Treatment missed in error|Other||||||||||||||||
+300|728|52076|24 week|OS||||164|OS|1|60 micron (PASCAL laser manual setting)|.01|200|Green|90|140|Yes|No|1|1|||
+488|728|56789|44 week|OS||||311|OS|1|60 micron (PASCAL laser manual setting)|.01|130|Green|15|30|Yes|No|1||||
+658|697|63904|Post 52 week|OD||||552|OD|1|60 micron (PASCAL laser manual setting)|.01|180|Green|90|110|Yes|No|1||||

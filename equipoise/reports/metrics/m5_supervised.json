@@ -1,0 +1,16 @@
+{
+  "count_baseline_test_mae": 1.903984,
+  "count_glm_dispersion": 0.624901,
+  "count_glm_test_mae": 1.726188,
+  "gain15_lr_cv_auc": 0.79236,
+  "gain15_lr_test_auc": 0.810598,
+  "gain15_prevalence_train": 0.334694,
+  "laser_yr1_lr_cv_auc": 0.598104,
+  "laser_yr1_lr_test_auc": 0.578157,
+  "laser_yr1_prevalence_train": 0.443182,
+  "reg_baseline_cv_rmse": 10.906473,
+  "reg_baseline_test_rmse": 10.796552,
+  "reg_best_cv_rmse": 9.390269,
+  "reg_best_test_r2": 0.23665,
+  "reg_best_test_rmse": 9.429869
+}

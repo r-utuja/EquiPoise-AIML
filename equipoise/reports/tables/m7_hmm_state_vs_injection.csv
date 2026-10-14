@@ -1,0 +1,4 @@
+state,visits,share_injected_at_visit,chi_square_p
+active,4720,0.6879237288,5.752172571e-216
+improving,1555,0.9061093248,5.752172571e-216
+stable,4247,0.4801036025,5.752172571e-216

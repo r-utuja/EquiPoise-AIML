@@ -1,0 +1,5 @@
+learner,scenario,pehe,heldout_policy_ipw_autogluon
+T-learner (AutoGluon),b_published_like (1 replication),5.409179969,14.89454612
+"T-learner (GB, tuned)",b_published_like (1 replication),4.767593946,14.89454612
+"T-learner (GB, default)",b_published_like (1 replication),8.38118018,14.89454612
+T-learner (Ridge),b_published_like (1 replication),8.60883629,14.89454612

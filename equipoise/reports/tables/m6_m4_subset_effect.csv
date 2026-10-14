@@ -1,0 +1,2 @@
+features,corr_with_full_effect_afl,mean_effect_afl_full,mean_effect_afl_subset,policy_ipw_full,policy_ipw_subset,same_assignment_share
+"epiretinal_membrane, prior_prp, age, va_letters, hispanic, race, female",0.4997410527,3.171893365,3.314646748,14.87244898,15.55102431,0.9444444444

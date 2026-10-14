@@ -1,0 +1,4 @@
+arm,order,aic,forecast_rmse,naive_last_value_rmse,n_fit_points
+Aflibercept,"(1, 1, 2)",43.31193584,3.818437071,0.3443546703,14
+Bevacizumab,"(1, 1, 1)",36.60126445,1.234287238,0.7641395428,14
+Ranibizumab,"(1, 1, 1)",38.15154229,6.090918293,0.8780373883,14

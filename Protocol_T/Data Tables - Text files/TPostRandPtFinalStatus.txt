@@ -1,0 +1,96 @@
+RecID|PtID|PostRandFinalStatusReas|DeathDtDaysFromEnroll|PtWithdrawReas
+77|112|Death||
+7|193|Subject requests to withdraw (not in writing)||Moved
+93|644|Lost to follow up||
+34|494|Death||
+94|173|Lost to follow up||
+37|650|Death||
+65|742|Site withdraws pt||
+66|844|Lost to follow up||
+69|137|Lost to follow up||
+79|563|Lost to follow up||
+1|745|Death||
+45|621|Subject requests to withdraw (not in writing)||Adverse event
+72|701|Lost to follow up||
+55|780|Subject requests to withdraw (not in writing)||Moved
+71|16|Lost to follow up||
+73|51|Lost to follow up||
+16|474|Death||
+24|88|Subject requests to withdraw (not in writing)||Does not want study treatment
+83|62|Death||
+35|649|Death||
+18|553|Lost to follow up||
+78|831|Lost to follow up||
+19|524|Death||
+68|709|Death||
+12|84|Death||
+32|510|Subject formally withdrew consent in writing||Visit too lengthy
+98|40|Lost to follow up||
+46|253|Lost to follow up||
+10|187|Death||
+97|840|Lost to follow up||
+22|181|Death||
+88|12|Lost to follow up||
+39|66|Death||
+95|287|Lost to follow up||
+59|211|Subject requests to withdraw (not in writing)||Vision normal
+38|715|Death||
+50|691|Lost to follow up||
+5|589|Subject requests to withdraw (not in writing)||Finances
+92|580|Lost to follow up||
+54|568|Subject requests to withdraw (not in writing)||Moved
+63|30|Lost to follow up||
+9|7|Lost to follow up||
+29|642|Lost to follow up||
+53|271|Death||
+30|284|Subject formally withdrew consent in writing||Does not want study treatment
+85|779|Subject requests to withdraw (not in writing)||Poor health
+82|306|Lost to follow up||
+89|246|Subject requests to withdraw (not in writing)||Poor health
+52|309|Death||
+87|199|Lost to follow up||
+57|14|Subject requests to withdraw (not in writing)||Unknown
+25|634|Lost to follow up||
+31|764|Subject requests to withdraw (not in writing)||Travel difficulty
+96|153|Subject requests to withdraw (not in writing)||Poor health
+28|786|Death||
+36|265|Death||
+2|109|Death||
+26|620|Death||
+91|507|Subject requests to withdraw (not in writing)||Poor health
+81|36|Lost to follow up||
+74|554|Subject requests to withdraw (not in writing)||Poor health
+90|432|Lost to follow up||
+58|373|Lost to follow up||
+70|234|Death||
+56|528|Death||
+43|332|Death||
+42|291|Subject requests to withdraw (not in writing)||Poor health
+44|56|Lost to follow up||
+48|521|Lost to follow up||
+76|267|Subject requests to withdraw (not in writing)||Does not want study treatment
+51|577|Subject requests to withdraw (not in writing)||Does not want study treatment
+27|688|Lost to follow up||
+49|455|Death||
+3|714|Subject requests to withdraw (not in writing)||Travel difficulty
+41|756|Subject requests to withdraw (not in writing)||Finances
+17|214|Subject requests to withdraw (not in writing)||Poor health
+64|781|Subject requests to withdraw (not in writing)||Moved
+11|799|Subject requests to withdraw (not in writing)||Moved
+86|258|Death||
+62|1|Death||
+21|274|Site withdraws pt||
+8|608|Death||
+61|115|Subject requests to withdraw (not in writing)||Does not want study treatment
+4|736|Lost to follow up||
+15|837|Site withdraws pt||
+6|783|Lost to follow up||
+80|359|Subject formally withdrew consent in writing||Moved
+40|75|Subject requests to withdraw (not in writing)||Does not want study treatment
+75|827|Site withdraws pt||
+14|661|Death||
+23|604|Subject requests to withdraw (not in writing)||Travel difficulty
+47|148|Death||
+20|349|Lost to follow up||
+33|123|Lost to follow up||
+67|427|Site withdraws pt||

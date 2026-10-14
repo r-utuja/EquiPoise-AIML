@@ -1,0 +1,31 @@
+Library,Purpose,Key functions used,Files
+PIL,,Image,2
+autogluon.tabular,AutoML base learner (optional extra),tabular.TabularPredictor,1
+cv2,,"imdecode, IMREAD_GRAYSCALE, imencode, resize, COLOR_RGBA2GRAY, COLOR_RGB2GRAY, cvtColor, medianBlur",3
+econml,meta-learners and causal forest (CATE),"dml.CausalForestDML, dr.DRLearner, metalearners.SLearner, metalearners.TLearner, metalearners.XLearner",1
+evidently,data-drift monitoring,"DataDefinition, Dataset, Report, presets.DataDriftPreset",1
+fastapi,REST API,"FastAPI, HTTPException, Request",1
+gradio,,"Image, Label, Interface",1
+hmmlearn,Gaussian HMM reference implementation,hmm.GaussianHMM,1
+joblib,model bundle persistence,"load, dump",3
+matplotlib,figures,"colors.LinearSegmentedColormap, patches.FancyArrowPatch, patches.FancyBboxPatch",7
+mlflow,experiment tracking and model registry,MlflowClient,6
+mlxtend,Apriori and association rules,"frequent_patterns.apriori, frequent_patterns.association_rules",1
+networkx,causal DAG drawing,"draw_networkx_edges, DiGraph, draw_networkx_nodes, draw_networkx_labels, get_node_attributes",1
+numpy,"arrays, linear algebra (SVD, normal equations), 3-D trajectory tensor","ndarray, nan, arange, column_stack, array, mean, abs, asarray",49
+optuna,TPE hyperparameter search,"logging.set_verbosity, logging.WARNING, create_study, Trial, samplers.TPESampler",1
+pandas,"tabular data, joins, report tables","DataFrame, Series, concat, crosstab, read_csv, to_numeric, isna, notna",43
+pydantic,validated API / recommendation schemas,"BaseModel, ConfigDict, Field, ValidationError, create_model, model_validator",3
+pytorch_grad_cam,,"GradCAM, utils.image.show_cam_on_image, utils.model_targets.ClassifierOutputTarget",1
+requests,app-to-API HTTP client,Session,1
+scipy,"statistical tests, interpolation/splines, sparse matrices, brentq","cluster.hierarchy.dendrogram, cluster.hierarchy.fcluster, cluster.hierarchy.linkage, cluster.hierarchy.set_link_color_palette, interpolate.CubicSpline, interpolate.lagrange, optimize.brentq, special.logsumexp ...",11
+shap,SHAP explanations of the effect model,"Explanation, plots.beeswarm, plots.waterfall, maskers.Independent, Explainer",2
+scikit-fuzzy,fuzzy inference system,control,1
+scikit-learn,"preprocessing pipelines, models, CV, clustering, metrics","base.BaseEstimator, base.ClassifierMixin, base.RegressorMixin, base.TransformerMixin, base.clone, cluster.DBSCAN, cluster.KMeans, compose.ColumnTransformer ...",21
+statsmodels,"OLS/GLM inference, ARIMA, ADF test","stats.anova.anova_lm, stats.multitest.multipletests, tsa.arima.model.ARIMA, tsa.stattools.adfuller",5
+streamlit,clinician web app,"caption, session_state, info, header, columns, session_state.get, selectbox, button",1
+torch,TARNet neural network (SGD / Adam / RMSprop),"nn, utils.data.DataLoader",5
+torchvision,,"datasets.ImageFolder, models.ResNet18_Weights, models.resnet18, transforms",1
+typer,command-line interface,"echo, Option, Typer",1
+ultralytics,,"YOLO, settings",2
+PyYAML,configuration files (PyYAML),safe_load,2

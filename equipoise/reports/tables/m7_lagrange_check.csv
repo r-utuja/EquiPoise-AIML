@@ -1,0 +1,3 @@
+points,degree,max_abs_coef_diff_vs_scipy,fitted_range_letters,observed_range_letters
+5,4,1.421085472e-14,9.453760606,9
+12,11,8.187894807e-15,44.97456336,13
