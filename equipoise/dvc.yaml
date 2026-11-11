@@ -219,6 +219,33 @@ stages:
       - reports/metrics/m6_causal.json:
           cache: false
 
+  unsupervised:
+    desc: "M6b: cluster-then-look-up effect model vs the causal model (no supervised retraining)"
+    cmd: python -m equipoise unsupervised
+    deps:
+      - data/protocolT_analysis.csv
+      - data/splits.json
+      - models/equipoise_bundle.joblib
+      - data/derived/m6_heldout_effects.csv
+      - reports/tables/m5_regression_comparison.csv
+      - reports/tables/m6_semisynthetic_pehe.csv
+      - reports/tables/m6_chosen_model.csv
+      - src/equipoise/causal
+      - src/equipoise/preprocess
+      - src/equipoise/tracking.py
+    params:
+      - config/default.yaml:
+          - seed
+          - causal
+          - effects.mcid_letters
+          - bootstrap
+          - represent.cluster_effect_k
+    outs:
+      - data/derived/m6_unsupervised_heldout.csv
+    metrics:
+      - reports/metrics/m6_unsupervised.json:
+          cache: false
+
   longitudinal:
     desc: "M7: trajectory tensor, interpolation, finite differences, ARIMA, HMM, early response"
     cmd: python -m equipoise longitudinal

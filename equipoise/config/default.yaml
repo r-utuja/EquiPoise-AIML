@@ -114,6 +114,7 @@ represent:                    # M3 (exploratory; training patients only)
   variance_target: 0.8        # report how many components reach this share of variance
   k_range: [2, 8]             # k-means / Ward candidates; k chosen by best silhouette
   dendrogram_truncate: 25     # leaves shown in the truncated dendrogram
+  cluster_effect_k: 3         # unsupervised cluster-then-look-up model; k that M3 chose
   apriori:
     min_support: 0.08
     min_confidence: 0.4

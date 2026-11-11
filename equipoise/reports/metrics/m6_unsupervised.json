@@ -1,0 +1,14 @@
+{
+  "causal_share_equipoise": 1.0,
+  "cells_n_below_20": 0.0,
+  "cluster_gain15_auc": 0.738723,
+  "cluster_gain15_f1": 0.461538,
+  "cluster_share_equipoise": 1.0,
+  "cluster_test_r2": 0.156638,
+  "cluster_test_rmse": 9.911761,
+  "pehe_cluster_worst_case": 3.593745,
+  "policy_cluster_verdict_aipw": 11.131035,
+  "policy_cluster_verdict_ipw": 11.749672,
+  "spearman_afl_benefit": 0.456285,
+  "verdict_agreement": 1.0
+}

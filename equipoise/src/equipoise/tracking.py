@@ -38,6 +38,7 @@ STAGES: dict[str, tuple[str, str]] = {
     "search": ("m4", "m4-search"),
     "supervised": ("m5", "m5-supervised"),
     "causal": ("m6", "m6-causal"),
+    "unsupervised": ("m6", "m6-unsupervised"),
     "longitudinal": ("m7", "m7-longitudinal"),
     "decision": ("m8", "m8-decision"),
     "explain": ("m9", "m9-explain"),

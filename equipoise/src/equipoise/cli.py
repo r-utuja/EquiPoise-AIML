@@ -45,6 +45,7 @@ PLANNED_PHASE = {
     "supervised": 3,
     "search": 4,
     "causal": 5,
+    "unsupervised": 5,
     "longitudinal": 6,
     "decision": 7,
     "explain": 7,
@@ -72,6 +73,9 @@ def _runner(stage: str) -> Callable[[Config, bool], object] | None:
         return run
     if stage == "causal":
         from equipoise.causal.run import run
+        return run
+    if stage == "unsupervised":
+        from equipoise.causal.cluster_run import run
         return run
     if stage == "longitudinal":
         from equipoise.longitudinal.run import run
@@ -126,6 +130,7 @@ for _stage, _help in [
     ("supervised", "M5: regression, classification and count outcome models."),
     ("search", "M4: feature selection and search arena."),
     ("causal", "M6: counterfactual engine (CATE learners, policy value)."),
+    ("unsupervised", "M6b: cluster-then-look-up model compared with the causal model."),
     ("longitudinal", "M7: trajectories, time series, HMM, early response."),
     ("decision", "M8: cost model, break-even, fuzzy system, expert system."),
     ("explain", "M9: SHAP and subgroup checks."),

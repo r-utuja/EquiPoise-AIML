@@ -52,6 +52,7 @@ main = [
 review = [st.Page(VIEWS / "behind.py", title=C.NAV_BEHIND, icon=":material/science:")]
 if oct_available():
     review.append(st.Page(VIEWS / "oct.py", title=C.NAV_OCT, icon=":material/image:"))
+review.append(st.Page(VIEWS / "compare.py", title=C.NAV_COMPARE, icon=":material/compare:"))
 
 page = st.navigation({C.NAV_SECTION_MAIN: main, C.NAV_SECTION_REVIEW: review})
 auth.sidebar_profile()
